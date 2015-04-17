@@ -26,7 +26,7 @@
             + [Todd Austin : the author](http://web.eecs.umich.edu/~taustin/)
     + [DRAMSim2](http://www.eng.umd.edu/~blj/dramsim/)
         + [github repos for DRAMSim2 etc. from University of Maryland](https://github.com/dramninjasUMD)
-    + [Chisel: Constructing Hardware in a Scala Embedded Language)[https://chisel.eecs.berkeley.edu/)
+    + [Chisel: Constructing Hardware in a Scala Embedded Language](https://chisel.eecs.berkeley.edu/)
         + [UC Berkeley Architecture Research](https://github.com/ucb-bar)
             + [The RISC-V Instruction Set Architecture](http://riscv.org)
             + [Rocket Microarchitectural Implementation of RISC-V ISA](https://github.com/ucb-bar/rocket)
