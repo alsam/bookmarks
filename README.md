@@ -15,12 +15,13 @@
         + [github repo for SU2](https://github.com/su2code/SU2)
     + [HiFiLES: High Fidelity Large Eddy Simulation](https://hifiles.stanford.edu/)
         + [github repo for HiFiLES](https://github.com/HiFiLES/HiFiLES-solver)
+    + [PyWENO + PyPFASST](https://github.com/memmett)
+    + [Clawpack Repositories](https://github.com/clawpack/)
 
 + CPU, GPU & DRAM Architecture Simulators
     + [GPGPU-Sim](http://www.gpgpu-sim.org/)
     + [Integrated gem5 + GPGPU-Sim Simulator](http://cpu-gpu-sim.ece.wisc.edu/)
         + [Getting gem5](http://www.m5sim.org/Download)
-            + [Hao Wang](http://homepages.cae.wisc.edu/~wangh/)
     + [SimpleScalar LLC](http://www.simplescalar.com/)
         + [SimpleScalar LLC Intro](http://www.ecs.umass.edu/ece/koren/architecture/Simplescalar/SimpleScalar_introduction.htm)
             + [Todd Austin : the author](http://web.eecs.umich.edu/~taustin/)
