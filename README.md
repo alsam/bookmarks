@@ -58,3 +58,4 @@
     + [Introduction to Category Theory in Scala](https://hseeberger.wordpress.com/2010/11/25/introduction-to-category-theory-in-scala/)
       + [Physics, Topology, Logic and Computation: A Rosetta Stone](http://math.ucr.edu/home/baez/rosetta.pdf)
       + [Applicatives are generalized functors](https://hseeberger.wordpress.com/2011/01/31/applicatives-are-generalized-functors/)
+    + [Functors and things using Scala](http://tonymorris.github.io/blog/posts/functors-and-things-using-scala/index.html)
