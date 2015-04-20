@@ -1,4 +1,5 @@
 # rust language bookmarks
++ Rust links
     + [main Rust](http://www.rust-lang.org/
     + [Rust by example](https://github.com/rust-lang/rust-by-example)
     + [Priorities after 1.0](http://internals.rust-lang.org/t/priorities-after-1-0/1901)
