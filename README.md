@@ -60,4 +60,14 @@
       + [Applicatives are generalized functors](https://hseeberger.wordpress.com/2011/01/31/applicatives-are-generalized-functors/)
     + [Functors and things using Scala](http://tonymorris.github.io/blog/posts/functors-and-things-using-scala/index.html)
 
++ CUDA kernels generation using C++ expression templates technique
+    + CU++ -- an interesting approach
+        + [CU++, An Object Oriented Tool for CFD Applications: GTC 2012](http://on-demand.gputechconf.com/gtc/2012/presentations/S0264-CU++-An-Object-Oriented-Framework-for-CFD-CFD-Apps.pdf)
+        + [CU++(ET) / UGC- CUDA With C++ Expression Templates with the Unified GPU-CPU Compiler](http://w3.uwyo.edu/~dchandar/CU++.html)
+        + [A Hybrid Multi-GPU/CPU Computational Framework](http://scientific-sims.com/cfdlab/Dimitri_Mavriplis/HOME/NEW_PAPERS/Chandar.2013-2855.pdf)
+    
+    + VexCL is a C++ vector expression template library for OpenCL/CUDA
+        + [VexCL is a C++ vector expression template library for OpenCL/CUDA](https://github.com/ddemidov/vexcl)
+        + [Generating OpenCL/CUDA source code from C++ expressions in VexCL](https://isocpp.org/blog/2015/01/generating-opencl-cuda-source-code-from-c-expressions-in-vexcl)
+
 + [Rust links](https://github.com/alsam/bookmarks/blob/master/rust.md)
