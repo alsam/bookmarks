@@ -38,6 +38,9 @@
         + [CARP dessimination](http://carp.doc.ic.ac.uk/external/dissemination.php)
     + [Framework for performance-portable parallel computations on unstructured meshes](https://github.com/OP2/PyOP2)
         + [OP2: Developing an open-source framework for the execution of unstructured grid applications](http://www.oerc.ox.ac.uk/projects/op2)
+    + [Delite](https://github.com/stanford-ppl/Delite)
+    + [Scalan](https://github.com/scalan)
+        + [Scalan Community Edition](https://github.com/scalan/scalan-ce)
 
     + CUDA kernels generation using C++ expression templates technique
         + CU++ -- an interesting approach
