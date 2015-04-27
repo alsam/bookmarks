@@ -79,3 +79,5 @@
 
 
 + [Rust links](https://github.com/alsam/bookmarks/blob/master/rust.md)
+
++ [Tips](https://github.com/alsam/bookmarks/blob/master/tips.md)
