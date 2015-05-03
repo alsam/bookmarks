@@ -62,6 +62,8 @@
     + [Polyhedral Parallel Code Generation for CUDA](http://www.researchgate.net/profile/Sven_Verdoolaege/publication/256121128_Polyhedral_parallel_code_generation_for_CUDA/links/0deec52d70d531521e000000.pdf)
         + [PoCC: the Polyhedral Compiler Collection](http://web.cse.ohio-state.edu/~pouchet/software/pocc/)
             + [more Polyhedral Software and Lectures are here](http://web.cse.ohio-state.edu/~pouchet/)
+        + [PPCG is a parallel code generator using the polyhedral model: CUDA and OpenCL backends](http://freecode.com/projects/ppcg)
+            + [PPCG git repo](http://repo.or.cz/ppcg)
 
 + Scala
     + [The Neophyte's Guide to Scala](http://danielwestheide.com/scala/neophytes.html)
