@@ -76,6 +76,7 @@
     + Number crunching in Scala
         + [Number Crunching in Scala - Chris Stucchio](https://www.chrisstucchio.com/pubs/slides/thoughtworks_scientific_2014/slides.html#1)
         + [non/spire : Powerful new number types and numeric abstractions for Scala](https://github.com/non/spire)
+    + [«Перегрузка операторов» в Scala](http://habrahabr.ru/company/golovachcourses/blog/255631/)
 
 
 + [Rust links](https://github.com/alsam/bookmarks/blob/master/rust.md)
