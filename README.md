@@ -38,6 +38,10 @@
 + DSLs targeting GPU
     + [CARP: Correct and Efficient Accelerator Programming](http://carp.doc.ic.ac.uk/external/news.php)
         + [CARP dessimination](http://carp.doc.ic.ac.uk/external/dissemination.php)
+        + PENCIL: a C99-based intermediate language for compute & optimization
+            + [PENCIL summary in one slide: poster](http://carp.doc.ic.ac.uk/external/publications/posters/HiPEAC2013.pdf)
+            + [PENCIL: A Platform-Neutral Language for Accelerator Programming](http://www.many-core.group.cam.ac.uk/ukmac2014/UKMAC2014_04_Grevendonk.pdf)
+            + [PENCIL support in pet and PPCG](http://www.researchgate.net/profile/Sven_Verdoolaege/publication/273911354_PENCIL_support_in_pet_and_PPCG/links/551031d20cf27d62b913cc0b.pdf)
     + [Framework for performance-portable parallel computations on unstructured meshes](https://github.com/OP2/PyOP2)
         + [OP2: Developing an open-source framework for the execution of unstructured grid applications](http://www.oerc.ox.ac.uk/projects/op2)
     + [Copperhead Data Parallel Python](https://copperhead.github.io/)
@@ -45,6 +49,7 @@
     + [Delite](https://github.com/stanford-ppl/Delite)
     + [Scalan](https://github.com/scalan)
         + [Scalan Community Edition](https://github.com/scalan/scalan-ce)
+    + [Generating Performance Portable Code using Rewrite Rules: From High-level Functional Expressions to High-Performance OpenCL Code](http://homepages.inf.ed.ac.uk/slindley/papers/array-gpu-draft-february2015.pdf)
 
     + CUDA kernels generation using C++ expression templates technique
         + CU++ -- an interesting approach
@@ -66,6 +71,14 @@
             + [more Polyhedral Software and Lectures are here](http://web.cse.ohio-state.edu/~pouchet/)
         + [PPCG is a parallel code generator using the polyhedral model: CUDA and OpenCL backends](http://freecode.com/projects/ppcg)
             + [PPCG git repo](http://repo.or.cz/ppcg)
+
++ YaCF: Yet Another Compiler Framework
+    + [A programming environment for heterogeneous architectures](http://cap.pcg.ull.es/en/accULL)
+    + [YaCF: Yet Another Compiler Framework: Technical Report 02/2013](http://cap.pcg.ull.es/en/system/files/private/YaCF.pdf)
+    + [Frangollo: A Run-time Library for OpenACC Support](http://cap.pcg.ull.es/es/system/files/private/Frangollo.pdf)
+
++ BLAS + LAPACK (ATLAS)
+    + [GEMV kernel](http://math-atlas.sourceforge.net/devel/atlas_contrib/node46.html)
 
 + Scala
     + [The Neophyte's Guide to Scala](http://danielwestheide.com/scala/neophytes.html)
