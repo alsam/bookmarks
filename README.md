@@ -38,6 +38,7 @@
 + DSLs targeting GPU
     + [CARP: Correct and Efficient Accelerator Programming](http://carp.doc.ic.ac.uk/external/news.php)
         + [CARP dessimination](http://carp.doc.ic.ac.uk/external/dissemination.php)
+            + [A taste of CARP: benchmark analysis, language design and kernel verification](http://www.cs.bris.ac.uk/Research/Micro/UKMAC2012/UKMAC12_Kravets_ARM.pdf)
         + PENCIL: a C99-based intermediate language for compute & optimization
             + [PENCIL summary in one slide: poster](http://carp.doc.ic.ac.uk/external/publications/posters/HiPEAC2013.pdf)
             + [PENCIL: A Platform-Neutral Language for Accelerator Programming](http://www.many-core.group.cam.ac.uk/ukmac2014/UKMAC2014_04_Grevendonk.pdf)
@@ -77,8 +78,12 @@
     + [YaCF: Yet Another Compiler Framework: Technical Report 02/2013](http://cap.pcg.ull.es/en/system/files/private/YaCF.pdf)
     + [Frangollo: A Run-time Library for OpenACC Support](http://cap.pcg.ull.es/es/system/files/private/Frangollo.pdf)
 
-+ BLAS + LAPACK (ATLAS)
++ BLAS + LAPACK (ATLAS + MAGMA + KBLAS)
     + [GEMV kernel](http://math-atlas.sourceforge.net/devel/atlas_contrib/node46.html)
+    + [GPU Accelerated Memory-bound Linear Algebra Kernels" KBLAS + KSPARSE](https://www.hpc.kaust.edu.sa/training/2015/nvidia/materials/ahmad_Gday2015.pdf)
+        + [KBLAS: An Optimized Library for Dense Matrix-Vector Multiplication on GPU Accelerators](http://arxiv.org/pdf/1410.1726.pdf)
+        + [KBLAS:](http://ecrc.kaust.edu.sa/Pages/Res-kblas.aspx)
+        + [KSPARSE:](http://ecrc.kaust.edu.sa/Pages/ksparse.aspx)
 
 + Scala
     + [The Neophyte's Guide to Scala](http://danielwestheide.com/scala/neophytes.html)
