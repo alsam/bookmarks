@@ -84,6 +84,7 @@
         + [KBLAS: An Optimized Library for Dense Matrix-Vector Multiplication on GPU Accelerators](http://arxiv.org/pdf/1410.1726.pdf)
         + [KBLAS:](http://ecrc.kaust.edu.sa/Pages/Res-kblas.aspx)
         + [KSPARSE:](http://ecrc.kaust.edu.sa/Pages/ksparse.aspx)
+        + [bhSPARSE: A Sparse BLAS Library](https://github.com/bhSPARSE/bhSPARSE)
 
 + Scala
     + [The Neophyte's Guide to Scala](http://danielwestheide.com/scala/neophytes.html)
