@@ -52,6 +52,14 @@
         + [Scalan Community Edition](https://github.com/scalan/scalan-ce)
     + [Generating Performance Portable Code using Rewrite Rules: From High-level Functional Expressions to High-Performance OpenCL Code](http://homepages.inf.ed.ac.uk/slindley/papers/array-gpu-draft-february2015.pdf)
 
+    + ROSE compiler + Mint for C-to-CUDA code generation
+        + [ROSE compiler github](https://github.com/rose-compiler)
+        + MINT 
+            + [ROSE project MINT](https://github.com/rose-compiler/rose/tree/master/projects/mint)
+            + [MINT google project](https://sites.google.com/site/mintmodel/)
+                + [Mint: Realizing CUDA performance in 3D Stencil Methods with Annotated C: claims 78% of handwritten CUDA performance](http://cseweb.ucsd.edu/groups/hpcl/scg/papers/2011/mint-unat-ics11.pdf)
+                + [MINT PhD thesis](http://cseweb.ucsd.edu/groups/hpcl/scg/papers/2012/DidemUnat_thesis.pdf)
+
     + CUDA kernels generation using C++ expression templates technique
         + CU++ -- an interesting approach
             + [CU++, An Object Oriented Tool for CFD Applications: GTC 2012](http://on-demand.gputechconf.com/gtc/2012/presentations/S0264-CU++-An-Object-Oriented-Framework-for-CFD-CFD-Apps.pdf)
@@ -72,6 +80,9 @@
             + [more Polyhedral Software and Lectures are here](http://web.cse.ohio-state.edu/~pouchet/)
         + [PPCG is a parallel code generator using the polyhedral model: CUDA and OpenCL backends](http://freecode.com/projects/ppcg)
             + [PPCG git repo](http://repo.or.cz/ppcg)
++ OpenACC
+    + [IPMACC is a framework for translating/executing OpenACC for C API to/over CUDA or OpenCL runtime](https://github.com/lashgar/ipmacc)
+    + [IPMACC – An Open Source OpenACC to CUDA/OpenCL Translator](http://www.techenablement.com/ipmacc-open-source-openacc-cudaopencl-translator/)
 
 + YaCF: Yet Another Compiler Framework
     + [A programming environment for heterogeneous architectures](http://cap.pcg.ull.es/en/accULL)
@@ -82,8 +93,8 @@
     + [GEMV kernel](http://math-atlas.sourceforge.net/devel/atlas_contrib/node46.html)
     + [GPU Accelerated Memory-bound Linear Algebra Kernels" KBLAS + KSPARSE](https://www.hpc.kaust.edu.sa/training/2015/nvidia/materials/ahmad_Gday2015.pdf)
         + [KBLAS: An Optimized Library for Dense Matrix-Vector Multiplication on GPU Accelerators](http://arxiv.org/pdf/1410.1726.pdf)
-        + [KBLAS:](http://ecrc.kaust.edu.sa/Pages/Res-kblas.aspx)
-        + [KSPARSE:](http://ecrc.kaust.edu.sa/Pages/ksparse.aspx)
+        + [KBLAS: download](http://ecrc.kaust.edu.sa/Pages/Res-kblas.aspx)
+        + [KSPARSE: download](http://ecrc.kaust.edu.sa/Pages/ksparse.aspx)
         + [bhSPARSE: A Sparse BLAS Library](https://github.com/bhSPARSE/bhSPARSE)
 
 + Scala
