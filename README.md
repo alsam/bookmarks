@@ -88,6 +88,8 @@
         + [The relation between diamond tiling and hexagonal tiling](http://www.exastencils.org/histencils/2014/papers/histencils2014_the_relation_between_diamond_tiling_and_hexagonal_tiling.pdf)
         + [The Pochoir Stencil Compiler](http://www.exastencils.org/histencils/2015/papers/histencils2015_pochoir.pdf)
             +[The Pochoir Project](http://groups.csail.mit.edu/sct/wiki/index.php?title=The_Pochoir_Project)
+        + scala stencils use case
+            +[A Scala Prototype to Generate Multigrid Solver Implementations for Different Problems and Target Multi-Core Platforms](http://arxiv.org/pdf/1406.5369v1.pdf)
     + [Polyhedral Code Generation In The Real World](http://icps.u-strasbg.fr/~bastoul/research/papers/VBC06-CC.pdf)
     + [The Polyhedral Model Is More Widely Applicable Than You Think](http://www.cs.ucla.edu/~pouchet/doc/cc-article.10.pdf)
     + [Generating Performance Portable Code using Rewrite Rules](http://homepages.inf.ed.ac.uk/slindley/papers/array-gpu-draft-february2015.pdf)
