@@ -87,6 +87,7 @@
 
 + Algorithmic skeletons for automatic GPU code generation
     + [Automatic Skeleton-Based Compilation through Integration with an Algorithm Classification](http://www.cedricnugteren.nl/downloads/Nugteren2013d.pdf)
+    + [Algorithmic Species Revisited: A Program Code Classification Based on Array References](http://parse.ele.tue.nl/system/attachments/55/original/MUCOCOS_Algorithmic_Species_Revisited_A_Program_Code_Classification_Based_on_Array_References.pdf)
     + [species site](http://parse.ele.tue.nl/species/)
     + [github bones site](https://github.com/gjvdbraak/bones)
 
