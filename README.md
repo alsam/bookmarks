@@ -73,6 +73,7 @@
 
 + Polyhedral papers intro & focused to GPU code generation
     + [Code Generation in the Polyhedral Model Is Easier Than You Think](https://hal.archives-ouvertes.fr/hal-00017260/document)
+        + [Automatic Code Generation in the Polytope Model](http://www.infosun.fim.uni-passau.de/cl/loopo/doc/wetzel-d.ps.gz)
     + [Non-affine Extensions to Polyhedral Code Generation](http://cgo.org/cgo2014/wp-content/uploads/2013/05/Non-affine_Extensions_to_Polyhedral_Code_Generation.pdf)
     + [Polyhedral Code Generation In The Real World](http://icps.u-strasbg.fr/~bastoul/research/papers/VBC06-CC.pdf)
     + [The Polyhedral Model Is More Widely Applicable Than You Think](http://www.cs.ucla.edu/~pouchet/doc/cc-article.10.pdf)
@@ -83,6 +84,11 @@
             + [PPCG git repo](http://repo.or.cz/ppcg)
             + [Polyhedral Parallel Code Generation for CUDA](http://www.researchgate.net/profile/Sven_Verdoolaege/publication/256121128_Polyhedral_parallel_code_generation_for_CUDA/links/0deec52d70d531521e000000.pdf)
             + [Polyhedral Extraction Tool](http://impact.gforge.inria.fr/impact2012/workshop_IMPACT/verdoolaege.pdf)
+
++ Algorithmic skeletons for automatic GPU code generation
+    + [Automatic Skeleton-Based Compilation through Integration with an Algorithm Classification](http://www.cedricnugteren.nl/downloads/Nugteren2013d.pdf)
+    + [species site](http://parse.ele.tue.nl/species/)
+    + [github bones site](https://github.com/gjvdbraak/bones)
 
 + OpenACC
     + [IPMACC is a framework for translating/executing OpenACC for C API to/over CUDA or OpenCL runtime](https://github.com/lashgar/ipmacc)
