@@ -43,6 +43,8 @@
             + [PENCIL summary in one slide: poster](http://carp.doc.ic.ac.uk/external/publications/posters/HiPEAC2013.pdf)
             + [PENCIL: A Platform-Neutral Language for Accelerator Programming](http://www.many-core.group.cam.ac.uk/ukmac2014/UKMAC2014_04_Grevendonk.pdf)
             + [PENCIL support in pet and PPCG](http://www.researchgate.net/profile/Sven_Verdoolaege/publication/273911354_PENCIL_support_in_pet_and_PPCG/links/551031d20cf27d62b913cc0b.pdf)
+        + see also PPCG (below)
+
     + [Framework for performance-portable parallel computations on unstructured meshes](https://github.com/OP2/PyOP2)
         + [OP2: Developing an open-source framework for the execution of unstructured grid applications](http://www.oerc.ox.ac.uk/projects/op2)
     + [Copperhead Data Parallel Python](https://copperhead.github.io/)
@@ -75,11 +77,13 @@
     + [Polyhedral Code Generation In The Real World](http://icps.u-strasbg.fr/~bastoul/research/papers/VBC06-CC.pdf)
     + [The Polyhedral Model Is More Widely Applicable Than You Think](http://www.cs.ucla.edu/~pouchet/doc/cc-article.10.pdf)
     + [Generating Performance Portable Code using Rewrite Rules](http://homepages.inf.ed.ac.uk/slindley/papers/array-gpu-draft-february2015.pdf)
-    + [Polyhedral Parallel Code Generation for CUDA](http://www.researchgate.net/profile/Sven_Verdoolaege/publication/256121128_Polyhedral_parallel_code_generation_for_CUDA/links/0deec52d70d531521e000000.pdf)
         + [PoCC: the Polyhedral Compiler Collection](http://web.cse.ohio-state.edu/~pouchet/software/pocc/)
             + [more Polyhedral Software and Lectures are here](http://web.cse.ohio-state.edu/~pouchet/)
         + [PPCG is a parallel code generator using the polyhedral model: CUDA and OpenCL backends](http://freecode.com/projects/ppcg)
             + [PPCG git repo](http://repo.or.cz/ppcg)
+            + [Polyhedral Parallel Code Generation for CUDA](http://www.researchgate.net/profile/Sven_Verdoolaege/publication/256121128_Polyhedral_parallel_code_generation_for_CUDA/links/0deec52d70d531521e000000.pdf)
+            + [Polyhedral Extraction Tool](http://impact.gforge.inria.fr/impact2012/workshop_IMPACT/verdoolaege.pdf)
+
 + OpenACC
     + [IPMACC is a framework for translating/executing OpenACC for C API to/over CUDA or OpenCL runtime](https://github.com/lashgar/ipmacc)
     + [IPMACC – An Open Source OpenACC to CUDA/OpenCL Translator](http://www.techenablement.com/ipmacc-open-source-openacc-cudaopencl-translator/)
