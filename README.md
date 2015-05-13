@@ -139,7 +139,12 @@
         + [Number Crunching in Scala - Chris Stucchio](https://www.chrisstucchio.com/pubs/slides/thoughtworks_scientific_2014/slides.html#1)
         + [non/spire : Powerful new number types and numeric abstractions for Scala](https://github.com/non/spire)
     + [«Перегрузка операторов» в Scala](http://habrahabr.ru/company/golovachcourses/blog/255631/)
-
+    + [ScalaZ3 for Scala 2.10 : an example of using JNI](https://github.com/epfl-lara/ScalaZ3)
+        + [Scala to the Power of Z3 Integrating SMT and Programming](http://lara.epfl.ch/~kuncak/papers/KoeksalETAL11ScalaZ3.pdf)
+        + [Copris: Constraint Programming in Scala](http://bach.istc.kobe-u.ac.jp/copris/)
+            + [Choco is a Free and Open-Source Software dedicated to Constraint Programming](http://choco-solver.org/)
+                + [An open-source Java library for Constraint Programming http://choco-solver.org/](https://github.com/chocoteam/choco3/releases/tag/choco-3.3.1)
+        + [Sugar: a SAT-based Constraint Solver](http://bach.istc.kobe-u.ac.jp/sugar/)
 
 + [Rust links](https://github.com/alsam/bookmarks/blob/master/rust.md)
 
