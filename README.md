@@ -47,6 +47,8 @@
 
     + [Framework for performance-portable parallel computations on unstructured meshes](https://github.com/OP2/PyOP2)
         + [OP2: Developing an open-source framework for the execution of unstructured grid applications](http://www.oerc.ox.ac.uk/projects/op2)
+        + [Optimising Unstructured Mesh Computational Fluid Dynamics Applications on Multicores via Machine Learning and Code Transformation](http://www.doc.ic.ac.uk/teaching/distinguished-projects/2012/r.rusitoru.pdf)
+        + [Compiler Optimizations for Industrial Unstructured Mesh CFD Applications on GPUs](https://www.oerc.ox.ac.uk/sites/default/files/uploads/profile-pages/Gihan/op2-lcpc.pdf)
     + [Copperhead Data Parallel Python](https://copperhead.github.io/)
         + [github CU copperhead](https://github.com/copperhead)
     + [Delite](https://github.com/stanford-ppl/Delite)
