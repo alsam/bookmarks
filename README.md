@@ -145,6 +145,7 @@
             + [Choco is a Free and Open-Source Software dedicated to Constraint Programming](http://choco-solver.org/)
                 + [An open-source Java library for Constraint Programming http://choco-solver.org/](https://github.com/chocoteam/choco3/releases/tag/choco-3.3.1)
         + [Sugar: a SAT-based Constraint Solver](http://bach.istc.kobe-u.ac.jp/sugar/)
+    + [A Simple Java Native Interface (JNI) example in Java and Scala](http://hohonuuli.blogspot.se/2013/08/a-simple-java-native-interface-jni.html)
 
 + [Rust links](https://github.com/alsam/bookmarks/blob/master/rust.md)
 
