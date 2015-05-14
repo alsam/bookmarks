@@ -146,6 +146,8 @@
                 + [An open-source Java library for Constraint Programming http://choco-solver.org/](https://github.com/chocoteam/choco3/releases/tag/choco-3.3.1)
         + [Sugar: a SAT-based Constraint Solver](http://bach.istc.kobe-u.ac.jp/sugar/)
     + [A Simple Java Native Interface (JNI) example in Java and Scala](http://hohonuuli.blogspot.se/2013/08/a-simple-java-native-interface-jni.html)
+        + [Passing pointers between C and Java through JNI](http://stackoverflow.com/questions/1632367/passing-pointers-between-c-and-java-through-jni)
+        + [jni.h: no such file or directory](http://stackoverflow.com/questions/13466777/jni-h-no-such-file-or-directory)
 
 + [Rust links](https://github.com/alsam/bookmarks/blob/master/rust.md)
 
