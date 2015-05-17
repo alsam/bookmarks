@@ -11,3 +11,7 @@
         + [Convert The Rust Programming Language to Epub](https://gist.github.com/killercup/a793e09638379dbc74e4#file-trpl-epub-rb)
         + [The Rust Programming Language (на русском)](https://www.gitbook.com/book/kgv/rust_book_ru/details)
         + [Rust for C++ Programmers](https://www.gitbook.com/book/aminb/rust-for-c/details)
+        + [Язык программирования Rust и первые впечатления от него (17 ноября 2014)](http://eax.me/rust/)
+            + [Десять веских причин не тащить в продакшн новые игрушки](http://eax.me/avoid-new-toys/)
+            + [Criticizing the Rust Language, and Why C/C++ Will Never Die](http://www.viva64.com/en/b/0324/)
+    + [A Rust linear algebra library based on expression templates](https://github.com/SiegeLord/RustAlgebloat) 

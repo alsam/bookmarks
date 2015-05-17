@@ -10,3 +10,4 @@
 + vim tips
     :set ff=unix
 + use [dillinger for markdown formatting](http://dillinger.io/)
++ [Package algorithm2e on Ubuntu: sudo apt-get install texlive-science](http://tex.stackexchange.com/questions/46276/package-algorithm2e-on-ubuntu)
