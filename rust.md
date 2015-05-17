@@ -2,6 +2,8 @@
 + Rust links
     + [Rust homepage](http://www.rust-lang.org/)
     + [Rust by example](https://github.com/rust-lang/rust-by-example)
+    + [Announcing Rust 1.0](http://blog.rust-lang.org/2015/05/15/Rust-1.0.html)
+        + ['The Rust Programming Language' E-Books'](http://killercup.github.io/trpl-ebook/)
     + [Priorities after 1.0](http://internals.rust-lang.org/t/priorities-after-1-0/1901)
     + [Rust Patterns: Using traits for function overloading](https://medium.com/@jreem/advanced-rust-using-traits-for-argument-overloading-c6a6c8ba2e17)
         + [rust-modifier: emulates overloading](https://github.com/reem/rust-modifier)
@@ -15,4 +17,4 @@
             + [Десять веских причин не тащить в продакшн новые игрушки](http://eax.me/avoid-new-toys/)
             + [Criticizing the Rust Language, and Why C/C++ Will Never Die](http://www.viva64.com/en/b/0324/)
     + [A Rust linear algebra library based on expression templates](https://github.com/SiegeLord/RustAlgebloat)
-        + [Rust’s operator overloading doesn’t scale](https://internals.rust-lang.org/t/rusts-operator-overloading-doesnt-scale/408) 
+        + [Rust’s operator overloading doesn’t scale](https://internals.rust-lang.org/t/rusts-operator-overloading-doesnt-scale/408)
