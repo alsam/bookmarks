@@ -14,4 +14,5 @@
         + [Язык программирования Rust и первые впечатления от него (17 ноября 2014)](http://eax.me/rust/)
             + [Десять веских причин не тащить в продакшн новые игрушки](http://eax.me/avoid-new-toys/)
             + [Criticizing the Rust Language, and Why C/C++ Will Never Die](http://www.viva64.com/en/b/0324/)
-    + [A Rust linear algebra library based on expression templates](https://github.com/SiegeLord/RustAlgebloat) 
+    + [A Rust linear algebra library based on expression templates](https://github.com/SiegeLord/RustAlgebloat)
+        + [Rust’s operator overloading doesn’t scale](https://internals.rust-lang.org/t/rusts-operator-overloading-doesnt-scale/408) 
