@@ -2,6 +2,11 @@
 + Rust links
     + [Rust homepage](http://www.rust-lang.org/)
     + [Rust by example](https://github.com/rust-lang/rust-by-example)
+    + [Awesome Rust: A curated list of awesome Rust code and resources](https://github.com/kud1ing/awesome-rust)
+        + [gmp bindings for rust: status: build failing, ranges syntax changed](https://github.com/thestinger/rust-gmp)
+        + [BLAS bindings](https://github.com/stainless-steel/blas)
+        + [LAPACK bindings](https://github.com/stainless-steel/lapack)
+            + [Ivan Ukhov](https://github.com/IvanUkhov?tab=repositories)
     + [Announcing Rust 1.0](http://blog.rust-lang.org/2015/05/15/Rust-1.0.html)
         + ['The Rust Programming Language' E-Books'](http://killercup.github.io/trpl-ebook/)
     + [Priorities after 1.0](http://internals.rust-lang.org/t/priorities-after-1-0/1901)
