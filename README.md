@@ -35,6 +35,9 @@
             + [Rocket Microarchitectural Implementation of RISC-V ISA](https://github.com/ucb-bar/rocket)
             + [Rocket uncore: L2 cache, etc.](https://github.com/ucb-bar/uncore)
 
++ CUDA and friends related surveys, papers
+    + [A Survey of CPU-GPU Heterogeneous Computing Techniques](https://www.academia.edu/12355899/A_Survey_of_CPU-GPU_Heterogeneous_Computing_Techniques)
+
 + DSLs targeting GPU
     + [CARP: Correct and Efficient Accelerator Programming](http://carp.doc.ic.ac.uk/external/news.php)
         + [CARP dessimination](http://carp.doc.ic.ac.uk/external/dissemination.php)
