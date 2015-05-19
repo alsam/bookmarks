@@ -105,6 +105,8 @@
             + [Polyhedral Parallel Code Generation for CUDA](http://www.researchgate.net/profile/Sven_Verdoolaege/publication/256121128_Polyhedral_parallel_code_generation_for_CUDA/links/0deec52d70d531521e000000.pdf)
             + [Polyhedral Extraction Tool](http://impact.gforge.inria.fr/impact2012/workshop_IMPACT/verdoolaege.pdf)
                 + [ISL:_Integer_Set_Library](https://www.cs.colostate.edu/wiki/ISL:_Integer_Set_Library)
+                    + [ISL github repository](https://repo.or.cz/isl.git)
+                    + [C++ bindings for the ISL (Integer Set Library)](https://github.com/jleben/isl-cpp)
 
 + Algorithmic skeletons for automatic GPU code generation
     + [Automatic Skeleton-Based Compilation through Integration with an Algorithm Classification](http://www.cedricnugteren.nl/downloads/Nugteren2013d.pdf)
