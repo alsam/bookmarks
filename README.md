@@ -109,6 +109,7 @@
                     + [C++ bindings for the ISL (Integer Set Library)](https://github.com/jleben/isl-cpp)
                     + [islpy is a Python wrapper around Sven Verdoolaege’s isl, a library for manipulating sets and relations of integer points bounded by linear constraints](https://pypi.python.org/pypi/islpy)
                         + [from here:](http://mathema.tician.de/software/)
+                        + [github repository for python wrapper for isl, an integer set library](https://github.com/inducer/islpy)
 
 + Algorithmic skeletons for automatic GPU code generation
     + [Automatic Skeleton-Based Compilation through Integration with an Algorithm Classification](http://www.cedricnugteren.nl/downloads/Nugteren2013d.pdf)
