@@ -144,6 +144,7 @@
         + [non/spire : Powerful new number types and numeric abstractions for Scala](https://github.com/non/spire)
     + [«Перегрузка операторов» в Scala](http://habrahabr.ru/company/golovachcourses/blog/255631/)
     + [Scala. Всем выйти из сумрака! (i.e. scala implicits)](http://habrahabr.ru/post/209850/)
+    + [Cake pattern in depth](http://www.cakesolutions.net/teamblogs/2011/12/19/cake-pattern-in-depth)
     + [ScalaZ3 for Scala 2.10 : an example of using JNI](https://github.com/epfl-lara/ScalaZ3)
         + [Scala to the Power of Z3 Integrating SMT and Programming](http://lara.epfl.ch/~kuncak/papers/KoeksalETAL11ScalaZ3.pdf)
         + [Copris: Constraint Programming in Scala](http://bach.istc.kobe-u.ac.jp/copris/)
