@@ -17,3 +17,7 @@
     + [source git](http://zeromq.org/docs:source-git)
     + [ØMQ Language Bindings](http://zeromq.org/bindings:_start)
     + [Scala binding for ZeroMQ http://www.zeromq.org/bindings:scala-binding](https://github.com/valotrading/zeromq-scala-binding)
+
++ [math in markdown: Survey of syntaxes for math in markdown](https://github.com/cben/mathdown/wiki/math-in-markdown)
+    + [Schlolarlymarkdown: make academic writing less frustrating](http://scholarlymarkdown.com/)
+    + [github repo for scholdoc](https://github.com/timtylin/scholdoc)
