@@ -9,6 +9,7 @@
     + [Why doesn't GCC optimize a*a*a*a*a*a to (a*a*a)*(a*a*a)?](http://stackoverflow.com/questions/6430448/why-doesnt-gcc-optimize-aaaaaa-to-aaaaaa)
 + vim tips
     :set ff=unix
+    + [From Vim to Emacs+Evil chaotic migration guide](http://juanjoalvarez.net/es/)
 + use [dillinger for markdown formatting](http://dillinger.io/)
 + [Package algorithm2e on Ubuntu: sudo apt-get install texlive-science](http://tex.stackexchange.com/questions/46276/package-algorithm2e-on-ubuntu)
 
