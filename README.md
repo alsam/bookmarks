@@ -127,6 +127,10 @@
     + [Frangollo: A Run-time Library for OpenACC Support](http://cap.pcg.ull.es/es/system/files/private/Frangollo.pdf)
 
 + BLAS + LAPACK (ATLAS + MAGMA + KBLAS)
+    + [OpenBLAS: An optimized BLAS library](http://www.openblas.net/)
+        + [OpenBLAS github](https://github.com/xianyi/OpenBLAS)
+        + [tester for BLAS libraries including OpenBLAS and Intel MKL](https://github.com/xianyi/BLAS-Tester)
+        + [Vector Math Library](https://github.com/xianyi/OpenVML)
     + [GEMV kernel](http://math-atlas.sourceforge.net/devel/atlas_contrib/node46.html)
     + [GPU Accelerated Memory-bound Linear Algebra Kernels" KBLAS + KSPARSE](https://www.hpc.kaust.edu.sa/training/2015/nvidia/materials/ahmad_Gday2015.pdf)
         + [KBLAS: An Optimized Library for Dense Matrix-Vector Multiplication on GPU Accelerators](http://arxiv.org/pdf/1410.1726.pdf)
