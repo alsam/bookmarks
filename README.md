@@ -77,6 +77,7 @@
             + [Generating OpenCL/CUDA source code from C++ expressions in VexCL](https://isocpp.org/blog/2015/01/generating-opencl-cuda-source-code-from-c-expressions-in-vexcl)
 
 + Polyhedral papers intro & focused to GPU code generation
+    + [Polyhedral Compilation](http://polyhedral.info/)
     + [Code Generation in the Polyhedral Model Is Easier Than You Think](https://hal.archives-ouvertes.fr/hal-00017260/document)
         + [Automatic Code Generation in the Polytope Model](http://www.infosun.fim.uni-passau.de/cl/loopo/doc/wetzel-d.ps.gz)
     + [Non-affine Extensions to Polyhedral Code Generation](http://cgo.org/cgo2014/wp-content/uploads/2013/05/Non-affine_Extensions_to_Polyhedral_Code_Generation.pdf)
@@ -110,6 +111,7 @@
                     + [islpy is a Python wrapper around Sven Verdoolaege’s isl, a library for manipulating sets and relations of integer points bounded by linear constraints](https://pypi.python.org/pypi/islpy)
                         + [from here:](http://mathema.tician.de/software/)
                         + [github repository for python wrapper for isl, an integer set library](https://github.com/inducer/islpy)
+            + [see also not finished alternative to PPCG - polly](http://polly.llvm.org/documentation/gpgpucodegen.html)
 
 + Algorithmic skeletons for automatic GPU code generation
     + [Automatic Skeleton-Based Compilation through Integration with an Algorithm Classification](http://www.cedricnugteren.nl/downloads/Nugteren2013d.pdf)
