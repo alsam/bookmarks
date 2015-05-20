@@ -128,17 +128,26 @@
     + [YaCF: Yet Another Compiler Framework: Technical Report 02/2013](http://cap.pcg.ull.es/en/system/files/private/YaCF.pdf)
     + [Frangollo: A Run-time Library for OpenACC Support](http://cap.pcg.ull.es/es/system/files/private/Frangollo.pdf)
 
-+ BLAS + LAPACK (ATLAS + MAGMA + KBLAS)
++ BLAS + LAPACK (OpenBLAS + FLAME + ATLAS + MAGMA + KBLAS) and friends
     + [OpenBLAS: An optimized BLAS library](http://www.openblas.net/)
         + [OpenBLAS github](https://github.com/xianyi/OpenBLAS)
         + [tester for BLAS libraries including OpenBLAS and Intel MKL](https://github.com/xianyi/BLAS-Tester)
         + [Vector Math Library](https://github.com/xianyi/OpenVML)
+    + [BLIS (flame)](https://code.google.com/p/blis/)
+        + [github repo for BLIS](https://github.com/flame/blis)
+        + [github repo for FLAME](https://github.com/flame/libflame)
+    + [GEMM: From Pure C to SSE Optimized Micro Kernels](http://apfel.mathematik.uni-ulm.de/~lehn/sghpc/gemm/index.html)
+        [ulmBLAS: parent of the above link](https://github.com/michael-lehn/ulmBLAS)
     + [GEMV kernel](http://math-atlas.sourceforge.net/devel/atlas_contrib/node46.html)
     + [GPU Accelerated Memory-bound Linear Algebra Kernels" KBLAS + KSPARSE](https://www.hpc.kaust.edu.sa/training/2015/nvidia/materials/ahmad_Gday2015.pdf)
         + [KBLAS: An Optimized Library for Dense Matrix-Vector Multiplication on GPU Accelerators](http://arxiv.org/pdf/1410.1726.pdf)
         + [KBLAS: download](http://ecrc.kaust.edu.sa/Pages/Res-kblas.aspx)
         + [KSPARSE: download](http://ecrc.kaust.edu.sa/Pages/ksparse.aspx)
         + [bhSPARSE: A Sparse BLAS Library](https://github.com/bhSPARSE/bhSPARSE)
+        + [fmmtl: FMM Template Library -- a structured dense matrix algorithms library, GPU accelerated, Simon Layton is coauthor](https://github.com/ccecka/fmmtl)
+    + [blaze-lib -- A high performance C++ math library -- claims to be the fastest, supports AVX](http://code.google.com/p/blaze-lib/)
+        + [wiki link compares blaze vs. other C++ libraries](http://code.google.com/p/blaze-lib/wiki/Benchmarks)
+    + [psBLAS -- Parallel Sparse Basic Linear Algebra Subroutines -- Fortran2003](http://www.ce.uniroma2.it/psblas/)
 
 + Scala
     + [The Neophyte's Guide to Scala](http://danielwestheide.com/scala/neophytes.html)
