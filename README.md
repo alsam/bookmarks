@@ -145,6 +145,8 @@
         + [KSPARSE: download](http://ecrc.kaust.edu.sa/Pages/ksparse.aspx)
         + [bhSPARSE: A Sparse BLAS Library](https://github.com/bhSPARSE/bhSPARSE)
         + [fmmtl: FMM Template Library -- a structured dense matrix algorithms library, GPU accelerated, Simon Layton is coauthor](https://github.com/ccecka/fmmtl)
+        + [LAMA -- Library for Accelerated Math Applications -- GPU accelerated](http://www.libama.org/overview.html)
+            + [sourceforge project for LAMA](http://sourceforge.net/projects/libama/)
     + [blaze-lib -- A high performance C++ math library -- claims to be the fastest, supports AVX](http://code.google.com/p/blaze-lib/)
         + [wiki link compares blaze vs. other C++ libraries](http://code.google.com/p/blaze-lib/wiki/Benchmarks)
     + [psBLAS -- Parallel Sparse Basic Linear Algebra Subroutines -- Fortran2003](http://www.ce.uniroma2.it/psblas/)
