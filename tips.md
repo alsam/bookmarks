@@ -30,3 +30,7 @@
 + [math in markdown: Survey of syntaxes for math in markdown](https://github.com/cben/mathdown/wiki/math-in-markdown)
     + [Schlolarlymarkdown: make academic writing less frustrating](http://scholarlymarkdown.com/)
     + [github repo for scholdoc](https://github.com/timtylin/scholdoc)
+
++ [purescript - A small strongly typed language that compiles to Javascript](http://purescript.org)
+    + [github repo for purescript](https://github.com/purescript/purescript)
+    + [a bunch of purescript repos](https://github.com/freebroccolo?tab=repositories)
