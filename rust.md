@@ -23,3 +23,5 @@
             + [Criticizing the Rust Language, and Why C/C++ Will Never Die](http://www.viva64.com/en/b/0324/)
     + [A Rust linear algebra library based on expression templates](https://github.com/SiegeLord/RustAlgebloat)
         + [Rust’s operator overloading doesn’t scale](https://internals.rust-lang.org/t/rusts-operator-overloading-doesnt-scale/408)
+    + [epsilonz - Functional Programming in Rust](https://github.com/epsilonz)
+
