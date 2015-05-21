@@ -179,6 +179,13 @@
         + [jni.h: no such file or directory](http://stackoverflow.com/questions/13466777/jni-h-no-such-file-or-directory)
         + [NewStringUTF has changed its prototype](http://xyplot.com/jni.simple.htm)
 
++ Deeplearning4J: Spark + GPU
+    + [Deeplearning4J is an Apache2 Licensed open-sourced, distributed neural net library written in Java and Scala.](https://github.com/deeplearning4j)
+        + [Deeplearning4J: Neural Net Platform](https://github.com/deeplearning4j/deeplearning4j)
+        + [spark-gpu-examples](https://github.com/deeplearning4j/spark-gpu-examples)
+        + [Scientific Computing for the JVM (NDArrays)](https://github.com/deeplearning4j/nd4j)
+            + [ND4J: N-Dimensional Arrays for Java](http://nd4j.org/)
+
 + [Rust links](https://github.com/alsam/bookmarks/blob/master/rust.md)
 
 + [Julia links](https://github.com/alsam/bookmarks/blob/master/julia.md)
