@@ -186,6 +186,10 @@
         + [Scientific Computing for the JVM (NDArrays)](https://github.com/deeplearning4j/nd4j)
             + [ND4J: N-Dimensional Arrays for Java](http://nd4j.org/)
 
++ parallelforall
+    + [An Efficient Matrix Transpose in CUDA C/C++](http://devblogs.nvidia.com/parallelforall/efficient-matrix-transpose-cuda-cc/)
+    + [BIDMach: Machine Learning at the Limit with GPUs](http://devblogs.nvidia.com/parallelforall/bidmach-machine-learning-limit-gpus/)
+
 + [Rust links](https://github.com/alsam/bookmarks/blob/master/rust.md)
 
 + [Julia links](https://github.com/alsam/bookmarks/blob/master/julia.md)
