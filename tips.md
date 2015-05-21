@@ -7,9 +7,18 @@
     + [git returns http error 407 from proxy after CONNECT](http://stackoverflow.com/questions/24907140/git-returns-http-error-407-from-proxy-after-connect)
 + compile optimization tips (TODO reorganize)
     + [Why doesn't GCC optimize a*a*a*a*a*a to (a*a*a)*(a*a*a)?](http://stackoverflow.com/questions/6430448/why-doesnt-gcc-optimize-aaaaaa-to-aaaaaa)
++ scala 
 + vim tips
     :set ff=unix
     + [From Vim to Emacs+Evil chaotic migration guide](http://juanjoalvarez.net/es/)
+    + [The Modern Vim Config with Pathogen](http://tammersaleh.com/posts/the-modern-vim-config-with-pathogen/)
+        + [vim-pathogen](https://github.com/tpope/vim-pathogen)
+    + vim+scala
+        + [Editing Scala with vim](https://leonard.io/blog/2013/04/editing-scala-with-vim/)
+        + [My Vim setup for Scala](http://bleibinha.us/blog/2013/08/my-vim-setup-for-scala)
+            + [vim, scala and ctags](http://andrew.stwrt.ca/posts/vim-ctags/)
+        + [integration of Scala into Vim](https://github.com/derekwyatt/vim-scala)
+            + [coding-scala-with-vim](http://derekwyatt.org/2013/12/31/coding-scala-with-vim.html)
 + use [dillinger for markdown formatting](http://dillinger.io/)
 + [Package algorithm2e on Ubuntu: sudo apt-get install texlive-science](http://tex.stackexchange.com/questions/46276/package-algorithm2e-on-ubuntu)
 
