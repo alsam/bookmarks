@@ -6,6 +6,13 @@
 
 + [SETTING UP EOS FREYA AND ANACONDA ON A HYBRID GRAPHICS LAPTOP FOR GPU ACCELERATED DEEP LEARNING](https://wolfchimneyrock.wordpress.com/2015/05/25/eos-cuda/)
 
++ Deeplearning4J: Spark + GPU
+    + [Deeplearning4J is an Apache2 Licensed open-sourced, distributed neural net library written in Java and Scala.](https://github.com/deeplearning4j)
+        + [Deeplearning4J: Neural Net Platform](https://github.com/deeplearning4j/deeplearning4j)
+        + [spark-gpu-examples](https://github.com/deeplearning4j/spark-gpu-examples)
+        + [Scientific Computing for the JVM (NDArrays)](https://github.com/deeplearning4j/nd4j)
+            + [ND4J: N-Dimensional Arrays for Java](http://nd4j.org/)
+
 + Nervana Systems
     + [Nervana](http://www.nervanasys.com/)
         + [github repo for Nervana Systems](https://github.com/NervanaSystems)
