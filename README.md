@@ -3,6 +3,7 @@
 *Looking for something else? Take a look at the [awesome collection of other awesome lists](https://github.com/sindresorhus/awesome).*
 + [Excellent list of free programming books](https://github.com/vhf/free-programming-books)
     + [The list in English](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md)
+    + [Много бесплатных книг по программированию](http://habrahabr.ru/post/191312/)
 
 + CFD
     + [What are possible methods to solve compressible Euler equations](http://scicomp.stackexchange.com/questions/283/what-are-possible-methods-to-solve-compressible-euler-equations/305#305 What are possible methods to solve compressible Euler equations)
