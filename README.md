@@ -21,6 +21,9 @@
     + [PyWENO + PyPFASST](https://github.com/memmett)
     + [Clawpack Repositories](https://github.com/clawpack/)
 
++ Particle simulation
+    + [MercuryDPM is a code for discrete particle simulations](http://mercurydpm.org/)
+
 + CPU, GPU & DRAM Architecture Simulators
     + [GPGPU-Sim](http://www.gpgpu-sim.org/)
     + [Integrated gem5 + GPGPU-Sim Simulator](http://cpu-gpu-sim.ece.wisc.edu/)
