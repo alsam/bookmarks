@@ -7,6 +7,8 @@
         + [BLAS bindings](https://github.com/stainless-steel/blas)
         + [LAPACK bindings](https://github.com/stainless-steel/lapack)
             + [Ivan Ukhov](https://github.com/IvanUkhov?tab=repositories)
+        + [see it for FFI bindings: Rust bindings for libpcuid CPU detection and feature extraction library](https://github.com/zsiciarz/rust-cpuid)
+            + [Rust Module std::ptr](https://doc.rust-lang.org/std/ptr/)
     + [Announcing Rust 1.0](http://blog.rust-lang.org/2015/05/15/Rust-1.0.html)
         + ['The Rust Programming Language' E-Books'](http://killercup.github.io/trpl-ebook/)
     + [Priorities after 1.0](http://internals.rust-lang.org/t/priorities-after-1-0/1901)
