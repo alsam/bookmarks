@@ -27,3 +27,7 @@
         + [Rust’s operator overloading doesn’t scale](https://internals.rust-lang.org/t/rusts-operator-overloading-doesnt-scale/408)
     + [epsilonz - Functional Programming in Rust](https://github.com/epsilonz)
 
+    + [Многопоточность в Rust](http://habrahabr.ru/post/256211/)
+
+    + [LLVM изнутри: как это работает](http://habrahabr.ru/post/101838/)
+
