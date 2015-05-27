@@ -86,6 +86,8 @@
     + [Polyhedral code generation for GPUs](http://www.hipeac.net/system/files/HIW5_Lesnicki.pdf)
     + [Evaluation of state-of-the-art polyhedral tools for automatic code generation on GPUs ( :-) conclusion PPCG is the most advanced tool)](http://www.researchgate.net/profile/JI_Gomez/publication/256121029_Evaluation_of_state-of-the-art_polyhedral_tools_for_automatic_code_generation_on_GPUs/links/53da568f0cf2631430c8182e.pdf)
     + Tiling:
+        + [TILING OPTIMIZATIONS FOR STENCIL COMPUTATIONS](https://www.ideals.illinois.edu/bitstream/handle/2142/44340/Xing_Zhou.pdf?sequence=1)
+        + [Efficient Numerical Algorithms and Software Engineering for High Performance Computing](http://www.infosun.fim.uni-passau.de/publications/docs/KoestlerHabil2013.pdf)
         + [Split Tiling for GPUs: Automatic Parallelization Using Trapezoidal Tiles to Reconcile Parallelism and Locality, avoiding Divergence and Load Imbalance](https://hal.inria.fr/hal-00786812/file/paper.pdf)
         + [Automatic Parallelization of Tiled Loop Nests with Enhanced Fine-Grained Parallelism on GPUs](http://www.cse.unsw.edu.au/~jingling/papers/icpp12.pdf)
         + [TILING OPTIMIZATIONS FOR STENCIL COMPUTATIONS : PhD thesis by Xing Zhou](https://www.ideals.illinois.edu/bitstream/handle/2142/44340/Xing_Zhou.pdf?sequence=1)
@@ -113,6 +115,9 @@
                         + [from here:](http://mathema.tician.de/software/)
                         + [github repository for python wrapper for isl, an integer set library](https://github.com/inducer/islpy)
             + [see also not finished alternative to PPCG - polly](http://polly.llvm.org/documentation/gpgpucodegen.html)
+
++ Heterogeneous: MPI + GPU -> MPP, good review
+    + [On Simplifying and Optimizing Message Passing Programs: A Compiler and Runtime-Based Approach](http://www.dps.uibk.ac.at/~philipp/sp_thesis_final.pdf)
 
 + Algorithmic skeletons for automatic GPU code generation
     + [Automatic Skeleton-Based Compilation through Integration with an Algorithm Classification](http://www.cedricnugteren.nl/downloads/Nugteren2013d.pdf)
