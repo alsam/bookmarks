@@ -13,6 +13,13 @@
         + [Scientific Computing for the JVM (NDArrays)](https://github.com/deeplearning4j/nd4j)
             + [ND4J: N-Dimensional Arrays for Java](http://nd4j.org/)
 
++ Recurrent Neural Networks
+    + [Supervised Sequence Labelling with Recurrent Neural Networks](http://www6.in.tum.de/Main/Publications/Graves2008c.pdf)
+    + [Alex Graves](http://www.cs.toronto.edu/~graves/)
+
++ Deep Learning
+    + [Deep Learning: Methods and Applications](http://research.microsoft.com/pubs/209355/DeepLearning-NowPublishing-Vol7-SIG-039.pdf)
+
 + Nervana Systems
     + [Nervana](http://www.nervanasys.com/)
         + [github repo for Nervana Systems](https://github.com/NervanaSystems)

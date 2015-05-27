@@ -31,6 +31,10 @@
     + [Schlolarlymarkdown: make academic writing less frustrating](http://scholarlymarkdown.com/)
     + [github repo for scholdoc](https://github.com/timtylin/scholdoc)
 
++ MIT online courses
+    + [physics](http://ocw.mit.edu/courses/physics/)
+    + [special courses](http://ocw.mit.edu/courses/special-programs/)
+
 + [purescript - A small strongly typed language that compiles to Javascript](http://purescript.org)
     + [github repo for purescript](https://github.com/purescript/purescript)
     + [a bunch of purescript repos](https://github.com/freebroccolo?tab=repositories)
