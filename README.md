@@ -24,6 +24,15 @@
         + [Recent progress and challenges in exploiting graphics processors in computational fluid dynamics: slightly outdated but interesting](http://arxiv.org/pdf/1309.3018.pdf)
             + [Laplace solver running on GPU using CUDA, with CPU version for comparison, slightly outdated](https://github.com/kyleniemeyer/laplace_gpu)
 
++ Inverse Lithography
+    + [Computational lithography](http://en.wikipedia.org/wiki/Computational_lithography)
+    + [a tutorial on inverse lithography](http://nanocad.ee.ucla.edu/pub/Main/SnippetTutorial/ILT.pdf)
+    + [Inverse Lithography Technology (ILT), What is the Impact to Photomask Industry?](http://www.luminescenttechnologies.com/userfiles/file/Inverse_Lithography_Technology__ILT__What_is_the_Impact_to_Photomask_Industry.pdf)
+    + [Optical Lithography Simulation using Wavelet Transform](http://scholarworks.umass.edu/cgi/viewcontent.cgi?article=1495&context=theses)
+    + [semiwiki link](https://www.semiwiki.com/forum/content/2036-magic-no-%92s-computational-lithography.html)
+    + [full chip ILT masks](http://inverselitho.com/PressReleases/BACUS10_7823-111_Affordable%20and%20process%20window%20increasing%20full%20chip%20ILT%20masks.pdf)
+    + [lith bib](https://github.com/disyulei/ref/blob/master/Lith.bib)
+
 + Particle simulation
     + [MercuryDPM is a code for discrete particle simulations](http://mercurydpm.org/)
 
