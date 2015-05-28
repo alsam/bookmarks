@@ -121,6 +121,7 @@
                         + [from here:](http://mathema.tician.de/software/)
                         + [github repository for python wrapper for isl, an integer set library](https://github.com/inducer/islpy)
             + [see also not finished alternative to PPCG - polly](http://polly.llvm.org/documentation/gpgpucodegen.html)
+        + [see also INRIA blog](http://www.irill.org/blog/homepage)
 
 + Heterogeneous: MPI + GPU -> MPP, good review
     + [On Simplifying and Optimizing Message Passing Programs: A Compiler and Runtime-Based Approach](http://www.dps.uibk.ac.at/~philipp/sp_thesis_final.pdf)
