@@ -20,6 +20,9 @@
         + [github repo for HiFiLES](https://github.com/HiFiLES/HiFiLES-solver)
     + [PyWENO + PyPFASST](https://github.com/memmett)
     + [Clawpack Repositories](https://github.com/clawpack/)
+    + CFD + GPU
+        + [Recent progress and challenges in exploiting graphics processors in computational fluid dynamics: slightly outdated but interesting](http://arxiv.org/pdf/1309.3018.pdf)
+            + [Laplace solver running on GPU using CUDA, with CPU version for comparison, slightly outdated](https://github.com/kyleniemeyer/laplace_gpu)
 
 + Particle simulation
     + [MercuryDPM is a code for discrete particle simulations](http://mercurydpm.org/)
