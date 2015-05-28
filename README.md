@@ -154,6 +154,7 @@
         [ulmBLAS: parent of the above link](https://github.com/michael-lehn/ulmBLAS)
     + [GEMV kernel](http://math-atlas.sourceforge.net/devel/atlas_contrib/node46.html)
     + [GPU Accelerated Memory-bound Linear Algebra Kernels" KBLAS + KSPARSE](https://www.hpc.kaust.edu.sa/training/2015/nvidia/materials/ahmad_Gday2015.pdf)
+        + [PhD thesis 4 KBLAS+KSPARSE](http://repository.kaust.edu.sa/kaust/bitstream/10754/346955/1/Ahmad_Thesis_Final.pdf)
         + [KBLAS: An Optimized Library for Dense Matrix-Vector Multiplication on GPU Accelerators](http://arxiv.org/pdf/1410.1726.pdf)
         + [KBLAS: download](http://ecrc.kaust.edu.sa/Pages/Res-kblas.aspx)
         + [KSPARSE: download](http://ecrc.kaust.edu.sa/Pages/ksparse.aspx)
