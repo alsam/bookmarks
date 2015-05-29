@@ -20,6 +20,14 @@
         + [github repo for HiFiLES](https://github.com/HiFiLES/HiFiLES-solver)
     + [PyWENO + PyPFASST](https://github.com/memmett)
     + [Clawpack Repositories](https://github.com/clawpack/)
+    + [Multilayered Abstractions for Partial Differential Equations by Graham Robert Markall: good review on Nektar++ etc.](http://www.big-grey.co.uk/g_markall_phd_thesis.pdf)
+        + [Making Faster FEM Solvers, Faster MPhil Transfer Report By Graham Markall](http://www.doc.ic.ac.uk/~grm08/g_markall_mphil_transfer.pdf)
+        + [Graham Markall](http://www.doc.ic.ac.uk/~grm08/)
+    + Nektar++
+        + [Nektar++: An efficient h to p finite element framework](http://www.nektar.info/)
+        + [Nektar++: a high-order finite element framework](https://xyloid.org/assets/talks/2014-06-ices.pdf)
+```         git clone http://gitlab.nektar.info/clone/nektar/nektar.git
+```
     + CFD + GPU
         + [Recent progress and challenges in exploiting graphics processors in computational fluid dynamics: slightly outdated but interesting](http://arxiv.org/pdf/1309.3018.pdf)
             + [Laplace solver running on GPU using CUDA, with CPU version for comparison, slightly outdated](https://github.com/kyleniemeyer/laplace_gpu)
