@@ -31,6 +31,7 @@
     + [Optical Lithography Simulation using Wavelet Transform](http://scholarworks.umass.edu/cgi/viewcontent.cgi?article=1495&context=theses)
     + [semiwiki link](https://www.semiwiki.com/forum/content/2036-magic-no-%92s-computational-lithography.html)
     + [full chip ILT masks](http://inverselitho.com/PressReleases/BACUS10_7823-111_Affordable%20and%20process%20window%20increasing%20full%20chip%20ILT%20masks.pdf)
+    + [Method and system for computing fourier series coefficients ...](http://patentimages.storage.googleapis.com/pdfs/US8739081.pdf)
     + [lith bib](https://github.com/disyulei/ref/blob/master/Lith.bib)
 
 + Particle simulation
