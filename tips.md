@@ -35,6 +35,9 @@
     + [physics](http://ocw.mit.edu/courses/physics/)
     + [special courses](http://ocw.mit.edu/courses/special-programs/)
 
++ Gentoo tips
+    + [Gentoo Cheat Sheet](https://wiki.gentoo.org/wiki/Gentoo_Cheat_Sheet)
+
 + [purescript - A small strongly typed language that compiles to Javascript](http://purescript.org)
     + [github repo for purescript](https://github.com/purescript/purescript)
     + [a bunch of purescript repos](https://github.com/freebroccolo?tab=repositories)
