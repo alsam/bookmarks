@@ -90,6 +90,16 @@
                 + [Mint: Realizing CUDA performance in 3D Stencil Methods with Annotated C: claims 78% of handwritten CUDA performance](http://cseweb.ucsd.edu/groups/hpcl/scg/papers/2011/mint-unat-ics11.pdf)
                 + [MINT PhD thesis](http://cseweb.ucsd.edu/groups/hpcl/scg/papers/2012/DidemUnat_thesis.pdf)
 
+    + Nested Data Parallelism, Haskell, and friends
+        + [Nested Data Parallelism on GPU](http://people.cs.uchicago.edu/~jhr/papers/2012/icfp-gpu.pdf)
+        + [Compiling a high-level language for GPUs: (via language support for architectures and compilers)](http://hgpu.org/?p=7809)
+        + [NOVA: A Functional Language for Data Parallelism](https://research.nvidia.com/sites/default/files/publications/nvr-2013-002_0.pdf)
+        + [CuNesl: Compiling Nested Data-Parallel Languages for ... ](http://moss.csc.ncsu.edu/~mueller/ftp/pub/mueller/papers/icpp12.pdf)
+        + [A Haskell EDSL for Nested Data-parallel Design-space ... ](http://www.cse.chalmers.se/edu/course/pfp/exploration-draft-Obsidian.pdf)
+        + [Functional programming for nested data parallelism on GPUs](https://wiki.aalto.fi/download/attachments/70779066/T-106.5840_2012_Halme.pdf?version=1&modificationDate=1357205607000)
+        + [Platform-Specific Optimization and Mapping of Stencil Codes through Refinement](https://graphics.cg.uni-saarland.de/2014/platform-specific-optimization-and-mapping-of-stencil-codes-through-refinement/)
+        + [High-Performance Domain-Specific Languages for GPU Computing](https://anydsl.github.io/images/anydsl.pdf)
+
     + CUDA kernels generation using C++ expression templates technique
         + CU++ -- an interesting approach
             + [CU++, An Object Oriented Tool for CFD Applications: GTC 2012](http://on-demand.gputechconf.com/gtc/2012/presentations/S0264-CU++-An-Object-Oriented-Framework-for-CFD-CFD-Apps.pdf)
