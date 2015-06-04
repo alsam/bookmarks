@@ -225,6 +225,9 @@
         + [jni.h: no such file or directory](http://stackoverflow.com/questions/13466777/jni-h-no-such-file-or-directory)
         + [NewStringUTF has changed its prototype](http://xyplot.com/jni.simple.htm)
 
++ [SBV: SMT Based Verification in Haskell](http://leventerkok.github.io/sbv/)
+    + [When is Cheryl's birthday?](http://www.telegraph.co.uk/education/educationnews/11534378/When-is-Cheryls-birthday-The-tricky-math-problem-that-has-everyone-stumped.html)
+
 + parallelforall
     + [An Efficient Matrix Transpose in CUDA C/C++](http://devblogs.nvidia.com/parallelforall/efficient-matrix-transpose-cuda-cc/)
     + [BIDMach: Machine Learning at the Limit with GPUs](http://devblogs.nvidia.com/parallelforall/bidmach-machine-learning-limit-gpus/)
