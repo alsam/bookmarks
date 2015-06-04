@@ -27,6 +27,9 @@
         + [Rust’s operator overloading doesn’t scale](https://internals.rust-lang.org/t/rusts-operator-overloading-doesnt-scale/408)
     + [epsilonz - Functional Programming in Rust](https://github.com/epsilonz)
 
+    + [Graphs in Rust](http://featherweightmusings.blogspot.co.nz/2015/04/graphs-in-rust.html)
+        + [Graphs and arena allocation](https://github.com/nrc/r4cppp/tree/master/graphs)
+
     + [Многопоточность в Rust](http://habrahabr.ru/post/256211/)
 
     + [LLVM изнутри: как это работает](http://habrahabr.ru/post/101838/)
