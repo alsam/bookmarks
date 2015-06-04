@@ -81,6 +81,7 @@
     + [Scalan](https://github.com/scalan)
         + [Scalan Community Edition](https://github.com/scalan/scalan-ce)
     + [Generating Performance Portable Code using Rewrite Rules: From High-level Functional Expressions to High-Performance OpenCL Code](http://homepages.inf.ed.ac.uk/slindley/papers/array-gpu-draft-february2015.pdf)
+    + [Performance Comparison of GPU, DSP and FPGA implementations of image processing and computer vision algorithms in embedded systems, Fykse, Egil](http://brage.bibsys.no/xmlui/handle/11250/256108)
 
     + ROSE compiler + Mint for C-to-CUDA code generation
         + [ROSE compiler github](https://github.com/rose-compiler)
