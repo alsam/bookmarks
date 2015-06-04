@@ -35,6 +35,8 @@
     + [Graphs in Rust](http://featherweightmusings.blogspot.co.nz/2015/04/graphs-in-rust.html)
         + [Graphs and arena allocation](https://github.com/nrc/r4cppp/tree/master/graphs)
 
+    + [Rust CI](http://rust-ci.org/projects/)
+
     + [Многопоточность в Rust](http://habrahabr.ru/post/256211/)
 
     + [LLVM изнутри: как это работает](http://habrahabr.ru/post/101838/)
