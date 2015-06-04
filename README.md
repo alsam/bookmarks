@@ -41,6 +41,7 @@
     + [Inverse Synthesis of Phase-Shifting Mask for Optical Lithography ](http://people.seas.harvard.edu/~schan/publication/SRS2007.pdf)
         + [Inverse synthesis problems in optical lithography](http://people.seas.harvard.edu/~schan/research/Lithography.html)
         + [Stanley H. Chan](http://scholar.harvard.edu/stanleychan)
+    + [Proximal Gradient Based Inverse Lithography](http://www.seas.ucla.edu/~abde/ee236c_projectReport.pdf)
     + [Method and system for computing fourier series coefficients ...](http://patentimages.storage.googleapis.com/pdfs/US8739081.pdf)
     + [lith bib](https://github.com/disyulei/ref/blob/master/Lith.bib)
 
