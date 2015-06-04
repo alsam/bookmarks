@@ -10,7 +10,12 @@
         + [see it for FFI bindings: Rust bindings for libpcuid CPU detection and feature extraction library](https://github.com/zsiciarz/rust-cpuid)
             + [Rust Module std::ptr](https://doc.rust-lang.org/std/ptr/)
     + [Announcing Rust 1.0](http://blog.rust-lang.org/2015/05/15/Rust-1.0.html)
-        + ['The Rust Programming Language' E-Books'](http://killercup.github.io/trpl-ebook/)
+    
+    + ['The Rust Programming Language' E-Books'](http://killercup.github.io/trpl-ebook/)
+    + [Rust For C++ Programmers](https://github.com/nrc/r4cppp)
+        + [blogs: Rust for C++ programmers](http://featherweightmusings.blogspot.co.nz/search/label/rust-for-c)
+        + [Arrays and Vectors in Rust](https://github.com/nrc/r4cppp/blob/master/arrays.md)
+
     + [Priorities after 1.0](http://internals.rust-lang.org/t/priorities-after-1-0/1901)
     + [Rust Patterns: Using traits for function overloading](https://medium.com/@jreem/advanced-rust-using-traits-for-argument-overloading-c6a6c8ba2e17)
         + [rust-modifier: emulates overloading](https://github.com/reem/rust-modifier)
