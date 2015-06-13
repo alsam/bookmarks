@@ -65,6 +65,8 @@
 
 + CUDA and friends related surveys, papers
     + [A Survey of CPU-GPU Heterogeneous Computing Techniques](https://www.academia.edu/12355899/A_Survey_of_CPU-GPU_Heterogeneous_Computing_Techniques)
+    + [Гибридная реализация алгоритма MST с использованием CPU и GPU](http://habrahabr.ru/post/253031/)
+    + [Понимание конфликтов банков разделяемой (shared) памяти в NVIDIA CUDA](http://habrahabr.ru/post/100363/)
 
 + DSLs targeting GPU
     + [CARP: Correct and Efficient Accelerator Programming](http://carp.doc.ic.ac.uk/external/news.php)
