@@ -38,6 +38,10 @@
 + Gentoo tips
     + [Gentoo Cheat Sheet](https://wiki.gentoo.org/wiki/Gentoo_Cheat_Sheet)
 
++ RHEL
+    + [Software Collections for Scientific Linux CERN 6](http://linux.web.cern.ch/linux/scl/)
+    + [Software Collections for Scientific Linux CERN 6 : RPMS](http://linuxsoft.cern.ch/cern/scl/slc6X/x86_64/RPMS/)
+
 + [purescript - A small strongly typed language that compiles to Javascript](http://purescript.org)
     + [github repo for purescript](https://github.com/purescript/purescript)
     + [a bunch of purescript repos](https://github.com/freebroccolo?tab=repositories)
