@@ -42,3 +42,5 @@
 
     + [LLVM изнутри: как это работает](http://habrahabr.ru/post/101838/)
 
+    + [Thorin/Impala paper: A Graph-Based Higher-Order Intermediate Representation](http://compilers.cs.uni-saarland.de/papers/lkh15_cgo.pdf)
+
