@@ -42,6 +42,10 @@
     + [Software Collections for Scientific Linux CERN 6](http://linux.web.cern.ch/linux/scl/)
     + [Software Collections for Scientific Linux CERN 6 : RPMS](http://linuxsoft.cern.ch/cern/scl/slc6X/x86_64/RPMS/)
 
++ profilers
+    + [IgProf, The Ignominous Profiler](http://igprof.org/index.html)
+    + [OProfile](http://oprofile.sourceforge.net/news/)
+
 + [purescript - A small strongly typed language that compiles to Javascript](http://purescript.org)
     + [github repo for purescript](https://github.com/purescript/purescript)
     + [a bunch of purescript repos](https://github.com/freebroccolo?tab=repositories)
