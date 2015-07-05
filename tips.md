@@ -19,6 +19,11 @@
             + [vim, scala and ctags](http://andrew.stwrt.ca/posts/vim-ctags/)
         + [integration of Scala into Vim](https://github.com/derekwyatt/vim-scala)
             + [coding-scala-with-vim](http://derekwyatt.org/2013/12/31/coding-scala-with-vim.html)
+
++ TeX / LaTeX tips
+    + [LaTeX Table Generator](http://www.tablesgenerator.com/)
+    + [Online LaTeX Equation Editor](http://www.codecogs.com/latex/eqneditor.php)
+            
 + use [dillinger for markdown formatting](http://dillinger.io/)
 + [Package algorithm2e on Ubuntu: sudo apt-get install texlive-science](http://tex.stackexchange.com/questions/46276/package-algorithm2e-on-ubuntu)
 
