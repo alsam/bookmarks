@@ -7,6 +7,7 @@
     + [ The PyPA recommended tool for installing Python packages https://pip.pypa.io/ ](https://github.com/pypa/pip)
 
 + anaconda links
+    + [Anaconda Package Documentation](http://docs.continuum.io/anaconda/pkg-docs.html)
     + [anaconda ska inux-x86_64 Repodata](https://conda.binstar.org/ska/linux-64)
     + [Peter Williams pkgw: `conda install --channel https://conda.anaconda.org/pkgw gdk-pixbuf`](https://anaconda.org/pkgw)
         + [ImportError: libpng15.so.15: cannot open shared object file: No such file or directory](https://groups.google.com/a/continuum.io/forum/#!topic/anaconda/FuTqRu96fbo)
