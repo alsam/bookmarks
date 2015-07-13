@@ -40,6 +40,8 @@
     + [rust on habrahabr](http://habrahabr.ru/hub/rust/)
         + [Многопоточность в Rust](http://habrahabr.ru/post/256211/)
 
+    + [Adam Leventhal's blog: First Rust Program Pain (So you can avoid it...)](http://dtrace.org/blogs/ahl/2015/06/22/first-rust-program-pain/)
+
     + [LLVM изнутри: как это работает](http://habrahabr.ru/post/101838/)
 
     + [Thorin/Impala paper: A Graph-Based Higher-Order Intermediate Representation](http://compilers.cs.uni-saarland.de/papers/lkh15_cgo.pdf)
