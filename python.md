@@ -15,3 +15,6 @@
         + [symbol loopkup error: libgobject-2.0.so.0:undefined symbol: g_bytes_unref](http://stackoverflow.com/questions/14911046/symbol-loopkup-error-libgobject-2-0-so-0undefined-symbol-g-bytes-unref)
     + [Anaconda Accelerate Fast Python for GPUs and multi-core with NumbaPro and MKL Optimizations](https://store.continuum.io/cshop/accelerate/)
         + [Thread: Non-standard python](http://ubuntuforums.org/showthread.php?t=2263955)
+
++ cython links
+    + [Cython code for the Computer Language Benchmark Game](https://github.com/cython/cython-shootout)
