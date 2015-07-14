@@ -241,6 +241,8 @@
 
 + [Python links](https://github.com/alsam/bookmarks/blob/master/python.md)
 
++ [HPC links](https://github.com/alsam/bookmarks/blob/master/hpc.md)
+
 + [Tips](https://github.com/alsam/bookmarks/blob/master/tips.md)
 
 + [Machine Learning](https://github.com/alsam/bookmarks/blob/master/machine_learning.md)
