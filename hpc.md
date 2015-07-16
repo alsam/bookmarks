@@ -3,6 +3,8 @@
 + Co-design at Lawrence Livermore National Lab
     + [Livermore Unstructured Lagrangian Explicit Shock Hydrodynamics (LULESH)](https://codesign.llnl.gov/lulesh.php)
     + [DoE Exascale Co-Design Center for Materials in Extreme Environments : Extreme Materials at Extreme Scale](http://www.exmatex.org/)
+        + [Programming Models - Languages and tools for developing multi-scale applicatins.](http://www.exmatex.org/prog-models.html)
+        + [Terra is a new low-level system programming language that is designed to interoperate seamlessly with the Lua programming language](http://terralang.org/)
 
 + CP2K
     + [Mirror of official svn repository at sourceforge. Synced every 5 minutes.](https://github.com/cp2k/cp2k)
