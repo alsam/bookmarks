@@ -1,5 +1,6 @@
 # julia language bookmarks
 + Julia links
+    + [Julia By Example](http://samuelcolvin.github.io/JuliaByExample/)
     + [Compiling Julia for NVIDIA GPUs](http://blog.maleadt.net/2015/01/15/julia-cuda/)
     + [phdthesis\title{Abstraction in Technical Computing}\author{Jeffrey Werner Bezanson}](https://github.com/JeffBezanson/phdthesis/blob/master/main.pdf)
     + [JuliaQuantum](http://juliaquantum.github.io/)
