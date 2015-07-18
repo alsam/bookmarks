@@ -58,3 +58,7 @@
 + [purescript - A small strongly typed language that compiles to Javascript](http://purescript.org)
     + [github repo for purescript](https://github.com/purescript/purescript)
     + [a bunch of purescript repos](https://github.com/freebroccolo?tab=repositories)
+
++ Unicode + LaTeX
+    + [entering-unicode-characters-in-latex](http://tex.stackexchange.com/questions/34604/entering-unicode-characters-in-latex)
+        + [insert-unicode-symbol](http://tex.stackexchange.com/questions/37445/insert-unicode-symbol)
