@@ -64,3 +64,5 @@
         + [insert-unicode-symbol](http://tex.stackexchange.com/questions/37445/insert-unicode-symbol)
 
 + [How to extract RPM or DEB packages](http://www.g-loaded.eu/2008/01/28/how-to-extract-rpm-or-deb-packages/)
+
++ [pandoc binaries](https://github.com/jgm/pandoc/releases/tag/1.15.0.6)

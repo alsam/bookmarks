@@ -46,3 +46,5 @@
 
     + [Thorin/Impala paper: A Graph-Based Higher-Order Intermediate Representation](http://compilers.cs.uni-saarland.de/papers/lkh15_cgo.pdf)
 
+    + [unicode chars for idents](http://www.reddit.com/r/rust/comments/2pvksp/filename_with_dots_or_unicode_chars_not_working/)
+
