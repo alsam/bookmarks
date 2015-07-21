@@ -66,3 +66,7 @@
 + [How to extract RPM or DEB packages](http://www.g-loaded.eu/2008/01/28/how-to-extract-rpm-or-deb-packages/)
 
 + [pandoc binaries](https://github.com/jgm/pandoc/releases/tag/1.15.0.6)
+
++ [Beyond Linux® From Scratch (systemd edition)](http://www.linuxfromscratch.org/blfs/view/systemd/)
+    + [buildtexlive](https://github.com/elkrejzi/system-management/blob/master/buildscripts/buildtexlive#L52)
+        + [Re: [blfs-dev] Possible changes to how we do texlive](https://www.mail-archive.com/blfs-dev@lists.linuxfromscratch.org/msg02996.html)
