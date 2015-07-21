@@ -71,4 +71,5 @@
     + [LFS root](http://www.linuxfromscratch.org/)
     + [Beyond Linux® From Scratch (systemd edition)](http://www.linuxfromscratch.org/blfs/view/systemd/)
         + [buildtexlive](https://github.com/elkrejzi/system-management/blob/master/buildscripts/buildtexlive#L52)
+        + [Introduction to TeX Live from source](http://www.linuxfromscratch.org/blfs/downloads/stable/BLFS-BOOK-7.7-nochunks.html#tl-installer
             + [Re: [blfs-dev] Possible changes to how we do texlive](https://www.mail-archive.com/blfs-dev@lists.linuxfromscratch.org/msg02996.html)
