@@ -59,9 +59,13 @@
     + [github repo for purescript](https://github.com/purescript/purescript)
     + [a bunch of purescript repos](https://github.com/freebroccolo?tab=repositories)
 
-+ Unicode + LaTeX
-    + [entering-unicode-characters-in-latex](http://tex.stackexchange.com/questions/34604/entering-unicode-characters-in-latex)
-        + [insert-unicode-symbol](http://tex.stackexchange.com/questions/37445/insert-unicode-symbol)
++ LaTeX
+    + [Fonts](https://en.wikibooks.org/wiki/LaTeX/Fonts)
+    + [minted – highlighted source code for LaTeX](https://code.google.com/p/minted/)
+    + [Description list with aligned descriptions](http://tex.stackexchange.com/questions/67720/description-list-with-aligned-descriptions)
+    + Unicode
+        + [entering-unicode-characters-in-latex](http://tex.stackexchange.com/questions/34604/entering-unicode-characters-in-latex)
+            + [insert-unicode-symbol](http://tex.stackexchange.com/questions/37445/insert-unicode-symbol)
 
 + [How to extract RPM or DEB packages](http://www.g-loaded.eu/2008/01/28/how-to-extract-rpm-or-deb-packages/)
 
