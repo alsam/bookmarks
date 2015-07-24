@@ -18,3 +18,7 @@
 
 + cython links
     + [Cython code for the Computer Language Benchmark Game](https://github.com/cython/cython-shootout)
+
++ numpy issues
+    + [Unable to import numpy: Error: /usr/lib/liblapack.so.3: undefined symbol: gotoblas](http://www.codeotel.com/CHVjqeqkUX/unable-to-import-numpy-error-usrlibliblapackso3-undefined-symbol-gotoblas.html)
+    + [the cure `pip install --upgrade numpy` from here](http://stackoverflow.com/questions/23612728/error-by-import-numpy-lapack-lite-so-undefined-symbol)
