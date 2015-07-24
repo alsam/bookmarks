@@ -45,6 +45,7 @@
     + [Proximal Gradient Based Inverse Lithography](http://www.seas.ucla.edu/~abde/ee236c_projectReport.pdf)
     + [Method and system for computing fourier series coefficients ...](http://patentimages.storage.googleapis.com/pdfs/US8739081.pdf)
     + [Mask Design for Optical Microlithography — An Inverse Imaging Problem](https://users.soe.ucsc.edu/~milanfar/publications/journal/Microlithography_Inverse_Final.pdf)
+    + [Machine Learning for ILT](http://www2.cse.iitk.ac.in/~iwml/2013/papers/110.pdf)
     + [lith bib](https://github.com/disyulei/ref/blob/master/Lith.bib)
 
 + Particle simulation
