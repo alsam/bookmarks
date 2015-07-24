@@ -16,6 +16,10 @@
         + [Fortran-like arrays such as FArray(Float64, -1:1,-7:7,-128:512)](https://groups.google.com/forum/#!topic/julia-dev/NOF6MA6tb9Y)
         + [Docs » Documentation of Julia’s Internals » SubArrays](http://julia.readthedocs.org/en/latest/devdocs/subarrays/)
         + [JuliaLang/ArrayViews.jl :> A Julia package to explore a new system of array views](https://github.com/JuliaLang/ArrayViews.jl)
+    + Julia closures aka lambdas performance
+        + [anonymous function calls have a huge overhead #1864](https://github.com/JuliaLang/julia/issues/1864)
+            + [from here: reddit: Rust and Julia comparison](http://www.reddit.com/r/rust/comments/27jk63/rust_and_julia_comparison/)
+            + [see also: length, numel, count, strlen #1939 summary `numel` -> `length`](https://github.com/JuliaLang/julia/issues/1939)
     + Julia automatic differention
         + [JuliaDiff Differentiation tools in Julia](http://www.juliadiff.org/)
             + [Automatic differentiation](https://en.wikipedia.org/wiki/Automatic_differentiation)
