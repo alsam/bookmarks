@@ -233,3 +233,5 @@
 + [Tips](https://github.com/alsam/bookmarks/blob/master/tips.md)
 
 + [Machine Learning](https://github.com/alsam/bookmarks/blob/master/machine_learning.md)
+
++ [Math links](https://github.com/alsam/bookmarks/blob/master/math.md)
