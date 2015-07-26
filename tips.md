@@ -20,10 +20,20 @@
         + [integration of Scala into Vim](https://github.com/derekwyatt/vim-scala)
             + [coding-scala-with-vim](http://derekwyatt.org/2013/12/31/coding-scala-with-vim.html)
 
-+ TeX / LaTeX tips
++ LaTeX tips
+    + [buildtexlive](https://github.com/elkrejzi/system-management/blob/master/buildscripts/buildtexlive#L52)
+    + [Introduction to TeX Live from source](http://www.linuxfromscratch.org/blfs/downloads/stable/BLFS-BOOK-7.7-nochunks.html#tl-installer
+        + [Re: [blfs-dev] Possible changes to how we do texlive](https://www.mail-archive.com/blfs-dev@lists.linuxfromscratch.org/msg02996.html)
     + [LaTeX Table Generator](http://www.tablesgenerator.com/)
     + [Online LaTeX Equation Editor](http://www.codecogs.com/latex/eqneditor.php)
-            
+    + [Fonts](https://en.wikibooks.org/wiki/LaTeX/Fonts)
+    + [Import graphics](https://en.wikibooks.org/wiki/LaTeX/Importing_Graphics)
+    + [minted – highlighted source code for LaTeX](https://code.google.com/p/minted/)
+    + [Description list with aligned descriptions](http://tex.stackexchange.com/questions/67720/description-list-with-aligned-descriptions)
+    + Unicode
+        + [entering-unicode-characters-in-latex](http://tex.stackexchange.com/questions/34604/entering-unicode-characters-in-latex)
+            + [insert-unicode-symbol](http://tex.stackexchange.com/questions/37445/insert-unicode-symbol)
+
 + use [dillinger for markdown formatting](http://dillinger.io/)
 + [Package algorithm2e on Ubuntu: sudo apt-get install texlive-science](http://tex.stackexchange.com/questions/46276/package-algorithm2e-on-ubuntu)
 
@@ -59,14 +69,6 @@
     + [github repo for purescript](https://github.com/purescript/purescript)
     + [a bunch of purescript repos](https://github.com/freebroccolo?tab=repositories)
 
-+ LaTeX
-    + [Fonts](https://en.wikibooks.org/wiki/LaTeX/Fonts)
-    + [minted – highlighted source code for LaTeX](https://code.google.com/p/minted/)
-    + [Description list with aligned descriptions](http://tex.stackexchange.com/questions/67720/description-list-with-aligned-descriptions)
-    + Unicode
-        + [entering-unicode-characters-in-latex](http://tex.stackexchange.com/questions/34604/entering-unicode-characters-in-latex)
-            + [insert-unicode-symbol](http://tex.stackexchange.com/questions/37445/insert-unicode-symbol)
-
 + [How to extract RPM or DEB packages](http://www.g-loaded.eu/2008/01/28/how-to-extract-rpm-or-deb-packages/)
 
 + [pandoc binaries](https://github.com/jgm/pandoc/releases/tag/1.15.0.6)
@@ -74,6 +76,4 @@
 + Linux From Scratch
     + [LFS root](http://www.linuxfromscratch.org/)
     + [Beyond Linux® From Scratch (systemd edition)](http://www.linuxfromscratch.org/blfs/view/systemd/)
-        + [buildtexlive](https://github.com/elkrejzi/system-management/blob/master/buildscripts/buildtexlive#L52)
-        + [Introduction to TeX Live from source](http://www.linuxfromscratch.org/blfs/downloads/stable/BLFS-BOOK-7.7-nochunks.html#tl-installer
-            + [Re: [blfs-dev] Possible changes to how we do texlive](https://www.mail-archive.com/blfs-dev@lists.linuxfromscratch.org/msg02996.html)
+
