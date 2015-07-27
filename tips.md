@@ -28,11 +28,18 @@
     + [Online LaTeX Equation Editor](http://www.codecogs.com/latex/eqneditor.php)
     + [Fonts](https://en.wikibooks.org/wiki/LaTeX/Fonts)
     + [Import graphics](https://en.wikibooks.org/wiki/LaTeX/Importing_Graphics)
+    + [Aligning equations with amsmath](https://www.sharelatex.com/learn/Aligning_equations_with_amsmath)
+    + [Text alignment](https://www.sharelatex.com/learn/Text_alignment)
     + [minted – highlighted source code for LaTeX](https://code.google.com/p/minted/)
     + [Description list with aligned descriptions](http://tex.stackexchange.com/questions/67720/description-list-with-aligned-descriptions)
     + Unicode
         + [entering-unicode-characters-in-latex](http://tex.stackexchange.com/questions/34604/entering-unicode-characters-in-latex)
             + [insert-unicode-symbol](http://tex.stackexchange.com/questions/37445/insert-unicode-symbol)
+        + Fonts (CMU aka Computer Modern Unicode especially)
+            + [Adding New Fonts to Your System](http://community.linuxmint.com/tutorial/view/29)
+            + [why-does-xetex-not-display-basic-unicode-characters](http://tex.stackexchange.com/questions/201622/why-does-xetex-not-display-basic-unicode-characters)
+            + [Как сказать XeLaTeX, чтобы использовал шрифты Computer Modern?](http://www.linux.org.ru/forum/desktop/8254794)
+            + [Using fonts installed in local texlive](http://tex.stackexchange.com/questions/202767/using-fonts-installed-in-local-texlive)
 
 + use [dillinger for markdown formatting](http://dillinger.io/)
 + [Package algorithm2e on Ubuntu: sudo apt-get install texlive-science](http://tex.stackexchange.com/questions/46276/package-algorithm2e-on-ubuntu)
