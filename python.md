@@ -7,6 +7,7 @@
     + [ The PyPA recommended tool for installing Python packages https://pip.pypa.io/ ](https://github.com/pypa/pip)
 
 + anaconda links
+    + [Installation of Python, Spyder, Numpy, Sympy, Scipy, Pytest, Matplotlib via Anaconda (2014)](http://www.southampton.ac.uk/~fangohr/blog/installation-of-python-spyder-numpy-sympy-scipy-pytest-matplotlib-via-anaconda.html)
     + [Anaconda Package Documentation](http://docs.continuum.io/anaconda/pkg-docs.html)
     + [anaconda ska inux-x86_64 Repodata](https://conda.binstar.org/ska/linux-64)
     + [Peter Williams pkgw: `conda install --channel https://conda.anaconda.org/pkgw gdk-pixbuf`](https://anaconda.org/pkgw)

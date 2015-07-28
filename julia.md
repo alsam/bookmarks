@@ -24,3 +24,4 @@
         + [JuliaDiff Differentiation tools in Julia](http://www.juliadiff.org/)
             + [Automatic differentiation](https://en.wikipedia.org/wiki/Automatic_differentiation)
                 + [/which-automatic-differentiation-tool-for-cc/](http://lingpipe-blog.com/2011/01/19/which-automatic-differentiation-tool-for-cc/)
+            + [Symbolic math with julia](http://mth229.github.io/symbolic.html)
