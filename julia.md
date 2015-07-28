@@ -25,3 +25,12 @@
             + [Automatic differentiation](https://en.wikipedia.org/wiki/Automatic_differentiation)
                 + [/which-automatic-differentiation-tool-for-cc/](http://lingpipe-blog.com/2011/01/19/which-automatic-differentiation-tool-for-cc/)
             + [Symbolic math with julia](http://mth229.github.io/symbolic.html)
+    + Gadfly
+        + [latex axis labels in Gadfly](https://groups.google.com/forum/#!topic/julia-users/4QY2hzaR_EI)
+        + [MathJax/LaTeX/Some sort of thing like that for labels/titles #356](https://github.com/dcjones/Gadfly.jl/issues/356)
+        + [PGFPlots backend #152](https://github.com/dcjones/Gadfly.jl/issues/152)
+            + [Public Fonts for Minority Languages of Russia](http://www.paratype.com/public/)
+            + ```sh
+                fc-cache -fv
+                xelatex Int_J1_tex.tex
+              ```
