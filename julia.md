@@ -29,6 +29,7 @@
         + [latex axis labels in Gadfly](https://groups.google.com/forum/#!topic/julia-users/4QY2hzaR_EI)
         + [MathJax/LaTeX/Some sort of thing like that for labels/titles #356](https://github.com/dcjones/Gadfly.jl/issues/356)
         + [PGFPlots backend #152](https://github.com/dcjones/Gadfly.jl/issues/152)
+            + [PGFPlots – Plotting in LaTeX](http://pgfplots.sourceforge.net/pgfplots_talk_FTUG_2012_final.pdf)
             + [Public Fonts for Minority Languages of Russia](http://www.paratype.com/public/)
             + ```sh
                 fc-cache -fv
