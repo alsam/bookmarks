@@ -28,6 +28,7 @@
                 + [Risch algorithm](https://en.wikipedia.org/wiki/Risch_algorithm)
                 + [Chebfun—numerical computing with functions](http://www.chebfun.org/)
                 + [ApproxFun - Julia package for function approximation](https://github.com/ApproxFun/ApproxFun.jl)
+                    + [A practical framework for infinite-dimensional linear algebra](http://arxiv.org/pdf/1409.5529.pdf)
             + [Symbolic math with julia](http://mth229.github.io/symbolic.html)
     + Gadfly
         + [latex axis labels in Gadfly](https://groups.google.com/forum/#!topic/julia-users/4QY2hzaR_EI)
