@@ -23,3 +23,6 @@
 + numpy issues
     + [Unable to import numpy: Error: /usr/lib/liblapack.so.3: undefined symbol: gotoblas](http://www.codeotel.com/CHVjqeqkUX/unable-to-import-numpy-error-usrlibliblapackso3-undefined-symbol-gotoblas.html)
     + [the cure `pip install --upgrade numpy` from here](http://stackoverflow.com/questions/23612728/error-by-import-numpy-lapack-lite-so-undefined-symbol)
+
++ [pychebfun - Python Chebyshev Functions](https://github.com/cswiercz/pychebfun)
+    + [AN EXTENSION OF MATLAB TO CONTINUOUS FUNCTIONS AND OPERATORS](http://people.maths.ox.ac.uk/trefethen/publication/PDF/2004_107.pdf)
