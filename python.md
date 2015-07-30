@@ -26,3 +26,5 @@
 
 + [pychebfun - Python Chebyshev Functions](https://github.com/cswiercz/pychebfun)
     + [AN EXTENSION OF MATLAB TO CONTINUOUS FUNCTIONS AND OPERATORS](http://people.maths.ox.ac.uk/trefethen/publication/PDF/2004_107.pdf)
+
++ [Bessel functions in SciPy](http://www.johndcook.com/blog/bessel_python/)
