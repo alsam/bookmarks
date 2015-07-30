@@ -1,5 +1,7 @@
 # rust language bookmarks
 + Rust links
+    + [this-week-in-rust](https://github.com/cmr/this-week-in-rust)
+        + [Data for http://this-week-in-rust.org/ in case it is down](http://this-week-in-rust.org/)
     + [Rust homepage](http://www.rust-lang.org/)
     + [Rust by example](https://github.com/rust-lang/rust-by-example)
     + [Awesome Rust: A curated list of awesome Rust code and resources](https://github.com/kud1ing/awesome-rust)
