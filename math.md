@@ -8,3 +8,7 @@
     + [Про Бурали-Форти, Пуанкаре и то самое определение единицы)(http://habrahabr.ru/post/263067/#1)
 
     + [Topological properties diagram](http://www.johndcook.com/blog/topology_diagram/)
+
+    + [Variational Equation](https://www.olivierverdier.com/posts/2014/01/28/variational-equation/)
+
+    + [Differential Geometry of Maxwell's Equations](https://www.olivierverdier.com/posts/2015/05/16/maxwell-geometry/)
