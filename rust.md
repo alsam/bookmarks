@@ -4,6 +4,7 @@
         + [Data for http://this-week-in-rust.org/ in case it is down](http://this-week-in-rust.org/)
     + [Rust homepage](http://www.rust-lang.org/)
     + [Rust by example](https://github.com/rust-lang/rust-by-example)
+    + [Rust projects](http://www.rust-ci.org/projects/)
     + [Awesome Rust: A curated list of awesome Rust code and resources](https://github.com/kud1ing/awesome-rust)
         + [gmp bindings for rust: status: build failing, ranges syntax changed](https://github.com/thestinger/rust-gmp)
         + [BLAS bindings](https://github.com/stainless-steel/blas)
@@ -14,6 +15,7 @@
     + [Announcing Rust 1.0](http://blog.rust-lang.org/2015/05/15/Rust-1.0.html)
     
     + ['The Rust Programming Language' E-Books'](http://killercup.github.io/trpl-ebook/)
+    + [The Advanced Rust Programming Language](https://doc.rust-lang.org/nightly/adv-book/)
     + [Rust For C++ Programmers](https://github.com/nrc/r4cppp)
         + [blogs: Rust for C++ programmers](http://featherweightmusings.blogspot.co.nz/search/label/rust-for-c)
         + [Arrays and Vectors in Rust](https://github.com/nrc/r4cppp/blob/master/arrays.md)
@@ -34,6 +36,8 @@
         + [Rust’s operator overloading doesn’t scale](https://internals.rust-lang.org/t/rusts-operator-overloading-doesnt-scale/408)
     + [epsilonz - Functional Programming in Rust](https://github.com/epsilonz)
 
+    + [Abstracted Algebra in Rust, or, Why Rust is better than C++, part I](http://maniagnosis.crsr.net/2015/07/abstracted-algebra-in-rust.html)
+        + [More Abstracted Algebra in Rust, or Does 'Group' distribute over 'Ring'?](http://maniagnosis.crsr.net/2015/07/more-abstracted-algebra-in-rust.html) 
     + [Graphs in Rust](http://featherweightmusings.blogspot.co.nz/2015/04/graphs-in-rust.html)
         + [Graphs and arena allocation](https://github.com/nrc/r4cppp/tree/master/graphs)
 
