@@ -73,6 +73,8 @@
     + [IgProf, The Ignominous Profiler](http://igprof.org/index.html)
     + [OProfile](http://oprofile.sourceforge.net/news/)
 
+    + [Ubuntu Linux C++ error: undefined reference to 'clock_gettime' and 'clock_settime' : add `-lrt`](http://stackoverflow.com/questions/2418157/ubuntu-linux-c-error-undefined-reference-to-clock-gettime-and-clock-settim)
+
 + [purescript - A small strongly typed language that compiles to Javascript](http://purescript.org)
     + [github repo for purescript](https://github.com/purescript/purescript)
     + [a bunch of purescript repos](https://github.com/freebroccolo?tab=repositories)
