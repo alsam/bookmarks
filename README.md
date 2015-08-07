@@ -212,6 +212,9 @@
         + [jni.h: no such file or directory](http://stackoverflow.com/questions/13466777/jni-h-no-such-file-or-directory)
         + [NewStringUTF has changed its prototype](http://xyplot.com/jni.simple.htm)
 
++ [sbt-robovm: a plugin for the Scala build tool that aims to make it as simple as possible to compile Scala (and Java) code to binaries for iOS, linux, and OSX using RoboVM ](https://github.com/roboscala/sbt-robovm)
+    + [robovm](http://robovm.com/)
+
 + [SBV: SMT Based Verification in Haskell](http://leventerkok.github.io/sbv/)
     + [When is Cheryl's birthday?](http://www.telegraph.co.uk/education/educationnews/11534378/When-is-Cheryls-birthday-The-tricky-math-problem-that-has-everyone-stumped.html)
 

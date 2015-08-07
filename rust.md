@@ -1,5 +1,6 @@
 # rust language bookmarks
 + Rust links
+    + [rust-learning](https://github.com/ctjhoa/rust-learning)
     + [this-week-in-rust](https://github.com/cmr/this-week-in-rust)
         + [Data for http://this-week-in-rust.org/ in case it is down](http://this-week-in-rust.org/)
     + [Rust homepage](http://www.rust-lang.org/)
