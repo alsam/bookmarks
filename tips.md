@@ -42,6 +42,8 @@
             + [Как сказать XeLaTeX, чтобы использовал шрифты Computer Modern?](http://www.linux.org.ru/forum/desktop/8254794)
             + [Using fonts installed in local texlive](http://tex.stackexchange.com/questions/202767/using-fonts-installed-in-local-texlive)
 
++ [Support LaTeX environments in Markdown -> HTML conversion #1938](https://github.com/jgm/pandoc/issues/1938)
+
 + use [dillinger for markdown formatting](http://dillinger.io/)
 + [Package algorithm2e on Ubuntu: sudo apt-get install texlive-science](http://tex.stackexchange.com/questions/46276/package-algorithm2e-on-ubuntu)
 
