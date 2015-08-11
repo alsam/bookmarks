@@ -29,6 +29,12 @@
     + CFD + GPU
         + [Recent progress and challenges in exploiting graphics processors in computational fluid dynamics: slightly outdated but interesting](http://arxiv.org/pdf/1309.3018.pdf)
             + [Laplace solver running on GPU using CUDA, with CPU version for comparison, slightly outdated](https://github.com/kyleniemeyer/laplace_gpu)
+        + PyFR
+            + [PyFR is an open-source Python based framework for solving advection-diffusion type problems on streaming architectures using the Flux Reconstruction approach of Huynh](http://www.pyfr.org/)
+                + [vincentlab/PyFR](https://github.com/vincentlab/PyFR)
+            + [New PyFR Paper “Heterogeneous Computing on Mixed Unstructured Grids with PyFR”](http://www.techenablement.com/new-pyfr-paper-heterogeneous-computing-on-mixed-unstructured-grids-with-pyfr/)
+            + [PyFR: An open source framework for solving advection–diffusion type problems on streaming architectures using the flux reconstruction approach](http://www.sciencedirect.com/science/article/pii/S0010465514002549)
+            + [High Performance Parallelism Pearls Volume Two: Multicore and Many-core Programming Approaches](https://books.google.ru/books?id=MUZ0CAAAQBAJ&pg=PA261&lpg=PA261&dq=mako+python+examples+c%2B%2B&source=bl&ots=nBUXLR84mk&sig=FVLDhAaYRjzoEjDCQleT43deZv4&hl=en&sa=X&ved=0CC8Q6AEwCDgKahUKEwjCjMnGvprHAhXJjywKHQuiBnE#v=onepage&q=mako%20python%20examples%20c%2B%2B&f=false)
 
 + Particle simulation
     + [MercuryDPM is a code for discrete particle simulations](http://mercurydpm.org/)

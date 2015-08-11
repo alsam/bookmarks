@@ -14,6 +14,9 @@
         + [see it for FFI bindings: Rust bindings for libpcuid CPU detection and feature extraction library](https://github.com/zsiciarz/rust-cpuid)
             + [Rust Module std::ptr](https://doc.rust-lang.org/std/ptr/)
     + [Announcing Rust 1.0](http://blog.rust-lang.org/2015/05/15/Rust-1.0.html)
+
+    + [Announcing Rust 1.2](http://blog.rust-lang.org/2015/08/06/Rust-1.2.html)
+        + [Implement associated items](https://github.com/rust-lang/rust/issues/17307)
     
     + ['The Rust Programming Language' E-Books'](http://killercup.github.io/trpl-ebook/)
     + [The Advanced Rust Programming Language](https://doc.rust-lang.org/nightly/adv-book/)
