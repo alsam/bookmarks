@@ -27,6 +27,7 @@
                 + [/which-automatic-differentiation-tool-for-cc/](http://lingpipe-blog.com/2011/01/19/which-automatic-differentiation-tool-for-cc/)
             + [Integration analog of automatic differentiation](http://math.stackexchange.com/questions/109070/integration-analog-of-automatic-differentiation)
                 + [Risch algorithm](https://en.wikipedia.org/wiki/Risch_algorithm)
+                    + [GSoC 2013 Application Chetna Gupta: Risch algorithm for symbolic integration](https://github.com/sympy/sympy/wiki/GSoC-2013-Application-Chetna-Gupta:-Risch-algorithm-for-symbolic-integration)
                 + [Chebfun—numerical computing with functions](http://www.chebfun.org/)
                 + [ApproxFun - Julia package for function approximation](https://github.com/ApproxFun/ApproxFun.jl)
                     + [A practical framework for infinite-dimensional linear algebra](http://arxiv.org/pdf/1409.5529.pdf)
