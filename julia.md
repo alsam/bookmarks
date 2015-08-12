@@ -28,6 +28,8 @@
             + [Integration analog of automatic differentiation](http://math.stackexchange.com/questions/109070/integration-analog-of-automatic-differentiation)
                 + [Risch algorithm](https://en.wikipedia.org/wiki/Risch_algorithm)
                     + [GSoC 2013 Application Chetna Gupta: Risch algorithm for symbolic integration](https://github.com/sympy/sympy/wiki/GSoC-2013-Application-Chetna-Gupta:-Risch-algorithm-for-symbolic-integration)
+                    + [Q: Automatic differentiation for numerical integration](https://www.physicsforums.com/threads/automatic-differentiation-for-numerical-integration.527251/)
+                    + [Derivative of definite integral](http://math.stackexchange.com/questions/716596/derivative-of-definite-integral)
                 + [Chebfun—numerical computing with functions](http://www.chebfun.org/)
                 + [ApproxFun - Julia package for function approximation](https://github.com/ApproxFun/ApproxFun.jl)
                     + [A practical framework for infinite-dimensional linear algebra](http://arxiv.org/pdf/1409.5529.pdf)
