@@ -24,6 +24,7 @@
     + Julia automatic differention
         + [JuliaDiff Differentiation tools in Julia](http://www.juliadiff.org/)
             + [Automatic differentiation](https://en.wikipedia.org/wiki/Automatic_differentiation)
+                + [insightful intro to AD](http://alexey.radul.name/ideas/2013/introduction-to-automatic-differentiation)
                 + [/which-automatic-differentiation-tool-for-cc/](http://lingpipe-blog.com/2011/01/19/which-automatic-differentiation-tool-for-cc/)
             + [Integration analog of automatic differentiation](http://math.stackexchange.com/questions/109070/integration-analog-of-automatic-differentiation)
                 + [Risch algorithm](https://en.wikipedia.org/wiki/Risch_algorithm)
