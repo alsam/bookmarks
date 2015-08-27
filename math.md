@@ -12,3 +12,5 @@
     + [Variational Equation](https://www.olivierverdier.com/posts/2014/01/28/variational-equation/)
 
     + [Differential Geometry of Maxwell's Equations](https://www.olivierverdier.com/posts/2015/05/16/maxwell-geometry/)
+
+    + [fastapprox](http://fastapprox.googlecode.com/svn/trunk/fastapprox/src/fastonebigheader.h)

@@ -29,3 +29,6 @@
         + [original cuda-convnet2](https://code.google.com/p/cuda-convnet2/)
     + [Assembler for NVIDIA Maxwell architecture](https://github.com/NervanaSystems/maxas)
         + [open source reverse engineering of Maxwell scheduler hints](https://github.com/NervanaSystems/maxas/wiki/Control-Codes)
+
++ Misc
+    + [https://medium.com/deep-learning-101/how-to-create-a-mind-the-secret-of-human-thought-revealed-6211bbdb092a](https://medium.com/deep-learning-101/how-to-create-a-mind-the-secret-of-human-thought-revealed-6211bbdb092a)
