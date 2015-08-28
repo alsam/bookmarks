@@ -24,6 +24,7 @@
     + Julia automatic differention
         + [JuliaDiff Differentiation tools in Julia](http://www.juliadiff.org/)
                 + [Àlex Haro Provinciale](http://www.maia.ub.es/~alex/)
+                + [Latest publications of Olivier Pironneau](http://www.ann.jussieu.fr/pironneau/publi/publications/publi.html)
             + [Automatic differentiation](https://en.wikipedia.org/wiki/Automatic_differentiation)
                 + [insightful intro to AD](http://alexey.radul.name/ideas/2013/introduction-to-automatic-differentiation)
                 + [/which-automatic-differentiation-tool-for-cc/](http://lingpipe-blog.com/2011/01/19/which-automatic-differentiation-tool-for-cc/)
