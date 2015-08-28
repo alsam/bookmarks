@@ -23,6 +23,7 @@
             + [see also: length, numel, count, strlen #1939 summary `numel` -> `length`](https://github.com/JuliaLang/julia/issues/1939)
     + Julia automatic differention
         + [JuliaDiff Differentiation tools in Julia](http://www.juliadiff.org/)
+                + [Àlex Haro Provinciale](http://www.maia.ub.es/~alex/)
             + [Automatic differentiation](https://en.wikipedia.org/wiki/Automatic_differentiation)
                 + [insightful intro to AD](http://alexey.radul.name/ideas/2013/introduction-to-automatic-differentiation)
                 + [/which-automatic-differentiation-tool-for-cc/](http://lingpipe-blog.com/2011/01/19/which-automatic-differentiation-tool-for-cc/)
@@ -32,6 +33,7 @@
                     + [GSoC 2013 Application Chetna Gupta: Risch algorithm for symbolic integration](https://github.com/sympy/sympy/wiki/GSoC-2013-Application-Chetna-Gupta:-Risch-algorithm-for-symbolic-integration)
                     + [Q: Automatic differentiation for numerical integration](https://www.physicsforums.com/threads/automatic-differentiation-for-numerical-integration.527251/)
                     + [Derivative of definite integral](http://math.stackexchange.com/questions/716596/derivative-of-definite-integral)
+                        + [Differentiation under the integral sign problem](http://math.stackexchange.com/questions/1128793/differentiation-under-the-integral-sign-problem)
                 + [Chebfun—numerical computing with functions](http://www.chebfun.org/)
                 + [ApproxFun - Julia package for function approximation](https://github.com/ApproxFun/ApproxFun.jl)
                     + [A practical framework for infinite-dimensional linear algebra](http://arxiv.org/pdf/1409.5529.pdf)
