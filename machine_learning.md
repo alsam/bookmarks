@@ -32,3 +32,5 @@
 
 + Misc
     + [https://medium.com/deep-learning-101/how-to-create-a-mind-the-secret-of-human-thought-revealed-6211bbdb092a](https://medium.com/deep-learning-101/how-to-create-a-mind-the-secret-of-human-thought-revealed-6211bbdb092a)
+
+    + [http://colah.github.io/posts/2015-08-Understanding-LSTMs](Understanding LSTM Networks)
