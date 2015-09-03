@@ -33,4 +33,12 @@
 + Misc
     + [https://medium.com/deep-learning-101/how-to-create-a-mind-the-secret-of-human-thought-revealed-6211bbdb092a](https://medium.com/deep-learning-101/how-to-create-a-mind-the-secret-of-human-thought-revealed-6211bbdb092a)
 
-    + [http://colah.github.io/posts/2015-08-Understanding-LSTMs](Understanding LSTM Networks)
+    + [colah's blog](http://colah.github.io/archive.html)
+        + [https://christopherolah.wordpress.com/](https://christopherolah.wordpress.com/)
+        + [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs)
+        + [Calculus on Computational Graphs: Backpropagation](http://colah.github.io/posts/2015-08-Backprop/index.html)
+            + [Stalingrad Home Page](http://www.bcl.hamilton.ie/~qobi/stalingrad/)
+                + [dysvunctional-language](https://github.com/axch/dysvunctional-language)
+        + [Deep Learning, NLP, and Representations](http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/)
+        + [Neural Networks, Manifolds, and Topology](http://colah.github.io/posts/2014-03-NN-Manifolds-Topology/)
+        + [Understanding Convolutions](http://colah.github.io/posts/2014-07-Understanding-Convolutions/)
