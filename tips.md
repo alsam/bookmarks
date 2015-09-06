@@ -45,6 +45,13 @@
             + [Mathematics#List_of_Mathematical_Symbols](https://en.wikibooks.org/wiki/LaTeX/Mathematics#List_of_Mathematical_Symbols)
                 + [How do I use a circle as a math accent (larger than \mathring)?](http://tex.stackexchange.com/questions/3266/how-do-i-use-a-circle-as-a-math-accent-larger-than-mathring)
 
++ Creating diagrams
+    + [Creating documents with embedded diagrams](https://byorgey.wordpress.com/2012/08/28/creating-documents-with-embedded-diagrams/)
+        + [diagrams](http://projects.haskell.org/diagrams/)
+            + [diagrams-builder](https://github.com/diagrams/diagrams-builder)
+        + [Unordered tuples and type algebra](https://byorgey.wordpress.com/2012/08/24/unordered-tuples-and-type-algebra/)
+    + [Embedded diagrams in pandoc's markdown](https://github.com/nichtich/ditaa-markdown/)
+
 + [Support LaTeX environments in Markdown -> HTML conversion #1938](https://github.com/jgm/pandoc/issues/1938)
 
 + use [dillinger for markdown formatting](http://dillinger.io/)
