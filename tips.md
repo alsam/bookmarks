@@ -49,6 +49,7 @@
     + [Creating documents with embedded diagrams](https://byorgey.wordpress.com/2012/08/28/creating-documents-with-embedded-diagrams/)
         + [diagrams](http://projects.haskell.org/diagrams/)
             + [diagrams-builder](https://github.com/diagrams/diagrams-builder)
+                + [Flowchart sample](https://en.wikipedia.org/wiki/Flowchart#/media/File:Flowgorithm_Editor.png)
         + [Unordered tuples and type algebra](https://byorgey.wordpress.com/2012/08/24/unordered-tuples-and-type-algebra/)
     + [Embedded diagrams in pandoc's markdown](https://github.com/nichtich/ditaa-markdown/)
 
