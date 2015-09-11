@@ -44,6 +44,7 @@
 
             + [Mathematics#List_of_Mathematical_Symbols](https://en.wikibooks.org/wiki/LaTeX/Mathematics#List_of_Mathematical_Symbols)
                 + [How do I use a circle as a math accent (larger than \mathring)?](http://tex.stackexchange.com/questions/3266/how-do-i-use-a-circle-as-a-math-accent-larger-than-mathring)
+                + [how to get good looking copyright and registered symbols](http://tex.stackexchange.com/questions/1676/how-to-get-good-looking-copyright-and-registered-symbols)
 
 + Creating diagrams
     + [Creating documents with embedded diagrams](https://byorgey.wordpress.com/2012/08/28/creating-documents-with-embedded-diagrams/)
