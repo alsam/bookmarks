@@ -17,3 +17,6 @@
     + [Machine Learning for ILT](http://www2.cse.iitk.ac.in/~iwml/2013/papers/110.pdf)
     + [lith bib](https://github.com/disyulei/ref/blob/master/Lith.bib)
 
+    + [True Process Variation Aware OPC with Variational Lithography Modeling](http://www.cerc.utexas.edu/utda/publications/ProcessVarAwareOPC.pdf)
+    + [A Novel Intensity Based Optical Proximity Correction Algorithm](http://www.cerc.utexas.edu/utda/publications/iccad_07_intensity_based_opc.pdf)
+
