@@ -42,3 +42,8 @@
         + [Deep Learning, NLP, and Representations](http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/)
         + [Neural Networks, Manifolds, and Topology](http://colah.github.io/posts/2014-03-NN-Manifolds-Topology/)
         + [Understanding Convolutions](http://colah.github.io/posts/2014-07-Understanding-Convolutions/)
+
+
+    + [Andrej Karpathy blog](http://karpathy.github.io/)
+        + [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
+
