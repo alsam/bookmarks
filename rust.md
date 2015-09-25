@@ -58,6 +58,12 @@
 
     + [unicode chars for idents](http://www.reddit.com/r/rust/comments/2pvksp/filename_with_dots_or_unicode_chars_not_working/)
 
+    + Rust parser generators
+        + [LALRPOP](http://smallcultfollowing.com/babysteps/blog/2015/09/14/lalrpop/)
+            + [LALRPOP tutorial](https://github.com/nikomatsakis/lalrpop/blob/master/doc/tutorial.md)
+        + [rusty-peg crate](https://crates.io/crates/rusty-peg)
+            + [rusty-peg github](https://github.com/nikomatsakis/rusty-peg)
+
     + Misc
         + [Contributing to Rust]([http://www.ncameron.org/rust.html)
         + [Interview with Mozilla’s Aaron Turon](http://www.pl-enthusiast.net/2015/06/09/interview-with-mozillas-aaron-turon/)
