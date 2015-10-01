@@ -47,3 +47,8 @@
     + [Andrej Karpathy blog](http://karpathy.github.io/)
         + [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 
+    + RNN et. al
+        + [Optimizing RNN performance : Part I: Investigating performance of GPU BLAS Libraries](http://svail.github.io/)
+        + [MemN2N for language modeling](https://github.com/facebook/MemNN/tree/master/MemN2N-lang-model)
+        + [Recurrent Neural Networks Tutorial, Part 1 – Introduction to RNNs](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/)
+        + [Recurrent Neural Networks Tutorial, Part 2 – Implementing a RNN with Python, Numpy and Theano](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-2-implementing-a-language-model-rnn-with-python-numpy-and-theano/)

@@ -68,9 +68,12 @@
         + [Contributing to Rust]([http://www.ncameron.org/rust.html)
         + [Interview with Mozilla’s Aaron Turon](http://www.pl-enthusiast.net/2015/06/09/interview-with-mozillas-aaron-turon/)
         + [Higher-kinded type trait](https://www.reddit.com/r/rust/comments/31g0qd/higherkinded_type_trait/)
+            + [Rust and the Monad trait - Not just higher kinded types](https://m4rw3r.github.io/rust-and-monad-trait/)
         + [julia vs. rust](http://vschart.com/compare/julia/vs/rust)
         + [Higher kinded polymorphism #324](https://github.com/rust-lang/rfcs/issues/324)
             + [Higher-kinded types #1185 ](https://github.com/rust-lang/rfcs/issues/1185#issuecomment-117812357)
                 + [implement higher-order unification for type constructor inference](https://issues.scala-lang.org/browse/SI-2712)
             + [What languages other than Haskell support higher kinded types?](https://www.reddit.com/r/haskell/comments/35ay8f/what_languages_other_than_haskell_support_higher/)
+
+
 
