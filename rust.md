@@ -75,5 +75,6 @@
                 + [implement higher-order unification for type constructor inference](https://issues.scala-lang.org/browse/SI-2712)
             + [What languages other than Haskell support higher kinded types?](https://www.reddit.com/r/haskell/comments/35ay8f/what_languages_other_than_haskell_support_higher/)
 
+        + [Rust, дисциплинирующий язык программирования](http://habrahabr.ru/company/piter/blog/267203/)
 
 
