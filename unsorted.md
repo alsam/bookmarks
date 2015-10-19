@@ -5,6 +5,8 @@
     + [Scalable Verification Techniques for Data-Parallel Programs](http://www.doc.ic.ac.uk/~nyc04/thesis.pdf)
     + [Beating Nyquist](https://github.com/jakevdp/nyquist/blob/master/Nyquist.ipynb)
 
+    + [Type-Driven Development in Idris — Edwin Brady](https://www.youtube.com/watch?v=X36ye-1x_HQ)
+
     + Helios Operating System
         + [The Helios Operatin System Book](http://www.transputer.net/hbooks/techref/hbk.pdf)
         + Helios New Generation
