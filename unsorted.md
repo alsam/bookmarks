@@ -13,3 +13,6 @@
             + [Helios NG Plan](http://www.geekdot.com/helios-ng/)
             + [Helios NG github](https://github.com/axelmuhr/Helios-NG)
             + [Helios NG hati branch](https://github.com/axelmuhr/Helios-NG/tree/hati)
+
+    + Redox: A Rust Operating System
+        + [github redox os](https://github.com/redox-os/redox)
