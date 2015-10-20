@@ -46,6 +46,11 @@
 
     + [Andrej Karpathy blog](http://karpathy.github.io/)
         + [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
+            + [Multi-layer Recurrent Neural Networks (LSTM, GRU, RNN) for character-level language models in Torch ](https://github.com/karpathy/char-rnn)
+                + [Torch is a scientific computing framework with wide support for machine learning algorithms](http://torch.ch/)
+                    + [torch/torch7](https://github.com/torch/torch7)
+                    + [Torch Cheatsheet](https://github.com/torch/torch7/wiki/Cheatsheet#cuda)
+                    + [Learn Lua in 15 Minutes](http://tylerneylon.com/a/learn-lua/)
 
     + RNN et. al
         + [Optimizing RNN performance : Part I: Investigating performance of GPU BLAS Libraries](http://svail.github.io/)
