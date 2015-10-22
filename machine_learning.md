@@ -57,4 +57,5 @@
         + [MemN2N for language modeling](https://github.com/facebook/MemNN/tree/master/MemN2N-lang-model)
         + [Recurrent Neural Networks Tutorial, Part 1 – Introduction to RNNs](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/)
         + [Recurrent Neural Networks Tutorial, Part 2 – Implementing a RNN with Python, Numpy and Theano](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-2-implementing-a-language-model-rnn-with-python-numpy-and-theano/)
+        + [Recurrent Neural Networks Tutorial, Part 3 – Backpropagation Through Time and Vanishing Gradients](http://www.wildml.com/2015/10/recurrent-neural-networks-tutorial-part-3-backpropagation-through-time-and-vanishing-gradients/)
         + [Top 5 arXiv Deep Learning Papers, Explained](http://www.kdnuggets.com/2015/10/top-arxiv-deep-learning-papers-explained.html)
