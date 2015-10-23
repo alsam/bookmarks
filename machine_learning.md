@@ -60,3 +60,6 @@
         + [Recurrent Neural Networks Tutorial, Part 3 – Backpropagation Through Time and Vanishing Gradients](http://www.wildml.com/2015/10/recurrent-neural-networks-tutorial-part-3-backpropagation-through-time-and-vanishing-gradients/)
         + [Top 5 arXiv Deep Learning Papers, Explained](http://www.kdnuggets.com/2015/10/top-arxiv-deep-learning-papers-explained.html)
         + [thesis: Reinforcement Learning with Recurrent Neural Networks](https://repositorium.uni-osnabrueck.de/bitstream/urn:nbn:de:gbv:700-2008112111/2/E-Diss839_thesis.pdf)
+
+        + [Demystifying LSTM neural networks](http://blog.terminal.com/demistifying-long-short-term-memory-lstm-recurrent-neural-networks/)
+        + [A Critical Review of Recurrent Neural Networks for Sequence Learning](http://arxiv.org/pdf/1506.00019v4.pdf)
