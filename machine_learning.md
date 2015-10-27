@@ -74,3 +74,6 @@
         + [An Introduction to Machine Learning Theory and Its Applications: A Visual Tutorial with Examples](http://www.datasciencecentral.com/profiles/blogs/an-introduction-to-machine-learning-theory-and-its-applications-a)
             + [An Introduction to Machine Learning Theory and Its Applications: A Visual Tutorial with Examples](http://www.rightrelevance.com/search/articles/hero?article=d48a3b36a554c8385c643978b44a1a413516a3cc&query=machine%20learning&taccount=ml_toparticles)
         + [An Algorithmic God -- Gregory Chaitin](http://inference-review.com/article/an-algorithmic-god)
+
+        + [Homomorphic machine learning; in Haskell](https://github.com/mikeizbicki/HLearn)
+            + [Mike Izbicki' blog](https://izbicki.me/)
