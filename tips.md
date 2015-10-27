@@ -22,6 +22,7 @@
             + [vim, scala and ctags](http://andrew.stwrt.ca/posts/vim-ctags/)
         + [integration of Scala into Vim](https://github.com/derekwyatt/vim-scala)
             + [coding-scala-with-vim](http://derekwyatt.org/2013/12/31/coding-scala-with-vim.html)
+    + [VIM and Python -- a Match Made in Heaven](https://realpython.com/blog/python/vim-and-python-a-match-made-in-heaven/)
 
 + LaTeX tips
     + [Modern LaTeX typesetting](https://www.olivierverdier.com/posts/2013/07/15/modern-latex/)
