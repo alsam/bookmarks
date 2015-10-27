@@ -63,3 +63,9 @@
 
         + [Demystifying LSTM neural networks](http://blog.terminal.com/demistifying-long-short-term-memory-lstm-recurrent-neural-networks/)
         + [A Critical Review of Recurrent Neural Networks for Sequence Learning](http://arxiv.org/pdf/1506.00019v4.pdf)
+
+    + misc.
+        + [Model-Based Machine Learning, Free Early Book Draft](http://www.rightrelevance.com/search/articles/hero?article=f8f357759d3967360b016af629853d8d27850ffa&query=machine%20learning&taccount=ml_toparticles)
+        + [An Introduction to Machine Learning Theory and Its Applications: A Visual Tutorial with Examples](http://www.datasciencecentral.com/profiles/blogs/an-introduction-to-machine-learning-theory-and-its-applications-a)
+            + [An Introduction to Machine Learning Theory and Its Applications: A Visual Tutorial with Examples](http://www.rightrelevance.com/search/articles/hero?article=d48a3b36a554c8385c643978b44a1a413516a3cc&query=machine%20learning&taccount=ml_toparticles)
+        + [An Algorithmic God -- Gregory Chaitin](http://inference-review.com/article/an-algorithmic-god)
