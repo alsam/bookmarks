@@ -52,6 +52,8 @@
                     + [Torch Cheatsheet](https://github.com/torch/torch7/wiki/Cheatsheet#cuda)
                     + [Learn Lua in 15 Minutes](http://tylerneylon.com/a/learn-lua/)
 
+    + [A curated list of speech and natural language processing resources](https://medium.com/@joshdotai/a-curated-list-of-speech-and-natural-language-processing-resources-4d89f94c032a#.2cyphikgy)
+
     + RNN et. al
         + [Optimizing RNN performance : Part I: Investigating performance of GPU BLAS Libraries](http://svail.github.io/)
         + [MemN2N for language modeling](https://github.com/facebook/MemNN/tree/master/MemN2N-lang-model)
