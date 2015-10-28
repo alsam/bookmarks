@@ -78,3 +78,5 @@
 
         + [Homomorphic machine learning; in Haskell](https://github.com/mikeizbicki/HLearn)
             + [Mike Izbicki' blog](https://izbicki.me/)
+
+        + [RM-SORN: a reward-modulated self-organizing recurrent neural network](http://journal.frontiersin.org/article/10.3389/fncom.2015.00036/full)
