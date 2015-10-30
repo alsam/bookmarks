@@ -42,6 +42,9 @@
         + [Deep Learning, NLP, and Representations](http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/)
         + [Neural Networks, Manifolds, and Topology](http://colah.github.io/posts/2014-03-NN-Manifolds-Topology/)
         + [Understanding Convolutions](http://colah.github.io/posts/2014-07-Understanding-Convolutions/)
+        + [Neural Networks, Types, and Functional Programming](http://colah.github.io/posts/2015-09-NN-Types-FP/)
+        + [Visualizing Representations: Deep Learning and Human Beings](http://colah.github.io/posts/2015-01-Visualizing-Representations/)
+        + [Fanfiction, Graphs, and PageRank](http://colah.github.io/posts/2014-07-FFN-Graphs-Vis/)
 
 
     + [Andrej Karpathy blog](http://karpathy.github.io/)
@@ -70,6 +73,8 @@
         + [Minimal, clean example of lstm neural network training in python, for learning purposes](https://github.com/nicodjimenez/lstm)
 
         + [A Framework for Distributed Deep Learning Layer Design in Python](https://claymcleod.github.io/papers/distributed-dnn/paper.html)
+
+        + [A DSL for deep neural networks, supporting Caffe and Torch http://ajtulloch.github.io/dnngraph](https://github.com/ajtulloch/dnngraph)
 
     + misc.
         + [Model-Based Machine Learning, Free Early Book Draft](http://www.rightrelevance.com/search/articles/hero?article=f8f357759d3967360b016af629853d8d27850ffa&query=machine%20learning&taccount=ml_toparticles)
