@@ -45,6 +45,7 @@
         + [Neural Networks, Types, and Functional Programming](http://colah.github.io/posts/2015-09-NN-Types-FP/)
         + [Visualizing Representations: Deep Learning and Human Beings](http://colah.github.io/posts/2015-01-Visualizing-Representations/)
         + [Fanfiction, Graphs, and PageRank](http://colah.github.io/posts/2014-07-FFN-Graphs-Vis/)
+        + [Visual Information Theory](http://colah.github.io/posts/2015-09-Visual-Information/)
 
 
     + [Andrej Karpathy blog](http://karpathy.github.io/)
