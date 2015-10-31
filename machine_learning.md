@@ -54,6 +54,7 @@
                     + [torch/torch7](https://github.com/torch/torch7)
                     + [Torch Cheatsheet](https://github.com/torch/torch7/wiki/Cheatsheet#cuda)
                     + [Learn Lua in 15 Minutes](http://tylerneylon.com/a/learn-lua/)
+                + [Gaussian Processes for Torch7](https://github.com/j-wilson/gpTorch7)
 
     + [A curated list of speech and natural language processing resources](https://medium.com/@joshdotai/a-curated-list-of-speech-and-natural-language-processing-resources-4d89f94c032a#.2cyphikgy)
 
