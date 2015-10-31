@@ -77,4 +77,4 @@
 
         + [Rust, дисциплинирующий язык программирования](http://habrahabr.ru/company/piter/blog/267203/)
 
-
+        + [Good Practices for Writing Rust Libraries](https://pascalhertleif.de/artikel/good-practices-for-writing-rust-libraries/)
