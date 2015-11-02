@@ -14,3 +14,10 @@
     + [Differential Geometry of Maxwell's Equations](https://www.olivierverdier.com/posts/2015/05/16/maxwell-geometry/)
 
     + [fastapprox](http://fastapprox.googlecode.com/svn/trunk/fastapprox/src/fastonebigheader.h)
+
+    + HoTT
+        + [15-819 Homotopy Type Theory](https://www.cs.cmu.edu/~rwh/courses/hott/)
+        + [The HoTT Book](http://homotopytypetheory.org/book/)
+        + [Гомотопическая теория типов](https://ru.wikipedia.org/wiki/%D0%93%D0%BE%D0%BC%D0%BE%D1%82%D0%BE%D0%BF%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F_%D1%82%D0%B8%D0%BF%D0%BE%D0%B2)
+
+    + [10 крупнейших математических достижений последних лет](http://habrahabr.ru/post/269811/)
