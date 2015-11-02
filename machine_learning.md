@@ -86,6 +86,7 @@
     + misc.
         + [Deep Learning links](http://deeplearning.net/software_links/)
         + [VK:  Библиотеки реализующие алгоритмы Deep Learning Nikolay Sergievsky](https://vk.com/topic-44016343_29211791)
+        + [FB link on ML](https://m.facebook.com/elcompeng/posts/816517058368363)
         + [Сравнение библиотек глубокого обучения на примере задачи классификации рукописных цифр](http://habrahabr.ru/company/itseez/blog/254747/)
 
         + [Model-Based Machine Learning, Free Early Book Draft](http://www.rightrelevance.com/search/articles/hero?article=f8f357759d3967360b016af629853d8d27850ffa&query=machine%20learning&taccount=ml_toparticles)
