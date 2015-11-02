@@ -58,6 +58,7 @@
                 + [Flowchart sample](https://en.wikipedia.org/wiki/Flowchart#/media/File:Flowgorithm_Editor.png)
         + [Unordered tuples and type algebra](https://byorgey.wordpress.com/2012/08/24/unordered-tuples-and-type-algebra/)
     + [Embedded diagrams in pandoc's markdown](https://github.com/nichtich/ditaa-markdown/)
+    + [PlantUML](http://plantuml.com/running.html)
 
 + [Support LaTeX environments in Markdown -> HTML conversion #1938](https://github.com/jgm/pandoc/issues/1938)
 
@@ -107,4 +108,9 @@
 + Linux From Scratch
     + [LFS root](http://www.linuxfromscratch.org/)
     + [Beyond Linux® From Scratch (systemd edition)](http://www.linuxfromscratch.org/blfs/view/systemd/)
+
++ Atom editor performance issues
+    + [ Atom hangs on large directories/files and when window switching #9325](https://github.com/atom/atom/issues/9325)
+    + [](https://github.com/atom/atom/pull/6733#issuecomment-108407945)
+    + [ Find remaining performance bottlenecks for large files #6692](https://github.com/atom/atom/issues/6692)
 
