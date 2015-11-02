@@ -81,6 +81,7 @@
         + [A DSL for deep neural networks, supporting Caffe and Torch http://ajtulloch.github.io/dnngraph](https://github.com/ajtulloch/dnngraph)
 
         + [Recurrent Neural Networks (RNN) list](http://gitxiv.com/category/recurrent-neural-networks-rnn)
+        + [Convolutional Neural Networks (CNN)](http://gitxiv.com/category/convolutional-neural-networks-cnn)
 
     + misc.
         + [Model-Based Machine Learning, Free Early Book Draft](http://www.rightrelevance.com/search/articles/hero?article=f8f357759d3967360b016af629853d8d27850ffa&query=machine%20learning&taccount=ml_toparticles)
