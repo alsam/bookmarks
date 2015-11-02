@@ -84,6 +84,7 @@
         + [Convolutional Neural Networks (CNN)](http://gitxiv.com/category/convolutional-neural-networks-cnn)
 
     + misc.
+        + [Deep Learning links](http://deeplearning.net/software_links/)
         + [VK:  Библиотеки реализующие алгоритмы Deep Learning Nikolay Sergievsky](https://vk.com/topic-44016343_29211791)
         + [Сравнение библиотек глубокого обучения на примере задачи классификации рукописных цифр](http://habrahabr.ru/company/itseez/blog/254747/)
 
