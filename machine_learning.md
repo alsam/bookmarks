@@ -82,6 +82,8 @@
 
         + [Recurrent Neural Networks (RNN) list](http://gitxiv.com/category/recurrent-neural-networks-rnn)
         + [Convolutional Neural Networks (CNN)](http://gitxiv.com/category/convolutional-neural-networks-cnn)
+        + [VK:  Библиотеки реализующие алгоритмы Deep Learning Nikolay Sergievsky](https://vk.com/topic-44016343_29211791)
+        + [Сравнение библиотек глубокого обучения на примере задачи классификации рукописных цифр](http://habrahabr.ru/company/itseez/blog/254747/)
 
     + misc.
         + [Model-Based Machine Learning, Free Early Book Draft](http://www.rightrelevance.com/search/articles/hero?article=f8f357759d3967360b016af629853d8d27850ffa&query=machine%20learning&taccount=ml_toparticles)
