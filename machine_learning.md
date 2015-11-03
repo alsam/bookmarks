@@ -100,3 +100,5 @@
             + [Mike Izbicki' blog](https://izbicki.me/)
 
         + [RM-SORN: a reward-modulated self-organizing recurrent neural network](http://journal.frontiersin.org/article/10.3389/fncom.2015.00036/full)
+
+        + [Beginning studies on deep learning](http://onox.com.br/beginning-studies-on-deep-learning/)
