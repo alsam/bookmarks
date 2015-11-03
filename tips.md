@@ -115,4 +115,4 @@
     + [ Find remaining performance bottlenecks for large files #6692](https://github.com/atom/atom/issues/6692)
 
 + C++
-    + [The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++](https://github.com/isocpp/CppCoreGuidelines
+    + [The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++](https://github.com/isocpp/CppCoreGuidelines)
