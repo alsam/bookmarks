@@ -80,3 +80,6 @@
         + [Good Practices for Writing Rust Libraries](https://pascalhertleif.de/artikel/good-practices-for-writing-rust-libraries/)
 
         + [A comparison of operating systems written in Rust](https://github.com/flosse/rust-os-comparison)
+
+        + [Rust Lifetimes](http://www.charlesetc.com/rust/2015/10/29/)
+        + [Lifetime Reference](http://www.charlesetc.com/rust/2015/10/31/)
