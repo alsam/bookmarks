@@ -83,3 +83,10 @@
 
         + [Rust Lifetimes](http://www.charlesetc.com/rust/2015/10/29/)
         + [Lifetime Reference](http://www.charlesetc.com/rust/2015/10/31/)
+            + [official lifetimes doc](https://doc.rust-lang.org/book/lifetimes.html)
+
+        + [Iterator trait](https://doc.rust-lang.org/nightly/std/iter/trait.Iterator.html)
+
+        + [Can't find crate for `num`](http://stackoverflow.com/questions/29189615/cant-find-crate-for-num)
+
+        + [Rosetta code for complex in Rust](http://rosettacode.org/wiki/Arithmetic/Complex#Rust)
