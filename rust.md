@@ -89,4 +89,6 @@
 
         + [Can't find crate for `num`](http://stackoverflow.com/questions/29189615/cant-find-crate-for-num)
 
+        + [Multiple binaries in Cargo](https://users.rust-lang.org/t/multiple-binaries-in-cargo/3049/2)
+
         + [Rosetta code for complex in Rust](http://rosettacode.org/wiki/Arithmetic/Complex#Rust)
