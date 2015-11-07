@@ -92,3 +92,10 @@
         + [Multiple binaries in Cargo](https://users.rust-lang.org/t/multiple-binaries-in-cargo/3049/2)
 
         + [Rosetta code for complex in Rust](http://rosettacode.org/wiki/Arithmetic/Complex#Rust)
+
+        + [Generics over the size of an array type](https://internals.rust-lang.org/t/generics-over-the-size-of-an-array-type/2845)
+
+        + [OOP inheritance adapted to Rust](https://internals.rust-lang.org/t/oop-inheritance-adapted-to-rust/586)
+            + [Usecases for inheritance](https://users.rust-lang.org/t/usecases-for-inheritance/348)
+            + [Abstraction without overhead: traits in Rust](http://blog.rust-lang.org/2015/05/11/traits.html)
+                + [Most coveted Rust features](https://users.rust-lang.org/t/most-coveted-rust-features/324/15)
