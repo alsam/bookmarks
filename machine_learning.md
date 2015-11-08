@@ -53,6 +53,7 @@
             + [Multi-layer Recurrent Neural Networks (LSTM, GRU, RNN) for character-level language models in Torch ](https://github.com/karpathy/char-rnn)
                 + [Torch is a scientific computing framework with wide support for machine learning algorithms](http://torch.ch/)
                     + [torch/torch7](https://github.com/torch/torch7)
+                        + [Autograd automatically differentiates native Torch code. Ported to Lua from the original Python version.](https://github.com/twitter/torch-autograd)
                     + [Torch Cheatsheet](https://github.com/torch/torch7/wiki/Cheatsheet#cuda)
                     + [Learn Lua in 15 Minutes](http://tylerneylon.com/a/learn-lua/)
                     + [cutorch install failure with ubuntu 15.10 & cuda 7.5.18](https://groups.google.com/forum/#!topic/torch7/t_uOdgwM8BM)
@@ -68,6 +69,7 @@
         + [Recurrent Neural Networks Tutorial, Part 2 – Implementing a RNN with Python, Numpy and Theano](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-2-implementing-a-language-model-rnn-with-python-numpy-and-theano/)
         + [Recurrent Neural Networks Tutorial, Part 3 – Backpropagation Through Time and Vanishing Gradients](http://www.wildml.com/2015/10/recurrent-neural-networks-tutorial-part-3-backpropagation-through-time-and-vanishing-gradients/)
         + [Recurrent Neural Network Tutorial, Part 4 – Implementing a GRU/LSTM RNN with Python and Theano](http://www.wildml.com/2015/10/recurrent-neural-network-tutorial-part-4-implementing-a-grulstm-rnn-with-python-and-theano/)
+        + [Understanding Convolutional Neural Networks for NLP | WildML](http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/)
         + [Top 5 arXiv Deep Learning Papers, Explained](http://www.kdnuggets.com/2015/10/top-arxiv-deep-learning-papers-explained.html)
         + [thesis: Reinforcement Learning with Recurrent Neural Networks](https://repositorium.uni-osnabrueck.de/bitstream/urn:nbn:de:gbv:700-2008112111/2/E-Diss839_thesis.pdf)
 
