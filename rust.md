@@ -94,7 +94,7 @@
         + [Rosetta code for complex in Rust](http://rosettacode.org/wiki/Arithmetic/Complex#Rust)
 
         + [Generics over the size of an array type](https://internals.rust-lang.org/t/generics-over-the-size-of-an-array-type/2845)
-
+        + [Initialize an array with a closure](http://stackoverflow.com/questions/29682881/initialize-an-array-with-a-closure)
         + [OOP inheritance adapted to Rust](https://internals.rust-lang.org/t/oop-inheritance-adapted-to-rust/586)
             + [Usecases for inheritance](https://users.rust-lang.org/t/usecases-for-inheritance/348)
             + [Abstraction without overhead: traits in Rust](http://blog.rust-lang.org/2015/05/11/traits.html)
