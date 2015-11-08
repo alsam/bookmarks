@@ -108,6 +108,14 @@
             + [VexCL is a C++ vector expression template library for OpenCL/CUDA](https://github.com/ddemidov/vexcl)
             + [Generating OpenCL/CUDA source code from C++ expressions in VexCL](https://isocpp.org/blog/2015/01/generating-opencl-cuda-source-code-from-c-expressions-in-vexcl)
 
+    + AnyDSL - A Framework for Rapid Development of Domain-Specific Libraries; thorin (The Higher-ORder INtermediate representation) / impala (An imperative and functional programming language)
+        + [A Framework for Rapid Development of Domain-Specific Libraries](http://anydsl.github.io/)
+            + [Shallow Embedding of DSLs via Online Partial Evaluation.(Best Paper Award)](http://compilers.cs.uni-saarland.de/papers/gpce15.pdf)
+        + [thorin - The Higher-ORder INtermediate representation](https://github.com/AnyDSL/thorin)
+        + [impala - An imperative and functional programming language](https://github.com/AnyDSL/impala)
+        + [A DSL for Stencil Codes](https://github.com/AnyDSL/stincilla)
+        + [ports from http://benchmarksgame.alioth.debian.org](https://github.com/AnyDSL/benchmarks-impala)
+
 + Polyhedral papers intro & focused to GPU code generation
     + [Polyhedral Compilation](http://polyhedral.info/)
     + [Code Generation in the Polyhedral Model Is Easier Than You Think](https://hal.archives-ouvertes.fr/hal-00017260/document)
