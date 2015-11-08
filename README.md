@@ -187,7 +187,7 @@
         + [fmmtl: FMM Template Library -- a structured dense matrix algorithms library, GPU accelerated, Simon Layton is coauthor](https://github.com/ccecka/fmmtl)
         + [LAMA -- Library for Accelerated Math Applications -- GPU accelerated](http://www.libama.org/overview.html)
             + [sourceforge project for LAMA](http://sourceforge.net/projects/libama/)
-    + [blaze-lib -- A high performance C++ math library -- claims to be the fastest, supports AVX](http://code.google.com/p/blaze-lib/)
+    + [blaze-lib -- A high performance C++ math library -- claims to be the fastest, supports AVX](https://bitbucket.org/blaze-lib/blaze)
         + [wiki link compares blaze vs. other C++ libraries](http://code.google.com/p/blaze-lib/wiki/Benchmarks)
     + [psBLAS -- Parallel Sparse Basic Linear Algebra Subroutines -- Fortran2003](http://www.ce.uniroma2.it/psblas/)
 
