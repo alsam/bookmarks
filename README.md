@@ -110,11 +110,12 @@
 
     + AnyDSL - A Framework for Rapid Development of Domain-Specific Libraries; thorin (The Higher-ORder INtermediate representation) / impala (An imperative and functional programming language)
         + [A Framework for Rapid Development of Domain-Specific Libraries](http://anydsl.github.io/)
+            + [AnyDSL Build Instructions](https://github.com/AnyDSL/anydsl/wiki/Build-Instructions) 
             + [Shallow Embedding of DSLs via Online Partial Evaluation.(Best Paper Award)](http://compilers.cs.uni-saarland.de/papers/gpce15.pdf)
         + [thorin - The Higher-ORder INtermediate representation](https://github.com/AnyDSL/thorin)
         + [impala - An imperative and functional programming language](https://github.com/AnyDSL/impala)
         + [A DSL for Stencil Codes](https://github.com/AnyDSL/stincilla)
-        + [ports from http://benchmarksgame.alioth.debian.org](https://github.com/AnyDSL/benchmarks-impala)
+        + [AnyDSL ports from http://benchmarksgame.alioth.debian.org](https://github.com/AnyDSL/benchmarks-impala)
 
 + Polyhedral papers intro & focused to GPU code generation
     + [Polyhedral Compilation](http://polyhedral.info/)
