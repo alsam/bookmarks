@@ -17,6 +17,8 @@
             + [Ivan Ukhov](https://github.com/IvanUkhov?tab=repositories)
         + [see it for FFI bindings: Rust bindings for libpcuid CPU detection and feature extraction library](https://github.com/zsiciarz/rust-cpuid)
             + [Rust Module std::ptr](https://doc.rust-lang.org/std/ptr/)
+        + *Performance Tips*
+            + [On pattern matching performance in rust](http://www.cjqed.com/blog/rust-pattern-matching-performance/)
     + [Announcing Rust 1.0](http://blog.rust-lang.org/2015/05/15/Rust-1.0.html)
 
     + [Announcing Rust 1.2](http://blog.rust-lang.org/2015/08/06/Rust-1.2.html)
@@ -86,6 +88,8 @@
         + [Good Practices for Writing Rust Libraries](https://pascalhertleif.de/artikel/good-practices-for-writing-rust-libraries/)
 
         + [A comparison of operating systems written in Rust](https://github.com/flosse/rust-os-comparison)
+            + [This Week in Redox 5](http://www.redox-os.org/news/this-week-in-redox-5/)
+                + [sodium editor TODO](https://github.com/redox-os/redox/blob/master/filesystem/apps/sodium/TODO.md)
 
         + [Rust Lifetimes](http://www.charlesetc.com/rust/2015/10/29/)
         + [Lifetime Reference](http://www.charlesetc.com/rust/2015/10/31/)
