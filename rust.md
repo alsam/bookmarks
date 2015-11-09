@@ -96,6 +96,7 @@
             + [official lifetimes doc](https://doc.rust-lang.org/book/lifetimes.html)
 
         + [Iterator trait](https://doc.rust-lang.org/nightly/std/iter/trait.Iterator.html)
+            + [iota editor written in Rust; use case for idiomatic iterator usage](https://github.com/gchp/iota/blob/master/src/iota/iterators.rs)
 
         + [Can't find crate for `num`](http://stackoverflow.com/questions/29189615/cant-find-crate-for-num)
 
