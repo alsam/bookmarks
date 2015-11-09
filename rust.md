@@ -8,6 +8,10 @@
     + [Rust projects](http://www.rust-ci.org/projects/)
     + [Awesome Rust: A curated list of awesome Rust code and resources](https://github.com/kud1ing/awesome-rust)
         + [gmp bindings for rust: status: build failing, ranges syntax changed](https://github.com/thestinger/rust-gmp)
+            + [rust-gmp crate](https://crates.io/crates/rust-gmp)
+            + [fixed repoworking with up-to-date rust](https://crates.io/crates/rust-gmp)
+            + [ramp - A high-performance multiple-precision arithmetic library](https://crates.io/crates/ramp)
+                + [ramp github repo](https://github.com/Aatch/ramp)
         + [BLAS bindings](https://github.com/stainless-steel/blas)
         + [LAPACK bindings](https://github.com/stainless-steel/lapack)
             + [Ivan Ukhov](https://github.com/IvanUkhov?tab=repositories)
@@ -17,7 +21,7 @@
 
     + [Announcing Rust 1.2](http://blog.rust-lang.org/2015/08/06/Rust-1.2.html)
         + [Implement associated items](https://github.com/rust-lang/rust/issues/17307)
-    
+
     + ['The Rust Programming Language' E-Books'](http://killercup.github.io/trpl-ebook/)
     + [The Advanced Rust Programming Language](https://doc.rust-lang.org/nightly/adv-book/)
     + [Rust For C++ Programmers](https://github.com/nrc/r4cppp)
@@ -44,6 +48,8 @@
         + [More Abstracted Algebra in Rust, or Does 'Group' distribute over 'Ring'?](http://maniagnosis.crsr.net/2015/07/more-abstracted-algebra-in-rust.html) 
     + [Graphs in Rust](http://featherweightmusings.blogspot.co.nz/2015/04/graphs-in-rust.html)
         + [Graphs and arena allocation](https://github.com/nrc/r4cppp/tree/master/graphs)
+
+    + [A library of mesh generation utilities](https://github.com/gfx-rs/genmesh
 
     + [Rust CI](http://rust-ci.org/projects/)
 
