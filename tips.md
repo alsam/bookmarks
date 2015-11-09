@@ -109,10 +109,14 @@
     + [LFS root](http://www.linuxfromscratch.org/)
     + [Beyond Linux® From Scratch (systemd edition)](http://www.linuxfromscratch.org/blfs/view/systemd/)
 
-+ Atom editor performance issues
-    + [ Atom hangs on large directories/files and when window switching #9325](https://github.com/atom/atom/issues/9325)
-    + [](https://github.com/atom/atom/pull/6733#issuecomment-108407945)
-    + [ Find remaining performance bottlenecks for large files #6692](https://github.com/atom/atom/issues/6692)
++ [Atom - The hackable text editor](https://atom.io)
+    + [atom github](https://github.com/atom/atom)
+    + [The Atom text editor and Rust](http://www.perfectchipperman.com/2015/10/the-atom-text-editor-and-rust.html)
+        + [Software development and other things](http://markusjais.com/)
+    + performance issues
+        + [Atom hangs on large directories/files and when window switching #9325](https://github.com/atom/atom/issues/9325)
+        + [](https://github.com/atom/atom/pull/6733#issuecomment-108407945)
+        + [Find remaining performance bottlenecks for large files #6692](https://github.com/atom/atom/issues/6692)
 
 + C++
     + [The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++](https://github.com/isocpp/CppCoreGuidelines)
