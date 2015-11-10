@@ -104,3 +104,6 @@
         + [RM-SORN: a reward-modulated self-organizing recurrent neural network](http://journal.frontiersin.org/article/10.3389/fncom.2015.00036/full)
 
         + [Beginning studies on deep learning](http://onox.com.br/beginning-studies-on-deep-learning/)
+        + [TensorFlow - Google’s latest machine learning system, open sourced for everyone](http://googleresearch.blogspot.ru/2015/11/tensorflow-googles-latest-machine_9.html)
+            + [TensorFlow](http://www.tensorflow.org/)
+            + [Open source software library for numerical computation using data flow graphs](https://github.com/tensorflow/tensorflow)
