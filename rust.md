@@ -135,3 +135,4 @@
 
         + [Convert string slice to int in rust](http://stackoverflow.com/questions/26919609/convert-string-slice-to-int-in-rust)
         + [Learning to 'try!' things in Rust](http://www.jonathanturner.org/2015/11/learning-to-try-things-in-rust.html)
+            + [try!](http://rustbyexample.com/std/result/try.html)
