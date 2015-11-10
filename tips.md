@@ -7,10 +7,21 @@
     + [git returns http error 407 from proxy after CONNECT](http://stackoverflow.com/questions/24907140/git-returns-http-error-407-from-proxy-after-connect)
     + [19 советов по повседневной работе с Git](http://habrahabr.ru/company/mailru/blog/267595/)
     + [Достаточно Git-а, чтобы быть (менее) опасным](http://habrahabr.ru/post/268951/)
+    + [git checkout tag, git pull fails in branch](http://stackoverflow.com/questions/10147475/git-checkout-tag-git-pull-fails-in-branch)
+      ```sh
+      git push -u origin master
+      git pull origin master
+      git pull
+      git branch --set-upstream-to=origin/master master
+      git pull
+      git branch -u origin/master
+      git branch --set-upstream-to=origin/master master
+      git branch -u origin/master
+      ```
 
 + compile optimization tips (TODO reorganize)
     + [Why doesn't GCC optimize a*a*a*a*a*a to (a*a*a)*(a*a*a)?](http://stackoverflow.com/questions/6430448/why-doesnt-gcc-optimize-aaaaaa-to-aaaaaa)
-+ scala 
++ scala
 + vim tips
     :set ff=unix
     + [From Vim to Emacs+Evil chaotic migration guide](http://juanjoalvarez.net/es/)
