@@ -111,3 +111,23 @@
             + [Usecases for inheritance](https://users.rust-lang.org/t/usecases-for-inheritance/348)
             + [Abstraction without overhead: traits in Rust](http://blog.rust-lang.org/2015/05/11/traits.html)
                 + [Most coveted Rust features](https://users.rust-lang.org/t/most-coveted-rust-features/324/15)
+
+    + Useful tips
+        + [Using rustfmt in Vim](http://johannh.me/blog/rustfmt-vim.html)
+        ```sh
+        # for cargo
+        export CARGO_HOME=$HOME/.cargo
+        export RUST_SRC_PATH=$HOME/work/github/rust/src
+        export PATH=$CARGO_HOME/bin:$PATH
+        ```
+        ```sh
+        cargo install --git https://github.com/nrc/rustfmt
+        cargo install --git 'https://github.com/phildawes/racer.git'
+        echo 'pub fn main(){println!("hello");}' | rustfmt
+        ```
+        ```rust
+        pub fn main() {
+            println!("hello");
+        }
+        ```
+
