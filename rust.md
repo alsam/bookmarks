@@ -6,6 +6,7 @@
     + [Rust homepage](http://www.rust-lang.org/)
     + [Rust by example](https://github.com/rust-lang/rust-by-example)
     + [Rust projects](http://www.rust-ci.org/projects/)
+        + [Is Rust CI still working?](https://www.reddit.com/r/rust/comments/3blikk/is_rust_ci_still_working/) 
     + [Awesome Rust: A curated list of awesome Rust code and resources](https://github.com/kud1ing/awesome-rust)
         + [gmp bindings for rust: status: build failing, ranges syntax changed](https://github.com/thestinger/rust-gmp)
             + [rust-gmp crate](https://crates.io/crates/rust-gmp)
