@@ -123,6 +123,7 @@
 
 + [Atom - The hackable text editor](https://atom.io)
     + [atom github](https://github.com/atom/atom)
+    + [Atom Flight Manual](https://atom.io/docs/latest/getting-started-atom-basics)
     + [The Atom text editor and Rust](http://www.perfectchipperman.com/2015/10/the-atom-text-editor-and-rust.html)
         + [Software development and other things](http://markusjais.com/)
     + performance issues
