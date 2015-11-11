@@ -122,8 +122,8 @@
         export PATH=$CARGO_HOME/bin:$PATH
         ```
         ```sh
-        cargo install --git https://github.com/nrc/rustfmt
         cargo install --git 'https://github.com/phildawes/racer.git'
+        cargo install --git https://github.com/nrc/rustfmt
         echo 'pub fn main(){println!("hello");}' | rustfmt
         ```
         ```rust
