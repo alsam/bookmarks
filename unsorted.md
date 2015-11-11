@@ -5,6 +5,8 @@
     + [Scalable Verification Techniques for Data-Parallel Programs](http://www.doc.ic.ac.uk/~nyc04/thesis.pdf)
     + [Beating Nyquist](https://github.com/jakevdp/nyquist/blob/master/Nyquist.ipynb)
 
+    + [String Theory – part 5: General Relativity vs Quantum Mechanics](https://societyofmodernastronomy.wordpress.com/2015/10/27/string-theory-part-5-general-relativity-vs-quantum-mechanics/)
+
     + [Type-Driven Development in Idris — Edwin Brady](https://www.youtube.com/watch?v=X36ye-1x_HQ)
 
     + Helios Operating System
