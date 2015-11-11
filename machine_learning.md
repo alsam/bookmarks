@@ -115,3 +115,5 @@
             + [Examples for the Deep Learning Framework Leaf](https://github.com/autumnai/leaf-examples)
             + [Preprocessing: Machine Learning http://autumnai.github.io/cuticula](https://github.com/autumnai/cuticula)
                 + [Crate cuticula](http://autumnai.github.io/cuticula/cuticula/index.html)
+
+        + [Deep Visualization Toolbox video](https://www.youtube.com/watch?v=AgkfIQ4IGaM

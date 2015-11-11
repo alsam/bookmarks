@@ -14,5 +14,8 @@
             + [Helios NG github](https://github.com/axelmuhr/Helios-NG)
             + [Helios NG hati branch](https://github.com/axelmuhr/Helios-NG/tree/hati)
 
-    + Redox: A Rust Operating System
-        + [github redox os](https://github.com/redox-os/redox)
+    + [Memcomputing NP-complete problems in polynomial time using polynomial resources and collective states](http://advances.sciencemag.org/content/1/6/e1500031.full)
+        + [Memcomputing NP-complete problems in polynomial time using polynomial resources and collective states](http://www.researchgate.net/publication/268524981_Memcomputing_NP-complete_problems_in_polynomial_time_using_polynomial_resources_and_collective_states)
+
+    + [Бесплатная библиотека Self-learning – более 20 курсов по ключевым направлениям Software Engineering](http://habrahabr.ru/company/luxoft/blog/265339/)
+        + [50+ Free Data Science Books](http://www.datasciencecentral.com/profiles/blogs/50-free-data-science-books?xg_source=activity)

@@ -85,12 +85,28 @@
             + [What languages other than Haskell support higher kinded types?](https://www.reddit.com/r/haskell/comments/35ay8f/what_languages_other_than_haskell_support_higher/)
 
         + [Rust, дисциплинирующий язык программирования](http://habrahabr.ru/company/piter/blog/267203/)
+            + [Основы Rust – Глава 2. Использование переменных и типов](http://habrahabr.ru/post/260759/)
+            + [Обработка ошибок в Rust](http://habrahabr.ru/post/270371/)
+            + [Сопоставление с образцом, изменения и перемещения в Rust](http://habrahabr.ru/post/256941/)
+            + [Сравнение производительности языков на примере простейшего классификатора](http://habrahabr.ru/post/261201/)
+            + [Заимствование и время существования в Rust](http://habrahabr.ru/post/266715/)
+            + [Создаём REST-сервис на PostgreSQL и Rust. Часть 1: прототип](http://habrahabr.ru/post/267477/)
+            + [Создаём REST-сервис на Rust. Часть 2: читаем INI; multirust](http://habrahabr.ru/post/267661/)
+            + [Создаём REST-сервис на Rust. Часть 3: обновляем базу из консоли](http://habrahabr.ru/post/267779/)
+            + [Создаём REST-сервис на Rust. Часть 4: переходим к REST API](http://habrahabr.ru/post/268617/)
+            + [Создаём REST-сервис на Rust. Часть 5: обработчики, рефакторинг, и макросы](http://habrahabr.ru/post/269903/)
+            + [Rust в деталях: пишем масштабируемый чат с нуля, часть 1](http://habrahabr.ru/post/268609/)
+            + [Пишем свой упрощенный OpenGL на Rust — часть 1 (рисуем линию)](http://habrahabr.ru/post/261629/)
+            + [Пишем свой упрощенный OpenGL на Rust — часть 2 (проволочный рендер)](http://habrahabr.ru/post/261739/)
+            + [Пишем свой упрощенный OpenGL на Rust — часть 3 (растеризатор)](http://habrahabr.ru/post/262235/)
 
         + [Good Practices for Writing Rust Libraries](https://pascalhertleif.de/artikel/good-practices-for-writing-rust-libraries/)
 
         + [A comparison of operating systems written in Rust](https://github.com/flosse/rust-os-comparison)
-            + [This Week in Redox 5](http://www.redox-os.org/news/this-week-in-redox-5/)
-                + [sodium editor TODO](https://github.com/redox-os/redox/blob/master/filesystem/apps/sodium/TODO.md)
+            + Redox: A Rust Operating System
+                + [github redox os](https://github.com/redox-os/redox)
+                    + [This Week in Redox 5](http://www.redox-os.org/news/this-week-in-redox-5/)
+                    + [sodium editor TODO](https://github.com/redox-os/redox/blob/master/filesystem/apps/sodium/TODO.md)
 
         + [Rust Lifetimes](http://www.charlesetc.com/rust/2015/10/29/)
         + [Lifetime Reference](http://www.charlesetc.com/rust/2015/10/31/)

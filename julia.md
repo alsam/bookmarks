@@ -29,6 +29,7 @@
                 + [insightful intro to AD](http://alexey.radul.name/ideas/2013/introduction-to-automatic-differentiation)
                 + [/which-automatic-differentiation-tool-for-cc/](http://lingpipe-blog.com/2011/01/19/which-automatic-differentiation-tool-for-cc/)
                     + [HyperDual Numbers: Exact numeric nth derivatives](http://jliszka.github.io/2013/10/24/exact-numeric-nth-derivatives.html)
+                + [Lazy Time Reversal, and Automatic Differentiation](https://karczmarczuk.users.greyc.fr/arpap/revpearl.pdf)
             + [Integration analog of automatic differentiation](http://math.stackexchange.com/questions/109070/integration-analog-of-automatic-differentiation)
                 + [Risch algorithm](https://en.wikipedia.org/wiki/Risch_algorithm)
                     + [GSoC 2013 Application Chetna Gupta: Risch algorithm for symbolic integration](https://github.com/sympy/sympy/wiki/GSoC-2013-Application-Chetna-Gupta:-Risch-algorithm-for-symbolic-integration)
