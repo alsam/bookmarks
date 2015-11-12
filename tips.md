@@ -34,6 +34,7 @@
         + [integration of Scala into Vim](https://github.com/derekwyatt/vim-scala)
             + [coding-scala-with-vim](http://derekwyatt.org/2013/12/31/coding-scala-with-vim.html)
     + [VIM and Python -- a Match Made in Heaven](https://realpython.com/blog/python/vim-and-python-a-match-made-in-heaven/)
+    + [vim-multiple-cursors](https://github.com/terryma/vim-multiple-cursors)
 
 + LaTeX tips
     + [Modern LaTeX typesetting](https://www.olivierverdier.com/posts/2013/07/15/modern-latex/)
@@ -127,9 +128,9 @@
     + [The Atom text editor and Rust](http://www.perfectchipperman.com/2015/10/the-atom-text-editor-and-rust.html)
         + [Software development and other things](http://markusjais.com/)
         + [atom/markdown-preview](https://github.com/atom/markdown-preview/pull/298)
-          [atom/multi-cursor-plus](https://atom.io/packages/multi-cursor-plus)
+        + [atom/multi-cursor-plus](https://atom.io/packages/multi-cursor-plus)
         + [[Solved] disable alt+mouse "move window"?](https://forum.xfce.org/viewtopic.php?id=2989)
-          +
+          + [How can I disable 'Alt' + mouse default behavior in KDE?](http://superuser.com/questions/584730/how-can-i-disable-alt-mouse-default-behavior-in-kde)
     + performance issues
         + [atom performance issues](https://github.com/atom/atom/labels/performance)
             + [Atom hangs on large directories/files and when window switching #9325](https://github.com/atom/atom/issues/9325)
