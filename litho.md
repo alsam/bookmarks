@@ -19,4 +19,4 @@
 
     + [True Process Variation Aware OPC with Variational Lithography Modeling](http://www.cerc.utexas.edu/utda/publications/ProcessVarAwareOPC.pdf)
     + [A Novel Intensity Based Optical Proximity Correction Algorithm](http://www.cerc.utexas.edu/utda/publications/iccad_07_intensity_based_opc.pdf)
-
+    + [matlab codes from computational_lithography book](ftp://ftp.wiley.com/public/sci_tech_med/computational_lithography/)
