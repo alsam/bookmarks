@@ -126,7 +126,10 @@
     + [Atom Flight Manual](https://atom.io/docs/latest/getting-started-atom-basics)
     + [The Atom text editor and Rust](http://www.perfectchipperman.com/2015/10/the-atom-text-editor-and-rust.html)
         + [Software development and other things](http://markusjais.com/)
-        [atom/markdown-preview](https://github.com/atom/markdown-preview/pull/298)
+        + [atom/markdown-preview](https://github.com/atom/markdown-preview/pull/298)
+          [atom/multi-cursor-plus](https://atom.io/packages/multi-cursor-plus)
+        + [[Solved] disable alt+mouse "move window"?](https://forum.xfce.org/viewtopic.php?id=2989)
+          +
     + performance issues
         + [atom performance issues](https://github.com/atom/atom/labels/performance)
             + [Atom hangs on large directories/files and when window switching #9325](https://github.com/atom/atom/issues/9325)

@@ -21,3 +21,4 @@
         + [Гомотопическая теория типов](https://ru.wikipedia.org/wiki/%D0%93%D0%BE%D0%BC%D0%BE%D1%82%D0%BE%D0%BF%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F_%D1%82%D0%B8%D0%BF%D0%BE%D0%B2)
 
     + [10 крупнейших математических достижений последних лет](http://habrahabr.ru/post/269811/)
+      + [Mathematician claims breakthrough in complexity theory](http://news.sciencemag.org/math/2015/11/mathematician-claims-breakthrough-complexity-theory)
