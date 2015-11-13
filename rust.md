@@ -155,4 +155,6 @@
         + [Learning to 'try!' things in Rust](http://www.jonathanturner.org/2015/11/learning-to-try-things-in-rust.html)
             + [try!](http://rustbyexample.com/std/result/try.html)
 
+    + *Performance tips*
         + [Benchmarking programs in Rust](http://stackoverflow.com/questions/13322479/benchmarking-programs-in-rust)
+        + [How to `zip` two slices efficiently](https://users.rust-lang.org/t/how-to-zip-two-slices-efficiently/2048)
