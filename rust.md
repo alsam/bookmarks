@@ -158,3 +158,4 @@
     + *Performance tips*
         + [Benchmarking programs in Rust](http://stackoverflow.com/questions/13322479/benchmarking-programs-in-rust)
         + [How to `zip` two slices efficiently](https://users.rust-lang.org/t/how-to-zip-two-slices-efficiently/2048)
+        + [How to `memcpy` bytes in stable rust](https://users.rust-lang.org/t/how-to-memcpy-bytes-in-stable-rust/2740)
