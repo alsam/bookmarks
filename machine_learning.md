@@ -122,3 +122,5 @@
             + [`annabell` arxiv link](http://arxiv.org/ftp/arxiv/papers/1506/1506.03229.pdf)
             + [golosio/annabell - github](https://github.com/golosio/annabell/wiki/User-guide)
             + [A cognitive neural architecture able to learn and communicate through natural language - written in CUDA](https://github.com/golosio/annabell)
+
+        + [reddit Yann LeCun](https://www.reddit.com/r/MachineLearning/comments/25lnbt/ama_yann_lecun)
