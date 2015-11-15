@@ -107,6 +107,7 @@
         + [TensorFlow - Google’s latest machine learning system, open sourced for everyone](http://googleresearch.blogspot.ru/2015/11/tensorflow-googles-latest-machine_9.html)
             + [TensorFlow](http://www.tensorflow.org/)
             + [Open source software library for numerical computation using data flow graphs](https://github.com/tensorflow/tensorflow)
+            + [A deep Q learning demonstration using Google Tensorflow](https://github.com/nivwusquorum/tensorflow-deepq)
 
         + [Open Machine Intelligence Framework written in Rust targeting CPU/GPU http://autumnai.github.io/leaf](https://github.com/autumnai/leaf)
             + [Crate leaf](http://autumnai.github.io/leaf/leaf/index.html)
