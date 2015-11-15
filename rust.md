@@ -56,8 +56,6 @@
 
     + [A library of mesh generation utilities](https://github.com/gfx-rs/genmesh
 
-    + [Rust CI](http://rust-ci.org/projects/)
-
     + [rust on habrahabr](http://habrahabr.ru/hub/rust/)
         + [Многопоточность в Rust](http://habrahabr.ru/post/256211/)
 
