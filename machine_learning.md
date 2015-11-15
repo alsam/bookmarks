@@ -116,4 +116,8 @@
             + [Preprocessing: Machine Learning http://autumnai.github.io/cuticula](https://github.com/autumnai/cuticula)
                 + [Crate cuticula](http://autumnai.github.io/cuticula/cuticula/index.html)
 
-        + [Deep Visualization Toolbox video](https://www.youtube.com/watch?v=AgkfIQ4IGaM
+        + [Deep Visualization Toolbox video](https://www.youtube.com/watch?v=AgkfIQ4IGaM)
+
+        + [A cognitive neural architecture able to learn and communicate through natural language](http://arxiv.org/ftp/arxiv/papers/1506/1506.03229.pdf)
+            + [golosio/annabell - github](https://github.com/golosio/annabell/wiki/User-guide)
+            + [A cognitive neural architecture able to learn and communicate through natural language - written in CUDA](https://github.com/golosio/annabell)
