@@ -118,6 +118,7 @@
 
         + [Deep Visualization Toolbox video](https://www.youtube.com/watch?v=AgkfIQ4IGaM)
 
-        + [A cognitive neural architecture able to learn and communicate through natural language](http://arxiv.org/ftp/arxiv/papers/1506/1506.03229.pdf)
+        + [A cognitive neural architecture able to learn and communicate through natural language](http://arxiv.org/abs/1506.03229)
+            + [`annabell` arxiv link](http://arxiv.org/ftp/arxiv/papers/1506/1506.03229.pdf)
             + [golosio/annabell - github](https://github.com/golosio/annabell/wiki/User-guide)
             + [A cognitive neural architecture able to learn and communicate through natural language - written in CUDA](https://github.com/golosio/annabell)
