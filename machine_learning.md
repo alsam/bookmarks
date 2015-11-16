@@ -125,3 +125,6 @@
             + [A cognitive neural architecture able to learn and communicate through natural language - written in CUDA](https://github.com/golosio/annabell)
 
         + [reddit Yann LeCun](https://www.reddit.com/r/MachineLearning/comments/25lnbt/ama_yann_lecun)
+
+        + [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
+            + [notes for CS231n](http://cs231n.github.io/neural-networks-case-study/)
