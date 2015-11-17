@@ -128,3 +128,5 @@
 
         + [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
             + [notes for CS231n](http://cs231n.github.io/neural-networks-case-study/)
+
+        + [An Introduction to Machine Learning Theory and Its Applications: A Visual Tutorial with ExamplesAn Introduction to Machine Learning Theory and Its Applications: A Visual Tutorial with Examples](http://www.datasciencecentral.com/profiles/blogs/an-introduction-to-machine-learning-theory-and-its-applications-a)
