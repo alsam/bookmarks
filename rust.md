@@ -76,8 +76,6 @@
     + Misc
         + [Contributing to Rust]([http://www.ncameron.org/rust.html)
         + [Interview with Mozilla’s Aaron Turon](http://www.pl-enthusiast.net/2015/06/09/interview-with-mozillas-aaron-turon/)
-        + [Higher-kinded type trait](https://www.reddit.com/r/rust/comments/31g0qd/higherkinded_type_trait/)
-            + [Rust and the Monad trait - Not just higher kinded types](https://m4rw3r.github.io/rust-and-monad-trait/)
         + [julia vs. rust](http://vschart.com/compare/julia/vs/rust)
         + [Higher kinded polymorphism #324](https://github.com/rust-lang/rfcs/issues/324)
             + [Higher-kinded types #1185 ](https://github.com/rust-lang/rfcs/issues/1185#issuecomment-117812357)
@@ -160,3 +158,14 @@
         + [How to `zip` two slices efficiently](https://users.rust-lang.org/t/how-to-zip-two-slices-efficiently/2048)
         + [How to `memcpy` bytes in stable rust](https://users.rust-lang.org/t/how-to-memcpy-bytes-in-stable-rust/2740)
         + [`Builder` pattern without cloning](https://users.rust-lang.org/t/builder-pattern-without-cloning/2044)
+
+    + Ideas, RFCs, that are not in the language yet
+        + [`step_by` on negative numbers](https://internals.rust-lang.org/t/step-by-on-negative-numbers/2231)
+        + [GPU support](https://internals.rust-lang.org/t/single-source-gpu-support/898/13)
+        + [Higher-kinded type trait](https://www.reddit.com/r/rust/comments/31g0qd/higherkinded_type_trait/)
+            + [GitHub Gist for HKT](https://gist.github.com/14427)
+            + [Rust and the Monad trait - Not just higher kinded types](https://m4rw3r.github.io/rust-and-monad-trait/)
+        + [ Add Mathjax (KaTeX?) Support to Rustdoc #16300 ](https://github.com/rust-lang/rust/issues/16300)
+            + [ Add mathematics support to rustdoc #17390 ](https://github.com/rust-lang/rust/pull/17390#issuecomment-61195381)
+            + [Rustdoc: reStructuredText vs Markdown](https://internals.rust-lang.org/t/rustdoc-restructuredtext-vs-markdown/356/63)
+
