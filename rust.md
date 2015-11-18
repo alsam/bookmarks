@@ -169,6 +169,7 @@
         + [Higher-kinded type trait](https://www.reddit.com/r/rust/comments/31g0qd/higherkinded_type_trait/)
             + [GitHub Gist for HKT](https://gist.github.com/14427)
             + [Rust and the Monad trait - Not just higher kinded types](https://m4rw3r.github.io/rust-and-monad-trait/)
+            + [Reddit: Rust and the Monad trait - Not just higher kinded types](https://www.reddit.com/r/rust/comments/3li3by/rust_and_the_monad_trait_not_just_higher_kinded/)
         + [ Add Mathjax (KaTeX?) Support to Rustdoc #16300 ](https://github.com/rust-lang/rust/issues/16300)
             + [ Add mathematics support to rustdoc #17390 ](https://github.com/rust-lang/rust/pull/17390#issuecomment-61195381)
             + [Rustdoc: reStructuredText vs Markdown](https://internals.rust-lang.org/t/rustdoc-restructuredtext-vs-markdown/356/63)
