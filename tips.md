@@ -132,6 +132,7 @@
         + [[Solved] disable alt+mouse "move window"?](https://forum.xfce.org/viewtopic.php?id=2989)
           + [How can I disable 'Alt' + mouse default behavior in KDE?](http://superuser.com/questions/584730/how-can-i-disable-alt-mouse-default-behavior-in-kde)
           + [use 'Shift-MiddleMouse' for column selection](https://github.com/bigfive/atom-sublime-select/issues/26)
+          + [Automatically use hard tabs for Makefile buffers #3](https://github.com/atom/language-make/issues/3)
     + performance issues
         + [atom performance issues](https://github.com/atom/atom/labels/performance)
             + [Atom hangs on large directories/files and when window switching #9325](https://github.com/atom/atom/issues/9325)
