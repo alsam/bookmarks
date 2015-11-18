@@ -11,3 +11,5 @@
     + [Accelerated Sparse Matrix Multiplication for Quantum Chemistry with CP2K on Hyprid Supercomputers](https://www.youtube.com/watch?v=5wppMHxF_Js)
 
 + [Evaluation of C, Go, and Rust in the HPC environment](https://news.ycombinator.com/item?id=9477014)
+
++ [NNSA, national labs team with Nvidia to develop open-source Fortran compiler technology](https://www.llnl.gov/news/nnsa-national-labs-team-nvidia-develop-open-source-fortran-compiler-technology)
