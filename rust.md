@@ -4,6 +4,7 @@
     + [this-week-in-rust](https://github.com/cmr/this-week-in-rust)
         + [Data for http://this-week-in-rust.org/ in case it is down](http://this-week-in-rust.org/)
     + [Rust homepage](http://www.rust-lang.org/)
+    + [Rust learning](https://github.com/ctjhoa/rust-learning)
     + [Rust by example](https://github.com/rust-lang/rust-by-example)
     + [Rust projects](http://www.rust-ci.org/projects/)
         + [Is Rust CI still working?](https://www.reddit.com/r/rust/comments/3blikk/is_rust_ci_still_working/)
