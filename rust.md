@@ -27,6 +27,7 @@
 
     + ['The Rust Programming Language' E-Books'](http://killercup.github.io/trpl-ebook/)
       + [Rust iterators](https://doc.rust-lang.org/book/iterators.html)
+        + [Reddit Rust iterator cheet sheet](https://www.reddit.com/r/rust/comments/38dl0o/rust_iterator_cheat_sheet/)
     + [The Advanced Rust Programming Language](https://doc.rust-lang.org/nightly/adv-book/)
     + [Rust For C++ Programmers](https://github.com/nrc/r4cppp)
         + [blogs: Rust for C++ programmers](http://featherweightmusings.blogspot.co.nz/search/label/rust-for-c)
