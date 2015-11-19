@@ -19,6 +19,11 @@
         + [BLAS bindings](https://github.com/stainless-steel/blas)
         + [LAPACK bindings](https://github.com/stainless-steel/lapack)
             + [Ivan Ukhov](https://github.com/IvanUkhov?tab=repositories)
+        + FFT libraries and bindings
+            + [crate dft](https://crates.io/crates/dft)
+                + [dft docs](http://stainless-steel.github.io/dft/dft/index.html)
+            + [crate rustfft - 1.0 follows kiss fft](https://crates.io/crates/rustfft)
+            + [crate fftw3 - not complete](https://crates.io/crates/fftw3)
         + [see it for FFI bindings: Rust bindings for libpcuid CPU detection and feature extraction library](https://github.com/zsiciarz/rust-cpuid)
             + [Rust Module std::ptr](https://doc.rust-lang.org/std/ptr/)
         + *Performance Tips*
