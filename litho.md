@@ -19,4 +19,8 @@
 
     + [True Process Variation Aware OPC with Variational Lithography Modeling](http://www.cerc.utexas.edu/utda/publications/ProcessVarAwareOPC.pdf)
     + [A Novel Intensity Based Optical Proximity Correction Algorithm](http://www.cerc.utexas.edu/utda/publications/iccad_07_intensity_based_opc.pdf)
+    + [Optical Lithography Simulationusing Wavelet Transform](http://scholarworks.umass.edu/cgi/viewcontent.cgi?article=1495&context=theses)
     + [matlab codes from computational_lithography book](ftp://ftp.wiley.com/public/sci_tech_med/computational_lithography/)
+    + [PhD thesis: Fast and Accurate Lithography Simulation and Optical Proximity Correction for Nanometer Design for Manufacturing](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.428.4083&rep=rep1&type=pdf)
+        + [ELIAS paper](http://www.cerc.utexas.edu/utda/publications/tsm_peng_elias)
+        + [ELIAS download](http://www.cerc.utexas.edu/utda/download/download.html)
