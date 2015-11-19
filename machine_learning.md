@@ -108,6 +108,8 @@
         + [Beginning studies on deep learning](http://onox.com.br/beginning-studies-on-deep-learning/)
         + [TensorFlow - Google’s latest machine learning system, open sourced for everyone](http://googleresearch.blogspot.ru/2015/11/tensorflow-googles-latest-machine_9.html)
             + [TensorFlow](http://www.tensorflow.org/)
+            + [Setup_TensorFlow.md](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/Setup_TensorFlow.md)
+                + [TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples)
             + [Open source software library for numerical computation using data flow graphs](https://github.com/tensorflow/tensorflow)
             + [A deep Q learning demonstration using Google Tensorflow](https://github.com/nivwusquorum/tensorflow-deepq)
 
