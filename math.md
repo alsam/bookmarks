@@ -1,4 +1,4 @@
-# selected math links
+# some math links
 
 + math links
     + [Магия тензорной алгебры: Часть 1 — что такое тензор и для чего он нужен?](http://habrahabr.ru/post/261421/)

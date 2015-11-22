@@ -253,3 +253,5 @@
 + [Machine Learning](https://github.com/alsam/bookmarks/blob/master/machine_learning.md)
 
 + [Math links](https://github.com/alsam/bookmarks/blob/master/math.md)
+
++ [Mechanics links](https://github.com/alsam/bookmarks/blob/master/mechanics.md)
