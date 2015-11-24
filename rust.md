@@ -78,6 +78,8 @@
     + [unicode chars for idents](http://www.reddit.com/r/rust/comments/2pvksp/filename_with_dots_or_unicode_chars_not_working/)
 
     + Rust parser generators
+        + [nom 1.0 Write Really Fast Parsers](https://www.clever-cloud.com/blog/engineering/2015/11/16/nom-1-0/)
+            + [nom on github](https://github.com/Geal/nom)
         + [LALRPOP](http://smallcultfollowing.com/babysteps/blog/2015/09/14/lalrpop/)
             + [LALRPOP tutorial](https://github.com/nikomatsakis/lalrpop/blob/master/doc/tutorial.md)
         + [rusty-peg crate](https://crates.io/crates/rusty-peg)
