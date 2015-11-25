@@ -28,3 +28,8 @@
     + [AN EXTENSION OF MATLAB TO CONTINUOUS FUNCTIONS AND OPERATORS](http://people.maths.ox.ac.uk/trefethen/publication/PDF/2004_107.pdf)
 
 + [Bessel functions in SciPy](http://www.johndcook.com/blog/bessel_python/)
+
++ Quantum Mechanics in Python
+    + [Symbolic Quantum Mechanics using SymPy](https://github.com/sympsi/sympsi)
+        + [Test and demo notebooks for the sympy.physics.quantum](https://github.com/jrjohansson/sympsi-notebooks)
+    + [QuTiP: Quantum Toolbox in Python](https://github.com/qutip/qutip)
