@@ -33,3 +33,4 @@
     + [Symbolic Quantum Mechanics using SymPy](https://github.com/sympsi/sympsi)
         + [Test and demo notebooks for the sympy.physics.quantum](https://github.com/jrjohansson/sympsi-notebooks)
     + [QuTiP: Quantum Toolbox in Python](https://github.com/qutip/qutip)
+    + [Quantum Python: Animating the Schrodinger Equation](https://jakevdp.github.io/blog/2012/09/05/quantum-python/)
