@@ -138,7 +138,7 @@
     + performance issues
         + [atom performance issues](https://github.com/atom/atom/labels/performance)
             + [Atom hangs on large directories/files and when window switching #9325](https://github.com/atom/atom/issues/9325)
-            + [](https://github.com/atom/atom/pull/6733#issuecomment-108407945)
+            + [ Render lines via tiles #6733 ](https://github.com/atom/atom/pull/6733#issuecomment-108407945)
             + [Find remaining performance bottlenecks for large files #6692](https://github.com/atom/atom/issues/6692)
 
 + C++
