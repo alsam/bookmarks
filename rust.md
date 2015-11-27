@@ -132,6 +132,21 @@
 
         + [Rosetta code for complex in Rust](http://rosettacode.org/wiki/Arithmetic/Complex#Rust)
 
+        + [Reading binary file](https://users.rust-lang.org/t/reading-binary-files/2132)
+        ```rust
+        use std::fs::File;
+        use std::io::Read;
+        
+        fn main()
+        {
+            let mut file=File::open("Cargo.toml").unwrap();
+            let mut buf=[0u8;12];
+            file.read(&mut buf).unwrap();
+            println!("{:?}",buf);
+            // use file
+        }
+        ```
+
         + [Generics over the size of an array type](https://internals.rust-lang.org/t/generics-over-the-size-of-an-array-type/2845)
         + [Generics, Arrays and Cloning](https://users.rust-lang.org/t/generics-arrays-and-cloning/694/3)
         + [Initialize an array with a closure](http://stackoverflow.com/questions/29682881/initialize-an-array-with-a-closure)
