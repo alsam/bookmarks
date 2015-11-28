@@ -49,6 +49,8 @@
 
 
     + [Andrej Karpathy blog](http://karpathy.github.io/)
+        + [Efficient Image Captioning code in Torch, runs on GPU](https://github.com/karpathy/neuraltalk2)
+            + [Watch a neural network describe what it sees on a stroll through Amsterdam](http://www.theverge.com/2015/11/25/9798448/neural-network-describe-live-video-neuraltalk)
         + [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
             + [Multi-layer Recurrent Neural Networks (LSTM, GRU, RNN) for character-level language models in Torch ](https://github.com/karpathy/char-rnn)
 
