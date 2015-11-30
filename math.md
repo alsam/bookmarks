@@ -22,3 +22,5 @@
 
     + [10 крупнейших математических достижений последних лет](http://habrahabr.ru/post/269811/)
       + [Mathematician claims breakthrough in complexity theory](http://news.sciencemag.org/math/2015/11/mathematician-claims-breakthrough-complexity-theory)
+
+    + [Произведения и копроизведения](http://habrahabr.ru/post/271927/)
