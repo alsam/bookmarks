@@ -143,3 +143,7 @@
         + [Anyone Can Learn To Code an LSTM-RNN in Python (Part 1: RNN) Baby steps to your neural network's first memories.](http://iamtrask.github.io/2015/11/15/anyone-can-code-lstm/)
         + [Learning Simple Algorithms from Examples](http://arxiv.org/abs/1511.07275)
         + [Samsung DL framework](https://velesnet.ml/)
+
+        + [Deconvolutional Neural Network](http://habrahabr.ru/company/nordavind/blog/253859/)
+        + [Unitary Evolution Recurrent Neural Networks](http://arxiv.org/pdf/1511.06464v2.pdf)
+        + [Artificial General Intelligence](http://www.scholarpedia.org/article/Artificial_General_Intelligence)
