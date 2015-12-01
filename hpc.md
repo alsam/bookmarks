@@ -14,5 +14,8 @@
 
 + [NNSA, national labs team with Nvidia to develop open-source Fortran compiler technology](https://www.llnl.gov/news/nnsa-national-labs-team-nvidia-develop-open-source-fortran-compiler-technology)
 
++ [Как SpaceX использует GPU для обсчёта ракетных двигателей](http://habrahabr.ru/post/256081/)
+    + [Rockets Shake And Rattle, So SpaceX Rolls Homegrown CFD](http://www.nextplatform.com/2015/03/27/rockets-shake-and-rattle-so-spacex-rolls-homegrown-cfd/)
+
 + OpenMP
     + [Ждали, ждали и дождались! OpenMP 4.0](http://habrahabr.ru/company/intel/blog/204668/)
