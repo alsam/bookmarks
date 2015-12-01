@@ -13,3 +13,6 @@
 + [Evaluation of C, Go, and Rust in the HPC environment](https://news.ycombinator.com/item?id=9477014)
 
 + [NNSA, national labs team with Nvidia to develop open-source Fortran compiler technology](https://www.llnl.gov/news/nnsa-national-labs-team-nvidia-develop-open-source-fortran-compiler-technology)
+
++ OpenMP
+    + [Ждали, ждали и дождались! OpenMP 4.0](http://habrahabr.ru/company/intel/blog/204668/)
