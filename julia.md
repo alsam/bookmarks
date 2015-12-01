@@ -53,3 +53,9 @@
     + Iterative Solvers
         + [Iterative Solvers](https://github.com/JuliaLang/IterativeSolvers.jl)
         + [Induced Dimension Reduction method IDR(s) for solving general non-symmetric linear equations using a Krylov method, for example ordinary linear equations or Sylvester and Stein equations.](https://github.com/mschauer/IDRsSolver.jl)
+
+    + Misc.
+        + [Monadic parsers library with inheritance support](https://github.com/potan/parsers.jl)
+            + [Наследование комбинаторных парсеров на Julia](http://habrahabr.ru/post/241632/)
+        + [Algebraic Data Type and Pattern Matching for Julia](https://github.com/potan/adt.jl)
+            + [Pattern matching с помощью макросов](http://habrahabr.ru/post/242201/)

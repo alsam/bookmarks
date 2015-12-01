@@ -187,6 +187,9 @@
             + [Stabilizing basic functions on arrays and slices: `clone_from_slice`](https://internals.rust-lang.org/t/stabilizing-basic-functions-on-arrays-and-slices/2868)
         + [`Builder` pattern without cloning](https://users.rust-lang.org/t/builder-pattern-without-cloning/2044)
 
+    + Misc.
+        + [Dual numbers in Rust](https://github.com/potan/dual.rs)
+
     + Ideas, RFCs, that are not in the language yet
         + [`step_by` on negative numbers](https://internals.rust-lang.org/t/step-by-on-negative-numbers/2231)
         + [GPU support](https://internals.rust-lang.org/t/single-source-gpu-support/898/13)
