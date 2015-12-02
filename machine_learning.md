@@ -146,4 +146,5 @@
 
         + [Deconvolutional Neural Network](http://habrahabr.ru/company/nordavind/blog/253859/)
         + [Unitary Evolution Recurrent Neural Networks](http://arxiv.org/pdf/1511.06464v2.pdf)
+        + [On Learning to Think: Algorithmic Information Theory for Novel Combinations of Reinforcement Learning Controllers and Recurrent Neural World Models](http://arxiv.org/pdf/1511.09249v1.pdf)
         + [Artificial General Intelligence](http://www.scholarpedia.org/article/Artificial_General_Intelligence)
