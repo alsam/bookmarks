@@ -189,6 +189,28 @@
 
     + Misc.
         + [Dual numbers in Rust](https://github.com/potan/dual.rs)
+        + [Accumulator factory Rust](http://rosettacode.org/wiki/Accumulator_Factory#Rust)
+        ```rust
+        use std::ops::Add;
+         
+        fn foo<Num>(n: Num) -> Box<FnMut(Num) -> Num>
+                where Num: Add<Output=Num> + Copy + 'static {
+            let mut acc = n;
+            Box::new(move |i: Num| {
+                acc = acc + i;
+                acc
+            })
+        }
+         
+        fn main() {
+            let mut x = foo(1.);
+            x(5.);
+            foo(3.);
+            println!("{}", x(2.3));
+        }
+        ```
+            + [Accumulator factory](http://rosettacode.org/wiki/Accumulator_Factory)
+                + [Accumulator factory C++, see esp. C++11 ](http://rosettacode.org/wiki/Accumulator_Factory#C.2B.2B)
 
     + Ideas, RFCs, that are not in the language yet
         + [`step_by` on negative numbers](https://internals.rust-lang.org/t/step-by-on-negative-numbers/2231)
