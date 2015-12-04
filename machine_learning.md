@@ -143,6 +143,9 @@
         + [Anyone Can Learn To Code an LSTM-RNN in Python (Part 1: RNN) Baby steps to your neural network's first memories.](http://iamtrask.github.io/2015/11/15/anyone-can-code-lstm/)
         + [Learning Simple Algorithms from Examples](http://arxiv.org/abs/1511.07275)
         + [Samsung DL framework](https://velesnet.ml/)
+        + [IBM's SystemML Machine Learning - Now Apache SystemML](https://github.com/SparkTC/systemml)
+            + [Apache SystemML is a distributed and declarative machine learning platform](http://systemml.apache.org/)
+            + [IBM open-sources machine learning SystemML](http://www.businesscloudnews.com/2015/11/25/ibm-open-sources-machine-learning-systemml/
 
         + [Deconvolutional Neural Network](http://habrahabr.ru/company/nordavind/blog/253859/)
         + [Unitary Evolution Recurrent Neural Networks](http://arxiv.org/pdf/1511.06464v2.pdf)
