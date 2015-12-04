@@ -212,6 +212,9 @@
             + [Accumulator factory](http://rosettacode.org/wiki/Accumulator_Factory)
                 + [Accumulator factory C++, see esp. C++11 ](http://rosettacode.org/wiki/Accumulator_Factory#C.2B.2B)
 
+        + [Working around the lack of associated method on parametric traits?](http://stackoverflow.com/questions/27888069/working-around-the-lack-of-associated-method-on-parametric-traits)
+        + [cpp-templates-vs-rust-generics](https://gist.github.com/bjz/9220415)
+
     + Ideas, RFCs, that are not in the language yet
         + [`step_by` on negative numbers](https://internals.rust-lang.org/t/step-by-on-negative-numbers/2231)
         + [GPU support](https://internals.rust-lang.org/t/single-source-gpu-support/898/13)
