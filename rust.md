@@ -26,8 +26,16 @@
             + [crate fftw3 - not complete](https://crates.io/crates/fftw3)
         + [see it for FFI bindings: Rust bindings for libpcuid CPU detection and feature extraction library](https://github.com/zsiciarz/rust-cpuid)
             + [Rust Module std::ptr](https://doc.rust-lang.org/std/ptr/)
-        + *Performance Tips*
-            + [On pattern matching performance in rust](http://www.cjqed.com/blog/rust-pattern-matching-performance/)
+
+    + *Arrayfire*
+        + [ArrayFire: a general purpose GPU library. http://arrayfire.com](https://github.com/arrayfire/arrayfire)
+            + [ArrayFire install on Ubuntu](http://www.arrayfire.com/docs/installing.htm#Ubuntu) 
+        + [Arrayfire Rust Bindings - is a high performance library for parallel computing with an easy-to-use API ](https://github.com/arrayfire/arrayfire-rust)
+            + [Function arrayfire::fft_convolve1](http://arrayfire.github.io/arrayfire-rust/arrayfire/fn.fft_convolve1.html 
+
+    + *Performance Tips*
+        + [On pattern matching performance in rust](http://www.cjqed.com/blog/rust-pattern-matching-performance/)
+
     + [Announcing Rust 1.0](http://blog.rust-lang.org/2015/05/15/Rust-1.0.html)
 
     + [Announcing Rust 1.2](http://blog.rust-lang.org/2015/08/06/Rust-1.2.html)
@@ -64,7 +72,7 @@
     + [Graphs in Rust](http://featherweightmusings.blogspot.co.nz/2015/04/graphs-in-rust.html)
         + [Graphs and arena allocation](https://github.com/nrc/r4cppp/tree/master/graphs)
 
-    + [A library of mesh generation utilities](https://github.com/gfx-rs/genmesh
+    + [A library of mesh generation utilities](https://github.com/gfx-rs/genmesh)
 
     + [rust on habrahabr](http://habrahabr.ru/hub/rust/)
         + [Многопоточность в Rust](http://habrahabr.ru/post/256211/)
@@ -84,9 +92,6 @@
             + [LALRPOP tutorial](https://github.com/nikomatsakis/lalrpop/blob/master/doc/tutorial.md)
         + [rusty-peg crate](https://crates.io/crates/rusty-peg)
             + [rusty-peg github](https://github.com/nikomatsakis/rusty-peg)
-
-    + [Arrayfire Rust Bindings - is a high performance library for parallel computing with an easy-to-use API ](https://github.com/arrayfire/arrayfire-rust)
-        + [ArrayFire: a general purpose GPU library. http://arrayfire.com](https://github.com/arrayfire/arrayfire)
 
     + Misc
         + [Contributing to Rust]([http://www.ncameron.org/rust.html)
