@@ -85,6 +85,9 @@
         + [rusty-peg crate](https://crates.io/crates/rusty-peg)
             + [rusty-peg github](https://github.com/nikomatsakis/rusty-peg)
 
+    + [Arrayfire Rust Bindings - is a high performance library for parallel computing with an easy-to-use API ](https://github.com/arrayfire/arrayfire-rust)
+        + [ArrayFire: a general purpose GPU library. http://arrayfire.com](https://github.com/arrayfire/arrayfire)
+
     + Misc
         + [Contributing to Rust]([http://www.ncameron.org/rust.html)
         + [Interview with Mozilla’s Aaron Turon](http://www.pl-enthusiast.net/2015/06/09/interview-with-mozillas-aaron-turon/)
