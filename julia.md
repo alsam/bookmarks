@@ -23,6 +23,11 @@
             + [see also: length, numel, count, strlen #1939 summary `numel` -> `length`](https://github.com/JuliaLang/julia/issues/1939)
     + Julia automatic differention
         + [JuliaDiff Differentiation tools in Julia](http://www.juliadiff.org/)
+            + [ForwardDiff.jl github](https://github.com/JuliaDiff/ForwardDiff.jl)
+                + [JSoC 2015 project: Automatic Differentiation in Julia with ForwardDiff.jl](http://julialang.org/blog/2015/10/auto-diff-in-julia/)
+                + [ForwardDiff.jl docs](http://www.juliadiff.org/ForwardDiff.jl/)
+                    + [ForwardDiffNumber Types](http://www.juliadiff.org/ForwardDiff.jl/types.html)
+                        + [ForwardDiff contributing to](http://www.juliadiff.org/ForwardDiff.jl/contributing.html)
                 + [Àlex Haro Provinciale](http://www.maia.ub.es/~alex/)
                 + [Latest publications of Olivier Pironneau](http://www.ann.jussieu.fr/pironneau/publi/publications/publi.html)
             + [Automatic differentiation](https://en.wikipedia.org/wiki/Automatic_differentiation)
