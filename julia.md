@@ -21,7 +21,7 @@
         + [anonymous function calls have a huge overhead #1864](https://github.com/JuliaLang/julia/issues/1864)
             + [from here: reddit: Rust and Julia comparison](http://www.reddit.com/r/rust/comments/27jk63/rust_and_julia_comparison/)
             + [see also: length, numel, count, strlen #1939 summary `numel` -> `length`](https://github.com/JuliaLang/julia/issues/1939)
-    + Julia automatic differention
+    + Julia automatic differentiation
         + [JuliaDiff Differentiation tools in Julia](http://www.juliadiff.org/)
             + [ForwardDiff.jl github](https://github.com/JuliaDiff/ForwardDiff.jl)
                 + [JSoC 2015 project: Automatic Differentiation in Julia with ForwardDiff.jl](http://julialang.org/blog/2015/10/auto-diff-in-julia/)
@@ -59,8 +59,13 @@
         + [Iterative Solvers](https://github.com/JuliaLang/IterativeSolvers.jl)
         ```julia
         Pkg.add("IterativeSolvers")
+        Pkg.add("ParallelAccelerator")
         ```
+
         + [Induced Dimension Reduction method IDR(s) for solving general non-symmetric linear equations using a Krylov method, for example ordinary linear equations or Sylvester and Stein equations.](https://github.com/mschauer/IDRsSolver.jl)
+    
+    + High Performance
+        + [The ParallelAccelerator package, part of the High Performance Scripting project at Intel Labs](https://github.com/IntelLabs/ParallelAccelerator.jl)
 
     + Misc.
         + [Monadic parsers library with inheritance support](https://github.com/potan/parsers.jl)
