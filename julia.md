@@ -45,6 +45,11 @@
                 + [ApproxFun - Julia package for function approximation](https://github.com/ApproxFun/ApproxFun.jl)
                     + [A practical framework for infinite-dimensional linear algebra](http://arxiv.org/pdf/1409.5529.pdf)
             + [Symbolic math with julia](http://mth229.github.io/symbolic.html)
+
+    + [Group of pkgs for function approx.](https://github.com/ApproxFun)
+        + [Julia package for function approximation](https://github.com/ApproxFun/ApproxFun.jl)
+        + [Julia package for solving singular integral equations and Riemann–Hilbert problems](https://github.com/ApproxFun/SingularIntegralEquations.jl)
+
     + Gadfly
         + [latex axis labels in Gadfly](https://groups.google.com/forum/#!topic/julia-users/4QY2hzaR_EI)
         + [MathJax/LaTeX/Some sort of thing like that for labels/titles #356](https://github.com/dcjones/Gadfly.jl/issues/356)
