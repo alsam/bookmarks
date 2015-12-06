@@ -78,6 +78,7 @@
             cmake -DArrayFire_DIR=$AF_PATH/share/ArrayFire/cmake ..
             make VERBOSE=1
             ```
+            + [arrayfire-project-templates/CMake/CMakeModules/FindOpenCL.cmake](https://github.com/arrayfire/arrayfire-project-templates/blob/master/CMake/CMakeModules/FindOpenCL.cmake)
 
     + *Performance Tips*
         + [On pattern matching performance in rust](http://www.cjqed.com/blog/rust-pattern-matching-performance/)
