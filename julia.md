@@ -57,6 +57,9 @@
               ```
     + Iterative Solvers
         + [Iterative Solvers](https://github.com/JuliaLang/IterativeSolvers.jl)
+        ```julia
+        Pkg.add("IterativeSolvers")
+        ```
         + [Induced Dimension Reduction method IDR(s) for solving general non-symmetric linear equations using a Krylov method, for example ordinary linear equations or Sylvester and Stein equations.](https://github.com/mschauer/IDRsSolver.jl)
 
     + Misc.
