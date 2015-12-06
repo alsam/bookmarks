@@ -33,6 +33,52 @@
         + [Arrayfire Rust Bindings - is a high performance library for parallel computing with an easy-to-use API ](https://github.com/arrayfire/arrayfire-rust)
             + [Function arrayfire::fft_convolve1](http://arrayfire.github.io/arrayfire-rust/arrayfire/fn.fft_convolve1.html)
 
+            requisites
+
+            + GLFW
+
+                ```sh
+                ldd ./lu_cpu
+                ...
+                libglfw.so.3 => not found
+                ```
+
+                + [GLFW build apps](http://www.glfw.org/docs/latest/build.html)
+
+                + [GLFW github](https://github.com/glfw/glfw)
+                ```sh
+                git diff -u CMakeLists.txt
+                diff --git a/CMakeLists.txt b/CMakeLists.txt
+                index aa22cc3..0fb3c0e 100644
+                --- a/CMakeLists.txt
+                +++ b/CMakeLists.txt
+                @@ -18,7 +18,7 @@ set(LIB_SUFFIX "" CACHE STRING "Takes an empty string or 64. Directory where lib
+                
+                 set_property(GLOBAL PROPERTY USE_FOLDERS ON)
+                
+                -option(BUILD_SHARED_LIBS "Build shared libraries" OFF)
+                +option(BUILD_SHARED_LIBS "Build shared libraries" ON)
+                 option(GLFW_BUILD_EXAMPLES "Build the GLFW example programs" ON)
+                 option(GLFW_BUILD_TESTS "Build the GLFW test programs" ON)
+                 option(GLFW_BUILD_DOCS "Build the GLFW documentation" ON)
+                ```
+
+
+            * add to `.bashrc`
+            ```sh
+            # for ArrayFire
+            export AF_PATH=$HOME/work/arrayfire-3
+            export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:$AF_PATH/lib
+            ```
+            
+            * use *ArrayFire*
+            ```sh
+            mkdir build
+            pushd build
+            cmake -DArrayFire_DIR=$AF_PATH/share/ArrayFire/cmake ..
+            make VERBOSE=1
+            ```
+
     + *Performance Tips*
         + [On pattern matching performance in rust](http://www.cjqed.com/blog/rust-pattern-matching-performance/)
 
