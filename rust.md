@@ -26,6 +26,7 @@
             + [crate fftw3 - not complete](https://crates.io/crates/fftw3)
         + [see it for FFI bindings: Rust bindings for libpcuid CPU detection and feature extraction library](https://github.com/zsiciarz/rust-cpuid)
             + [Rust Module std::ptr](https://doc.rust-lang.org/std/ptr/)
+    + [Awesome documentation links for Rust](http://diveintodata.org/2015/10/11/rust-awesome-documentation-links/)
 
     + *Arrayfire*
         + [ArrayFire: a general purpose GPU library. http://arrayfire.com](https://github.com/arrayfire/arrayfire)
@@ -241,6 +242,7 @@
         + [How to `memcpy` bytes in stable rust](https://users.rust-lang.org/t/how-to-memcpy-bytes-in-stable-rust/2740)
             + [Stabilizing basic functions on arrays and slices: `clone_from_slice`](https://internals.rust-lang.org/t/stabilizing-basic-functions-on-arrays-and-slices/2868)
         + [`Builder` pattern without cloning](https://users.rust-lang.org/t/builder-pattern-without-cloning/2044)
+        + [Profiling Rust applications on Linux](https://llogiq.github.io/2015/07/15/profiling.html)
 
     + Misc.
         + [Dual numbers in Rust](https://github.com/potan/dual.rs)
