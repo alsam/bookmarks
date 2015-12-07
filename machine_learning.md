@@ -117,14 +117,6 @@
             + [Open source software library for numerical computation using data flow graphs](https://github.com/tensorflow/tensorflow)
             + [A deep Q learning demonstration using Google Tensorflow](https://github.com/nivwusquorum/tensorflow-deepq)
 
-        + [Open Machine Intelligence Framework written in Rust targeting CPU/GPU http://autumnai.github.io/leaf](https://github.com/autumnai/leaf)
-            + [Crate leaf](http://autumnai.github.io/leaf/leaf/index.html)
-            + [Blob: Machine Learning http://autumnai.github.io/phloem](https://github.com/autumnai/phloem)
-                + [Crate phloem](http://autumnai.github.io/phloem/phloem/index.html)
-            + [Examples for the Deep Learning Framework Leaf](https://github.com/autumnai/leaf-examples)
-            + [Preprocessing: Machine Learning http://autumnai.github.io/cuticula](https://github.com/autumnai/cuticula)
-                + [Crate cuticula](http://autumnai.github.io/cuticula/cuticula/index.html)
-
         + [Deep Visualization Toolbox video](https://www.youtube.com/watch?v=AgkfIQ4IGaM)
 
         + [A cognitive neural architecture able to learn and communicate through natural language](http://arxiv.org/abs/1506.03229)
@@ -151,3 +143,14 @@
         + [Unitary Evolution Recurrent Neural Networks](http://arxiv.org/pdf/1511.06464v2.pdf)
         + [On Learning to Think: Algorithmic Information Theory for Novel Combinations of Reinforcement Learning Controllers and Recurrent Neural World Models](http://arxiv.org/pdf/1511.09249v1.pdf)
         + [Artificial General Intelligence](http://www.scholarpedia.org/article/Artificial_General_Intelligence)
+
+    + Rust based projects
+        + [Open Machine Intelligence Framework written in Rust targeting CPU/GPU http://autumnai.github.io/leaf](https://github.com/autumnai/leaf)
+            + [Crate leaf](http://autumnai.github.io/leaf/leaf/index.html)
+            + [Blob: Machine Learning http://autumnai.github.io/phloem](https://github.com/autumnai/phloem)
+                + [Crate phloem](http://autumnai.github.io/phloem/phloem/index.html)
+            + [Examples for the Deep Learning Framework Leaf](https://github.com/autumnai/leaf-examples)
+            + [Preprocessing: Machine Learning http://autumnai.github.io/cuticula](https://github.com/autumnai/cuticula)
+                + [Crate cuticula](http://autumnai.github.io/cuticula/cuticula/index.html)
+
+        + [rustlearn](https://crates.io/crates/rustlearn)
