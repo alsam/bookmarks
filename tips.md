@@ -18,6 +18,7 @@
       git branch --set-upstream-to=origin/master master
       git branch -u origin/master
       ```
+    + [A Git Horror Story: Repository Integrity With Signed Commits](https://mikegerwitz.com/papers/git-horror-story)
 
 + compile optimization tips (TODO reorganize)
     + [Why doesn't GCC optimize a*a*a*a*a*a to (a*a*a)*(a*a*a)?](http://stackoverflow.com/questions/6430448/why-doesnt-gcc-optimize-aaaaaa-to-aaaaaa)
