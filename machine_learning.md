@@ -152,7 +152,7 @@
             + [Examples for the Deep Learning Framework Leaf](https://github.com/autumnai/leaf-examples)
             + [Preprocessing: Machine Learning http://autumnai.github.io/cuticula](https://github.com/autumnai/cuticula)
                 + [Crate cuticula](http://autumnai.github.io/cuticula/cuticula/index.html)
-            + [Collenchyma library for full Neural Network algorithm support)[https://github.com/autumnai/collenchyma]
+            + [Collenchyma library for full Neural Network algorithm support)(https://github.com/autumnai/collenchyma)
                 + [Collenchyma library for full Neural Network algorithm support](https://crates.io/crates/collenchyma-nn)
                 + [collenchyma-BLAS](https://github.com/autumnai/collenchyma-blas)
 
