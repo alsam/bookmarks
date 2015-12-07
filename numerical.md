@@ -29,3 +29,6 @@
     + [H2Lib is an open source software library for hierarchical matrices and H²-matrices](http://h2lib.org/)
         + [H2Lib public github repository](https://github.com/H2Lib/H2Lib)
     + [AHMED - Another software library on hierarchical matrices for elliptic differential equations github repository](https://github.com/xantares/ahmed)
+    + [BEM++ is an open-source Galerkin boundary element library that handles Laplace, Helmholtz and Maxwell problems on bounded and unbounded domains](http://www.bempp.org/)
+        + [BEM++ github repo](https://github.com/bempp/bempp)
+            + [BEM++ fork](https://github.com/UCL/bempp)
