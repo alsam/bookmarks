@@ -28,7 +28,7 @@
 
 + [Why Automatic Differentiation Won’t Cure Your Calculus Blues](http://accu.org/index.php/journals/1932)
 
-+ [Automatic Differentiation in Computational Science : presentation](http://science.energy.gov/~/media/ascr/ascac/pdf/meetings/nov10/Norris.pdf
++ [Automatic Differentiation in Computational Science : presentation](http://science.energy.gov/~/media/ascr/ascac/pdf/meetings/nov10/Norris.pdf)
 
 + Computational cost of FAD/BAD
     + [Automatic differentiation in machine learning: a survey contains estimation for number of operations](http://arxiv.org/pdf/1502.05767.pdf)
