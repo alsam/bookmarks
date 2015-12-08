@@ -142,6 +142,9 @@
             + [ Render lines via tiles #6733 ](https://github.com/atom/atom/pull/6733#issuecomment-108407945)
             + [Find remaining performance bottlenecks for large files #6692](https://github.com/atom/atom/issues/6692)
 
++ Docker
+    + [Образы и контейнеры Docker в картинках](http://habrahabr.ru/post/272145/)
+
 + C++
     + [The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++](https://github.com/isocpp/CppCoreGuidelines)
     + [Поразрядная сортировка с человеческим лицом Radix sort in C++](http://habrahabr.ru/post/271677/)
