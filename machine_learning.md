@@ -144,6 +144,8 @@
         + [On Learning to Think: Algorithmic Information Theory for Novel Combinations of Reinforcement Learning Controllers and Recurrent Neural World Models](http://arxiv.org/pdf/1511.09249v1.pdf)
         + [Artificial General Intelligence](http://www.scholarpedia.org/article/Artificial_General_Intelligence)
 
+        + [wiki on ML](http://www.wikitract.com/)
+
     + Rust based projects
         + [Open Machine Intelligence Framework written in Rust targeting CPU/GPU http://autumnai.github.io/leaf](https://github.com/autumnai/leaf)
             + [Crate leaf](http://autumnai.github.io/leaf/leaf/index.html)
