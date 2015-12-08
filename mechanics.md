@@ -8,3 +8,4 @@
 + misc
     + [A way to study entanglement entropy between multi-body systems](http://phys.org/news/2015-12-entanglement-entropy-multi-body.html)
     + [Physicists investigate unusual form of quantum mechanics](http://phys.org/news/2015-12-physicists-unusual-quantum-mechanics.html)
+    + [Quantum Mechanics for Dummies](https://www.youtube.com/watch?v=JP9KP-fwFhk)
