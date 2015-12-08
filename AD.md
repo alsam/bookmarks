@@ -33,3 +33,17 @@
 + Computational cost of FAD/BAD
     + [Automatic differentiation in machine learning: a survey contains estimation for number of operations](http://arxiv.org/pdf/1502.05767.pdf)
     + [AD and Sparse Matrices (Computational Complexity of Forward Mode AD)](http://www.numerical.rl.ac.uk/people/hsd/jkr/talks/forth.pdf)
+    + [Towards a Computer Algebra System with Automatic Differentiation for use with Object-Oriented modelling languages (the paper describes DAG representation for representing optimization problem)](http://www.ep.liu.se/ecp/047/011/ecp4710011.pdf)
+    + [Non-smooth Optimization and Automatic Differentiation (skript of the lecture)](http://www.math.hu-berlin.de/~bosse/Downloads/NonsmoothSkript.pdf)
+    + [PhD Thesis A Small-Perturbation Automatic-Dierentiation (SPAD) Method for Evaluating Uncertainty in Computational Electromagnetics](https://etd.ohiolink.edu/!etd.send_file?accession=osu1354742230&disposition=inline)
+
++ Applications of AD to Real World
+    + [Efficient Hessian Calculations using Automatic Differentiation and the Adjoint Method](http://academic.udayton.edu/MarkusRumpfkeil/Documents/AIAA2010-1268.pdf)
+    + [Automatic Differentiation Adjoint of the Reynolds-Averaged Navier–Stokes Equations with a Turbulence Model AIAA 2013-2581](http://deepblue.lib.umich.edu/bitstream/handle/2027.42/106452/AIAA2013-2581.pdf?sequence=1)
+    + AD for Optimization
+        + [Ceres Solver : can solve bounds constrained robustified non-linear least squares problems](http://ceres-solver.org/nnls_tutorial.html)
+
++ [AD in Haskell](https://wiki.haskell.org/Automatic_Differentiation)
+
++ Backup
+    + [fast automatic differentiation jacobians by compact lu factorization](https://orca-mwe.cf.ac.uk/49127/1/Pryce%202008.pdf)
