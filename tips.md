@@ -47,6 +47,8 @@
     + [LaTeX Table Generator](http://www.tablesgenerator.com/)
     + [Online LaTeX Equation Editor](http://www.codecogs.com/latex/eqneditor.php)
     + [Fonts](https://en.wikibooks.org/wiki/LaTeX/Fonts)
+    + [Macros](https://en.wikibooks.org/wiki/LaTeX/Macros)
+    + [LaTeX/Lengths](https://en.wikibooks.org/wiki/LaTeX/Lengths)
     + [Import graphics](https://en.wikibooks.org/wiki/LaTeX/Importing_Graphics)
     + [Aligning equations with amsmath](https://www.sharelatex.com/learn/Aligning_equations_with_amsmath)
     + [Text alignment](https://www.sharelatex.com/learn/Text_alignment)
@@ -65,6 +67,8 @@
             + [Mathematics#List_of_Mathematical_Symbols](https://en.wikibooks.org/wiki/LaTeX/Mathematics#List_of_Mathematical_Symbols)
                 + [How do I use a circle as a math accent (larger than \mathring)?](http://tex.stackexchange.com/questions/3266/how-do-i-use-a-circle-as-a-math-accent-larger-than-mathring)
                 + [how to get good looking copyright and registered symbols](http://tex.stackexchange.com/questions/1676/how-to-get-good-looking-copyright-and-registered-symbols)
+    + [PDF slides and handouts using Pandoc and Beamer](https://gist.github.com/lmullen/c3d4c7883f081ed8692a)
+        + [Better-looking LaTeX/Beamer slides](https://kbroman.wordpress.com/2013/10/07/better-looking-latexbeamer-slides/)
 
 + Creating diagrams
     + [Creating documents with embedded diagrams](https://byorgey.wordpress.com/2012/08/28/creating-documents-with-embedded-diagrams/)
