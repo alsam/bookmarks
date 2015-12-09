@@ -29,6 +29,12 @@
 
 + [Bessel functions in SciPy](http://www.johndcook.com/blog/bessel_python/)
 
++ [PyInterval](https://pypi.python.org/pypi/PyIntervalTree)
+
++ StackOverflow questions
+    + [Python sort dict by key](http://stackoverflow.com/questions/9001509/python-dictionary-sort-by-key)
+    + [Python item freq count](http://stackoverflow.com/questions/893417/item-frequency-count-in-python)
+
 + Quantum Mechanics in Python
     + [Symbolic Quantum Mechanics using SymPy](https://github.com/sympsi/sympsi)
         + [Test and demo notebooks for the sympy.physics.quantum](https://github.com/jrjohansson/sympsi-notebooks)
