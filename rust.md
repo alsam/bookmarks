@@ -89,6 +89,9 @@
     + [Announcing Rust 1.2](http://blog.rust-lang.org/2015/08/06/Rust-1.2.html)
         + [Implement associated items](https://github.com/rust-lang/rust/issues/17307)
 
+    + [Announcing Rust 1.5 stable](http://blog.rust-lang.org/2015/12/10/Rust-1.5.html)
+        + [Version 1.5.0 (2015-12-10)](https://github.com/rust-lang/rust/blob/stable/RELEASES.md#version-150-2015-12-10)
+
     + ['The Rust Programming Language' E-Books'](http://killercup.github.io/trpl-ebook/)
       + [Rust iterators](https://doc.rust-lang.org/book/iterators.html)
         + [Reddit Rust iterator cheet sheet](https://www.reddit.com/r/rust/comments/38dl0o/rust_iterator_cheat_sheet/)
