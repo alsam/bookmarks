@@ -160,3 +160,7 @@
 
         + [rustlearn](https://crates.io/crates/rustlearn)
         + [cudnn](https://crates.io/crates/cudnn)
+
+
+    + Philosophical pop science
+        + [Can Integrated Information Theory Explain Consciousness?](http://blogs.scientificamerican.com/cross-check/can-integrated-information-theory-explain-consciousness/)
