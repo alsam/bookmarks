@@ -34,6 +34,8 @@
             + [ArrayFire convolve1](http://www.arrayfire.com/docs/group__signal__func__convolve1.htm)
         + [Arrayfire Rust Bindings - is a high performance library for parallel computing with an easy-to-use API ](https://github.com/arrayfire/arrayfire-rust)
             + [Function arrayfire::fft_convolve1](http://arrayfire.github.io/arrayfire-rust/arrayfire/fn.fft_convolve1.html)
+                + [a composition of forward fft and inverse ifft operations is not identical to the original vector #51](https://github.com/arrayfire/arrayfire-rust/issues/51)
+                + [Add code examples to documentation #52](https://github.com/arrayfire/arrayfire-rust/issues/52)
 
             requisites
 
