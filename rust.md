@@ -19,6 +19,8 @@
         + [BLAS bindings](https://github.com/stainless-steel/blas)
         + [LAPACK bindings](https://github.com/stainless-steel/lapack)
             + [Ivan Ukhov](https://github.com/IvanUkhov?tab=repositories)
+        + [parry - Parallel array processing: deflect performance problems](https://github.com/huonw/parry)
+        + [crossbeam - Support for parallelism and low-level concurrency in Rust](https://github.com/aturon/crossbeam)
         + FFT libraries and bindings
             + [crate dft](https://crates.io/crates/dft)
                 + [dft docs](http://stainless-steel.github.io/dft/dft/index.html)
