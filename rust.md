@@ -19,6 +19,7 @@
         + [BLAS bindings](https://github.com/stainless-steel/blas)
         + [LAPACK bindings](https://github.com/stainless-steel/lapack)
             + [Ivan Ukhov](https://github.com/IvanUkhov?tab=repositories)
+        + [Rayon: A data parallelism library for Rust](https://github.com/huonw/rayon)
         + [parry - Parallel array processing: deflect performance problems](https://github.com/huonw/parry)
         + [crossbeam - Support for parallelism and low-level concurrency in Rust](https://github.com/aturon/crossbeam)
         + FFT libraries and bindings
