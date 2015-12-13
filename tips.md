@@ -52,6 +52,7 @@
     + [Import graphics](https://en.wikibooks.org/wiki/LaTeX/Importing_Graphics)
     + [Aligning equations with amsmath](https://www.sharelatex.com/learn/Aligning_equations_with_amsmath)
     + [Text alignment](https://www.sharelatex.com/learn/Text_alignment)
+    + [How to strike out inside LaTeX equations?](http://stackoverflow.com/questions/2663944/how-to-strike-out-inside-latex-equations)
     + [minted – highlighted source code for LaTeX](https://code.google.com/p/minted/)
         + [Code Highlighting with minted -- contains nifty colour styles to choose from](https://www.sharelatex.com/learn/Code_Highlighting_with_minted)
     + [Description list with aligned descriptions](http://tex.stackexchange.com/questions/67720/description-list-with-aligned-descriptions)
