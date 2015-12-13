@@ -45,5 +45,9 @@
 
 + [AD in Haskell](https://wiki.haskell.org/Automatic_Differentiation)
 
++ Autograd
+    + [autograd: Efficiently computes derivatives of numpy code](https://github.com/HIPS/autograd)
+    + [Autograd automatically differentiates native Torch code. Inspired by the original Python version](https://github.com/twitter/torch-autograd)
+
 + Backup
     + [fast automatic differentiation jacobians by compact lu factorization](https://orca-mwe.cf.ac.uk/49127/1/Pryce%202008.pdf)

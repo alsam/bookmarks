@@ -144,6 +144,7 @@
         + [On Learning to Think: Algorithmic Information Theory for Novel Combinations of Reinforcement Learning Controllers and Recurrent Neural World Models](http://arxiv.org/pdf/1511.09249v1.pdf)
         + [Fast Training of Convolutional Networks through FFTs](http://arxiv.org/pdf/1312.5851v5.pdf)
         + [Artificial General Intelligence](http://www.scholarpedia.org/article/Artificial_General_Intelligence)
+        + [Deep Reinforcement Learning Papers](https://github.com/amoliu/deep-reinforcement-learning-papers)
 
         + [wiki on ML](http://www.wikitract.com/)
 
