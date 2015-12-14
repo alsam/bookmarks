@@ -35,7 +35,13 @@
     + [AD and Sparse Matrices (Computational Complexity of Forward Mode AD)](http://www.numerical.rl.ac.uk/people/hsd/jkr/talks/forth.pdf)
     + [Towards a Computer Algebra System with Automatic Differentiation for use with Object-Oriented modelling languages (the paper describes DAG representation for representing optimization problem)](http://www.ep.liu.se/ecp/047/011/ecp4710011.pdf)
     + [Non-smooth Optimization and Automatic Differentiation (skript of the lecture)](http://www.math.hu-berlin.de/~bosse/Downloads/NonsmoothSkript.pdf)
-    + [PhD Thesis A Small-Perturbation Automatic-Dierentiation (SPAD) Method for Evaluating Uncertainty in Computational Electromagnetics](https://etd.ohiolink.edu/!etd.send_file?accession=osu1354742230&disposition=inline)
+    + [PhD Thesis A Small-Perturbation Automatic-Differentiation (SPAD) Method for Evaluating Uncertainty in Computational Electromagnetics](https://etd.ohiolink.edu/!etd.send_file?accession=osu1354742230&disposition=inline)
+    + [Reverse-Mode AD in a Functional Framework: Lambda the Ultimate Backpropagator](http://www.bcl.hamilton.ie/~barak/papers/toplas-reverse.pdf)
+        + [Barak A. Pearlmutter publications](http://www.bcl.hamilton.ie/~barak/publications.html)
+        + [Jeffrey Mark Siskind's Software](https://engineering.purdue.edu/~qobi/software.html)
+    + [A simple explanation of reverse-mode automatic differentiation](https://justindomke.wordpress.com/2009/03/24/a-simple-explanation-of-reverse-mode-automatic-differentiation/)
+        + [Automatic Differentiation: The most criminally underused tool in the potential machine learning toolbox?](https://justindomke.wordpress.com/2009/02/17/automatic-differentiation-the-most-criminally-underused-tool-in-the-potential-machine-learning-toolbox/)
+        + [Review and Unification of Methods for Computing Derivatives of Multidisciplinary Computational Models](http://mdolab.engin.umich.edu/sites/default/files/Martins-Hwang-2013-AIAAJ-derivatives.pdf)
 
 + Applications of AD to Real World
     + [Efficient Hessian Calculations using Automatic Differentiation and the Adjoint Method](http://academic.udayton.edu/MarkusRumpfkeil/Documents/AIAA2010-1268.pdf)
