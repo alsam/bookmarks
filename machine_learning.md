@@ -166,5 +166,10 @@
         + [cudnn](https://crates.io/crates/cudnn)
 
 
++ The __Hard__ Problem
     + Philosophical pop science
         + [Can Integrated Information Theory Explain Consciousness?](http://blogs.scientificamerican.com/cross-check/can-integrated-information-theory-explain-consciousness/)
+    + *Cognitive* Architectures
+        + [The MicroPsi Project](http://www.micropsi.com/page10/page10.html)
+            + [Python version of cognitive architecture MicroPsi](https://github.com/joschabach/micropsi2)
+        + [Numenta (HTM): creating applications](https://github.com/numenta/nupic/wiki/Creating-Applications)
