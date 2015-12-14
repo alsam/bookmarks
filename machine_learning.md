@@ -89,6 +89,9 @@
 
         + [Recurrent Neural Networks (RNN) list](http://gitxiv.com/category/recurrent-neural-networks-rnn)
         + [Convolutional Neural Networks (CNN)](http://gitxiv.com/category/convolutional-neural-networks-cnn)
+        + [Learning Simple Algorithms from Examples](http://gitxiv.com/posts/GiJu9ASP5WJGnapPd/learning-simple-algorithms-from-examples)
+            + [Learning Simple Algorithms from Examples github](https://github.com/wojzaremba/algorithm-learning)
+        + [Human-level concept learning through probabilistic program induction Bayesian Program Learning (BPL) model for one-shot learning](http://gitxiv.com/posts/jS9LJ5kh9ny6iqD7Z/human-level-concept-learning-through-probabilistic-program)
 
     + misc.
         + [Deep Learning links](http://deeplearning.net/software_links/)
@@ -146,7 +149,6 @@
         + [Fast Training of Convolutional Networks through FFTs](http://arxiv.org/pdf/1312.5851v5.pdf)
         + [Artificial General Intelligence](http://www.scholarpedia.org/article/Artificial_General_Intelligence)
         + [Deep Reinforcement Learning Papers](https://github.com/amoliu/deep-reinforcement-learning-papers)
-        + [Human-level concept learning through probabilistic program induction Bayesian Program Learning (BPL) model for one-shot learning](http://gitxiv.com/posts/jS9LJ5kh9ny6iqD7Z/human-level-concept-learning-through-probabilistic-program)
 
         + [wiki on ML](http://www.wikitract.com/)
 
