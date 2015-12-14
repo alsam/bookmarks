@@ -142,9 +142,11 @@
         + [Deconvolutional Neural Network](http://habrahabr.ru/company/nordavind/blog/253859/)
         + [Unitary Evolution Recurrent Neural Networks](http://arxiv.org/pdf/1511.06464v2.pdf)
         + [On Learning to Think: Algorithmic Information Theory for Novel Combinations of Reinforcement Learning Controllers and Recurrent Neural World Models](http://arxiv.org/pdf/1511.09249v1.pdf)
+            + []How to Learn an Algorithm - Jürgen Schmidhuber(https://www.youtube.com/watch?v=mF5-tr7qAF4&feature=youtu.be)
         + [Fast Training of Convolutional Networks through FFTs](http://arxiv.org/pdf/1312.5851v5.pdf)
         + [Artificial General Intelligence](http://www.scholarpedia.org/article/Artificial_General_Intelligence)
         + [Deep Reinforcement Learning Papers](https://github.com/amoliu/deep-reinforcement-learning-papers)
+        + [Human-level concept learning through probabilistic program induction Bayesian Program Learning (BPL) model for one-shot learning](http://gitxiv.com/posts/jS9LJ5kh9ny6iqD7Z/human-level-concept-learning-through-probabilistic-program)
 
         + [wiki on ML](http://www.wikitract.com/)
 
