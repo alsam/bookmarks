@@ -24,3 +24,8 @@
     + [PhD thesis: Fast and Accurate Lithography Simulation and Optical Proximity Correction for Nanometer Design for Manufacturing](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.428.4083&rep=rep1&type=pdf)
         + [ELIAS paper](http://www.cerc.utexas.edu/utda/publications/tsm_peng_elias)
         + [ELIAS download](http://www.cerc.utexas.edu/utda/download/download.html)
+
++ Signals: FFT, convo;ution, etc.
+    + [The conv function and implementation tradeoffs](http://blogs.mathworks.com/steve/2009/11/03/the-conv-function-and-implementation-tradeoffs/)
+        + [matlab-fftconv](https://github.com/mattjj/matlab-fftconv)
+            + [Matthew James Johnson](http://www.mit.edu/~mattjj/coding.shtml)
