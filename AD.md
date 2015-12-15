@@ -30,7 +30,8 @@
 
 + [Automatic Differentiation in Computational Science : presentation](http://science.energy.gov/~/media/ascr/ascac/pdf/meetings/nov10/Norris.pdf)
 
-+ Computational cost of FAD/BAD
++ Reviews of AD including computational cost of FAD/BAD
+    + [A Hitchhiker's Guide to Automatic Differentiation - up-to-date - all you have to know about AD, Haskell focused](http://arxiv.org/abs/1411.0583)
     + [Automatic differentiation in machine learning: a survey contains estimation for number of operations](http://arxiv.org/pdf/1502.05767.pdf)
     + [AD and Sparse Matrices (Computational Complexity of Forward Mode AD)](http://www.numerical.rl.ac.uk/people/hsd/jkr/talks/forth.pdf)
     + [Towards a Computer Algebra System with Automatic Differentiation for use with Object-Oriented modelling languages (the paper describes DAG representation for representing optimization problem)](http://www.ep.liu.se/ecp/047/011/ecp4710011.pdf)
