@@ -46,6 +46,12 @@
         + [KaTeX github](https://github.com/Khan/KaTeX)
     + [LaTeX Table Generator](http://www.tablesgenerator.com/)
     + [Online LaTeX Equation Editor](http://www.codecogs.com/latex/eqneditor.php)
+    + [Element-wise (or pointwise) operations notation?](http://math.stackexchange.com/questions/20412/element-wise-or-pointwise-operations-notation)
+        + [List of mathematical symbols](https://en.wikipedia.org/wiki/List_of_mathematical_symbols)
+        + [Mathematics#List_of_Mathematical_Symbols](https://en.wikibooks.org/wiki/LaTeX/Mathematics#List_of_Mathematical_Symbols)
+            + [How do I use a circle as a math accent (larger than \mathring)?](http://tex.stackexchange.com/questions/3266/how-do-i-use-a-circle-as-a-math-accent-larger-than-mathring)
+            + [how to get good looking copyright and registered symbols](http://tex.stackexchange.com/questions/1676/how-to-get-good-looking-copyright-and-registered-symbols)
+
     + [Fonts](https://en.wikibooks.org/wiki/LaTeX/Fonts)
     + [Macros](https://en.wikibooks.org/wiki/LaTeX/Macros)
     + [LaTeX/Lengths](https://en.wikibooks.org/wiki/LaTeX/Lengths)
@@ -65,9 +71,6 @@
             + [Как сказать XeLaTeX, чтобы использовал шрифты Computer Modern?](http://www.linux.org.ru/forum/desktop/8254794)
             + [Using fonts installed in local texlive](http://tex.stackexchange.com/questions/202767/using-fonts-installed-in-local-texlive)
 
-            + [Mathematics#List_of_Mathematical_Symbols](https://en.wikibooks.org/wiki/LaTeX/Mathematics#List_of_Mathematical_Symbols)
-                + [How do I use a circle as a math accent (larger than \mathring)?](http://tex.stackexchange.com/questions/3266/how-do-i-use-a-circle-as-a-math-accent-larger-than-mathring)
-                + [how to get good looking copyright and registered symbols](http://tex.stackexchange.com/questions/1676/how-to-get-good-looking-copyright-and-registered-symbols)
     + [PDF slides and handouts using Pandoc and Beamer](https://gist.github.com/lmullen/c3d4c7883f081ed8692a)
         + [Better-looking LaTeX/Beamer slides](https://kbroman.wordpress.com/2013/10/07/better-looking-latexbeamer-slides/)
 
