@@ -175,3 +175,7 @@
         + [The MicroPsi Project](http://www.micropsi.com/page10/page10.html)
             + [Python version of cognitive architecture MicroPsi](https://github.com/joschabach/micropsi2)
         + [Numenta (HTM): creating applications](https://github.com/numenta/nupic/wiki/Creating-Applications)
+        + [Spaun, the most realistic artificial human brain yet](http://www.extremetech.com/extreme/141926-spaun-the-most-realistic-artificial-human-brain-yet)
+            + [Repository of Neural and Cognitive Models](http://models.nengo.ca/spaun)
+            + [The Nengo Neural Simulator](http://nengo.ca/)
+                + [A Python library for creating and simulating large-scale brain models : github repo](https://github.com/nengo/nengo)
