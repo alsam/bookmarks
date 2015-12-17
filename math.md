@@ -24,3 +24,5 @@
       + [Mathematician claims breakthrough in complexity theory](http://news.sciencemag.org/math/2015/11/mathematician-claims-breakthrough-complexity-theory)
 
     + [Произведения и копроизведения](http://habrahabr.ru/post/271927/)
+
+    + [The Math Less Traveled](http://mathlesstraveled.com/)
