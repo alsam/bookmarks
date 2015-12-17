@@ -78,6 +78,26 @@
     + [Creating documents with embedded diagrams](https://byorgey.wordpress.com/2012/08/28/creating-documents-with-embedded-diagrams/)
         + [diagrams](http://projects.haskell.org/diagrams/)
             + [diagrams-builder](https://github.com/diagrams/diagrams-builder)
+            + [Haskell Diagrams wiki](https://wiki.haskell.org/Diagrams)
+            ```sh
+            cabal install gtk2hs-buildtools
+            cabal install -fcairo diagrams
+            cabal --reinstall install -fcairo diagrams
+            ghc --make DiagramsTutorial.lhs
+            ./DiagramsTutorial -o circle.svg -w 400
+            ./DiagramsTutorial -o circle.pdf -w 400
+            cat DiagramsTutorial.lhs
+            ```
+            ```haskell
+            > {-# LANGUAGE NoMonomorphismRestriction #-}
+            >
+            > import Diagrams.Prelude
+            > import Diagrams.Backend.Cairo.CmdLine
+            >
+            > main = mainWith (circle 1 :: Diagram B)
+            ```
+                + [The tree of function calls made by a naive Fibonacci implementation](http://projects.haskell.org/diagrams/gallery/FibCalls.html)
+                + [Basic diagram with text, boxes and arrows](http://projects.haskell.org/diagrams/gallery/SymmetryCube.html)
                 + [Flowchart sample](https://en.wikipedia.org/wiki/Flowchart#/media/File:Flowgorithm_Editor.png)
         + [Unordered tuples and type algebra](https://byorgey.wordpress.com/2012/08/24/unordered-tuples-and-type-algebra/)
     + [Embedded diagrams in pandoc's markdown](https://github.com/nichtich/ditaa-markdown/)
