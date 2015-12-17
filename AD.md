@@ -53,6 +53,8 @@
 
 + [AD in Haskell](https://wiki.haskell.org/Automatic_Differentiation)
 
++ [CS267 Project Report Towards Parallel Automatic Differentiation](http://www.cs.berkeley.edu/~agearh/cs267.sp10/files/Report-autodiff-Chenjie_Gu.pdf)
+
 + Autograd
     + [autograd: Efficiently computes derivatives of numpy code](https://github.com/HIPS/autograd)
     + [Autograd automatically differentiates native Torch code. Inspired by the original Python version](https://github.com/twitter/torch-autograd)
