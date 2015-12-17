@@ -88,7 +88,7 @@
             ./DiagramsTutorial -o circle.pdf -w 400
             cat DiagramsTutorial.lhs
             ```
-            ```haskell
+            ```lhs
             > {-# LANGUAGE NoMonomorphismRestriction #-}
             >
             > import Diagrams.Prelude
@@ -99,6 +99,7 @@
 
             + [The tree of function calls made by a naive Fibonacci implementation](http://projects.haskell.org/diagrams/gallery/FibCalls.html)
             + [Basic diagram with text, boxes and arrows](http://projects.haskell.org/diagrams/gallery/SymmetryCube.html)
+            + [Diagrams Gallery](http://projects.haskell.org/diagrams/gallery.html)
             + [Flowchart sample](https://en.wikipedia.org/wiki/Flowchart#/media/File:Flowgorithm_Editor.png)
         + [Unordered tuples and type algebra](https://byorgey.wordpress.com/2012/08/24/unordered-tuples-and-type-algebra/)
     + [Embedded diagrams in pandoc's markdown](https://github.com/nichtich/ditaa-markdown/)
@@ -108,6 +109,8 @@
 
 + use [dillinger for markdown formatting](http://dillinger.io/)
 + [Package algorithm2e on Ubuntu: sudo apt-get install texlive-science](http://tex.stackexchange.com/questions/46276/package-algorithm2e-on-ubuntu)
+
++ [Syntax highlighting in markdown](https://support.codebasehq.com/articles/tips-tricks/syntax-highlighting-in-markdown)
 
 + [ZeroMQ \zero-em-queue\, \ØMQ\:](http://zeromq.org/)
     + [source git](http://zeromq.org/docs:source-git)
