@@ -241,6 +241,8 @@
 
         + [Vim Racer Plugin](https://github.com/racer-rust/vim-racer)
 
+        + [A bunch of lints to catch common mistakes and improve your Rust code](https://github.com/Manishearth/rust-clippy)
+
         + [Convert string slice to int in rust](http://stackoverflow.com/questions/26919609/convert-string-slice-to-int-in-rust)
         + [Learning to 'try!' things in Rust](http://www.jonathanturner.org/2015/11/learning-to-try-things-in-rust.html)
             + [try!](http://rustbyexample.com/std/result/try.html)
@@ -299,3 +301,5 @@
 
     + [Machine Learning in Rust](https://github.com/alsam/bookmarks/blob/master/machine_learning.md#Rust based projects)
 
+    + [The Kolmogorov-Smirnov Test](http://daithiocrualaoich.github.io/kolmogorov_smirnov/)
+        + [Implementation of the Kolmogorov-Smirnov statistical test as a Rust library](https://github.com/daithiocrualaoich/kolmogorov_smirnov)
