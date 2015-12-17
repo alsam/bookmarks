@@ -182,7 +182,11 @@
                 + [github redox os](https://github.com/redox-os/redox)
                     + [This Week in Redox 5](http://www.redox-os.org/news/this-week-in-redox-5/)
                     + [sodium editor TODO](https://github.com/redox-os/redox/blob/master/filesystem/apps/sodium/TODO.md)
+                        + [the Redox editor now is here](https://github.com/redox-os/editor)
                     + [Redox is Serious](http://dictator.redox-os.org/index.php?controller=post&action=view&id_post=17)
+                    + [ion-shell](https://crates.io/crates/ion-shell/)
+                        + [redox-os/ion](https://github.com/redox-os/ion)
+                    + [The Orbital Widget Toolkit](https://crates.io/crates/orbtk/)
 
         + [Rust Lifetimes](http://www.charlesetc.com/rust/2015/10/29/)
         + [Lifetime Reference](http://www.charlesetc.com/rust/2015/10/31/)
