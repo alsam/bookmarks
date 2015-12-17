@@ -97,6 +97,49 @@
             > main = mainWith (circle 1 :: Diagram B)
             ```
 
+            The 2nd example : tree rendering
+            ```lhs>
+            > import Diagrams.Prelude
+            > import Diagrams.Backend.Cairo.CmdLine
+            
+            We make use of a tree layout module from the diagrams-contrib package:
+            
+            > import Data.Tree
+            > import Diagrams.TwoD.Layout.Tree
+            
+            + [Diagrams.TwoD.Layout.Tree official documentation](https://hackage.haskell.org/package/diagrams-contrib-1.3.0.8/docs/Diagrams-TwoD-Layout-Tree.html)
+            
+            > t1 = Node 'A' [Node 'B' (map lf "CDE"), Node 'F' [Node 'G' (map lf "HIJ")]]
+            >   where lf x = Node x []
+            > 
+            > exampleSymmTree =
+            >   renderTree ((<> circle 1 # fc white) . text . (:[]))
+            >              (~~)
+            >              (symmLayout' (with & slHSep .~ 4 & slVSep .~ 4) t1)
+            >   # centerXY # pad 1.1
+            
+            >
+            > main = mainWith (exampleSymmTree :: Diagram B)
+
+            ```
+            as `exampleSymmTree` don't have parameters then there is no `{-# LANGUAGE NoMonomorphismRestriction #-}`
+            even more with it `ghc` reports an error:
+            ```haskell
+            
+            [1 of 1] Compiling Main             ( TimersTree.lhs, TimersTree.o )
+            
+            TimersTree.lhs:16:3:
+                Non type-variable argument
+                  in the constraint: Renderable (Path V2 n) b
+                (Use FlexibleContexts to permit this)
+                When checking that ‘exampleSymmTree’ has the inferred type
+                  exampleSymmTree :: forall n b.
+                                     (RealFloat n, Data.Typeable.Internal.Typeable n,
+                                      Renderable (Path V2 n) b,
+                                      Renderable (Diagrams.TwoD.Text.Text n) b) =>
+                                     QDiagram b V2 n Any
+            ```
+
             + [The tree of function calls made by a naive Fibonacci implementation](http://projects.haskell.org/diagrams/gallery/FibCalls.html)
             + [Basic diagram with text, boxes and arrows](http://projects.haskell.org/diagrams/gallery/SymmetryCube.html)
             + [Diagrams Gallery](http://projects.haskell.org/diagrams/gallery.html)
