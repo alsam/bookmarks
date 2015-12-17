@@ -310,3 +310,5 @@
 
     + [A library for differential-geometric calculations](https://crates.io/crates/differential-geometry/)
         + [A Rust crate for differential-geometric calculations](https://github.com/fizyk20/differential-geometry)
+
+    + [A native-rust implementation of an Effect monad, inspired by PureScript's EFF Monad](https://crates.io/crates/effect-monad/)
