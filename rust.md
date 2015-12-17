@@ -307,3 +307,6 @@
 
     + [The Kolmogorov-Smirnov Test](http://daithiocrualaoich.github.io/kolmogorov_smirnov/)
         + [Implementation of the Kolmogorov-Smirnov statistical test as a Rust library](https://github.com/daithiocrualaoich/kolmogorov_smirnov)
+
+    + [A library for differential-geometric calculations](https://crates.io/crates/differential-geometry/)
+        + [A Rust crate for differential-geometric calculations](https://github.com/fizyk20/differential-geometry)
