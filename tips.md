@@ -98,7 +98,7 @@
             ```
 
             The 2nd example : tree rendering
-            ```lhs>
+            ```lhs
             > import Diagrams.Prelude
             > import Diagrams.Backend.Cairo.CmdLine
             
