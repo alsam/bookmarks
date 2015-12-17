@@ -1,9 +1,13 @@
 # rust language bookmarks
 + Rust links
+    + [Why Rust?](http://www.oreilly.com/programming/free/files/why-rust.pdf)
+    + [The Rust Book](https://doc.rust-lang.org/stable/book/)
+        + [An alternative introduction to Rust](http://words.steveklabnik.com/a-new-introduction-to-rust)
+        + [24day sof rust](http://zsiciarz.github.io/24daysofrust/)
     + [rust-learning](https://github.com/ctjhoa/rust-learning)
     + [this-week-in-rust](https://github.com/cmr/this-week-in-rust)
         + [Data for http://this-week-in-rust.org/ in case it is down](http://this-week-in-rust.org/)
-    + [Rust homepage](http://www.rust-lang.org/)
+    + [Rust homepage](http://www.rust-ang.org/)
     + [Rust learning](https://github.com/ctjhoa/rust-learning)
     + [http://rustbyexample.com/](http://rustbyexample.com/)
         + [Rust by example](https://github.com/rust-lang/rust-by-example)
