@@ -95,6 +95,9 @@
 
     + *Performance Tips*
         + [On pattern matching performance in rust](http://www.cjqed.com/blog/rust-pattern-matching-performance/)
+        + [Rust Faster!](https://llogiq.github.io/2015/10/03/fast.html)
+            + [The Computer Language Benchmarks Game: Rust implementations](https://github.com/TeXitoi/benchmarksgame-rs)
+            + [Compile-time type checking for arbitrary unit systems](https://github.com/llogiq/dimensioned)
 
     + [Announcing Rust 1.0](http://blog.rust-lang.org/2015/05/15/Rust-1.0.html)
 
