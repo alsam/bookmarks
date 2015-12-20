@@ -26,3 +26,12 @@
     + [Произведения и копроизведения](http://habrahabr.ru/post/271927/)
 
     + [The Math Less Traveled](http://mathlesstraveled.com/)
+
+    + Computational Topology
+        + Perseus links
+            + [The Perseus Software Project for Rapid Computation of Persistent Homology](http://www.sas.upenn.edu/~vnanda/perseus/index.html)
+        + [Dmitriy Morozov](http://www.mrzv.org/)
+            + [Dionysus is a C++ library for computing persistent homology](http://www.mrzv.org/software/dionysus/)
+        + [Applied Topology](http://appliedtopology.org/)
+        + [_C_omputational _Hom_ology _P_roject](http://chomp.rutgers.edu/)
+        + [Konstantin Mischaikow](http://math.rutgers.edu/~mischaik/)
