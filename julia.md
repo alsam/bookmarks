@@ -56,3 +56,5 @@
             + [Наследование комбинаторных парсеров на Julia](http://habrahabr.ru/post/241632/)
         + [Algebraic Data Type and Pattern Matching for Julia](https://github.com/potan/adt.jl)
             + [Pattern matching с помощью макросов](http://habrahabr.ru/post/242201/)
+
+        + [Joining regular expressions in julia](http://stackoverflow.com/questions/20478823/joining-regular-expressions-in-julia)
