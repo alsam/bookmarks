@@ -182,6 +182,7 @@
 
         + Books
             + [Artificial Cognitive Systems: A Primer](http://www.amazon.com/Artificial-Cognitive-Systems-A-Primer/dp/0262028387/ref=pd_bxgy_14_2?ie=UTF8&refRID=0827S66XPRA4SYQVXRKB)
+                + [Artificial Cognitive Systems by Prof. David Vernon](http://www.vernon.eu/ACS.htm)
             + [The Geometry of Meaning: Semantics Based on Conceptual Spaces](http://www.amazon.com/The-Geometry-Meaning-Semantics-Conceptual/dp/0262026783/ref=pd_sim_14_3?ie=UTF8&dpID=41USieoQ8aL&dpSrc=sims&preST=_AC_UL160_SR108%2C160_&refRID=0827S66XPRA4SYQVXRKB)
             + [Unifying the Mind: Cognitive Representations as Graphical Models](http://www.amazon.com/Unifying-Mind-Cognitive-Representations-Graphical/dp/0262027992/ref=pd_sim_14_4?ie=UTF8&dpID=51z2IhRE1JL&dpSrc=sims&preST=_AC_UL160_SR108%2C160_&refRID=0KAVSM4QPPZJ29RAWAMV)
             + [Brain Computation as Hierarchical Abstraction](http://www.amazon.com/Brain-Computation-as-Hierarchical-Abstraction/dp/0262028611/ref=pd_sim_14_10?ie=UTF8&dpID=51aiKu%2BuXFL&dpSrc=sims&preST=_AC_UL160_SR107%2C160_&refRID=0MXH9FP8761QW48BX4FT)
