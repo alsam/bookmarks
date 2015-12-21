@@ -174,6 +174,7 @@
             ```sh
             cabal install diagrams-pgf
             ```
+
                 + [User’s Guide to the PGF Package](http://mixing.coas.oregonstate.edu/links/latex_files/pgfuserguide.pdf)
 
             + [The tree of function calls made by a naive Fibonacci implementation](http://projects.haskell.org/diagrams/gallery/FibCalls.html)
