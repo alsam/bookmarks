@@ -170,6 +170,11 @@
             cabal install diagrams-pandoc
             cabal install SVGFonts
             ```
+            + [A PGF backend for diagrams](https://github.com/diagrams/diagrams-pgf)
+            ```sh
+            cabal install diagrams-pgf
+            ```
+
             + [The tree of function calls made by a naive Fibonacci implementation](http://projects.haskell.org/diagrams/gallery/FibCalls.html)
             + [Basic diagram with text, boxes and arrows](http://projects.haskell.org/diagrams/gallery/SymmetryCube.html)
             + [Diagrams Gallery](http://projects.haskell.org/diagrams/gallery.html)
