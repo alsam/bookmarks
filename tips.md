@@ -164,7 +164,7 @@
                                      QDiagram b V2 n Any
             ```
 
-            + [A pandoc filter to express diagrams inline using the haskell EDSL diagrams.](https://github.com/diagrams/diagrams-pandoc
+            + [A pandoc filter to express diagrams inline using the haskell EDSL diagrams.](https://github.com/diagrams/diagrams-pandoc)
             + [modules not found when installed via Nix #7](https://github.com/diagrams/diagrams-pandoc/issues/7)
             ```sh
             cabal install diagrams-pandoc
