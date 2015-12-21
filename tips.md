@@ -23,19 +23,44 @@
 + compile optimization tips (TODO reorganize)
     + [Why doesn't GCC optimize a*a*a*a*a*a to (a*a*a)*(a*a*a)?](http://stackoverflow.com/questions/6430448/why-doesnt-gcc-optimize-aaaaaa-to-aaaaaa)
 + scala
-+ vim tips
-    :set ff=unix
-    + [From Vim to Emacs+Evil chaotic migration guide](http://juanjoalvarez.net/es/)
-    + [The Modern Vim Config with Pathogen](http://tammersaleh.com/posts/the-modern-vim-config-with-pathogen/)
-        + [vim-pathogen](https://github.com/tpope/vim-pathogen)
-    + vim+scala
-        + [Editing Scala with vim](https://leonard.io/blog/2013/04/editing-scala-with-vim/)
-        + [My Vim setup for Scala](http://bleibinha.us/blog/2013/08/my-vim-setup-for-scala)
-            + [vim, scala and ctags](http://andrew.stwrt.ca/posts/vim-ctags/)
-        + [integration of Scala into Vim](https://github.com/derekwyatt/vim-scala)
-            + [coding-scala-with-vim](http://derekwyatt.org/2013/12/31/coding-scala-with-vim.html)
-    + [VIM and Python -- a Match Made in Heaven](https://realpython.com/blog/python/vim-and-python-a-match-made-in-heaven/)
-    + [vim-multiple-cursors](https://github.com/terryma/vim-multiple-cursors)
+
++ Editors
+
+    + [What are the best programming text editors?](http://www.slant.co/topics/12/~programming-text-editors)
+
+    + vim tips
+        :set ff=unix
+        + [From Vim to Emacs+Evil chaotic migration guide](http://juanjoalvarez.net/es/)
+        + [The Modern Vim Config with Pathogen](http://tammersaleh.com/posts/the-modern-vim-config-with-pathogen/)
+            + [vim-pathogen](https://github.com/tpope/vim-pathogen)
+        + vim+scala
+            + [Editing Scala with vim](https://leonard.io/blog/2013/04/editing-scala-with-vim/)
+            + [My Vim setup for Scala](http://bleibinha.us/blog/2013/08/my-vim-setup-for-scala)
+                + [vim, scala and ctags](http://andrew.stwrt.ca/posts/vim-ctags/)
+            + [integration of Scala into Vim](https://github.com/derekwyatt/vim-scala)
+                + [coding-scala-with-vim](http://derekwyatt.org/2013/12/31/coding-scala-with-vim.html)
+        + [VIM and Python -- a Match Made in Heaven](https://realpython.com/blog/python/vim-and-python-a-match-made-in-heaven/)
+        + [vim-multiple-cursors](https://github.com/terryma/vim-multiple-cursors)
+
+    + kate-config
+        + [Kate configuration for Rust](https://github.com/rust-lang/kate-config)
+
+    + [Atom - The hackable text editor](https://atom.io)
+        + [atom github](https://github.com/atom/atom)
+        + [Atom Flight Manual](https://atom.io/docs/latest/getting-started-atom-basics)
+        + [The Atom text editor and Rust](http://www.perfectchipperman.com/2015/10/the-atom-text-editor-and-rust.html)
+            + [Software development and other things](http://markusjais.com/)
+            + [atom/markdown-preview](https://github.com/atom/markdown-preview/pull/298)
+            + [atom/multi-cursor-plus](https://atom.io/packages/multi-cursor-plus)
+            + [[Solved] disable alt+mouse "move window"?](https://forum.xfce.org/viewtopic.php?id=2989)
+              + [How can I disable 'Alt' + mouse default behavior in KDE?](http://superuser.com/questions/584730/how-can-i-disable-alt-mouse-default-behavior-in-kde)
+              + [use 'Shift-MiddleMouse' for column selection](https://github.com/bigfive/atom-sublime-select/issues/26)
+              + [Automatically use hard tabs for Makefile buffers #3](https://github.com/atom/language-make/issues/3)
+        + performance issues
+            + [atom performance issues](https://github.com/atom/atom/labels/performance)
+                + [Atom hangs on large directories/files and when window switching #9325](https://github.com/atom/atom/issues/9325)
+                + [ Render lines via tiles #6733 ](https://github.com/atom/atom/pull/6733#issuecomment-108407945)
+                + [Find remaining performance bottlenecks for large files #6692](https://github.com/atom/atom/issues/6692)
 
 + LaTeX tips
     + [Modern LaTeX typesetting](https://www.olivierverdier.com/posts/2013/07/15/modern-latex/)
@@ -199,23 +224,6 @@
 + Linux From Scratch
     + [LFS root](http://www.linuxfromscratch.org/)
     + [Beyond Linux® From Scratch (systemd edition)](http://www.linuxfromscratch.org/blfs/view/systemd/)
-
-+ [Atom - The hackable text editor](https://atom.io)
-    + [atom github](https://github.com/atom/atom)
-    + [Atom Flight Manual](https://atom.io/docs/latest/getting-started-atom-basics)
-    + [The Atom text editor and Rust](http://www.perfectchipperman.com/2015/10/the-atom-text-editor-and-rust.html)
-        + [Software development and other things](http://markusjais.com/)
-        + [atom/markdown-preview](https://github.com/atom/markdown-preview/pull/298)
-        + [atom/multi-cursor-plus](https://atom.io/packages/multi-cursor-plus)
-        + [[Solved] disable alt+mouse "move window"?](https://forum.xfce.org/viewtopic.php?id=2989)
-          + [How can I disable 'Alt' + mouse default behavior in KDE?](http://superuser.com/questions/584730/how-can-i-disable-alt-mouse-default-behavior-in-kde)
-          + [use 'Shift-MiddleMouse' for column selection](https://github.com/bigfive/atom-sublime-select/issues/26)
-          + [Automatically use hard tabs for Makefile buffers #3](https://github.com/atom/language-make/issues/3)
-    + performance issues
-        + [atom performance issues](https://github.com/atom/atom/labels/performance)
-            + [Atom hangs on large directories/files and when window switching #9325](https://github.com/atom/atom/issues/9325)
-            + [ Render lines via tiles #6733 ](https://github.com/atom/atom/pull/6733#issuecomment-108407945)
-            + [Find remaining performance bottlenecks for large files #6692](https://github.com/atom/atom/issues/6692)
 
 + Docker
     + [Образы и контейнеры Docker в картинках](http://habrahabr.ru/post/272145/)
