@@ -138,6 +138,8 @@
             + [Diagrams Gallery](http://projects.haskell.org/diagrams/gallery.html)
             + [Flowchart sample](https://en.wikipedia.org/wiki/Flowchart#/media/File:Flowgorithm_Editor.png)
             + [Interactive windows for displaying Haskell-generated diagrams](https://github.com/leftaroundabout/dynamic-plot)
+            + [Haskell Diagrams double lined arrows](http://www.scriptscoop.net/t/4bf84e30bd44/haskell-diagrams-double-lined-arrows.html)
+
         + [Unordered tuples and type algebra](https://byorgey.wordpress.com/2012/08/24/unordered-tuples-and-type-algebra/)
     + [Embedded diagrams in pandoc's markdown](https://github.com/nichtich/ditaa-markdown/)
     + [PlantUML](http://plantuml.com/running.html)
