@@ -44,6 +44,9 @@
     + [PDF slides and handouts using Pandoc and Beamer](https://gist.github.com/lmullen/c3d4c7883f081ed8692a)
         + [Better-looking LaTeX/Beamer slides](https://kbroman.wordpress.com/2013/10/07/better-looking-latexbeamer-slides/)
 
+    + [The Haskell LaTeX library](https://github.com/Daniel-Diaz/HaTeX)
+        + [Convenient Haskell syntax for writing in LaTeX math expressions](https://github.com/leftaroundabout/Symbolic-math-HaTeX)
+
 + Creating diagrams
     + [Creating documents with embedded diagrams](https://byorgey.wordpress.com/2012/08/28/creating-documents-with-embedded-diagrams/)
         + [diagrams](http://projects.haskell.org/diagrams/)
@@ -134,6 +137,7 @@
             + [Basic diagram with text, boxes and arrows](http://projects.haskell.org/diagrams/gallery/SymmetryCube.html)
             + [Diagrams Gallery](http://projects.haskell.org/diagrams/gallery.html)
             + [Flowchart sample](https://en.wikipedia.org/wiki/Flowchart#/media/File:Flowgorithm_Editor.png)
+            + [Interactive windows for displaying Haskell-generated diagrams](https://github.com/leftaroundabout/dynamic-plot)
         + [Unordered tuples and type algebra](https://byorgey.wordpress.com/2012/08/24/unordered-tuples-and-type-algebra/)
     + [Embedded diagrams in pandoc's markdown](https://github.com/nichtich/ditaa-markdown/)
     + [PlantUML](http://plantuml.com/running.html)
