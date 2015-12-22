@@ -25,6 +25,10 @@
         + [wiki link compares blaze vs. other C++ libraries](http://code.google.com/p/blaze-lib/wiki/Benchmarks)
     + [psBLAS -- Parallel Sparse Basic Linear Algebra Subroutines -- Fortran2003](http://www.ce.uniroma2.it/psblas/)
 
++ [Spectra - C++ Library For Large Scale Eigenvalue Problems](http://yixuan.cos.name/spectra/)
+    + [A header-only C++ library for large scale eigenvalue problems](https://github.com/yixuan/spectra)
+    + [Spectra Performance](http://yixuan.cos.name/spectra/performance.html)
+
 + Hierarchical matrices
     + [H2Lib is an open source software library for hierarchical matrices and H²-matrices](http://h2lib.org/)
         + [H2Lib public github repository](https://github.com/H2Lib/H2Lib)
