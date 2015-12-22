@@ -199,7 +199,8 @@
 + [HPC links](https://github.com/alsam/bookmarks/blob/master/hpc.md)
 
 + [Tips](https://github.com/alsam/bookmarks/blob/master/tips.md)
-    + [Performance optimization](https://github.com/alsam/bookmarks/blob/master/paerformance_optimization_tips.md)
+    + [Technical typesetting](https://github.com/alsam/bookmarks/blob/master/technical_typesetting.md)
+    + [Performance optimization](https://github.com/alsam/bookmarks/blob/master/performance_optimization_tips.md)
 
 + [Machine Learning](https://github.com/alsam/bookmarks/blob/master/machine_learning.md)
 

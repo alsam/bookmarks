@@ -27,6 +27,8 @@
 
     + [What are the best programming text editors?](http://www.slant.co/topics/12/~programming-text-editors)
 
+    + [How to Select Columns in Editors (Kate, Vim, etc.)](http://stackoverflow.com/questions/1802616/how-to-select-columns-in-editors-notepad-kate-vim-sublime-textpad-etc-an)
+
     + vim tips
         :set ff=unix
         + [From Vim to Emacs+Evil chaotic migration guide](http://juanjoalvarez.net/es/)
@@ -61,145 +63,12 @@
                 + [ Render lines via tiles #6733 ](https://github.com/atom/atom/pull/6733#issuecomment-108407945)
                 + [Find remaining performance bottlenecks for large files #6692](https://github.com/atom/atom/issues/6692)
 
-+ LaTeX tips
-    + [Modern LaTeX typesetting](https://www.olivierverdier.com/posts/2013/07/15/modern-latex/)
-    + [buildtexlive](https://github.com/elkrejzi/system-management/blob/master/buildscripts/buildtexlive#L52)
-    + [Introduction to TeX Live from source](http://www.linuxfromscratch.org/blfs/downloads/stable/BLFS-BOOK-7.7-nochunks.html#tl-installer
-        + [Re: [blfs-dev] Possible changes to how we do texlive](https://www.mail-archive.com/blfs-dev@lists.linuxfromscratch.org/msg02996.html)
-    + [KaTeX The fastest math typesetting library for the web](http://khan.github.io/KaTeX/)
-        + [KaTeX github](https://github.com/Khan/KaTeX)
-    + [LaTeX Table Generator](http://www.tablesgenerator.com/)
-    + [Online LaTeX Equation Editor](http://www.codecogs.com/latex/eqneditor.php)
-    + [Element-wise (or pointwise) operations notation?](http://math.stackexchange.com/questions/20412/element-wise-or-pointwise-operations-notation)
-        + [List of mathematical symbols](https://en.wikipedia.org/wiki/List_of_mathematical_symbols)
-        + [Mathematics#List_of_Mathematical_Symbols](https://en.wikibooks.org/wiki/LaTeX/Mathematics#List_of_Mathematical_Symbols)
-            + [How do I use a circle as a math accent (larger than \mathring)?](http://tex.stackexchange.com/questions/3266/how-do-i-use-a-circle-as-a-math-accent-larger-than-mathring)
-            + [how to get good looking copyright and registered symbols](http://tex.stackexchange.com/questions/1676/how-to-get-good-looking-copyright-and-registered-symbols)
-
-    + [Fonts](https://en.wikibooks.org/wiki/LaTeX/Fonts)
-    + [Macros](https://en.wikibooks.org/wiki/LaTeX/Macros)
-    + [LaTeX/Lengths](https://en.wikibooks.org/wiki/LaTeX/Lengths)
-    + [Import graphics](https://en.wikibooks.org/wiki/LaTeX/Importing_Graphics)
-    + [Aligning equations with amsmath](https://www.sharelatex.com/learn/Aligning_equations_with_amsmath)
-    + [Text alignment](https://www.sharelatex.com/learn/Text_alignment)
-    + [How to strike out inside LaTeX equations?](http://stackoverflow.com/questions/2663944/how-to-strike-out-inside-latex-equations)
-    + [minted – highlighted source code for LaTeX](https://code.google.com/p/minted/)
-        + [Code Highlighting with minted -- contains nifty colour styles to choose from](https://www.sharelatex.com/learn/Code_Highlighting_with_minted)
-    + [Description list with aligned descriptions](http://tex.stackexchange.com/questions/67720/description-list-with-aligned-descriptions)
-    + Unicode
-        + [entering-unicode-characters-in-latex](http://tex.stackexchange.com/questions/34604/entering-unicode-characters-in-latex)
-            + [insert-unicode-symbol](http://tex.stackexchange.com/questions/37445/insert-unicode-symbol)
-        + Fonts (CMU aka Computer Modern Unicode especially)
-            + [Adding New Fonts to Your System](http://community.linuxmint.com/tutorial/view/29)
-            + [why-does-xetex-not-display-basic-unicode-characters](http://tex.stackexchange.com/questions/201622/why-does-xetex-not-display-basic-unicode-characters)
-            + [Как сказать XeLaTeX, чтобы использовал шрифты Computer Modern?](http://www.linux.org.ru/forum/desktop/8254794)
-            + [Using fonts installed in local texlive](http://tex.stackexchange.com/questions/202767/using-fonts-installed-in-local-texlive)
-
-    + [PDF slides and handouts using Pandoc and Beamer](https://gist.github.com/lmullen/c3d4c7883f081ed8692a)
-        + [Better-looking LaTeX/Beamer slides](https://kbroman.wordpress.com/2013/10/07/better-looking-latexbeamer-slides/)
-
-+ Creating diagrams
-    + [Creating documents with embedded diagrams](https://byorgey.wordpress.com/2012/08/28/creating-documents-with-embedded-diagrams/)
-        + [diagrams](http://projects.haskell.org/diagrams/)
-            + [diagrams-builder](https://github.com/diagrams/diagrams-builder)
-            + [Haskell Diagrams wiki](https://wiki.haskell.org/Diagrams)
-            ```sh
-            cabal install gtk2hs-buildtools
-            cabal install -fcairo diagrams
-            cabal --reinstall install -fcairo diagrams
-            ghc --make DiagramsTutorial.lhs
-            ./DiagramsTutorial -o circle.svg -w 400
-            ./DiagramsTutorial -o circle.pdf -w 400
-            cat DiagramsTutorial.lhs
-            ```
-            ```lhs
-            > {-# LANGUAGE NoMonomorphismRestriction #-}
-            >
-            > import Diagrams.Prelude
-            > import Diagrams.Backend.Cairo.CmdLine
-            >
-            > main = mainWith (circle 1 :: Diagram B)
-            ```
-
-            The 2nd example : tree rendering
-            ```lhs
-            > import Diagrams.Prelude
-            > import Diagrams.Backend.Cairo.CmdLine
-            
-            We make use of a tree layout module from the diagrams-contrib package:
-            
-            > import Data.Tree
-            > import Diagrams.TwoD.Layout.Tree
-            
-            + [Diagrams.TwoD.Layout.Tree official documentation](https://hackage.haskell.org/package/diagrams-contrib-1.3.0.8/docs/Diagrams-TwoD-Layout-Tree.html)
-            
-            > t1 = Node 'A' [Node 'B' (map lf "CDE"), Node 'F' [Node 'G' (map lf "HIJ")]]
-            >   where lf x = Node x []
-            > 
-            > exampleSymmTree =
-            >   renderTree ((<> circle 1 # fc white) . text . (:[]))
-            >              (~~)
-            >              (symmLayout' (with & slHSep .~ 4 & slVSep .~ 4) t1)
-            >   # centerXY # pad 1.1
-            
-            >
-            > main = mainWith (exampleSymmTree :: Diagram B)
-
-            ```
-            as `exampleSymmTree` don't have parameters then there is no `{-# LANGUAGE NoMonomorphismRestriction #-}`
-            even more with it `ghc` reports an error:
-            ```haskell
-            
-            [1 of 1] Compiling Main             ( TimersTree.lhs, TimersTree.o )
-            
-            TimersTree.lhs:16:3:
-                Non type-variable argument
-                  in the constraint: Renderable (Path V2 n) b
-                (Use FlexibleContexts to permit this)
-                When checking that ‘exampleSymmTree’ has the inferred type
-                  exampleSymmTree :: forall n b.
-                                     (RealFloat n, Data.Typeable.Internal.Typeable n,
-                                      Renderable (Path V2 n) b,
-                                      Renderable (Diagrams.TwoD.Text.Text n) b) =>
-                                     QDiagram b V2 n Any
-            ```
-
-            + [A pandoc filter to express diagrams inline using the haskell EDSL diagrams.](https://github.com/diagrams/diagrams-pandoc)
-            + [modules not found when installed via Nix #7](https://github.com/diagrams/diagrams-pandoc/issues/7)
-            ```sh
-            cabal install diagrams-pandoc
-            cabal install SVGFonts
-            ```
-            + [A PGF backend for diagrams](https://github.com/diagrams/diagrams-pgf)
-            ```sh
-            cabal install diagrams-pgf
-            ```
-
-            + [User’s Guide to the PGF Package](http://mixing.coas.oregonstate.edu/links/latex_files/pgfuserguide.pdf)
-
-            + [The tree of function calls made by a naive Fibonacci implementation](http://projects.haskell.org/diagrams/gallery/FibCalls.html)
-            + [Basic diagram with text, boxes and arrows](http://projects.haskell.org/diagrams/gallery/SymmetryCube.html)
-            + [Diagrams Gallery](http://projects.haskell.org/diagrams/gallery.html)
-            + [Flowchart sample](https://en.wikipedia.org/wiki/Flowchart#/media/File:Flowgorithm_Editor.png)
-        + [Unordered tuples and type algebra](https://byorgey.wordpress.com/2012/08/24/unordered-tuples-and-type-algebra/)
-    + [Embedded diagrams in pandoc's markdown](https://github.com/nichtich/ditaa-markdown/)
-    + [PlantUML](http://plantuml.com/running.html)
-
-+ [Support LaTeX environments in Markdown -> HTML conversion #1938](https://github.com/jgm/pandoc/issues/1938)
-
-+ use [dillinger for markdown formatting](http://dillinger.io/)
-+ [Package algorithm2e on Ubuntu: sudo apt-get install texlive-science](http://tex.stackexchange.com/questions/46276/package-algorithm2e-on-ubuntu)
-
-+ [Syntax highlighting in markdown](https://support.codebasehq.com/articles/tips-tricks/syntax-highlighting-in-markdown)
++ [Technical typesetting](https://github.com/alsam/bookmarks/blob/master/technical_typesetting.md)
 
 + [ZeroMQ \zero-em-queue\, \ØMQ\:](http://zeromq.org/)
     + [source git](http://zeromq.org/docs:source-git)
     + [ØMQ Language Bindings](http://zeromq.org/bindings:_start)
     + [Scala binding for ZeroMQ http://www.zeromq.org/bindings:scala-binding](https://github.com/valotrading/zeromq-scala-binding)
-
-+ [math in markdown: Survey of syntaxes for math in markdown](https://github.com/cben/mathdown/wiki/math-in-markdown)
-    + [Schlolarlymarkdown: make academic writing less frustrating](http://scholarlymarkdown.com/)
-    + [github repo for scholdoc](https://github.com/timtylin/scholdoc)
 
 + MIT online courses
     + [physics](http://ocw.mit.edu/courses/physics/)
@@ -230,8 +99,6 @@
     + [a bunch of purescript repos](https://github.com/freebroccolo?tab=repositories)
 
 + [How to extract RPM or DEB packages](http://www.g-loaded.eu/2008/01/28/how-to-extract-rpm-or-deb-packages/)
-
-+ [pandoc binaries](https://github.com/jgm/pandoc/releases/tag/1.15.0.6)
 
 + Linux From Scratch
     + [LFS root](http://www.linuxfromscratch.org/)
