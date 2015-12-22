@@ -47,10 +47,11 @@
 + Creating diagrams
     + [Creating documents with embedded diagrams](https://byorgey.wordpress.com/2012/08/28/creating-documents-with-embedded-diagrams/)
         + [diagrams](http://projects.haskell.org/diagrams/)
+            + [project haskell diagrams blog](http://projects.haskell.org/diagrams/blog/index.html)
             + [Diagrams 1.3 : what's new](http://projects.haskell.org/diagrams/blog/2015-04-24-diagrams-1.3.html)
             + blog :: Brent -> [String]
                 + [About Brent Yorgey](https://byorgey.wordpress.com/about/)
-                + [diagrams blogs](https://byorgey.wordpress.com/tag/diagrams/)
+                + [diagrams blog](https://byorgey.wordpress.com/tag/diagrams/)
             + [diagrams-builder](https://github.com/diagrams/diagrams-builder)
             + [Using Diagrams library in haskell (draw binary trees)](http://stackoverflow.com/questions/30667522/using-diagrams-library-in-haskell-draw-binary-trees)
             + [Haskell Diagrams wiki](https://wiki.haskell.org/Diagrams)

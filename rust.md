@@ -271,6 +271,9 @@
 
     + Misc.
         + [Dual numbers in Rust](https://github.com/potan/dual.rs)
+
+        + [Rustdoc: reStructuredText vs Markdown: On The Potential Inadequacy of Markdown](https://internals.rust-lang.org/t/rustdoc-restructuredtext-vs-markdown/356/71)
+
         + [cargo-tree](https://github.com/sfackler/cargo-tree)
 
         produces
