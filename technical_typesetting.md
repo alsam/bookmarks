@@ -131,6 +131,17 @@
             cabal install diagrams-pgf
             ```
 
+            + an example of customized tree rendering
+            ```lhs
+            > text' (timer_name, func_name) = ((text ( timer_name ++ "\n\n")) # fc blue # fontSize (local 0.4)) === ((text ( func_name )) # fc green # italic # bold)
+            > mybox' (timer_name, func_name) = let wid = fromIntegral(length func_name)*0.3 in (text' (timer_name, func_name)) <> roundedRect wid 2 0.1 # fc gold
+            > exampleSymmTree =
+            >   renderTree mybox'
+            >              (~~)
+            >              (symmLayout' (with & slHSep .~ 8 & slVSep .~ 7) t1)
+            >   # centerXY # pad 1.1 # fontSize (local 0.3)
+            ```
+
             + [User’s Guide to the PGF Package](http://mixing.coas.oregonstate.edu/links/latex_files/pgfuserguide.pdf)
 
             + [The tree of function calls made by a naive Fibonacci implementation](http://projects.haskell.org/diagrams/gallery/FibCalls.html)
