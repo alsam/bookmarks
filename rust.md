@@ -219,6 +219,9 @@
 
         + [Rosetta code for complex in Rust](http://rosettacode.org/wiki/Arithmetic/Complex#Rust)
 
+        + [Raw Pointers](https://doc.rust-lang.org/nightly/book/raw-pointers.html)
+             + [Primitive Type pointer](https://doc.rust-lang.org/nightly/std/primitive.pointer.html)
+
         + [Reading binary file](https://users.rust-lang.org/t/reading-binary-files/2132)
         ```rust
         use std::fs::File;
