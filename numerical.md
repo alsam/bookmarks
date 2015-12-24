@@ -39,3 +39,12 @@
             + [BEM++ fork](https://github.com/UCL/bempp)
     + [Boundary Element Template Library](http://www.sam.math.ethz.ch/betl/)
     + [HyENA - HyENA stands for [Hy]perbolic and [E]lliptic [N]umerical [A]nalysis and is a C++ library](http://portal.tugraz.at/portal/page/portal/Files/i2610/files/Forschung/Software/HyENA/html/index.html)
+
++ Unam
+    + [What are the biggest challenges in scientific computing?](https://www.quora.com/What-are-the-biggest-challenges-in-scientific-computing)
+        + [UNUM ... a better alternative to IEEE Floating Point?](https://www.reddit.com/comments/2ckk5u)
+        + [The Evils of Floating Point, and the Joys of Unum](http://vrworld.com/2015/03/24/the-evils-of-floating-point-and-the-joys-of-unum/)
+        + [John Gustafson (scientist)](https://en.wikipedia.org/wiki/John_Gustafson_%28scientist%29)
+        + [Unum Computing: An Energy Efficient and Massively Parallel Approach to Numerics](https://news.ycombinator.com/item?id=9943589)
+            + [Unum Computing slideshare](http://www.slideshare.net/insideHPC/unum-computing-an-energy-efficient-and-massively-parallel-approach-to-valid-numerics)
+        + [Unums.jl](https://github.com/tbreloff/Unums.jl/wiki/Unum-Summary-%28in-progress%29)
