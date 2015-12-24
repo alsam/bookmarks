@@ -1,5 +1,6 @@
 # useful tips
 + git & github
+    + [Git и Github. Простые рецепты](http://habrahabr.ru/post/273897/)
     + [Моя шпаргалка по работе с Git](http://eax.me/git-commands/)
     + Mary Rose Cook on git
         + [Mary Rose Cook blog](http://maryrosecook.com/)
