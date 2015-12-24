@@ -26,6 +26,7 @@
         + [An N-dimensional array for elements of arbitrary type. Lightweight array views and slicing. Supports both uniquely owned and shared copy-on-write arrays similar to numpy’s ndarray](https://crates.io/crates/rendarray/)
             + [rendarray: N-dimensional array like numpy's ndarray](https://github.com/bluss/rust-ndarray)
         + [Rayon: A data parallelism library for Rust](https://github.com/huonw/rayon)
+            + [Neon: Node + Rust = ������](https://www.reddit.com/r/rust/comments/3y0vx9/neon_node_rust/)
         + [parry - Parallel array processing: deflect performance problems](https://github.com/huonw/parry)
         + [crossbeam - Support for parallelism and low-level concurrency in Rust](https://github.com/aturon/crossbeam)
         + FFT libraries and bindings
@@ -100,6 +101,11 @@
             + [The Computer Language Benchmarks Game: Rust implementations](https://github.com/TeXitoi/benchmarksgame-rs)
             + [Compile-time type checking for arbitrary unit systems](https://github.com/llogiq/dimensioned)
         + [Сравниваем Swift и Rust](http://habrahabr.ru/post/272681/) 
+        + [I wrote my Bachelor's thesis about Go and Rust in high-performance computing](https://www.reddit.com/r/rust/comments/34m7gw/i_wrote_my_bachelors_thesis_about_go_and_rust_in/)
+            + [bachelor's thesis titled "Evaluation of performance and productivity metrics of potential programming languages in the HPC environment"](https://github.com/mrfloya/thesis-ba)
+            + [Evaluation of C, Go, and Rust in the HPC environment](https://news.ycombinator.com/item?id=9477014)
+            + [Evaluation of performance and productivity metrics of potential programming languages in the HPC environment - A comparison of Rust, Go and C -- University of Hamburg](https://www.reddit.com/r/programming/comments/34ml5f/evaluation_of_performance_and_productivity/)
+            + [Rust programs versus Go by benchmark task performance](http://benchmarksgame.alioth.debian.org/u64q/compare.php?lang=rust&lang2=go
 
     + [Announcing Rust 1.0](http://blog.rust-lang.org/2015/05/15/Rust-1.0.html)
 
