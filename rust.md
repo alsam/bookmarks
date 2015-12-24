@@ -221,6 +221,7 @@
 
         + [Raw Pointers](https://doc.rust-lang.org/nightly/book/raw-pointers.html)
              + [Primitive Type pointer](https://doc.rust-lang.org/nightly/std/primitive.pointer.html)
+             + [Dereferencing untyped raw pointer](https://users.rust-lang.org/t/dereferencing-untyped-raw-pointer/896)
 
         + [Reading binary file](https://users.rust-lang.org/t/reading-binary-files/2132)
         ```rust
