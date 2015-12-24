@@ -222,6 +222,7 @@
         + [Raw Pointers](https://doc.rust-lang.org/nightly/book/raw-pointers.html)
              + [Primitive Type pointer](https://doc.rust-lang.org/nightly/std/primitive.pointer.html)
              + [Dereferencing untyped raw pointer](https://users.rust-lang.org/t/dereferencing-untyped-raw-pointer/896)
+             + [Rust FFI and Opaque pointer idiom](https://www.reddit.com/r/rust/comments/2fmvcy/rust_ffi_and_opaque_pointer_idiom/)
 
         + [Reading binary file](https://users.rust-lang.org/t/reading-binary-files/2132)
         ```rust
