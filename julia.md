@@ -58,6 +58,8 @@
             + [Pattern matching с помощью макросов](http://habrahabr.ru/post/242201/)
 
         + [Joining regular expressions in julia](http://stackoverflow.com/questions/20478823/joining-regular-expressions-in-julia)
+
+        + [Multidimensional Array Comprehension in Julia](http://stackoverflow.com/questions/19347799/multidimensional-array-comprehension-in-julia)
         
 ```julia
 julia> x = ["a",
