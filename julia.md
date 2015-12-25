@@ -58,3 +58,16 @@
             + [Pattern matching с помощью макросов](http://habrahabr.ru/post/242201/)
 
         + [Joining regular expressions in julia](http://stackoverflow.com/questions/20478823/joining-regular-expressions-in-julia)
+        
+```julia
+julia> x = ["a",
+       "b",
+       ]
+2-element Array{ASCIIString,1}:
+ "a"
+ "b"
+julia> d = Dict{ASCIIString, Int}([(xx, 0)  for xx in x])
+Dict{ASCIIString,Int64} with 2 entries:
+  "b" => 0
+  "a" => 0
+```
