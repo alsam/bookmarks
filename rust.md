@@ -285,6 +285,8 @@
     + Misc.
         + [Dual numbers in Rust](https://github.com/potan/dual.rs)
 
+        + [libfloat](https://github.com/peterhj/libfloat)
+
         + [Rustdoc: reStructuredText vs Markdown: On The Potential Inadequacy of Markdown](https://internals.rust-lang.org/t/rustdoc-restructuredtext-vs-markdown/356/71)
 
         + [How to implement a C union in Rust](https://users.rust-lang.org/t/how-to-implement-a-c-union-in-rust/3291/4)
