@@ -339,6 +339,7 @@
             println!("{}", x(2.3));
         }
         ```
+
             + [Accumulator factory](http://rosettacode.org/wiki/Accumulator_Factory)
                 + [Accumulator factory C++, see esp. C++11 ](http://rosettacode.org/wiki/Accumulator_Factory#C.2B.2B)
 
