@@ -106,7 +106,7 @@
             + [bachelor's thesis titled "Evaluation of performance and productivity metrics of potential programming languages in the HPC environment"](https://github.com/mrfloya/thesis-ba)
             + [Evaluation of C, Go, and Rust in the HPC environment](https://news.ycombinator.com/item?id=9477014)
             + [Evaluation of performance and productivity metrics of potential programming languages in the HPC environment - A comparison of Rust, Go and C -- University of Hamburg](https://www.reddit.com/r/programming/comments/34ml5f/evaluation_of_performance_and_productivity/)
-            + [Rust programs versus Go by benchmark task performance](http://benchmarksgame.alioth.debian.org/u64q/compare.php?lang=rust&lang2=go
+            + [Rust programs versus Go by benchmark task performance](http://benchmarksgame.alioth.debian.org/u64q/compare.php?lang=rust&lang2=go)
 
     + [Announcing Rust 1.0](http://blog.rust-lang.org/2015/05/15/Rust-1.0.html)
 
