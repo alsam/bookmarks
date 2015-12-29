@@ -166,6 +166,7 @@
 
         + [rustlearn](https://crates.io/crates/rustlearn)
         + [cudnn](https://crates.io/crates/cudnn)
+        + [Evaluation of Deep Learning Toolkits](https://github.com/zer0n/deepframeworks/blob/master/README.md)
 
 
 + The __Hard__ Problem
