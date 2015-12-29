@@ -51,7 +51,7 @@
             + [Handbook of Floating-Point Arithmetic](http://www.amazon.com/Handbook-Floating-Point-Arithmetic-Jean-Michel-Muller/dp/081764704X/ref=cm_cr_pr_product_sims?ie=UTF8)
             + [Rump's Royal Pain](http://arith22.gforge.inria.fr/slides/06-gustafson.pdf)
         + [Unums.jl](https://github.com/tbreloff/Unums.jl/wiki/Unum-Summary-%28in-progress%29)
-        ```jlcon
+        ```julia
         julia> f(x,y) = 333.75*y^6 + x^2*(11*x^2*y^2-y^6-121*y^4-2)+5.5*y^8+x/(2*y)
         f (generic function with 1 method)
 
