@@ -49,4 +49,27 @@
             + [Unum Computing slideshare](http://www.slideshare.net/insideHPC/unum-computing-an-energy-efficient-and-massively-parallel-approach-to-valid-numerics)
             + [Unum Computing Is A Breakthrough ... A Game Changer](http://www.amazon.com/The-End-Error-Computing-Computational/product-reviews/1482239868)
             + [Handbook of Floating-Point Arithmetic](http://www.amazon.com/Handbook-Floating-Point-Arithmetic-Jean-Michel-Muller/dp/081764704X/ref=cm_cr_pr_product_sims?ie=UTF8)
+            + [Rump's Royal Pain](http://arith22.gforge.inria.fr/slides/06-gustafson.pdf)
         + [Unums.jl](https://github.com/tbreloff/Unums.jl/wiki/Unum-Summary-%28in-progress%29)
+        ```jlcon
+        julia> f(x,y) = 333.75*y^6 + x^2*(11*x^2*y^2-y^6-121*y^4-2)+5.5*y^8+x/(2*y)
+        f (generic function with 1 method)
+
+        julia> f(77617,33096)
+        1.64176022256015e21
+
+        julia> f(Rational(77617,1),Rational(33096,1))
+        ERROR: OverflowError()
+         in * at rational.jl:188
+         in power_by_squaring at intfuncs.jl:96
+         in f at none:1
+        
+        julia> f(Rational(BigInt(77617),1),Rational(BigInt(33096),1))
+        -8.273960599468213681411650954798162919990331157843848199178148416727096930142628e-01
+
+        julia> f(77617.0,33096.0)
+        -1.1805916207174113e21
+
+        julia> f(BigFloat(77617),BigFloat(33096))
+        -8.273960599468213681411650954798162919990331157843848199178148416727096930142628e-01
+        ```
