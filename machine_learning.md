@@ -179,6 +179,8 @@
             + [Repository of Neural and Cognitive Models](http://models.nengo.ca/spaun)
             + [The Nengo Neural Simulator](http://nengo.ca/)
                 + [A Python library for creating and simulating large-scale brain models : github repo](https://github.com/nengo/nengo)
+        + [gkassel/pyaixi](https://github.com/gkassel/pyaixi)
+        + [Joel Veness Research Scientist, Google DeepMind](http://jveness.info/software/default.html)
 
         + Books
             + [Artificial Cognitive Systems: A Primer](http://www.amazon.com/Artificial-Cognitive-Systems-A-Primer/dp/0262028387/ref=pd_bxgy_14_2?ie=UTF8&refRID=0827S66XPRA4SYQVXRKB)
