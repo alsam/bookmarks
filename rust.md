@@ -348,6 +348,7 @@
         + [cpp-templates-vs-rust-generics](https://gist.github.com/bjz/9220415)
         + [Rust, Generics, and Collections](http://cglab.ca/~abeinges/blah/rust-generics-and-collections/)
         + [Rust, Lifetimes, and Collections](http://cglab.ca/~abeinges/blah/rust-lifetimes-and-collections/)
+            + [Problem about borrowing: My timer implementation requires a mutable reference to the timer queue](https://users.rust-lang.org/t/problem-about-borrowing-my-timer-implementation-requires-a-mutable-reference-to-the-timer-queue/4118/1)
 
     + Ideas, RFCs, that are not in the language yet
         + [`step_by` on negative numbers](https://internals.rust-lang.org/t/step-by-on-negative-numbers/2231)
