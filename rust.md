@@ -169,6 +169,8 @@
             + [LALRPOP tutorial](https://github.com/nikomatsakis/lalrpop/blob/master/doc/tutorial.md)
         + [rusty-peg crate](https://crates.io/crates/rusty-peg)
             + [rusty-peg github](https://github.com/nikomatsakis/rusty-peg)
+        + [Parser Combinators: The road to Chomp 0.1](https://m4rw3r.github.io/)
+            + [A fast monadic-style parser combinator designed to work on stable Rust](https://github.com/m4rw3r/chomp)
 
     + Misc
         + [Contributing to Rust]([http://www.ncameron.org/rust.html)
@@ -363,7 +365,8 @@
             + [Rustdoc: reStructuredText vs Markdown](https://internals.rust-lang.org/t/rustdoc-restructuredtext-vs-markdown/356/63)
         + GC in Rust
             + [GC and Rust Part 0: Garbage Collection Background](http://blog.pnkfx.org/blog/2015/10/27/gc-and-rust-part-0-how-does-gc-work/)
-            + [(GC and Rust Part 1: Specifying the Problem](http://blog.pnkfx.org/blog/2015/11/10/gc-and-rust-part-1-specing-the-problem/)
+            + [GC and Rust Part 1: Specifying the Problem](http://blog.pnkfx.org/blog/2015/11/10/gc-and-rust-part-1-specing-the-problem/)
+            + [GC and Rust Part 2: The Roots of the Problem](http://blog.pnkfx.org/blog/2016/01/01/gc-and-rust-part-2-roots-of-the-problem/)
 
     + [Machine Learning in Rust](https://github.com/alsam/bookmarks/blob/master/machine_learning.md#Rust based projects)
         + [rustlearn - A machine learning package for Rust](https://github.com/maciejkula/rustlearn)
