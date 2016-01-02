@@ -182,6 +182,7 @@
                 + [A Python library for creating and simulating large-scale brain models : github repo](https://github.com/nengo/nengo)
         + [gkassel/pyaixi](https://github.com/gkassel/pyaixi)
         + [Joel Veness Research Scientist, Google DeepMind](http://jveness.info/software/default.html)
+        + [How to build a General Intelligence: Circuits and Pathways](http://blog.agi.io/?m=1)
 
         + Books
             + [Artificial Cognitive Systems: A Primer](http://www.amazon.com/Artificial-Cognitive-Systems-A-Primer/dp/0262028387/ref=pd_bxgy_14_2?ie=UTF8&refRID=0827S66XPRA4SYQVXRKB)
