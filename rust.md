@@ -377,5 +377,6 @@
     + [A library for differential-geometric calculations](https://crates.io/crates/differential-geometry/)
         + [A Rust crate for differential-geometric calculations](https://github.com/fizyk20/differential-geometry)
         + [Differential geometry in Rust](http://ebvalaim.mydevil.net/en/2015/12/18/differential-geometry-in-rust/)
+            + [Possible bug in trait bounds evaluation #30262](https://github.com/rust-lang/rust/issues/30262)
 
     + [A native-rust implementation of an Effect monad, inspired by PureScript's EFF Monad](https://crates.io/crates/effect-monad/)
