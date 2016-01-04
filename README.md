@@ -51,6 +51,7 @@
     + [Chisel: Constructing Hardware in a Scala Embedded Language](https://chisel.eecs.berkeley.edu/)
         + [UC Berkeley Architecture Research](https://github.com/ucb-bar)
             + [The RISC-V Instruction Set Architecture](http://riscv.org)
+                + [Rocket Chip Generator](http://riscv.org/download.html#tab_rocket) 
             + [Rocket Microarchitectural Implementation of RISC-V ISA](https://github.com/ucb-bar/rocket)
             + [Rocket uncore: L2 cache, etc.](https://github.com/ucb-bar/uncore)
 
