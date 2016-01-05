@@ -213,6 +213,7 @@
         + [Rust Lifetimes](http://www.charlesetc.com/rust/2015/10/29/)
         + [Lifetime Reference](http://www.charlesetc.com/rust/2015/10/31/)
             + [official lifetimes doc](https://doc.rust-lang.org/book/lifetimes.html)
+            + [Aha! Understanding lifetimes in Rust](http://codrspace.com/buntine/aha-understanding-lifetimes-in-rust/)
 
         + [Iterator trait](https://doc.rust-lang.org/nightly/std/iter/trait.Iterator.html)
             + [iota editor written in Rust; use case for idiomatic iterator usage](https://github.com/gchp/iota/blob/master/src/iota/iterators.rs)
@@ -272,6 +273,7 @@
         ```
 
         + [Vim Racer Plugin](https://github.com/racer-rust/vim-racer)
+        + [Racer progress update Dec 29, 2015](http://phildawes.net/blog/2015/12/29/racer-update-6/) 
 
         + [A bunch of lints to catch common mistakes and improve your Rust code](https://github.com/Manishearth/rust-clippy)
 
