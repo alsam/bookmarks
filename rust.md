@@ -376,6 +376,10 @@
     + [The Kolmogorov-Smirnov Test](http://daithiocrualaoich.github.io/kolmogorov_smirnov/)
         + [Implementation of the Kolmogorov-Smirnov statistical test as a Rust library](https://github.com/daithiocrualaoich/kolmogorov_smirnov)
 
+    + [rand : A Rust library for random number generators and other randomness functionality.](https://github.com/rust-lang-nursery/rand)
+        + [Fails to compile on newest Rust 1.7.0 (2016-01-04) #91](https://github.com/rust-lang-nursery/rand/issues/91)
+            + [Type inference(?) regression, rand fails to build on nightly 2016-01-04 #30713](https://github.com/rust-lang/rust/issues/30713) 
+
     + [A library for differential-geometric calculations](https://crates.io/crates/differential-geometry/)
         + [A Rust crate for differential-geometric calculations](https://github.com/fizyk20/differential-geometry)
         + [Differential geometry in Rust](http://ebvalaim.mydevil.net/en/2015/12/18/differential-geometry-in-rust/)
