@@ -1,6 +1,8 @@
 # julia language bookmarks
 + Julia links
     + [Julia By Example](http://samuelcolvin.github.io/JuliaByExample/)
+    + [Julia 0.5 milestones](https://github.com/JuliaLang/julia/milestones/0.5.0)
+        + [Arraypocalypse Now (0.5 release)](https://github.com/JuliaLang/julia/issues/13157)
     + [Julia HOWTO integrate equations using LaTeX in docs](https://gitter.im/MichaelHatherly/Docile.jl/archives/2015/06/10)
         + [Julia HOWTO insert Unicode symbols](http://julia.readthedocs.org/en/latest/manual/interacting-with-julia/)
     + [Introducing Julia/Arrays and tuples](https://en.wikibooks.org/wiki/Introducing_Julia/Arrays_and_tuples)
