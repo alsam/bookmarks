@@ -153,6 +153,7 @@
 
     + [rust on habrahabr](http://habrahabr.ru/hub/rust/)
         + [Многопоточность в Rust](http://habrahabr.ru/post/256211/)
+        + [Создание функции на Rust, которая возвращает String или &str](http://habrahabr.ru/post/274565/)
 
     + [Adam Leventhal's blog: First Rust Program Pain (So you can avoid it...)](http://dtrace.org/blogs/ahl/2015/06/22/first-rust-program-pain/)
 
