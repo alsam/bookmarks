@@ -29,3 +29,9 @@
     + [The conv function and implementation tradeoffs](http://blogs.mathworks.com/steve/2009/11/03/the-conv-function-and-implementation-tradeoffs/)
         + [matlab-fftconv](https://github.com/mattjj/matlab-fftconv)
             + [Matthew James Johnson](http://www.mit.edu/~mattjj/coding.shtml)
+
++ SOCS (Sum of coherent systems)
+    + [Sum of Coherent Systems Decomposition by SVD](http://www-video.eecs.berkeley.edu/papers/ncobb/socs.pdf)
+
++ Nick Cobb's PhD Thesis
+    + [Fast Optical and Process Proximity Correction Algorithms for Integrated Circuit Manufacturing](http://www-video.eecs.berkeley.edu/papers/ncobb/cobb_phd_thesis.pdf)
