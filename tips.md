@@ -44,6 +44,9 @@
         + [VIM and Python -- a Match Made in Heaven](https://realpython.com/blog/python/vim-and-python-a-match-made-in-heaven/)
         + [vim-multiple-cursors](https://github.com/terryma/vim-multiple-cursors)
 
+    + Emacs
+        + [Хорошо настроенный Emacs](http://habrahabr.ru/post/274759/)
+
     + kate-config
         + [Kate configuration for Rust](https://github.com/rust-lang/kate-config)
 
