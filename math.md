@@ -35,3 +35,6 @@
         + [Applied Topology](http://appliedtopology.org/)
         + [_C_omputational _Hom_ology _P_roject](http://chomp.rutgers.edu/)
         + [Konstantin Mischaikow](http://math.rutgers.edu/~mischaik/)
+
+    + Theory of Computation
+        + [Universal Memcomputing Machines как альтернатива Машине Тьюринга](http://habrahabr.ru/post/274593/)
