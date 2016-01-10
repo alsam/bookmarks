@@ -119,6 +119,7 @@
                 + [TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples)
             + [Open source software library for numerical computation using data flow graphs](https://github.com/tensorflow/tensorflow)
             + [A deep Q learning demonstration using Google Tensorflow](https://github.com/nivwusquorum/tensorflow-deepq)
+            + [Обзор примера применения обучения с подкреплением с использованием TensorFlow](http://habrahabr.ru/post/274597/)
 
         + [Deep Visualization Toolbox video](https://www.youtube.com/watch?v=AgkfIQ4IGaM)
 
