@@ -121,6 +121,11 @@
             + [A deep Q learning demonstration using Google Tensorflow](https://github.com/nivwusquorum/tensorflow-deepq)
             + [Обзор примера применения обучения с подкреплением с использованием TensorFlow](http://habrahabr.ru/post/274597/)
 
+        + GeNN: a code generation framework for accelerated brain simulations
+            + [GeNN: a code generation framework for accelerated brain simulations - Scientific Reports 6, Article number: 18854](http://www.nature.com/articles/srep18854)
+                + [GeNN is a GPU enhanced Neuronal Network simulation environment based on NVIDIA CUDA technology.](http://genn-team.github.io/genn/)
+                    + [gethub: GeNN is a GPU enhanced Neuronal Network simulation environment based on Nvidia CUDA technology.](https://github.com/genn-team/genn)
+
         + [Deep Visualization Toolbox video](https://www.youtube.com/watch?v=AgkfIQ4IGaM)
 
         + [A cognitive neural architecture able to learn and communicate through natural language](http://arxiv.org/abs/1506.03229)
