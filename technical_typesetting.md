@@ -151,6 +151,8 @@
             + [Interactive windows for displaying Haskell-generated diagrams](https://github.com/leftaroundabout/dynamic-plot)
             + [Haskell Diagrams double lined arrows](http://www.scriptscoop.net/t/4bf84e30bd44/haskell-diagrams-double-lined-arrows.html)
 
+            + [CSE230 Wi14 - Programming With Effects (monads)](https://cseweb.ucsd.edu/classes/wi14/cse230-a/lectures/lec-monads.html)
+
         + [Unordered tuples and type algebra](https://byorgey.wordpress.com/2012/08/24/unordered-tuples-and-type-algebra/)
     + [Embedded diagrams in pandoc's markdown](https://github.com/nichtich/ditaa-markdown/)
     + [PlantUML](http://plantuml.com/running.html)
