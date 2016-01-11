@@ -116,6 +116,9 @@
     + [Announcing Rust 1.5 stable](http://blog.rust-lang.org/2015/12/10/Rust-1.5.html)
         + [Version 1.5.0 (2015-12-10)](https://github.com/rust-lang/rust/blob/stable/RELEASES.md#version-150-2015-12-10)
 
+    + [Rust в 2016 году](http://habrahabr.ru/post/274757/)
+        + [My thoughts on Rust in 2016](http://www.ncameron.org/blog/my-thoughts-on-rust-in-2016/)
+
     + [New Rustacean : http://www.newrustacean.com/show_notes/e008/ : http://www.newrustacean.com/show_notes/e008/](http://www.newrustacean.com/show_notes/e008/)
 
     + ['The Rust Programming Language' E-Books'](http://killercup.github.io/trpl-ebook/)
