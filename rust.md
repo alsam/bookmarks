@@ -203,17 +203,6 @@
 
         + [Good Practices for Writing Rust Libraries](https://pascalhertleif.de/artikel/good-practices-for-writing-rust-libraries/)
 
-        + [A comparison of operating systems written in Rust](https://github.com/flosse/rust-os-comparison)
-            + Redox: A Rust Operating System
-                + [github redox os](https://github.com/redox-os/redox)
-                    + [This Week in Redox 5](http://www.redox-os.org/news/this-week-in-redox-5/)
-                    + [sodium editor TODO](https://github.com/redox-os/redox/blob/master/filesystem/apps/sodium/TODO.md)
-                        + [the Redox editor now is here](https://github.com/redox-os/editor)
-                    + [Redox is Serious](http://dictator.redox-os.org/index.php?controller=post&action=view&id_post=17)
-                    + [ion-shell](https://crates.io/crates/ion-shell/)
-                        + [redox-os/ion](https://github.com/redox-os/ion)
-                    + [The Orbital Widget Toolkit](https://crates.io/crates/orbtk/)
-
         + [Rust Lifetimes](http://www.charlesetc.com/rust/2015/10/29/)
         + [Lifetime Reference](http://www.charlesetc.com/rust/2015/10/31/)
             + [official lifetimes doc](https://doc.rust-lang.org/book/lifetimes.html)
@@ -391,3 +380,19 @@
             + [Possible bug in trait bounds evaluation #30262](https://github.com/rust-lang/rust/issues/30262)
 
     + [A native-rust implementation of an Effect monad, inspired by PureScript's EFF Monad](https://crates.io/crates/effect-monad/)
+
+    + Hardware (bare metal) - OSes, ISA simulators,etc.
+        + [A comparison of operating systems written in Rust](https://github.com/flosse/rust-os-comparison)
+            + Redox: A Rust Operating System
+                + [github redox os](https://github.com/redox-os/redox)
+                    + [This Week in Redox 5](http://www.redox-os.org/news/this-week-in-redox-5/)
+                    + [sodium editor TODO](https://github.com/redox-os/redox/blob/master/filesystem/apps/sodium/TODO.md)
+                        + [the Redox editor now is here](https://github.com/redox-os/editor)
+                    + [Redox is Serious](http://dictator.redox-os.org/index.php?controller=post&action=view&id_post=17)
+                    + [ion-shell](https://crates.io/crates/ion-shell/)
+                        + [redox-os/ion](https://github.com/redox-os/ion)
+                    + [The Orbital Widget Toolkit](https://crates.io/crates/orbtk/)
+        + [rustv - A minimal, intentionally inaccurate RISC-V ISA simulator](https://crates.io/crates/rustv/)
+            + [about RISC-V and Rocket processor see The RISC-V Instruction Set Architecture](http://riscv.org/)
+            + [see also Chisel - Constructing Hardware in a Scala Embedded Language](https://chisel.eecs.berkeley.edu/)
+
