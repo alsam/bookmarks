@@ -109,6 +109,7 @@
             + [Rust programs versus Go by benchmark task performance](http://benchmarksgame.alioth.debian.org/u64q/compare.php?lang=rust&lang2=go)
 
     + [Announcing Rust 1.0](http://blog.rust-lang.org/2015/05/15/Rust-1.0.html)
+        + [Priorities after 1.0](http://internals.rust-lang.org/t/priorities-after-1-0/1901)
 
     + [Announcing Rust 1.2](http://blog.rust-lang.org/2015/08/06/Rust-1.2.html)
         + [Implement associated items](https://github.com/rust-lang/rust/issues/17307)
@@ -129,7 +130,6 @@
         + [blogs: Rust for C++ programmers](http://featherweightmusings.blogspot.co.nz/search/label/rust-for-c)
         + [Arrays and Vectors in Rust](https://github.com/nrc/r4cppp/blob/master/arrays.md)
 
-    + [Priorities after 1.0](http://internals.rust-lang.org/t/priorities-after-1-0/1901)
     + [Rust Patterns: Using traits for function overloading](https://medium.com/@jreem/advanced-rust-using-traits-for-argument-overloading-c6a6c8ba2e17)
         + [rust-modifier: emulates overloading](https://github.com/reem/rust-modifier)
     + [An Adventure in API Design and Concurrency in Rust](http://damienradtke.com/adventures-in-concurrency-1/)
@@ -287,6 +287,8 @@
         + [Dual numbers in Rust](https://github.com/potan/dual.rs)
 
         + [libfloat](https://github.com/peterhj/libfloat)
+
+        + [Special functions for Rust by binding to the Cephes library](https://crates.io/crates/special-fun/)
 
         + [Rustdoc: reStructuredText vs Markdown: On The Potential Inadequacy of Markdown](https://internals.rust-lang.org/t/rustdoc-restructuredtext-vs-markdown/356/71)
 
