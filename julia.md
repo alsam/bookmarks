@@ -62,6 +62,10 @@
         + [Joining regular expressions in julia](http://stackoverflow.com/questions/20478823/joining-regular-expressions-in-julia)
 
         + [Multidimensional Array Comprehension in Julia](http://stackoverflow.com/questions/19347799/multidimensional-array-comprehension-in-julia)
+
+        + Unums
+            + [Unums.jl](https://github.com/tbreloff/Unums.jl/wiki/Unum-Summary-%28in-progress%29)
+            + [Julia Implementation of Unums - (seems more mature)](https://github.com/REX-Computing/unumjl)
         
 ```julia
 julia> x = ["a",
