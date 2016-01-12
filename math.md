@@ -38,3 +38,8 @@
 
     + Theory of Computation
         + [Universal Memcomputing Machines как альтернатива Машине Тьюринга](http://habrahabr.ru/post/274593/)
+
+    + [Julia Evans blogs](http://jvns.ca/)
+        + [Talks by Julia Evans](https://speakerdeck.com/jvns)
+        + [Why I love Rust](https://speakerdeck.com/jvns/why-i-rust)
+
