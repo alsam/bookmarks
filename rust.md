@@ -294,6 +294,8 @@
 
         + [How to implement a C union in Rust](https://users.rust-lang.org/t/how-to-implement-a-c-union-in-rust/3291/4)
 
+        + [Implementation of Software transactional memory](https://crates.io/crates/stm/)
+
         + [cargo-tree](https://github.com/sfackler/cargo-tree)
 
         produces
