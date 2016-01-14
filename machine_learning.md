@@ -119,6 +119,7 @@
                 + [TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples)
             + [Open source software library for numerical computation using data flow graphs](https://github.com/tensorflow/tensorflow)
             + [A deep Q learning demonstration using Google Tensorflow](https://github.com/nivwusquorum/tensorflow-deepq)
+            + [Simplified interface for TensorFlow (mimicking Scikit Learn)](https://github.com/tensorflow/skflow)
             + [Обзор примера применения обучения с подкреплением с использованием TensorFlow](http://habrahabr.ru/post/274597/)
 
         + GeNN: a code generation framework for accelerated brain simulations
