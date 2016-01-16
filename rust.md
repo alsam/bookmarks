@@ -296,6 +296,8 @@
 
         + [Implementation of Software transactional memory](https://crates.io/crates/stm/)
 
+        + [Basic wrapper around libVEX from Valgrind](https://crates.io/crates/libvex-sys/)
+
         + [cargo-tree](https://github.com/sfackler/cargo-tree)
 
         produces
