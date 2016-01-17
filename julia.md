@@ -63,6 +63,12 @@
 
         + [Multidimensional Array Comprehension in Julia](http://stackoverflow.com/questions/19347799/multidimensional-array-comprehension-in-julia)
 
+        + [Efficient filtering and linear algebra routines for multidimensional arrays](https://github.com/timholy/AxisAlgorithms.jl)
+
+        + [Arrowhead and Diagonal-plus-rank-one Eigenvalue Solvers](https://github.com/ivanslapnicar/Arrowhead.jl)
+
+        + [Jacobi polynomials and Gauss quadrature related functions](https://github.com/pjabardo/Jacobi.jl)
+
         + Unums
             + [Unums.jl](https://github.com/tbreloff/Unums.jl/wiki/Unum-Summary-%28in-progress%29)
             + [Julia Implementation of Unums - (seems more mature)](https://github.com/REX-Computing/unumjl)
