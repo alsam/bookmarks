@@ -291,6 +291,10 @@
 
         + [Special functions for Rust by binding to the Cephes library](https://crates.io/crates/special-fun/)
 
+        + [Library of well known algorithms for numerical root finding](https://crates.io/crates/roots/)
+
+        + [Rust docopt](Library of well known algorithms for numerical root finding)
+
         + [Rustdoc: reStructuredText vs Markdown: On The Potential Inadequacy of Markdown](https://internals.rust-lang.org/t/rustdoc-restructuredtext-vs-markdown/356/71)
 
         + [How to implement a C union in Rust](https://users.rust-lang.org/t/how-to-implement-a-c-union-in-rust/3291/4)
@@ -393,7 +397,7 @@
             + Redox: A Rust Operating System
                 + [github redox os](https://github.com/redox-os/redox)
                     + [This Week in Redox 5](http://www.redox-os.org/news/this-week-in-redox-5/)
-                    + [sodium editor TODO](https://github.com/redox-os/redox/blob/master/filesystem/apps/sodium/TODO.md)
+                    + [Sodium: Vim 2.0](https://github.com/redox-os/sodium)
                         + [the Redox editor now is here](https://github.com/redox-os/editor)
                     + [Redox is Serious](http://dictator.redox-os.org/index.php?controller=post&action=view&id_post=17)
                     + [ion-shell](https://crates.io/crates/ion-shell/)
