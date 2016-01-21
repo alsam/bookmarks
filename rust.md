@@ -122,6 +122,7 @@
         + [My thoughts on Rust in 2016](http://www.ncameron.org/blog/my-thoughts-on-rust-in-2016/)
 
     + [New Rustacean : http://www.newrustacean.com/show_notes/e008/ : http://www.newrustacean.com/show_notes/e008/](http://www.newrustacean.com/show_notes/e008/)
+    + [Getting into the nitty-gritty with Rust's traits](http://www.newrustacean.com/show_notes/e009/)
 
     + ['The Rust Programming Language' E-Books'](http://killercup.github.io/trpl-ebook/)
       + [Rust iterators](https://doc.rust-lang.org/book/iterators.html)
