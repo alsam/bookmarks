@@ -97,6 +97,7 @@
     + *Performance Tips*
         + [What one must understand to be productive with Rust](https://medium.com/@ericdreichert/what-one-must-understand-to-be-productive-with-rust-e9e472116728#.yc1728nv4)
         + [On pattern matching performance in rust](http://www.cjqed.com/blog/rust-pattern-matching-performance/)
+            + [Mixing matching, mutation, and moves in Rust](http://blog.rust-lang.org/2015/04/17/Enums-match-mutation-and-moves.html)
         + [Rust Faster!](https://llogiq.github.io/2015/10/03/fast.html)
             + [The Computer Language Benchmarks Game: Rust implementations](https://github.com/TeXitoi/benchmarksgame-rs)
             + [Compile-time type checking for arbitrary unit systems](https://github.com/llogiq/dimensioned)
