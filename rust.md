@@ -125,6 +125,9 @@
     + [Rust в 2016 году](http://habrahabr.ru/post/274757/)
         + [My thoughts on Rust in 2016](http://www.ncameron.org/blog/my-thoughts-on-rust-in-2016/)
 
+    + [IDE для Rust](http://rustycrate.ru/%D1%80%D1%83%D0%BA%D0%BE%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%B0/2015/12/04/ide-for-rust.html)
+        + [Are we (I)DE yet?](http://areweideyet.com/)
+
     + [New Rustacean : http://www.newrustacean.com/show_notes/e008/ : http://www.newrustacean.com/show_notes/e008/](http://www.newrustacean.com/show_notes/e008/)
     + [Getting into the nitty-gritty with Rust's traits](http://www.newrustacean.com/show_notes/e009/)
 
