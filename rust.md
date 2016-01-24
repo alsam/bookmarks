@@ -98,6 +98,7 @@
         + [What one must understand to be productive with Rust](https://medium.com/@ericdreichert/what-one-must-understand-to-be-productive-with-rust-e9e472116728#.yc1728nv4)
         + [On pattern matching performance in rust](http://www.cjqed.com/blog/rust-pattern-matching-performance/)
             + [Mixing matching, mutation, and moves in Rust](http://blog.rust-lang.org/2015/04/17/Enums-match-mutation-and-moves.html)
+            + [Idiomatic way of testing Result<T, Error>?](https://users.rust-lang.org/t/idiomatic-way-of-testing-result-t-error/2171)
         + [Rust Faster!](https://llogiq.github.io/2015/10/03/fast.html)
             + [The Computer Language Benchmarks Game: Rust implementations](https://github.com/TeXitoi/benchmarksgame-rs)
             + [Compile-time type checking for arbitrary unit systems](https://github.com/llogiq/dimensioned)
@@ -108,6 +109,7 @@
             + [Evaluation of C, Go, and Rust in the HPC environment](https://news.ycombinator.com/item?id=9477014)
             + [Evaluation of performance and productivity metrics of potential programming languages in the HPC environment - A comparison of Rust, Go and C -- University of Hamburg](https://www.reddit.com/r/programming/comments/34ml5f/evaluation_of_performance_and_productivity/)
             + [Rust programs versus Go by benchmark task performance](http://benchmarksgame.alioth.debian.org/u64q/compare.php?lang=rust&lang2=go)
+        + [How to explain slowdown with Sieve of Eratosthenes versus Nim and C?](https://users.rust-lang.org/t/how-to-explain-slowdown-with-sieve-of-eratosthenes-versus-nim-and-c/4394)
 
     + [Announcing Rust 1.0](http://blog.rust-lang.org/2015/05/15/Rust-1.0.html)
         + [Priorities after 1.0](http://internals.rust-lang.org/t/priorities-after-1-0/1901)
@@ -212,10 +214,12 @@
 
         + [Good Practices for Writing Rust Libraries](https://pascalhertleif.de/artikel/good-practices-for-writing-rust-libraries/)
 
-        + [Rust Lifetimes](http://www.charlesetc.com/rust/2015/10/29/)
-        + [Lifetime Reference](http://www.charlesetc.com/rust/2015/10/31/)
-            + [official lifetimes doc](https://doc.rust-lang.org/book/lifetimes.html)
-            + [Aha! Understanding lifetimes in Rust](http://codrspace.com/buntine/aha-understanding-lifetimes-in-rust/)
+        + Rust Lifetimes
+            + [Rust Lifetimes](http://www.charlesetc.com/rust/2015/10/29/)
+            + [Lifetime Reference](http://www.charlesetc.com/rust/2015/10/31/)
+                + [official lifetimes doc](https://doc.rust-lang.org/book/lifetimes.html)
+                + [Aha! Understanding lifetimes in Rust](http://codrspace.com/buntine/aha-understanding-lifetimes-in-rust/)
+                + [Lifetime elision in struct impl](https://users.rust-lang.org/t/lifetime-elision-in-struct-impl/4255/6)
 
         + [Iterator trait](https://doc.rust-lang.org/nightly/std/iter/trait.Iterator.html)
             + [iota editor written in Rust; use case for idiomatic iterator usage](https://github.com/gchp/iota/blob/master/src/iota/iterators.rs)
