@@ -297,6 +297,7 @@
         + [Profiling Rust applications on Linux](https://llogiq.github.io/2015/07/15/profiling.html)
         + [Fearless Concurrency with Rust](http://blog.rust-lang.org/2015/04/10/Fearless-Concurrency.html)
         + [Rust vs. C++: Fine-grained Performance](https://users.rust-lang.org/t/rust-vs-c-fine-grained-performance/4407)
+        + [Are we concurrent yet](http://areweconcurrentyet.com/)
 
     + Misc.
         + [Dual numbers in Rust](https://github.com/potan/dual.rs)
