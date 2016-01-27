@@ -146,6 +146,8 @@
     + [An Adventure in API Design and Concurrency in Rust](http://damienradtke.com/adventures-in-concurrency-1/)
         + [Concurrency in Rust: vimeo video](https://vimeo.com/144809407)
     + [Pros and cons: Rust vs. C++](https://plus.google.com/+nialldouglas/posts/AXFJRSM8u2t)
+        + [Rust and the Blub Paradox](http://www.jonathanturner.org/2016/01/rust-and-blub-paradox.html)
+             + [You can't spell trust without Rust](https://twitter.com/rustlang/status/689823725219377152)
     + Docs: generation, in Russian, vs. C++
         + [Convert The Rust Programming Language to Epub](https://gist.github.com/killercup/a793e09638379dbc74e4#file-trpl-epub-rb)
         + [The Rust Programming Language (на русском)](https://www.gitbook.com/book/kgv/rust_book_ru/details)
