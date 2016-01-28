@@ -147,6 +147,7 @@
         + [Concurrency in Rust: vimeo video](https://vimeo.com/144809407)
     + [Pros and cons: Rust vs. C++](https://plus.google.com/+nialldouglas/posts/AXFJRSM8u2t)
         + [Rust and the Blub Paradox](http://www.jonathanturner.org/2016/01/rust-and-blub-paradox.html)
+             + [You can't spell trust without Rust](https://cdn.rawgit.com/Gankro/thesis/master/thesis.pdf)
              + [You can't spell trust without Rust](https://twitter.com/rustlang/status/689823725219377152)
     + Docs: generation, in Russian, vs. C++
         + [Convert The Rust Programming Language to Epub](https://gist.github.com/killercup/a793e09638379dbc74e4#file-trpl-epub-rb)
