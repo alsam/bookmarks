@@ -143,6 +143,7 @@
             + [notes for CS231n](http://cs231n.github.io/neural-networks-case-study/)
 
         + [An Introduction to Machine Learning Theory and Its Applications: A Visual Tutorial with Examples](http://www.datasciencecentral.com/profiles/blogs/an-introduction-to-machine-learning-theory-and-its-applications-a)
+        + [Book:Machine Learning – The Complete Guide](https://en.wikipedia.org/wiki/Book:Machine_Learning_%E2%80%93_The_Complete_Guide)
 
         + [Anyone Can Learn To Code an LSTM-RNN in Python (Part 1: RNN) Baby steps to your neural network's first memories.](http://iamtrask.github.io/2015/11/15/anyone-can-code-lstm/)
         + [Learning Simple Algorithms from Examples](http://arxiv.org/abs/1511.07275)
