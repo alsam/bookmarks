@@ -110,6 +110,7 @@
             + [Evaluation of performance and productivity metrics of potential programming languages in the HPC environment - A comparison of Rust, Go and C -- University of Hamburg](https://www.reddit.com/r/programming/comments/34ml5f/evaluation_of_performance_and_productivity/)
             + [Rust programs versus Go by benchmark task performance](http://benchmarksgame.alioth.debian.org/u64q/compare.php?lang=rust&lang2=go)
         + [How to explain slowdown with Sieve of Eratosthenes versus Nim and C?](https://users.rust-lang.org/t/how-to-explain-slowdown-with-sieve-of-eratosthenes-versus-nim-and-c/4394)
+        + [Learn Rust: Dining Philosophers runs not concurrent](https://users.rust-lang.org/t/learn-rust-dining-philosophers-runs-not-concurrent/4458)
 
     + [Announcing Rust 1.0](http://blog.rust-lang.org/2015/05/15/Rust-1.0.html)
         + [Priorities after 1.0](http://internals.rust-lang.org/t/priorities-after-1-0/1901)
