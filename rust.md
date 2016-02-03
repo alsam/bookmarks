@@ -167,7 +167,9 @@
     + [Graphs in Rust](http://featherweightmusings.blogspot.co.nz/2015/04/graphs-in-rust.html)
         + [Graphs and arena allocation](https://github.com/nrc/r4cppp/tree/master/graphs)
 
-    + [A library of mesh generation utilities](https://github.com/gfx-rs/genmesh)
+    + [A library of mesh generation utilities](https://github.com/gfx-rs/genmesh)a
+
+    + [Stateful: A Rust Experimental Syntax Extension for Generators and More](https://erickt.github.io/blog/2016/01/27/stateful-in-progress-generators/)
 
     + [rust on habrahabr](http://habrahabr.ru/hub/rust/)
         + [Многопоточность в Rust](http://habrahabr.ru/post/256211/)
