@@ -64,6 +64,7 @@
         + [Gaussian Processes for Torch7](https://github.com/j-wilson/gpTorch7)
         + [Generating Faces with Torch](http://torch.ch/blog/2015/11/13/gan.html)
         + [Net2Net: Accelerating Learning via Knowledge Transfer](https://github.com/soumith/net2net.torch)
+        + [Training and investigating Residual Nets](http://torch.ch/blog/2016/02/04/resnets.html)
 
     + [A curated list of speech and natural language processing resources](https://medium.com/@joshdotai/a-curated-list-of-speech-and-natural-language-processing-resources-4d89f94c032a#.2cyphikgy)
 
