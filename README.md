@@ -99,6 +99,7 @@
         + [Functional programming for nested data parallelism on GPUs](https://wiki.aalto.fi/download/attachments/70779066/T-106.5840_2012_Halme.pdf?version=1&modificationDate=1357205607000)
         + [Platform-Specific Optimization and Mapping of Stencil Codes through Refinement](https://graphics.cg.uni-saarland.de/2014/platform-specific-optimization-and-mapping-of-stencil-codes-through-refinement/)
         + [High-Performance Domain-Specific Languages for GPU Computing](https://anydsl.github.io/images/anydsl.pdf)
+        + [Monoids and their efficiency in practice](http://myhaskelljournal.com/monoids-and-their-efficiency-in-practice/)
 
     + CUDA kernels generation using C++ expression templates technique
         + CU++ -- an interesting approach
