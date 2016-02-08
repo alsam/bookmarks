@@ -50,6 +50,8 @@
     + kate-config
         + [Kate configuration for Rust](https://github.com/rust-lang/kate-config)
 
+    + [Textadept (Editor)](https://www.openhub.net/p/textadept)
+
     + [Atom - The hackable text editor](https://atom.io)
         + [atom github](https://github.com/atom/atom)
         + [Atom Flight Manual](https://atom.io/docs/latest/getting-started-atom-basics)
