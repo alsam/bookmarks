@@ -181,6 +181,7 @@
         + [rustlearn](https://crates.io/crates/rustlearn)
         + [cudnn](https://crates.io/crates/cudnn)
         + [Evaluation of Deep Learning Toolkits](https://github.com/zer0n/deepframeworks/blob/master/README.md)
+        + [Deep Learning in Rust: baby steps](https://medium.com/@tedsta/deep-learning-in-rust-7e228107cccc)
 
 
 + The __Hard__ Problem
