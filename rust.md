@@ -236,6 +236,8 @@
 
         + [Rosetta code for complex in Rust](http://rosettacode.org/wiki/Arithmetic/Complex#Rust)
 
+        + [RustType is a pure Rust alternative to libraries like FreeType](https://github.com/dylanede/rusttype)
+
         + [Raw Pointers](https://doc.rust-lang.org/nightly/book/raw-pointers.html)
              + [Primitive Type pointer](https://doc.rust-lang.org/nightly/std/primitive.pointer.html)
              + [Dereferencing untyped raw pointer](https://users.rust-lang.org/t/dereferencing-untyped-raw-pointer/896)
