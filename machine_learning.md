@@ -154,12 +154,12 @@
         + [Samsung DL framework](https://velesnet.ml/)
         + [IBM's SystemML Machine Learning - Now Apache SystemML](https://github.com/SparkTC/systemml)
             + [Apache SystemML is a distributed and declarative machine learning platform](http://systemml.apache.org/)
-            + [IBM open-sources machine learning SystemML](http://www.businesscloudnews.com/2015/11/25/ibm-open-sources-machine-learning-systemml/
+            + [IBM open-sources machine learning SystemML](http://www.businesscloudnews.com/2015/11/25/ibm-open-sources-machine-learning-systemml/)
 
         + [Deconvolutional Neural Network](http://habrahabr.ru/company/nordavind/blog/253859/)
         + [Unitary Evolution Recurrent Neural Networks](http://arxiv.org/pdf/1511.06464v2.pdf)
         + [On Learning to Think: Algorithmic Information Theory for Novel Combinations of Reinforcement Learning Controllers and Recurrent Neural World Models](http://arxiv.org/pdf/1511.09249v1.pdf)
-            + []How to Learn an Algorithm - Jürgen Schmidhuber(https://www.youtube.com/watch?v=mF5-tr7qAF4&feature=youtu.be)
+            + [How to Learn an Algorithm - Jürgen Schmidhuber](https://www.youtube.com/watch?v=mF5-tr7qAF4&feature=youtu.be)
         + [Fast Training of Convolutional Networks through FFTs](http://arxiv.org/pdf/1312.5851v5.pdf)
         + [Artificial General Intelligence](http://www.scholarpedia.org/article/Artificial_General_Intelligence)
         + [Deep Reinforcement Learning Papers](https://github.com/amoliu/deep-reinforcement-learning-papers)
