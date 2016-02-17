@@ -164,6 +164,11 @@
         + [Artificial General Intelligence](http://www.scholarpedia.org/article/Artificial_General_Intelligence)
         + [Deep Reinforcement Learning Papers](https://github.com/amoliu/deep-reinforcement-learning-papers)
 
+        + [UCLA researchers release open source code for powerful image detection algorithm](http://newsroom.ucla.edu/releases/ucla-researchers-release-open-source-code-for-powerful-image-detection-algorithm)
+            + [JalaliLabUCLA/Image-feature-detection-using-Phase-Stretch-Transform](https://github.com/JalaliLabUCLA/Image-feature-detection-using-Phase-Stretch-Transform)
+        + [Deep Visual Analogy-Making](http://gitxiv.com/posts/Lmboh4QFjsxj2kqES/deep-visual-analogy-making)
+            + [visual-analogy-tensorflow](https://github.com/carpedm20/visual-analogy-tensorflow)
+
         + [wiki on ML](http://www.wikitract.com/)
 
     + Rust based projects
