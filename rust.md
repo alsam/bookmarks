@@ -141,6 +141,9 @@
     + [Rust For C++ Programmers](https://github.com/nrc/r4cppp)
         + [blogs: Rust for C++ programmers](http://featherweightmusings.blogspot.co.nz/search/label/rust-for-c)
         + [Arrays and Vectors in Rust](https://github.com/nrc/r4cppp/blob/master/arrays.md)
+        + [On rust's memory management: Mainly for C/C++ programmers](http://blog.zgtm.de/)
+        + [Why not just add classes?](https://users.rust-lang.org/t/why-not-just-add-classes/4618)
+            + [Composition over inheritance](https://en.wikipedia.org/wiki/Composition_over_inheritance)
 
     + [Rust Patterns: Using traits for function overloading](https://medium.com/@jreem/advanced-rust-using-traits-for-argument-overloading-c6a6c8ba2e17)
         + [rust-modifier: emulates overloading](https://github.com/reem/rust-modifier)
