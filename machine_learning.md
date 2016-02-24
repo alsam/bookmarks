@@ -171,6 +171,8 @@
 
         + [wiki on ML](http://www.wikitract.com/)
 
+        + [Deep Learning Software : NVIDIA list](https://developer.nvidia.com/deep-learning-software)
+
     + Rust based projects
         + [Open Machine Intelligence Framework written in Rust targeting CPU/GPU http://autumnai.github.io/leaf](https://github.com/autumnai/leaf)
             + [Crate leaf](http://autumnai.github.io/leaf/leaf/index.html)
