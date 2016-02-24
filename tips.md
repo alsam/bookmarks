@@ -115,6 +115,7 @@
     + [Beyond Linux® From Scratch (systemd edition)](http://www.linuxfromscratch.org/blfs/view/systemd/)
 
 + Docker
+    + [Поняв Docker](https://habrahabr.ru/post/277699/)
     + [Образы и контейнеры Docker в картинках](http://habrahabr.ru/post/272145/)
 
 + Haskell (see also `pandoc` and `diagrams` links above)
