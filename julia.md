@@ -72,6 +72,7 @@
         + Unums
             + [Unums.jl](https://github.com/tbreloff/Unums.jl/wiki/Unum-Summary-%28in-progress%29)
             + [Julia Implementation of Unums - (seems more mature)](https://github.com/REX-Computing/unumjl)
+            + [Experimental Unums](https://github.com/simonbyrne/UnumX.jl)
         
 ```julia
 julia> x = ["a",
