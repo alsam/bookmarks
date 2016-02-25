@@ -21,6 +21,8 @@
       ```
     + [A Git Horror Story: Repository Integrity With Signed Commits](https://mikegerwitz.com/papers/git-horror-story)
 
+    + [Как оформлять коммиты, чтобы потом не было больно](https://habrahabr.ru/company/Voximplant/blog/276695/)
+
 + [Pijul - distributed version control system written in Rust](https://pijul.org/documentation/install/)
 
 + compile optimization tips (TODO reorganize)
