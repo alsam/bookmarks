@@ -112,6 +112,8 @@
         + [How to explain slowdown with Sieve of Eratosthenes versus Nim and C?](https://users.rust-lang.org/t/how-to-explain-slowdown-with-sieve-of-eratosthenes-versus-nim-and-c/4394)
         + [Learn Rust: Dining Philosophers runs not concurrent](https://users.rust-lang.org/t/learn-rust-dining-philosophers-runs-not-concurrent/4458)
 
+        + [(more or less) accurate floating point algorithms](https://crates.io/crates/accurate)
+
     + [Announcing Rust 1.0](http://blog.rust-lang.org/2015/05/15/Rust-1.0.html)
         + [Priorities after 1.0](http://internals.rust-lang.org/t/priorities-after-1-0/1901)
 
