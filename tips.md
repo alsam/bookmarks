@@ -55,6 +55,7 @@
         + [Kate configuration for Rust](https://github.com/rust-lang/kate-config)
 
     + [Textadept (Editor)](https://www.openhub.net/p/textadept)
+      + [Textadept module for ctags](http://foicica.com/wiki/ctags)
 
     + [Atom - The hackable text editor](https://atom.io)
         + [atom github](https://github.com/atom/atom)
