@@ -76,3 +76,11 @@
         julia> f(BigFloat(77617),BigFloat(33096))
         -8.273960599468213681411650954798162919990331157843848199178148416727096930142628e-01
         ```
+
+        + [(more or less) accurate floating point algorithms](https://crates.io/crates/accurate)
+
+        + [unum in D](https://github.com/lionello/unumd)
+            + [Unums.jl](https://github.com/tbreloff/Unums.jl/wiki/Unum-Summary-%28in-progress%29)
+            + [Julia Implementation of Unums - (seems more mature)](https://github.com/REX-Computing/unumjl)
+            + [Experimental Unums](https://github.com/simonbyrne/UnumX.jl)
+
