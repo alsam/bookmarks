@@ -93,6 +93,7 @@
         + [Learning Simple Algorithms from Examples](http://gitxiv.com/posts/GiJu9ASP5WJGnapPd/learning-simple-algorithms-from-examples)
             + [Learning Simple Algorithms from Examples github](https://github.com/wojzaremba/algorithm-learning)
         + [Human-level concept learning through probabilistic program induction Bayesian Program Learning (BPL) model for one-shot learning](http://gitxiv.com/posts/jS9LJ5kh9ny6iqD7Z/human-level-concept-learning-through-probabilistic-program)
+            + [Байесовская нейронная сеть — потому что а почему бы и нет, черт возьми (часть 1)](https://habrahabr.ru/post/276355/)
 
     + misc.
         + [Deep Learning links](http://deeplearning.net/software_links/)
