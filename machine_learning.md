@@ -101,6 +101,10 @@
         + [FB link on ML](https://m.facebook.com/elcompeng/posts/816517058368363)
         + [Сравнение библиотек глубокого обучения на примере задачи классификации рукописных цифр](http://habrahabr.ru/company/itseez/blog/254747/)
             + [Torch vs Theano](http://fastml.com/torch-vs-theano/)
+            
+        + [What is the intuition behind the concept of capsules in deep learning?](https://www.quora.com/What-is-the-intuition-behind-the-concept-of-capsules-in-deep-learning)
+        
+        + [DeepTracking: Seeing Beyond Seeing Using Recurrent Neural Networks](http://gitxiv.com/posts/Hd9tJQttcCmruA4bs/deeptracking-seeing-beyond-seeing-using-recurrent-neural)
 
         + [Model-Based Machine Learning, Free Early Book Draft](http://www.rightrelevance.com/search/articles/hero?article=f8f357759d3967360b016af629853d8d27850ffa&query=machine%20learning&taccount=ml_toparticles)
         + [Recent Advances in Face Recognition](http://www.face-rec.org/journals-books/Delac_Grgic_Bartlett_Recent_Advances_in_Face_Recognition.pdf)
