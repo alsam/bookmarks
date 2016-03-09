@@ -149,8 +149,13 @@
         + [Why not just add classes?](https://users.rust-lang.org/t/why-not-just-add-classes/4618)
             + [Composition over inheritance](https://en.wikipedia.org/wiki/Composition_over_inheritance)
 
-    + [Rust Patterns: Using traits for function overloading](https://medium.com/@jreem/advanced-rust-using-traits-for-argument-overloading-c6a6c8ba2e17)
-        + [rust-modifier: emulates overloading](https://github.com/reem/rust-modifier)
+    + Rust patterns
+        + [Rust Patterns: Using traits for function overloading](https://medium.com/@jreem/advanced-rust-using-traits-for-argument-overloading-c6a6c8ba2e17)
+            + [rust-modifier: emulates overloading](https://github.com/reem/rust-modifier)
+        + [Dependency injection container - Learning the ropes in Rust](http://nercury.github.io/rust/di/2015/01/02/dependency-injection-learning-rust.html)
+        + [Rust's flawed dynamic type](https://www.reddit.com/r/rust/comments/3mtim0/rusts_flawed_dynamic_type/)
+            + [chris-morgan/mopa](https://github.com/chris-morgan/mopa)
+
     + [An Adventure in API Design and Concurrency in Rust](http://damienradtke.com/adventures-in-concurrency-1/)
         + [Concurrency in Rust: vimeo video](https://vimeo.com/144809407)
     + [Pros and cons: Rust vs. C++](https://plus.google.com/+nialldouglas/posts/AXFJRSM8u2t)
