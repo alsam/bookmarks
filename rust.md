@@ -160,6 +160,7 @@
         + [Dependency injection container - Learning the ropes in Rust](http://nercury.github.io/rust/di/2015/01/02/dependency-injection-learning-rust.html)
         + [Rust's flawed dynamic type](https://www.reddit.com/r/rust/comments/3mtim0/rusts_flawed_dynamic_type/)
             + [chris-morgan/mopa](https://github.com/chris-morgan/mopa)
+        + [Mixing matching, mutation, and moves in Rust](http://blog.rust-lang.org/2015/04/17/Enums-match-mutation-and-moves.html)
 
     + [An Adventure in API Design and Concurrency in Rust](http://damienradtke.com/adventures-in-concurrency-1/)
         + [Concurrency in Rust: vimeo video](https://vimeo.com/144809407)
