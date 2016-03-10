@@ -94,6 +94,11 @@
             ```
             + [arrayfire-project-templates/CMake/CMakeModules/FindOpenCL.cmake](https://github.com/arrayfire/arrayfire-project-templates/blob/master/CMake/CMakeModules/FindOpenCL.cmake)
 
+    + Rust ownership
+        + [Why Rust's ownership/borrowing is hard](http://softwaremaniacs.org/blog/2016/02/12/ownership-borrowing-hard/en/)
+        + [Explore the ownership system in Rust](http://nercury.github.io/rust/guide/2015/01/19/ownership.html)
+        + [Rust ownership, the hard way](http://chrismorgan.info/blog/rust-ownership-the-hard-way.html)
+
     + *Performance Tips*
         + [What one must understand to be productive with Rust](https://medium.com/@ericdreichert/what-one-must-understand-to-be-productive-with-rust-e9e472116728#.yc1728nv4)
         + [On pattern matching performance in rust](http://www.cjqed.com/blog/rust-pattern-matching-performance/)
