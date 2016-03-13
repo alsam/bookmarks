@@ -238,6 +238,8 @@
 
         + [Good Practices for Writing Rust Libraries](https://pascalhertleif.de/artikel/good-practices-for-writing-rust-libraries/)
 
+        + [C to Rust transpiler, based on cparser](https://github.com/PeterReid/cparser-to-rust)
+
         + Rust Lifetimes
             + [Rust Lifetimes](http://www.charlesetc.com/rust/2015/10/29/)
             + [Lifetime Reference](http://www.charlesetc.com/rust/2015/10/31/)
