@@ -316,6 +316,8 @@
         + [Learning to 'try!' things in Rust](http://www.jonathanturner.org/2015/11/learning-to-try-things-in-rust.html)
             + [try!](http://rustbyexample.com/std/result/try.html)
 
+        + [How do I sum a vector using fold?](http://stackoverflow.com/questions/29548819/how-do-i-sum-a-vector-using-fold)
+
     + *Performance tips*
         + [Benchmarking programs in Rust](http://stackoverflow.com/questions/13322479/benchmarking-programs-in-rust)
         + [How to `zip` two slices efficiently](https://users.rust-lang.org/t/how-to-zip-two-slices-efficiently/2048)
