@@ -31,6 +31,7 @@
             + [Matthew James Johnson](http://www.mit.edu/~mattjj/coding.shtml) 
     + [Sparse Fast Fourier Transform](http://groups.csail.mit.edu/netmit/sFFT/)
         + [What is the sparse Fourier transform?](http://dsp.stackexchange.com/questions/2317/what-is-the-sparse-fourier-transform)
+        + [Recent Developments in the Sparse Fourier Transform](http://www.norbertwiener.umd.edu/Education/IMA2015/t5/fourier-survey-REVISED.pdf)
 
 + SOCS (Sum of coherent systems)
     + [Sum of Coherent Systems Decomposition by SVD](http://www-video.eecs.berkeley.edu/papers/ncobb/socs.pdf)
