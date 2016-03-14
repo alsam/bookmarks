@@ -30,6 +30,7 @@
         + [matlab-fftconv](https://github.com/mattjj/matlab-fftconv)
             + [Matthew James Johnson](http://www.mit.edu/~mattjj/coding.shtml) 
     + [Sparse Fast Fourier Transform](http://groups.csail.mit.edu/netmit/sFFT/)
+        + [What is the sparse Fourier transform?](http://dsp.stackexchange.com/questions/2317/what-is-the-sparse-fourier-transform)
 
 + SOCS (Sum of coherent systems)
     + [Sum of Coherent Systems Decomposition by SVD](http://www-video.eecs.berkeley.edu/papers/ncobb/socs.pdf)
