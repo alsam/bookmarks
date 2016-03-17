@@ -7,3 +7,4 @@
     + [Городские легенды о медленных вызовах виртуальных функций](http://habrahabr.ru/company/abbyy/blog/248429/)
     + [Основные проблемы влияющие на производительность вычислительного ядра и приложения и методы их решения компилятором](http://habrahabr.ru/company/intel/blog/158759/)
     + [Как правильно скопировать массив и при чем тут SFINAE](http://habrahabr.ru/post/150654/)
+    + [Linux Performance](http://www.brendangregg.com/linuxperf.html)
