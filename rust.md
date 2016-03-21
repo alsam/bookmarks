@@ -329,6 +329,9 @@
         + [Rust vs. C++: Fine-grained Performance](https://users.rust-lang.org/t/rust-vs-c-fine-grained-performance/4407)
         + [Are we concurrent yet](http://areweconcurrentyet.com/)
 
+        + [RFC 1210: impl specialization](https://github.com/rust-lang/rfcs/blob/master/text/1210-impl-specialization.md)
+            + [Implement RFC 1210: impl specialization #30652](https://github.com/rust-lang/rust/pull/30652)
+
     + Misc.
         + [Dual numbers in Rust](https://github.com/potan/dual.rs)
 
