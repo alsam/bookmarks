@@ -351,6 +351,8 @@
 
         + [Basic wrapper around libVEX from Valgrind](https://crates.io/crates/libvex-sys/)
 
+        + [Rust implementation of the Quine-McCluskey](https://github.com/oli-obk/quine-mc_cluskey)
+
         + [cargo-tree](https://github.com/sfackler/cargo-tree)
 
         produces
