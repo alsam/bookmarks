@@ -41,6 +41,9 @@
                 fc-cache -fv
                 xelatex Int_J1_tex.tex
               ```
+        + JSON to work with 0.5
+            + [Fix JSON.parse with dicttype specified #137 ](https://github.com/JuliaLang/JSON.jl/pull/137)
+
     + Iterative Solvers
         + [Iterative Solvers](https://github.com/JuliaLang/IterativeSolvers.jl)
         ```julia
