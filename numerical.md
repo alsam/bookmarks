@@ -23,6 +23,8 @@
             + [sourceforge project for LAMA](http://sourceforge.net/projects/libama/)
     + [blaze-lib -- A high performance C++ math library -- claims to be the fastest, supports AVX](https://bitbucket.org/blaze-lib/blaze)
         + [wiki link compares blaze vs. other C++ libraries](http://code.google.com/p/blaze-lib/wiki/Benchmarks)
+    + [The Numerical Template Toolbox - C++ Scientific Computing Made Easy](https://github.com/jfalcou/nt2)
+        + [The Numerical Template Toolbox - C++ Scientific Computing Made Easy docs](http://nt2.numscale.com/doc/html/)
     + [SIMD Vector Classes for C++](https://github.com/VcDevel/Vc)
     + [psBLAS -- Parallel Sparse Basic Linear Algebra Subroutines -- Fortran2003](http://www.ce.uniroma2.it/psblas/)
     + [Elemental is a modern C++ library for distributed-memory dense and sparse-direct linear algebra and optimization.](https://github.com/elemental/Elemental)
