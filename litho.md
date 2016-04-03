@@ -25,6 +25,8 @@
         + [ELIAS paper](http://www.cerc.utexas.edu/utda/publications/tsm_peng_elias)
         + [ELIAS download](http://www.cerc.utexas.edu/utda/download/download.html)
     + [Cascadic multigrid algorithm for robust inverse mask synthesis in optical lithography](http://www.eee.hku.hk/optima/pub/journal/1404_JM3.pdf)
+    + [Fast aerial image simulations for partially coherent systems by transmission cross coefficient decomposition with analytical kernels](https://www.researchgate.net/publication/258672561_Fast_aerial_image_simulations_for_partially_coherent_systems_by_transmission_cross_coefficient_decomposition_with_analytical_kernels)
+    + [Coprocessor Acceleration for DSL](http://escholarship.org/uc/item/1bp8611m#page-37)
 
 + Signals: FFT, convo;ution, etc.
     + [The conv function and implementation tradeoffs](http://blogs.mathworks.com/steve/2009/11/03/the-conv-function-and-implementation-tradeoffs/)
