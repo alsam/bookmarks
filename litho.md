@@ -24,6 +24,7 @@
     + [PhD thesis: Fast and Accurate Lithography Simulation and Optical Proximity Correction for Nanometer Design for Manufacturing](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.428.4083&rep=rep1&type=pdf)
         + [ELIAS paper](http://www.cerc.utexas.edu/utda/publications/tsm_peng_elias)
         + [ELIAS download](http://www.cerc.utexas.edu/utda/download/download.html)
+    + [Cascadic multigrid algorithm for robust inverse mask synthesis in optical lithography](http://www.eee.hku.hk/optima/pub/journal/1404_JM3.pdf)
 
 + Signals: FFT, convo;ution, etc.
     + [The conv function and implementation tradeoffs](http://blogs.mathworks.com/steve/2009/11/03/the-conv-function-and-implementation-tradeoffs/)
@@ -36,6 +37,7 @@
 
 + SOCS (Sum of coherent systems)
     + [Sum of Coherent Systems Decomposition by SVD](http://www-video.eecs.berkeley.edu/papers/ncobb/socs.pdf)
+    + [US Patent: Sum of CoherentSystems (SOCS) Approximation Based on Object Information](http://www.freepatentsonline.com/8645880.pdf)
 
 + Nick Cobb's PhD Thesis
     + [Fast Optical and Process Proximity Correction Algorithms for Integrated Circuit Manufacturing](http://www-video.eecs.berkeley.edu/papers/ncobb/cobb_phd_thesis.pdf)
