@@ -178,6 +178,8 @@
 
         + [Deep Learning Software : NVIDIA list](https://developer.nvidia.com/deep-learning-software)
 
+        + [Gary Marcus interview](https://www.technologyreview.com/s/544606/can-this-man-make-aimore-human/)
+
     + Rust based projects
         + [Open Machine Intelligence Framework written in Rust targeting CPU/GPU http://autumnai.github.io/leaf](https://github.com/autumnai/leaf)
             + [Crate leaf](http://autumnai.github.io/leaf/leaf/index.html)
