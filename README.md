@@ -168,9 +168,7 @@
     + [species site](http://parse.ele.tue.nl/species/)
     + [github bones site](https://github.com/gjvdbraak/bones)
 
-+ OpenACC
-    + [IPMACC is a framework for translating/executing OpenACC for C API to/over CUDA or OpenCL runtime](https://github.com/lashgar/ipmacc)
-    + [IPMACC – An Open Source OpenACC to CUDA/OpenCL Translator](http://www.techenablement.com/ipmacc-open-source-openacc-cudaopencl-translator/)
++ [OpenACC](https://github.com/alsam/bookmarks/blob/master/hpc.md#OpenACC)
 
 + YaCF: Yet Another Compiler Framework
     + [A programming environment for heterogeneous architectures](http://cap.pcg.ull.es/en/accULL)
@@ -184,10 +182,7 @@
 + [SBV: SMT Based Verification in Haskell](http://leventerkok.github.io/sbv/)
     + [When is Cheryl's birthday?](http://www.telegraph.co.uk/education/educationnews/11534378/When-is-Cheryls-birthday-The-tricky-math-problem-that-has-everyone-stumped.html)
 
-+ parallelforall
-    + [An Efficient Matrix Transpose in CUDA C/C++](http://devblogs.nvidia.com/parallelforall/efficient-matrix-transpose-cuda-cc/)
-    + [BIDMach: Machine Learning at the Limit with GPUs](http://devblogs.nvidia.com/parallelforall/bidmach-machine-learning-limit-gpus/)
-    + [GPU Programming in Functional Languages](http://www.cse.chalmers.se/~joels/writing/GPUFL.pdf)
++ [parallelforall](https://github.com/alsam/bookmarks/blob/master/hpc.md#parallelforall)
 
 + [(inverse) lithography links](https://github.com/alsam/bookmarks/blob/master/litho.md)
 
