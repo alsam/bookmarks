@@ -189,7 +189,6 @@
 + [Rust links](https://github.com/alsam/bookmarks/blob/master/rust.md)
 
 + [Julia links](https://github.com/alsam/bookmarks/blob/master/julia.md)
-    + [Automatic Differentiation in Julia and other languages: C++, Haskell](https://github.com/alsam/bookmarks/blob/master/AD.md)
 
 + [Python links](https://github.com/alsam/bookmarks/blob/master/python.md)
 
