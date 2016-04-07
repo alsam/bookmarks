@@ -28,5 +28,6 @@
     + [An Efficient Matrix Transpose in CUDA C/C++](http://devblogs.nvidia.com/parallelforall/efficient-matrix-transpose-cuda-cc/)
     + [BIDMach: Machine Learning at the Limit with GPUs](http://devblogs.nvidia.com/parallelforall/bidmach-machine-learning-limit-gpus/)
     + [High-Performance Geometric Multi-Grid with GPU Acceleration](https://devblogs.nvidia.com/parallelforall/high-performance-geometric-multi-grid-gpu-acceleration/)
+    + [Inside Pascal: NVIDIA’s Newest Computing Platform](https://devblogs.nvidia.com/parallelforall/inside-pascal/)
     
 + [GPU Programming in Functional Languages](http://www.cse.chalmers.se/~joels/writing/GPUFL.pdf)
