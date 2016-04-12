@@ -28,10 +28,13 @@
     + [Fast aerial image simulations for partially coherent systems by transmission cross coefficient decomposition with analytical kernels](https://www.researchgate.net/publication/258672561_Fast_aerial_image_simulations_for_partially_coherent_systems_by_transmission_cross_coefficient_decomposition_with_analytical_kernels)
     + [Coprocessor Acceleration for DSL](http://escholarship.org/uc/item/1bp8611m#page-37)
 
-+ Signals: FFT, convo;ution, etc.
++ Signals: FFT, convolution, etc.
     + [The conv function and implementation tradeoffs](http://blogs.mathworks.com/steve/2009/11/03/the-conv-function-and-implementation-tradeoffs/)
         + [matlab-fftconv](https://github.com/mattjj/matlab-fftconv)
             + [Matthew James Johnson](http://www.mit.edu/~mattjj/coding.shtml) 
+        + [basic convolution explanation](http://songho.ca/dsp/convolution/convolution.html)
+        + [Tutorial on 2D convolution of images](http://www.matlabtricks.com/post-26/tutorial-on-2d-convolution-of-images)
+        + [CS1114 Section 6: Convolution](http://www.cs.cornell.edu/courses/CS1114/2013sp/sections/S06_convolution.pdf)
     + [Sparse Fast Fourier Transform](http://groups.csail.mit.edu/netmit/sFFT/)
         + [What is the sparse Fourier transform?](http://dsp.stackexchange.com/questions/2317/what-is-the-sparse-fourier-transform)
         + [sfft-sparse-fast-fourier-transform](http://nuit-blanche.blogspot.ru/2012/01/sfft-sparse-fast-fourier-transform.html)
