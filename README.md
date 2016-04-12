@@ -203,3 +203,5 @@
 + [Math links](https://github.com/alsam/bookmarks/blob/master/math.md)
 
 + [Mechanics links](https://github.com/alsam/bookmarks/blob/master/mechanics.md)
+
++ [Blogs](https://github.com/alsam/bookmarks/blob/master/blogs.md)
