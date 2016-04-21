@@ -11,3 +11,4 @@
     + [Quantum Mechanics for Dummies](https://www.youtube.com/watch?v=JP9KP-fwFhk)
     + [Why a new physics theory could rewrite the textbooks](http://phys.org/news/2016-01-physics-theory-rewrite-textbooks.html)
     + [What Are Quantum Gravity's Alternatives To String Theory?](http://www.forbes.com/sites/startswithabang/2015/12/17/what-are-quantum-gravitys-alternatives-to-string-theory/#504f6f9e3f75)
+    + [Quantum physics has just been found hiding in one of the most important mathematical models of all time](http://www.sciencealert.com/physicists-just-figured-out-how-quantum-mechanics-pops-up-in-game-theory)

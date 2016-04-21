@@ -105,6 +105,8 @@
             + [Torch vs Theano](http://fastml.com/torch-vs-theano/)
             
         + [What is the intuition behind the concept of capsules in deep learning?](https://www.quora.com/What-is-the-intuition-behind-the-concept-of-capsules-in-deep-learning)
+
+        + [Which Model to Use for Cortical Spiking Neurons?](http://www.izhikevich.org/publications/whichmod.htm)
         
         + [DeepTracking: Seeing Beyond Seeing Using Recurrent Neural Networks](http://gitxiv.com/posts/Hd9tJQttcCmruA4bs/deeptracking-seeing-beyond-seeing-using-recurrent-neural)
 
@@ -214,6 +216,8 @@
         + [gkassel/pyaixi](https://github.com/gkassel/pyaixi)
         + [Joel Veness Research Scientist, Google DeepMind](http://jveness.info/software/default.html)
         + [How to build a General Intelligence: Circuits and Pathways](http://blog.agi.io/?m=1)
+
+        + [Using category theory to assess the relationship between consciousness and integrated information theory](http://www.sciencedirect.com/science/article/pii/S0168010215002989)
 
         + Books
             + [Artificial Cognitive Systems: A Primer](http://www.amazon.com/Artificial-Cognitive-Systems-A-Primer/dp/0262028387/ref=pd_bxgy_14_2?ie=UTF8&refRID=0827S66XPRA4SYQVXRKB)
