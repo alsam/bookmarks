@@ -1,4 +1,5 @@
 + Code Optimization - mostly C++
+    + [Intel 64 and IA-32 Architectures Optimization Reference Manual](http://www.intel.com/content/dam/www/public/us/en/documents/manuals/64-ia-32-architectures-optimization-manual.pdf)
     + [Знакомьтесь, loop fracking](http://habrahabr.ru/post/271905/)
     + [Приемы использования масочных регистров в AVX512 коде](http://habrahabr.ru/company/intel/blog/266055/)
     + [LLVM для исследователей](http://habrahabr.ru/company/abbyy/blog/265871/)
@@ -8,3 +9,8 @@
     + [Основные проблемы влияющие на производительность вычислительного ядра и приложения и методы их решения компилятором](http://habrahabr.ru/company/intel/blog/158759/)
     + [Как правильно скопировать массив и при чем тут SFINAE](http://habrahabr.ru/post/150654/)
     + [Linux Performance](http://www.brendangregg.com/linuxperf.html)
+
++ TLB - huge pages
+    + [Which CPUs support 1GB pages?](http://superuser.com/questions/710870/which-cpus-support-1gb-pages)
+    + [How to use Intel Westmere 1GB pages on Linux?](http://stackoverflow.com/questions/27951778/how-to-use-intel-westmere-1gb-pages-on-linux)
+    + [HugeTLB - Large Page Support in the Linux Kernel](http://linuxgazette.net/155/krishnakumar.html)
