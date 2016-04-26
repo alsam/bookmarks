@@ -13,4 +13,8 @@
 + TLB - huge pages
     + [Which CPUs support 1GB pages?](http://superuser.com/questions/710870/which-cpus-support-1gb-pages)
     + [How to use Intel Westmere 1GB pages on Linux?](http://stackoverflow.com/questions/27951778/how-to-use-intel-westmere-1gb-pages-on-linux)
+        + [Some benchmarks to evaluate NUMA remote memory overhead](https://github.com/ManuelSelva/c4fun)
     + [HugeTLB - Large Page Support in the Linux Kernel](http://linuxgazette.net/155/krishnakumar.html)
+    + [Huge pages part 1 (Introduction)](https://lwn.net/Articles/374424/)
+        + [libhugetlbfs](https://github.com/libhugetlbfs/libhugetlbfs)
+        + [Huge pages part 5: A deeper look at TLBs and costs](http://lwn.net/Articles/379748/)
