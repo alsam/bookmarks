@@ -10,11 +10,24 @@
     + [Как правильно скопировать массив и при чем тут SFINAE](http://habrahabr.ru/post/150654/)
     + [Linux Performance](http://www.brendangregg.com/linuxperf.html)
 
++ Performance Monitor
+    + [What are perf cache events meaning?](http://stackoverflow.com/questions/12601474/what-are-perf-cache-events-meaning)
+    + [perfmon2](http://perfmon2.sourceforge.net/)
+
 + TLB - huge pages
     + [Which CPUs support 1GB pages?](http://superuser.com/questions/710870/which-cpus-support-1gb-pages)
     + [How to use Intel Westmere 1GB pages on Linux?](http://stackoverflow.com/questions/27951778/how-to-use-intel-westmere-1gb-pages-on-linux)
         + [Some benchmarks to evaluate NUMA remote memory overhead](https://github.com/ManuelSelva/c4fun)
     + [HugeTLB - Large Page Support in the Linux Kernel](http://linuxgazette.net/155/krishnakumar.html)
+    + [Hugepages](https://wiki.debian.org/Hugepages)
     + [Huge pages part 1 (Introduction)](https://lwn.net/Articles/374424/)
         + [libhugetlbfs](https://github.com/libhugetlbfs/libhugetlbfs)
+        + [Huge pages part 1 (Introduction)](http://lwn.net/Articles/374424/)
         + [Huge pages part 5: A deeper look at TLBs and costs](http://lwn.net/Articles/379748/)
+        + [Memory part 7: Memory performance tools](https://lwn.net/Articles/257209/)
+            + [Enabling Large Page Support](http://dev.mysql.com/doc/refman/5.1/en/large-page-support.html)
+            + [Using mmap and madvise for huge pages](http://stackoverflow.com/questions/30470972/using-mmap-and-madvise-for-huge-pages)
+            + [mmap failed when trying to map huge page (1GB)](http://stackoverflow.com/questions/28826470/mmap-failed-when-trying-to-map-huge-page-1gb)
+            + [How do I allocate a DMA buffer backed by 1GB HugePages in a linux kernel module?](http://stackoverflow.com/questions/19460544/how-do-i-allocate-a-dma-buffer-backed-by-1gb-hugepages-in-a-linux-kernel-module)
+    + [How Bad Can 1GB Pages Be?](http://www.pvk.ca/Blog/2014/02/18/how-bad-can-1gb-pages-be/#disqus_thread)
+    + [Multiple Page Size Support in the Linux Kernel](https://www.researchgate.net/publication/2566253_Multiple_Page_Size_Support_in_the_Linux_Kernel)
