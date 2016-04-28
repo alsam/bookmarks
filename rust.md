@@ -5,10 +5,6 @@
         + [An alternative introduction to Rust](http://words.steveklabnik.com/a-new-introduction-to-rust)
         + [24day sof rust](http://zsiciarz.github.io/24daysofrust/)
     + [rust-learning](https://github.com/ctjhoa/rust-learning)
-    + [this-week-in-rust](https://github.com/cmr/this-week-in-rust)
-        + [Data for http://this-week-in-rust.org/ in case it is down](http://this-week-in-rust.org/)
-    + [Rust homepage](http://www.rust-ang.org/)
-    + [Rust learning](https://github.com/ctjhoa/rust-learning)
     + [http://rustbyexample.com/](http://rustbyexample.com/)
         + [Rust by example](https://github.com/rust-lang/rust-by-example)
     + [Implementing Rosetta Code problems in Rust](https://github.com/Hoverbear/rust-rosetta)
@@ -36,61 +32,6 @@
             + [Rust Module std::ptr](https://doc.rust-lang.org/std/ptr/)
     + [Awesome documentation links for Rust](http://diveintodata.org/2015/10/11/rust-awesome-documentation-links/)
 
-    + *Arrayfire*
-        + [ArrayFire: a general purpose GPU library. http://arrayfire.com](https://github.com/arrayfire/arrayfire)
-            + [ArrayFire install on Ubuntu](http://www.arrayfire.com/docs/installing.htm#Ubuntu) 
-            + [ArrayFire convolve1](http://www.arrayfire.com/docs/group__signal__func__convolve1.htm)
-        + [Arrayfire Rust Bindings - is a high performance library for parallel computing with an easy-to-use API ](https://github.com/arrayfire/arrayfire-rust)
-            + [Function arrayfire::fft_convolve1](http://arrayfire.github.io/arrayfire-rust/arrayfire/fn.fft_convolve1.html)
-                + [a composition of forward fft and inverse ifft operations is not identical to the original vector #51](https://github.com/arrayfire/arrayfire-rust/issues/51)
-                + [Add code examples to documentation #52](https://github.com/arrayfire/arrayfire-rust/issues/52)
-
-            requisites
-
-            + GLFW
-
-                ```sh
-                ldd ./lu_cpu
-                ...
-                libglfw.so.3 => not found
-                ```
-
-                + [GLFW build apps](http://www.glfw.org/docs/latest/build.html)
-
-                + [GLFW github](https://github.com/glfw/glfw)
-                ```sh
-                git diff -u CMakeLists.txt
-                diff --git a/CMakeLists.txt b/CMakeLists.txt
-                index aa22cc3..0fb3c0e 100644
-                --- a/CMakeLists.txt
-                +++ b/CMakeLists.txt
-                @@ -18,7 +18,7 @@ set(LIB_SUFFIX "" CACHE STRING "Takes an empty string or 64. Directory where lib
-                
-                 set_property(GLOBAL PROPERTY USE_FOLDERS ON)
-                
-                -option(BUILD_SHARED_LIBS "Build shared libraries" OFF)
-                +option(BUILD_SHARED_LIBS "Build shared libraries" ON)
-                 option(GLFW_BUILD_EXAMPLES "Build the GLFW example programs" ON)
-                 option(GLFW_BUILD_TESTS "Build the GLFW test programs" ON)
-                 option(GLFW_BUILD_DOCS "Build the GLFW documentation" ON)
-                ```
-
-
-            * add to `.bashrc`
-            ```sh
-            # for ArrayFire
-            export AF_PATH=$HOME/work/arrayfire-3
-            export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:$AF_PATH/lib
-            ```
-            
-            * use *ArrayFire*
-            ```sh
-            mkdir build
-            pushd build
-            cmake -DArrayFire_DIR=$AF_PATH/share/ArrayFire/cmake ..
-            make VERBOSE=1
-            ```
-            + [arrayfire-project-templates/CMake/CMakeModules/FindOpenCL.cmake](https://github.com/arrayfire/arrayfire-project-templates/blob/master/CMake/CMakeModules/FindOpenCL.cmake)
 
     + Rust ownership, lifetimes and borrowing
         + [Why Rust's ownership/borrowing is hard](http://softwaremaniacs.org/blog/2016/02/12/ownership-borrowing-hard/en/)
@@ -142,6 +83,63 @@
             + [GEMM in Rust implementation](https://github.com/bluss/matrixmultiply)
         + [ndarray: an N-dimensional array with array views, multidimensional slicing, and efficient operations](https://github.com/bluss/rust-ndarray)
             + [ndarray presentation by the author](http://bluss.github.io/rust-ndarray/talk1/)
+
+        + *Arrayfire*
+            + [ArrayFire: a general purpose GPU library. http://arrayfire.com](https://github.com/arrayfire/arrayfire)
+                + [ArrayFire install on Ubuntu](http://www.arrayfire.com/docs/installing.htm#Ubuntu) 
+                + [ArrayFire convolve1](http://www.arrayfire.com/docs/group__signal__func__convolve1.htm)
+            + [Arrayfire Rust Bindings - is a high performance library for parallel computing with an easy-to-use API ](https://github.com/arrayfire/arrayfire-rust)
+                + [Function arrayfire::fft_convolve1](http://arrayfire.github.io/arrayfire-rust/arrayfire/fn.fft_convolve1.html)
+                    + [a composition of forward fft and inverse ifft operations is not identical to the original vector #51](https://github.com/arrayfire/arrayfire-rust/issues/51)
+                    + [Add code examples to documentation #52](https://github.com/arrayfire/arrayfire-rust/issues/52)
+    
+                requisites
+    
+                + GLFW
+    
+                    ```sh
+                    ldd ./lu_cpu
+                    ...
+                    libglfw.so.3 => not found
+                    ```
+    
+                    + [GLFW build apps](http://www.glfw.org/docs/latest/build.html)
+    
+                    + [GLFW github](https://github.com/glfw/glfw)
+                    ```sh
+                    git diff -u CMakeLists.txt
+                    diff --git a/CMakeLists.txt b/CMakeLists.txt
+                    index aa22cc3..0fb3c0e 100644
+                    --- a/CMakeLists.txt
+                    +++ b/CMakeLists.txt
+                    @@ -18,7 +18,7 @@ set(LIB_SUFFIX "" CACHE STRING "Takes an empty string or 64. Directory where lib
+                    
+                     set_property(GLOBAL PROPERTY USE_FOLDERS ON)
+                    
+                    -option(BUILD_SHARED_LIBS "Build shared libraries" OFF)
+                    +option(BUILD_SHARED_LIBS "Build shared libraries" ON)
+                     option(GLFW_BUILD_EXAMPLES "Build the GLFW example programs" ON)
+                     option(GLFW_BUILD_TESTS "Build the GLFW test programs" ON)
+                     option(GLFW_BUILD_DOCS "Build the GLFW documentation" ON)
+                    ```
+    
+    
+                * add to `.bashrc`
+                ```sh
+                # for ArrayFire
+                export AF_PATH=$HOME/work/arrayfire-3
+                export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:$AF_PATH/lib
+                ```
+                
+                * use *ArrayFire*
+                ```sh
+                mkdir build
+                pushd build
+                cmake -DArrayFire_DIR=$AF_PATH/share/ArrayFire/cmake ..
+                make VERBOSE=1
+                ```
+                + [arrayfire-project-templates/CMake/CMakeModules/FindOpenCL.cmake](https://github.com/arrayfire/arrayfire-project-templates/blob/master/CMake/CMakeModules/FindOpenCL.cmake)
+
 
     + Rust parser generators
         + [nom 1.0 Write Really Fast Parsers](https://www.clever-cloud.com/blog/engineering/2015/11/16/nom-1-0/)
