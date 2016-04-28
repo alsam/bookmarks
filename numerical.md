@@ -121,6 +121,7 @@
             + [Unum Computing Is A Breakthrough ... A Game Changer](http://www.amazon.com/The-End-Error-Computing-Computational/product-reviews/1482239868)
             + [Handbook of Floating-Point Arithmetic](http://www.amazon.com/Handbook-Floating-Point-Arithmetic-Jean-Michel-Muller/dp/081764704X/ref=cm_cr_pr_product_sims?ie=UTF8)
             + [Rump's Royal Pain](http://arith22.gforge.inria.fr/slides/06-gustafson.pdf)
+            + [Official Blog - SSRLabs for UNUMs implemented in hardware](http://www.ssrlabs.com/blog.html#articleOne)
         + [Unums.jl](https://github.com/tbreloff/Unums.jl/wiki/Unum-Summary-%28in-progress%29)
         + [Julia Implementation of Unums - (seems more mature)](https://github.com/REX-Computing/unumjl)
         + [unum - Rust library for unums, a placeholder @Jan 4, 2016](https://github.com/eddyb/unum)
