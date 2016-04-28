@@ -329,6 +329,15 @@
         + [Rust vs. C++: Fine-grained Performance](https://users.rust-lang.org/t/rust-vs-c-fine-grained-performance/4407)
         + [Are we concurrent yet](http://areweconcurrentyet.com/)
 
+    + Linear Algebra
+        + [Linear Algebra in Rust](http://athemathmo.github.io/2016/03/23/linear-algebra-in-rust.html)
+        + [Multithreaded matrix multiplication in Rust - Part I](http://athemathmo.github.io/2016/04/16/multithreading-multiplication-1.html)
+        + [Multithreaded matrix multiplication in Rust - Part II](http://athemathmo.github.io/2016/04/25/multithreading-multiplication-2.html)
+            + [Anatomy of High-Performance Many-Threaded Matrix Multiplication](http://www.cs.utexas.edu/users/flame/pubs/blis3_ipdps14.pdf)
+        + [A gemmed rabbit hole](http://bluss.github.io/rust/2016/03/28/a-gemmed-rabbit-hole/)
+            + [GEMM in Rust implementation](https://github.com/bluss/matrixmultiply)
+        + [ndarray: an N-dimensional array with array views, multidimensional slicing, and efficient operations](https://github.com/bluss/rust-ndarray)
+
     + Selected RFCs
         + [RFC 1210: impl specialization](https://github.com/rust-lang/rfcs/blob/master/text/1210-impl-specialization.md)
             + [Implement RFC 1210: impl specialization #30652](https://github.com/rust-lang/rust/pull/30652)
