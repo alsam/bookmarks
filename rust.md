@@ -419,6 +419,10 @@
             + [GitHub Gist for HKT](https://gist.github.com/14427)
             + [Rust and the Monad trait - Not just higher kinded types](https://m4rw3r.github.io/rust-and-monad-trait/)
             + [Reddit: Rust and the Monad trait - Not just higher kinded types](https://www.reddit.com/r/rust/comments/3li3by/rust_and_the_monad_trait_not_just_higher_kinded/)
+            + [Higher Kinded Types](http://cglab.ca/~abeinges/blah/rust-reuse-and-recycle/#higher-kinded-types)
+            + [Does rust really need higher kinded types?](https://users.rust-lang.org/t/does-rust-really-need-higher-kinded-types/5531/28)
+                + [High Order Function with Type Parameter](https://users.rust-lang.org/t/high-order-function-with-type-parameter/3112)
+                + [Design patterns for composability with traits (i.e. typeclasses)?](https://users.rust-lang.org/t/design-patterns-for-composability-with-traits-i-e-typeclasses/5569/49)
         + [ Add Mathjax (KaTeX?) Support to Rustdoc #16300 ](https://github.com/rust-lang/rust/issues/16300)
             + [ Add mathematics support to rustdoc #17390 ](https://github.com/rust-lang/rust/pull/17390#issuecomment-61195381)
             + [Rustdoc: reStructuredText vs Markdown](https://internals.rust-lang.org/t/rustdoc-restructuredtext-vs-markdown/356/63)
@@ -426,6 +430,8 @@
             + [GC and Rust Part 0: Garbage Collection Background](http://blog.pnkfx.org/blog/2015/10/27/gc-and-rust-part-0-how-does-gc-work/)
             + [GC and Rust Part 1: Specifying the Problem](http://blog.pnkfx.org/blog/2015/11/10/gc-and-rust-part-1-specing-the-problem/)
             + [GC and Rust Part 2: The Roots of the Problem](http://blog.pnkfx.org/blog/2016/01/01/gc-and-rust-part-2-roots-of-the-problem/)
+
+    + [Algorithms and Concepts from Stepanov's "Elements of Programming" implemented in Rust](https://github.com/keean/elements_in_rust)
 
     + [Machine Learning in Rust](https://github.com/alsam/bookmarks/blob/master/machine_learning.md#Rust based projects)
         + [rustlearn - A machine learning package for Rust](https://github.com/maciejkula/rustlearn)
