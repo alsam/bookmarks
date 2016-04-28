@@ -23,8 +23,6 @@
         + [BLAS bindings](https://github.com/stainless-steel/blas)
         + [LAPACK bindings](https://github.com/stainless-steel/lapack)
             + [Ivan Ukhov](https://github.com/IvanUkhov?tab=repositories)
-        + [An N-dimensional array for elements of arbitrary type. Lightweight array views and slicing. Supports both uniquely owned and shared copy-on-write arrays similar to numpyâ€™s ndarray](https://crates.io/crates/rendarray/)
-            + [rendarray: N-dimensional array like numpy's ndarray](https://github.com/bluss/rust-ndarray)
         + [Rayon: A data parallelism library for Rust](https://github.com/huonw/rayon)
             + [Neon: Node + Rust = í ½í²–](https://www.reddit.com/r/rust/comments/3y0vx9/neon_node_rust/)
         + [parry - Parallel array processing: deflect performance problems](https://github.com/huonw/parry)
@@ -94,10 +92,17 @@
             ```
             + [arrayfire-project-templates/CMake/CMakeModules/FindOpenCL.cmake](https://github.com/arrayfire/arrayfire-project-templates/blob/master/CMake/CMakeModules/FindOpenCL.cmake)
 
-    + Rust ownership
+    + Rust ownership, lifetimes and borrowing
         + [Why Rust's ownership/borrowing is hard](http://softwaremaniacs.org/blog/2016/02/12/ownership-borrowing-hard/en/)
         + [Explore the ownership system in Rust](http://nercury.github.io/rust/guide/2015/01/19/ownership.html)
         + [Rust ownership, the hard way](http://chrismorgan.info/blog/rust-ownership-the-hard-way.html)
+        + [Rust Lifetimes](http://www.charlesetc.com/rust/2015/10/29/)
+        + [Lifetime Reference](http://www.charlesetc.com/rust/2015/10/31/)
+            + [official lifetimes doc](https://doc.rust-lang.org/book/lifetimes.html)
+            + [Aha! Understanding lifetimes in Rust](http://codrspace.com/buntine/aha-understanding-lifetimes-in-rust/)
+            + [Lifetime elision in struct impl](https://users.rust-lang.org/t/lifetime-elision-in-struct-impl/4255/6)
+        + [Rust, Lifetimes, and Collections](http://cglab.ca/~abeinges/blah/rust-lifetimes-and-collections/)
+            + [Problem about borrowing: My timer implementation requires a mutable reference to the timer queue](https://users.rust-lang.org/t/problem-about-borrowing-my-timer-implementation-requires-a-mutable-reference-to-the-timer-queue/4118/1)
 
     + *Performance Tips*
         + [What one must understand to be productive with Rust](https://medium.com/@ericdreichert/what-one-must-understand-to-be-productive-with-rust-e9e472116728#.yc1728nv4)
@@ -118,6 +123,36 @@
         + [Learn Rust: Dining Philosophers runs not concurrent](https://users.rust-lang.org/t/learn-rust-dining-philosophers-runs-not-concurrent/4458)
 
         + [(more or less) accurate floating point algorithms](https://crates.io/crates/accurate)
+        + [Benchmarking programs in Rust](http://stackoverflow.com/questions/13322479/benchmarking-programs-in-rust)
+        + [How to `zip` two slices efficiently](https://users.rust-lang.org/t/how-to-zip-two-slices-efficiently/2048)
+        + [How to `memcpy` bytes in stable rust](https://users.rust-lang.org/t/how-to-memcpy-bytes-in-stable-rust/2740)
+            + [Stabilizing basic functions on arrays and slices: `clone_from_slice`](https://internals.rust-lang.org/t/stabilizing-basic-functions-on-arrays-and-slices/2868)
+        + [`Builder` pattern without cloning](https://users.rust-lang.org/t/builder-pattern-without-cloning/2044)
+        + [Profiling Rust applications on Linux](https://llogiq.github.io/2015/07/15/profiling.html)
+        + [Fearless Concurrency with Rust](http://blog.rust-lang.org/2015/04/10/Fearless-Concurrency.html)
+        + [Rust vs. C++: Fine-grained Performance](https://users.rust-lang.org/t/rust-vs-c-fine-grained-performance/4407)
+        + [Are we concurrent yet](http://areweconcurrentyet.com/)
+
+    + Linear Algebra
+        + [Linear Algebra in Rust](http://athemathmo.github.io/2016/03/23/linear-algebra-in-rust.html)
+        + [Multithreaded matrix multiplication in Rust - Part I](http://athemathmo.github.io/2016/04/16/multithreading-multiplication-1.html)
+        + [Multithreaded matrix multiplication in Rust - Part II](http://athemathmo.github.io/2016/04/25/multithreading-multiplication-2.html)
+            + [Anatomy of High-Performance Many-Threaded Matrix Multiplication](http://www.cs.utexas.edu/users/flame/pubs/blis3_ipdps14.pdf)
+        + [A gemmed rabbit hole](http://bluss.github.io/rust/2016/03/28/a-gemmed-rabbit-hole/)
+            + [GEMM in Rust implementation](https://github.com/bluss/matrixmultiply)
+        + [ndarray: an N-dimensional array with array views, multidimensional slicing, and efficient operations](https://github.com/bluss/rust-ndarray)
+            + [ndarray presentation by the author](http://bluss.github.io/rust-ndarray/talk1/)
+
+    + Rust parser generators
+        + [nom 1.0 Write Really Fast Parsers](https://www.clever-cloud.com/blog/engineering/2015/11/16/nom-1-0/)
+            + [nom on github](https://github.com/Geal/nom)
+        + [LALRPOP](http://smallcultfollowing.com/babysteps/blog/2015/09/14/lalrpop/)
+            + [LALRPOP tutorial](https://github.com/nikomatsakis/lalrpop/blob/master/doc/tutorial.md)
+        + [rusty-peg crate](https://crates.io/crates/rusty-peg)
+            + [rusty-peg github](https://github.com/nikomatsakis/rusty-peg)
+        + [Parser Combinators: The road to Chomp 0.1](https://m4rw3r.github.io/)
+            + [A fast monadic-style parser combinator designed to work on stable Rust](https://github.com/m4rw3r/chomp)
+
 
     + [Announcing Rust 1.0](http://blog.rust-lang.org/2015/05/15/Rust-1.0.html)
         + [Priorities after 1.0](http://internals.rust-lang.org/t/priorities-after-1-0/1901)
@@ -201,16 +236,6 @@
 
     + [unicode chars for idents](http://www.reddit.com/r/rust/comments/2pvksp/filename_with_dots_or_unicode_chars_not_working/)
 
-    + Rust parser generators
-        + [nom 1.0 Write Really Fast Parsers](https://www.clever-cloud.com/blog/engineering/2015/11/16/nom-1-0/)
-            + [nom on github](https://github.com/Geal/nom)
-        + [LALRPOP](http://smallcultfollowing.com/babysteps/blog/2015/09/14/lalrpop/)
-            + [LALRPOP tutorial](https://github.com/nikomatsakis/lalrpop/blob/master/doc/tutorial.md)
-        + [rusty-peg crate](https://crates.io/crates/rusty-peg)
-            + [rusty-peg github](https://github.com/nikomatsakis/rusty-peg)
-        + [Parser Combinators: The road to Chomp 0.1](https://m4rw3r.github.io/)
-            + [A fast monadic-style parser combinator designed to work on stable Rust](https://github.com/m4rw3r/chomp)
-
     + Misc
         + [Contributing to Rust]([http://www.ncameron.org/rust.html)
         + [Interview with Mozillaâ€™s Aaron Turon](http://www.pl-enthusiast.net/2015/06/09/interview-with-mozillas-aaron-turon/)
@@ -239,13 +264,6 @@
         + [Good Practices for Writing Rust Libraries](https://pascalhertleif.de/artikel/good-practices-for-writing-rust-libraries/)
 
         + [C to Rust transpiler, based on cparser](https://github.com/PeterReid/cparser-to-rust)
-
-        + Rust Lifetimes
-            + [Rust Lifetimes](http://www.charlesetc.com/rust/2015/10/29/)
-            + [Lifetime Reference](http://www.charlesetc.com/rust/2015/10/31/)
-                + [official lifetimes doc](https://doc.rust-lang.org/book/lifetimes.html)
-                + [Aha! Understanding lifetimes in Rust](http://codrspace.com/buntine/aha-understanding-lifetimes-in-rust/)
-                + [Lifetime elision in struct impl](https://users.rust-lang.org/t/lifetime-elision-in-struct-impl/4255/6)
 
         + [Iterator trait](https://doc.rust-lang.org/nightly/std/iter/trait.Iterator.html)
             + [iota editor written in Rust; use case for idiomatic iterator usage](https://github.com/gchp/iota/blob/master/src/iota/iterators.rs)
@@ -318,25 +336,6 @@
 
         + [How do I sum a vector using fold?](http://stackoverflow.com/questions/29548819/how-do-i-sum-a-vector-using-fold)
 
-    + *Performance tips*
-        + [Benchmarking programs in Rust](http://stackoverflow.com/questions/13322479/benchmarking-programs-in-rust)
-        + [How to `zip` two slices efficiently](https://users.rust-lang.org/t/how-to-zip-two-slices-efficiently/2048)
-        + [How to `memcpy` bytes in stable rust](https://users.rust-lang.org/t/how-to-memcpy-bytes-in-stable-rust/2740)
-            + [Stabilizing basic functions on arrays and slices: `clone_from_slice`](https://internals.rust-lang.org/t/stabilizing-basic-functions-on-arrays-and-slices/2868)
-        + [`Builder` pattern without cloning](https://users.rust-lang.org/t/builder-pattern-without-cloning/2044)
-        + [Profiling Rust applications on Linux](https://llogiq.github.io/2015/07/15/profiling.html)
-        + [Fearless Concurrency with Rust](http://blog.rust-lang.org/2015/04/10/Fearless-Concurrency.html)
-        + [Rust vs. C++: Fine-grained Performance](https://users.rust-lang.org/t/rust-vs-c-fine-grained-performance/4407)
-        + [Are we concurrent yet](http://areweconcurrentyet.com/)
-
-    + Linear Algebra
-        + [Linear Algebra in Rust](http://athemathmo.github.io/2016/03/23/linear-algebra-in-rust.html)
-        + [Multithreaded matrix multiplication in Rust - Part I](http://athemathmo.github.io/2016/04/16/multithreading-multiplication-1.html)
-        + [Multithreaded matrix multiplication in Rust - Part II](http://athemathmo.github.io/2016/04/25/multithreading-multiplication-2.html)
-            + [Anatomy of High-Performance Many-Threaded Matrix Multiplication](http://www.cs.utexas.edu/users/flame/pubs/blis3_ipdps14.pdf)
-        + [A gemmed rabbit hole](http://bluss.github.io/rust/2016/03/28/a-gemmed-rabbit-hole/)
-            + [GEMM in Rust implementation](https://github.com/bluss/matrixmultiply)
-        + [ndarray: an N-dimensional array with array views, multidimensional slicing, and efficient operations](https://github.com/bluss/rust-ndarray)
 
     + Selected RFCs
         + [RFC 1210: impl specialization](https://github.com/rust-lang/rfcs/blob/master/text/1210-impl-specialization.md)
@@ -418,8 +417,6 @@
         + [Working around the lack of associated method on parametric traits?](http://stackoverflow.com/questions/27888069/working-around-the-lack-of-associated-method-on-parametric-traits)
         + [cpp-templates-vs-rust-generics](https://gist.github.com/bjz/9220415)
         + [Rust, Generics, and Collections](http://cglab.ca/~abeinges/blah/rust-generics-and-collections/)
-        + [Rust, Lifetimes, and Collections](http://cglab.ca/~abeinges/blah/rust-lifetimes-and-collections/)
-            + [Problem about borrowing: My timer implementation requires a mutable reference to the timer queue](https://users.rust-lang.org/t/problem-about-borrowing-my-timer-implementation-requires-a-mutable-reference-to-the-timer-queue/4118/1)
 
     + Ideas, RFCs, that are not in the language yet
         + [`step_by` on negative numbers](https://internals.rust-lang.org/t/step-by-on-negative-numbers/2231)
