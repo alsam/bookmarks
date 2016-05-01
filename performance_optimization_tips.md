@@ -31,3 +31,5 @@
             + [How do I allocate a DMA buffer backed by 1GB HugePages in a linux kernel module?](http://stackoverflow.com/questions/19460544/how-do-i-allocate-a-dma-buffer-backed-by-1gb-hugepages-in-a-linux-kernel-module)
     + [How Bad Can 1GB Pages Be?](http://www.pvk.ca/Blog/2014/02/18/how-bad-can-1gb-pages-be/#disqus_thread)
     + [Multiple Page Size Support in the Linux Kernel](https://www.researchgate.net/publication/2566253_Multiple_Page_Size_Support_in_the_Linux_Kernel)
+    + mmap/munmap tips
+        + [munmap()--Remove Memory Mapping](https://www.ibm.com/support/knowledgecenter/ssw_i5_54/apis/munmap.htm)
