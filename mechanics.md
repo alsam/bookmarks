@@ -5,6 +5,7 @@
     + [interactive website of the Master course in Computational Statistical Physics at Ecole normale supérieure](http://statmechalgcomp.wikispaces.com/#Organization-Lectures)
     + [Molecular Simulation](http://www.eng.buffalo.edu/~kofke/ce530/index.html)
     + [Quantum Techniques for Stochastic Mechanics](http://arxiv.org/abs/1209.3632)
+    + [Markov Chain Monte Carlo sampling - intro to QMC](https://galeascience.wordpress.com/2016/04/27/markov-chain-monte-carlo-sampling/)
 
 + misc
     + [A way to study entanglement entropy between multi-body systems](http://phys.org/news/2015-12-entanglement-entropy-multi-body.html)
