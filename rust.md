@@ -19,6 +19,7 @@
         + [BLAS bindings](https://github.com/stainless-steel/blas)
         + [LAPACK bindings](https://github.com/stainless-steel/lapack)
             + [Ivan Ukhov](https://github.com/IvanUkhov?tab=repositories)
+            + [OpenBLAS Provider](https://github.com/cmr/openblas-provider)
         + [Rayon: A data parallelism library for Rust](https://github.com/huonw/rayon)
             + [Neon: Node + Rust = í ½í²–](https://www.reddit.com/r/rust/comments/3y0vx9/neon_node_rust/)
         + [parry - Parallel array processing: deflect performance problems](https://github.com/huonw/parry)
