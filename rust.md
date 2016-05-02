@@ -81,6 +81,7 @@
             + [Anatomy of High-Performance Many-Threaded Matrix Multiplication](http://www.cs.utexas.edu/users/flame/pubs/blis3_ipdps14.pdf)
         + [A gemmed rabbit hole](http://bluss.github.io/rust/2016/03/28/a-gemmed-rabbit-hole/)
             + [GEMM in Rust implementation](https://github.com/bluss/matrixmultiply)
+        + [Matrix Multiplication in Rust (Part 1)](http://www.suchin.co/2016/04/25/Matrix-Multiplication-In-Rust-Pt-1/)
         + [ndarray: an N-dimensional array with array views, multidimensional slicing, and efficient operations](https://github.com/bluss/rust-ndarray)
             + [ndarray presentation by the author](http://bluss.github.io/rust-ndarray/talk1/)
 
