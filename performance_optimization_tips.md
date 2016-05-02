@@ -14,7 +14,7 @@
     + [What are perf cache events meaning?](http://stackoverflow.com/questions/12601474/what-are-perf-cache-events-meaning)
     + [perfmon2](http://perfmon2.sourceforge.net/)
 
-+ TLB - huge pages
++ MMU - TLB - huge pages
     + [Which CPUs support 1GB pages?](http://superuser.com/questions/710870/which-cpus-support-1gb-pages)
     + [How to use Intel Westmere 1GB pages on Linux?](http://stackoverflow.com/questions/27951778/how-to-use-intel-westmere-1gb-pages-on-linux)
         + [Some benchmarks to evaluate NUMA remote memory overhead](https://github.com/ManuelSelva/c4fun)
@@ -33,3 +33,4 @@
     + [Multiple Page Size Support in the Linux Kernel](https://www.researchgate.net/publication/2566253_Multiple_Page_Size_Support_in_the_Linux_Kernel)
     + mmap/munmap tips
         + [munmap()--Remove Memory Mapping](https://www.ibm.com/support/knowledgecenter/ssw_i5_54/apis/munmap.htm)
+    + [Writing an OS in Rust - Page Tables](http://os.phil-opp.com/modifying-page-tables.html)
