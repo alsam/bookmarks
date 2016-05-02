@@ -455,6 +455,8 @@
     + [A native-rust implementation of an Effect monad, inspired by PureScript's EFF Monad](https://crates.io/crates/effect-monad/)
 
     + Hardware (bare metal) - OSes, ISA simulators,etc.
+        + [Writing an OS in Rust](http://os.phil-opp.com/)
+            + [Page Tables](http://os.phil-opp.com/modifying-page-tables.html)
         + [A comparison of operating systems written in Rust](https://github.com/flosse/rust-os-comparison)
             + Redox: A Rust Operating System
                 + [github redox os](https://github.com/redox-os/redox)
