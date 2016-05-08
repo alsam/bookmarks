@@ -85,6 +85,11 @@
         + [Matrix Multiplication in Rust (Part 1)](http://www.suchin.co/2016/04/25/Matrix-Multiplication-In-Rust-Pt-1/)
         + [ndarray: an N-dimensional array with array views, multidimensional slicing, and efficient operations](https://github.com/bluss/rust-ndarray)
             + [ndarray presentation by the author](http://bluss.github.io/rust-ndarray/talk1/)
+        + [A Rust linear algebra library based on expression templates](https://github.com/SiegeLord/RustAlgebloat)
+            + [Rust’s operator overloading doesn’t scale](https://internals.rust-lang.org/t/rusts-operator-overloading-doesnt-scale/408)
+        + [Convolutions in Rust for Deep Learning](https://athemathmo.github.io/2016/04/29/convolutions-deep-learning.html)
+            + [Understanding Convolution in Deep Learning](http://timdettmers.com/2015/03/26/convolution-deep-learning/)
+            + [Convolutional Neural Networks](http://andrew.gibiansky.com/blog/machine-learning/convolutional-neural-networks/)
 
         + *Arrayfire*
             + [ArrayFire: a general purpose GPU library. http://arrayfire.com](https://github.com/arrayfire/arrayfire)
@@ -211,8 +216,6 @@
         + [Язык программирования Rust и первые впечатления от него (17 ноября 2014)](http://eax.me/rust/)
             + [Десять веских причин не тащить в продакшн новые игрушки](http://eax.me/avoid-new-toys/)
             + [Criticizing the Rust Language, and Why C/C++ Will Never Die](http://www.viva64.com/en/b/0324/)
-    + [A Rust linear algebra library based on expression templates](https://github.com/SiegeLord/RustAlgebloat)
-        + [Rust’s operator overloading doesn’t scale](https://internals.rust-lang.org/t/rusts-operator-overloading-doesnt-scale/408)
     + [epsilonz - Functional Programming in Rust](https://github.com/epsilonz)
 
     + [Abstracted Algebra in Rust, or, Why Rust is better than C++, part I](http://maniagnosis.crsr.net/2015/07/abstracted-algebra-in-rust.html)
