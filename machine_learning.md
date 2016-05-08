@@ -70,6 +70,18 @@
         + [Net2Net: Accelerating Learning via Knowledge Transfer](https://github.com/soumith/net2net.torch)
         + [Training and investigating Residual Nets](http://torch.ch/blog/2016/02/04/resnets.html)
 
+
+    + [TensorFlow - Google’s latest machine learning system, open sourced for everyone](http://googleresearch.blogspot.ru/2015/11/tensorflow-googles-latest-machine_9.html)
+        + [TensorFlow](http://www.tensorflow.org/)
+            + [Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow/)
+            + [TensorFlow white paper](http://download.tensorflow.org/paper/whitepaper2015.pdf)
+        + [Setup_TensorFlow.md](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/Setup_TensorFlow.md)
+            + [TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples)
+        + [Open source software library for numerical computation using data flow graphs](https://github.com/tensorflow/tensorflow)
+        + [A deep Q learning demonstration using Google Tensorflow](https://github.com/nivwusquorum/tensorflow-deepq)
+        + [Simplified interface for TensorFlow (mimicking Scikit Learn)](https://github.com/tensorflow/skflow)
+        + [Обзор примера применения обучения с подкреплением с использованием TensorFlow](http://habrahabr.ru/post/274597/)
+
     + [A curated list of speech and natural language processing resources](https://medium.com/@joshdotai/a-curated-list-of-speech-and-natural-language-processing-resources-4d89f94c032a#.2cyphikgy)
 
     + RNN et. al
@@ -124,15 +136,6 @@
         + [RM-SORN: a reward-modulated self-organizing recurrent neural network](http://journal.frontiersin.org/article/10.3389/fncom.2015.00036/full)
 
         + [Beginning studies on deep learning](http://onox.com.br/beginning-studies-on-deep-learning/)
-        + [TensorFlow - Google’s latest machine learning system, open sourced for everyone](http://googleresearch.blogspot.ru/2015/11/tensorflow-googles-latest-machine_9.html)
-            + [TensorFlow](http://www.tensorflow.org/)
-                + [TensorFlow white paper](http://download.tensorflow.org/paper/whitepaper2015.pdf)
-            + [Setup_TensorFlow.md](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/Setup_TensorFlow.md)
-                + [TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples)
-            + [Open source software library for numerical computation using data flow graphs](https://github.com/tensorflow/tensorflow)
-            + [A deep Q learning demonstration using Google Tensorflow](https://github.com/nivwusquorum/tensorflow-deepq)
-            + [Simplified interface for TensorFlow (mimicking Scikit Learn)](https://github.com/tensorflow/skflow)
-            + [Обзор примера применения обучения с подкреплением с использованием TensorFlow](http://habrahabr.ru/post/274597/)
 
         + [Baidu Research: warp-ctc (https://github.com/baidu-research/warp-ctc)](https://github.com/baidu-research/warp-ctc)
 
