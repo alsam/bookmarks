@@ -51,3 +51,6 @@
 
 + SMO (Source Mask Optimization)
     + [Efficient source and mask optimization with augmented Lagrangian methods in optical lithography](https://www.osapublishing.org/view_article.cfm?gotourl=https%3A%2F%2Fwww.osapublishing.org%2FDirectPDFAccess%2F69424B7C-0423-AC06-B5936A4C32DB563F_251702%2Foe-21-7-8076.pdf%3Fda%3D1%26id%3D251702%26seq%3D0%26mobile%3Dno&org=)
+
++ DDM Domain Decomposition Methods
+    + [Domain Decomposition Methods for the Electromagnetic Simulation of Scattering from 3D Structures](http://impact.ee.ucla.edu/internal/Publications/Archive/SFR/Lithography/Kostas_Adam_PhD_Dissertation.pdf)
