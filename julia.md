@@ -16,6 +16,7 @@
         + [Julia Libraries for Quantum Science and Technology](https://github.com/JuliaQuantum)
         + [QuDynamics.jl](https://github.com/JuliaQuantum/QuDynamics.jl)
     + Julia (sub)arrays performance
+        + [Generalizing AbstractArrays: opportunities and challenges](http://julialang.org/blog/2016/03/arrays-iteration)
         + [RFC: Give AbstractArrays smart and performant indexing behaviors for free #10525](https://github.com/JuliaLang/julia/pull/10525)
         + [room for performance improvement for SubArray #5117](https://github.com/JuliaLang/julia/issues/5117)
         + [Fortran-like arrays such as FArray(Float64, -1:1,-7:7,-128:512)](https://groups.google.com/forum/#!topic/julia-dev/NOF6MA6tb9Y)
