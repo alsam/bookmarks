@@ -35,6 +35,8 @@
             + [New PyFR Paper “Heterogeneous Computing on Mixed Unstructured Grids with PyFR”](http://www.techenablement.com/new-pyfr-paper-heterogeneous-computing-on-mixed-unstructured-grids-with-pyfr/)
             + [PyFR: An open source framework for solving advection–diffusion type problems on streaming architectures using the flux reconstruction approach](http://www.sciencedirect.com/science/article/pii/S0010465514002549)
             + [High Performance Parallelism Pearls Volume Two: Multicore and Many-core Programming Approaches](https://books.google.ru/books?id=MUZ0CAAAQBAJ&pg=PA261&lpg=PA261&dq=mako+python+examples+c%2B%2B&source=bl&ots=nBUXLR84mk&sig=FVLDhAaYRjzoEjDCQleT43deZv4&hl=en&sa=X&ved=0CC8Q6AEwCDgKahUKEwjCjMnGvprHAhXJjywKHQuiBnE#v=onepage&q=mako%20python%20examples%20c%2B%2B&f=false)
+    + Camellia
+        + [Camellia Discontinuous Petrov-Galerkin github repository](https://github.com/CamelliaDPG/Camellia/tree/master/docs/HPC_report)
 
 + Particle simulation
     + [MercuryDPM is a code for discrete particle simulations](http://mercurydpm.org/)
