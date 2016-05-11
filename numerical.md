@@ -1,5 +1,7 @@
 # numerical linear algebra and more for PDE
 
++ [CFD](https://github.com/alsam/bookmarks/blob/master/hpc.md#CFD)
+
 + BLAS + LAPACK (OpenBLAS + FLAME + ATLAS + MAGMA + KBLAS) and friends
     + [Benchmarking Single- and Multi-Core BLAS Implementations and GPUs for use with R](http://cran.r-project.org/web/packages/gcbd/vignettes/gcbd.pdf)
     + [OpenBLAS: An optimized BLAS library](http://www.openblas.net/)
