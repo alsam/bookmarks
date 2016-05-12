@@ -47,6 +47,7 @@
             + [Problem about borrowing: My timer implementation requires a mutable reference to the timer queue](https://users.rust-lang.org/t/problem-about-borrowing-my-timer-implementation-requires-a-mutable-reference-to-the-timer-queue/4118/1)
 
     + *Performance Tips*
+        + [cargo subcommand to profile binaries](https://github.com/pegasos1/cargo-profiler)
         + [What one must understand to be productive with Rust](https://medium.com/@ericdreichert/what-one-must-understand-to-be-productive-with-rust-e9e472116728#.yc1728nv4)
         + [On pattern matching performance in rust](http://www.cjqed.com/blog/rust-pattern-matching-performance/)
             + [Mixing matching, mutation, and moves in Rust](http://blog.rust-lang.org/2015/04/17/Enums-match-mutation-and-moves.html)
