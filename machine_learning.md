@@ -82,6 +82,9 @@
         + [Simplified interface for TensorFlow (mimicking Scikit Learn)](https://github.com/tensorflow/skflow)
         + [Обзор примера применения обучения с подкреплением с использованием TensorFlow](http://habrahabr.ru/post/274597/)
 
+    + [Amazon's Deep Scalable Sparse Tensor Network Engine (DSSTNE) ](https://github.com/amznlabs/amazon-dsstne)
+        + [Amazon open-sources its own deep learning software, DSSTNE](http://venturebeat.com/2016/05/11/amazon-open-sources-its-own-deep-learning-software-dsstne/)
+
     + [A curated list of speech and natural language processing resources](https://medium.com/@joshdotai/a-curated-list-of-speech-and-natural-language-processing-resources-4d89f94c032a#.2cyphikgy)
 
     + RNN et. al
