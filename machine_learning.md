@@ -120,6 +120,7 @@
         + [FB link on ML](https://m.facebook.com/elcompeng/posts/816517058368363)
         + [Сравнение библиотек глубокого обучения на примере задачи классификации рукописных цифр](http://habrahabr.ru/company/itseez/blog/254747/)
             + [Torch vs Theano](http://fastml.com/torch-vs-theano/)
+            + [Theano: A Python framework for fast computation of mathematical expressions](http://arxiv.org/abs/1605.02688)
             
         + [What is the intuition behind the concept of capsules in deep learning?](https://www.quora.com/What-is-the-intuition-behind-the-concept-of-capsules-in-deep-learning)
 
