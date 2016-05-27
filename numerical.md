@@ -31,6 +31,11 @@
     + [psBLAS -- Parallel Sparse Basic Linear Algebra Subroutines -- Fortran2003](http://www.ce.uniroma2.it/psblas/)
     + [Elemental is a modern C++ library for distributed-memory dense and sparse-direct linear algebra and optimization.](https://github.com/elemental/Elemental)
 
+
++ SIMD
+    + [The C++ scientist](http://jmabille.github.io/)
+
+
 + [Spectra - C++ Library For Large Scale Eigenvalue Problems](http://yixuan.cos.name/spectra/)
     + [A header-only C++ library for large scale eigenvalue problems](https://github.com/yixuan/spectra)
     + [Spectra Performance](http://yixuan.cos.name/spectra/performance.html)
