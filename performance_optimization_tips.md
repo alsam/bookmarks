@@ -13,6 +13,9 @@
 + Performance Monitor
     + [What are perf cache events meaning?](http://stackoverflow.com/questions/12601474/what-are-perf-cache-events-meaning)
     + [perfmon2](http://perfmon2.sourceforge.net/)
+    + [perf wiki](https://perf.wiki.kernel.org/index.php/Main_Page)
+        + [also](https://en.wikipedia.org/wiki/Perf_%28Linux%29)
+        + [Where Do I get Source package for Perf tool](http://unix.stackexchange.com/questions/98399/where-do-i-get-source-package-for-perf-tool)
 
 + MMU - TLB - huge pages
     + [Which CPUs support 1GB pages?](http://superuser.com/questions/710870/which-cpus-support-1gb-pages)
