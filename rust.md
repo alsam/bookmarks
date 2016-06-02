@@ -47,6 +47,11 @@
             + [Problem about borrowing: My timer implementation requires a mutable reference to the timer queue](https://users.rust-lang.org/t/problem-about-borrowing-my-timer-implementation-requires-a-mutable-reference-to-the-timer-queue/4118/1)
 
     + *Performance Tips*
+        + [Profiling Rust applications on Linux](https://llogiq.github.io/2015/07/15/profiling.html)
+        ```sh
+        operf ./target/debug/add_sum_sq -k 4 -n 100
+        opannotate --source --assembly > operf.listing
+        ```
         + [cargo subcommand to profile binaries](https://github.com/pegasos1/cargo-profiler)
         + [What one must understand to be productive with Rust](https://medium.com/@ericdreichert/what-one-must-understand-to-be-productive-with-rust-e9e472116728#.yc1728nv4)
         + [On pattern matching performance in rust](http://www.cjqed.com/blog/rust-pattern-matching-performance/)
@@ -71,7 +76,6 @@
         + [How to `memcpy` bytes in stable rust](https://users.rust-lang.org/t/how-to-memcpy-bytes-in-stable-rust/2740)
             + [Stabilizing basic functions on arrays and slices: `clone_from_slice`](https://internals.rust-lang.org/t/stabilizing-basic-functions-on-arrays-and-slices/2868)
         + [`Builder` pattern without cloning](https://users.rust-lang.org/t/builder-pattern-without-cloning/2044)
-        + [Profiling Rust applications on Linux](https://llogiq.github.io/2015/07/15/profiling.html)
         + [Fearless Concurrency with Rust](http://blog.rust-lang.org/2015/04/10/Fearless-Concurrency.html)
         + [Rust vs. C++: Fine-grained Performance](https://users.rust-lang.org/t/rust-vs-c-fine-grained-performance/4407)
         + [Are we concurrent yet](http://areweconcurrentyet.com/)
