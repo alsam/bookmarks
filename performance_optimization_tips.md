@@ -16,6 +16,8 @@
     + [perf wiki](https://perf.wiki.kernel.org/index.php/Main_Page)
         + [also](https://en.wikipedia.org/wiki/Perf_%28Linux%29)
         + [Where Do I get Source package for Perf tool](http://unix.stackexchange.com/questions/98399/where-do-i-get-source-package-for-perf-tool)
+    + [Linux Performance Monitoring, any way to monitor per-thread?](http://stackoverflow.com/questions/28058710/linux-performance-monitoring-any-way-to-monitor-per-thread)
+        + [An easy-to-use interface to the Linux perf_event API.](https://github.com/castl/easyperf)
 
 + MMU - TLB - huge pages
     + [Which CPUs support 1GB pages?](http://superuser.com/questions/710870/which-cpus-support-1gb-pages)
