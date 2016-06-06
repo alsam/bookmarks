@@ -80,6 +80,10 @@
         + [Rust vs. C++: Fine-grained Performance](https://users.rust-lang.org/t/rust-vs-c-fine-grained-performance/4407)
         + [Are we concurrent yet](http://areweconcurrentyet.com/)
 
+        + Loop unrolling
+            + [Can I create a macro that unrolls loops?](http://stackoverflow.com/questions/30887356/can-i-create-a-macro-that-unrolls-loops)
+            + [Loop unrolling on request](https://internals.rust-lang.org/t/loop-unrolling-on-request/3091/3)
+
     + Linear Algebra
         + [Linear Algebra in Rust](http://athemathmo.github.io/2016/03/23/linear-algebra-in-rust.html)
         + [Multithreaded matrix multiplication in Rust - Part I](http://athemathmo.github.io/2016/04/16/multithreading-multiplication-1.html)
