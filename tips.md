@@ -134,4 +134,8 @@
     + [Советы о том, как писать на С в 2016 году](https://habrahabr.ru/company/inoventica/blog/275685/)
     + [The C++ scientist](http://jmabille.github.io/)
 
++ Text search-and-replace (grep-like tools)
+    + [amber (written in Rust - a good starting point)](https://github.com/dalance/amber)
+        + [ag - the silver searcher](https://github.com/ggreer/the_silver_searcher)
+
 
