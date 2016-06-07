@@ -82,6 +82,8 @@
 
         + Loop unrolling
             + [Can I create a macro that unrolls loops?](http://stackoverflow.com/questions/30887356/can-i-create-a-macro-that-unrolls-loops)
+                + [How do I see the expanded macro code that's causing my compile error?](http://stackoverflow.com/questions/28580386/how-do-i-see-the-expanded-macro-code-thats-causing-my-compile-error)
+                    + [macro expand](https://github.com/dtolnay/cargo-expand)
             + [Loop unrolling on request](https://internals.rust-lang.org/t/loop-unrolling-on-request/3091/3)
 
     + Linear Algebra
@@ -352,6 +354,7 @@
     + Selected RFCs
         + [RFC 1210: impl specialization](https://github.com/rust-lang/rfcs/blob/master/text/1210-impl-specialization.md)
             + [Implement RFC 1210: impl specialization #30652](https://github.com/rust-lang/rust/pull/30652)
+            + [Specialize to reuse](https://aturon.github.io/blog/2015/09/18/reuse/)
         + [RFC 1422: pub_restricted](https://github.com/rust-lang/rfcs/blob/master/text/1422-pub-restricted.md)
 
     + Misc.
