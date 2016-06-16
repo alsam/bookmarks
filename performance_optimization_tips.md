@@ -43,6 +43,7 @@
 + Other Memory issues
     + [stream memory benchmarks](http://www.cs.virginia.edu/stream/)
     + [Poor memcpy Performance on Linux - AVX code for `memcpy`](http://stackoverflow.com/questions/22793669/poor-memcpy-performance-on-linux)
+    + [various `memcpy` tips](http://www.tek-tips.com/viewthread.cfm?qid=889739)
 
 + Timers
     + [Precise Linux Timing - What Determines the Resolution of clock_gettime()?](http://stackoverflow.com/questions/18343188/precise-linux-timing-what-determines-the-resolution-of-clock-gettime)
