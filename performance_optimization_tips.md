@@ -40,6 +40,10 @@
         + [munmap()--Remove Memory Mapping](https://www.ibm.com/support/knowledgecenter/ssw_i5_54/apis/munmap.htm)
     + [Writing an OS in Rust - Page Tables](http://os.phil-opp.com/modifying-page-tables.html)
 
++ Other Memory issues
+    + [stream memory benchmarks](http://www.cs.virginia.edu/stream/)
+    + [Poor memcpy Performance on Linux - AVX code for `memcpy`](http://stackoverflow.com/questions/22793669/poor-memcpy-performance-on-linux)
+
 + Timers
     + [Precise Linux Timing - What Determines the Resolution of clock_gettime()?](http://stackoverflow.com/questions/18343188/precise-linux-timing-what-determines-the-resolution-of-clock-gettime)
     + [Measure time in Linux - time vs clock vs getrusage vs clock_gettime vs gettimeofday vs timespec_get?](http://stackoverflow.com/questions/12392278/measure-time-in-linux-time-vs-clock-vs-getrusage-vs-clock-gettime-vs-gettimeof?rq=1)
