@@ -5,6 +5,7 @@
     + Mary Rose Cook on git
         + [Mary Rose Cook blog](http://maryrosecook.com/)
         + [github for maryrosecook.com](https://github.com/maryrosecook/maryrosecook.com)
+    + [Revert Git repo to a previous commit](http://stackoverflow.com/questions/4114095/revert-git-repo-to-a-previous-commit)
     + [git returns http error 407 from proxy after CONNECT](http://stackoverflow.com/questions/24907140/git-returns-http-error-407-from-proxy-after-connect)
     + [19 советов по повседневной работе с Git](http://habrahabr.ru/company/mailru/blog/267595/)
     + [Достаточно Git-а, чтобы быть (менее) опасным](http://habrahabr.ru/post/268951/)
