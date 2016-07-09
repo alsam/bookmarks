@@ -58,6 +58,7 @@
         + [The ParallelAccelerator package, part of the High Performance Scripting project at Intel Labs](https://github.com/IntelLabs/ParallelAccelerator.jl)
             + [talk on Prospect and ParallelAccelerator.jl at SPLASH-I 2015](http://composition.al/blog/2015/10/31/my-talk-on-prospect-and-parallel-accelerator-jl-at-splash-i-2015/)
             + [laplace-3d.jl](https://github.com/IntelLabs/ParallelAccelerator.jl/blob/master/examples/laplace-3d/laplace-3d.jl)
+        + [The 3rd annual JuliaCon 2016 (MIT) | Introduction to Writing High Performance Julia | Arch D. Robison](https://www.youtube.com/watch?v=szE4txAD8mk&list=PLP8iPy9hna6SQPwZUDtAM59-wPzCPyD_S&index=25)
 
     + Misc.
         + [Monadic parsers library with inheritance support](https://github.com/potan/parsers.jl)
