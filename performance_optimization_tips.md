@@ -48,3 +48,7 @@
 + Timers
     + [Precise Linux Timing - What Determines the Resolution of clock_gettime()?](http://stackoverflow.com/questions/18343188/precise-linux-timing-what-determines-the-resolution-of-clock-gettime)
     + [Measure time in Linux - time vs clock vs getrusage vs clock_gettime vs gettimeofday vs timespec_get?](http://stackoverflow.com/questions/12392278/measure-time-in-linux-time-vs-clock-vs-getrusage-vs-clock-gettime-vs-gettimeof?rq=1)
+
++ Videos from The 3rd annual JuliaCon 2016 (MIT)
+    + [The 3rd annual JuliaCon 2016 (MIT) | Introduction to Writing High Performance Julia | Arch D. Robison](https://www.youtube.com/watch?v=szE4txAD8mk&list=PLP8iPy9hna6SQPwZUDtAM59-wPzCPyD_S&index=25)
+
