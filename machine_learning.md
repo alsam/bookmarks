@@ -8,6 +8,8 @@
 
 + [SETTING UP EOS FREYA AND ANACONDA ON A HYBRID GRAPHICS LAPTOP FOR GPU ACCELERATED DEEP LEARNING](https://wolfchimneyrock.wordpress.com/2015/05/25/eos-cuda/)
 
++ [Bayesian Machine Learning, Explained](http://www.kdnuggets.com/2016/07/bayesian-machine-learning-explained.html)
+
 + Deeplearning4J: Spark + GPU
     + [Deeplearning4J is an Apache2 Licensed open-sourced, distributed neural net library written in Java and Scala.](https://github.com/deeplearning4j)
         + [Deeplearning4J: Neural Net Platform](https://github.com/deeplearning4j/deeplearning4j)
