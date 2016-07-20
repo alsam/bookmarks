@@ -46,6 +46,13 @@
     + [various `memcpy` tips](http://www.tek-tips.com/viewthread.cfm?qid=889739)
     + [fast memcpy](http://www.dpdk.org/browse/dpdk/tree/lib/librte_eal/common/include/arch/x86/rte_memcpy.h)
 
+    + new technologies from Intel : Cache Monitoring Technology (CMT), Memory Bandwidth Monitoring (MBM), Cache Allocation Technology (CAT) and Code and Data Prioritization (CDP) Technology
+        + [Cache Monitoring Technology (CMT), Memory Bandwidth Monitoring (MBM), Cache Allocation Technology (CAT) and Code and Data Prioritization (CDP) Technology](https://01.org/packet-processing/cache-monitoring-technology-memory-bandwidth-monitoring-cache-allocation-technology-code-and-data)
+        + [User space software for Intel(R) Resource Director Technology http://www.intel.com/content/www/us/en/architecture-and-technology/resource-director-technology.html](https://github.com/01org/intel-cmt-cat/tree/master/examples/c/CAT)
+        + [processors supporting CAT Cache Allocation Technology](https://communities.intel.com/thread/99160)
+        + [A few experiments with the Cache Allocation Technology](https://indico.cern.ch/event/497446/attachments/1229239/1801121/A_few_experiments_with_the_Cache_Allocation_Technology.pdf)
+        + [CAT white paper](http://www.intel.com/content/dam/www/public/us/en/documents/white-papers/cache-allocation-technology-white-paper.pdf)
+
 + Timers
     + [Precise Linux Timing - What Determines the Resolution of clock_gettime()?](http://stackoverflow.com/questions/18343188/precise-linux-timing-what-determines-the-resolution-of-clock-gettime)
     + [Measure time in Linux - time vs clock vs getrusage vs clock_gettime vs gettimeofday vs timespec_get?](http://stackoverflow.com/questions/12392278/measure-time-in-linux-time-vs-clock-vs-getrusage-vs-clock-gettime-vs-gettimeof?rq=1)
