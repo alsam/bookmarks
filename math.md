@@ -35,7 +35,7 @@
         + [Dmitriy Morozov](http://www.mrzv.org/)
             + [Dionysus is a C++ library for computing persistent homology](http://www.mrzv.org/software/dionysus/)
         + [Applied Topology](http://appliedtopology.org/)
-        + [_C_omputational _Hom_ology _P_roject](http://chomp.rutgers.edu/)
+        + [Computational Homology Project](http://chomp.rutgers.edu/)
         + [Konstantin Mischaikow](http://math.rutgers.edu/~mischaik/)
 
     + Theory of Computation
