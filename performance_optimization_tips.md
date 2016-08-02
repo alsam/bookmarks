@@ -40,6 +40,10 @@
         + [munmap()--Remove Memory Mapping](https://www.ibm.com/support/knowledgecenter/ssw_i5_54/apis/munmap.htm)
     + [Writing an OS in Rust - Page Tables](http://os.phil-opp.com/modifying-page-tables.html)
 
++ Cache issues
+    + [Determine if cache is write-back or write-through](http://stackoverflow.com/questions/12739472/determine-if-cache-is-write-back-or-through) 
+    + [What causes a L3 cache miss in CPU?](http://stackoverflow.com/questions/10414787/what-causes-a-l3-cache-miss-in-cpu?)
+
 + Other Memory issues
     + [stream memory benchmarks](http://www.cs.virginia.edu/stream/)
     + [Poor memcpy Performance on Linux - AVX code for `memcpy`](http://stackoverflow.com/questions/22793669/poor-memcpy-performance-on-linux)
