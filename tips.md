@@ -142,19 +142,20 @@
             + summary: `Throwing an exception out of a destructor is dangerous. If another exception is already propagating the application will terminate.` 
             + ["More Effective C++" Item 11: Prevent exceptions from leaving destructors](http://bin-login.name/ftp/pub/docs/programming_languages/cpp/cffective_cpp/MEC/MI11_FR.HTM)
         + [What does the explicit keyword in C++ mean?](http://stackoverflow.com/questions/121162/what-does-the-explicit-keyword-in-c-mean)
-            + dubbed from aboe link
+            + dubbed from above link
             ```c++
-            Suppose you have a class String:
+            // Suppose you have a class String:
 
             class String {
             public:
                 String(int n); // allocate n bytes to the String object
                 String(const char *p); // initializes object with char *p
             };
-            Now if you try
+            // Now if you try
             
             String mystring = 'x';
-            the char 'x' will be implicitly converted to int and then will call the String(int) constructor. But this is not what the user might have intended. So to prevent such conditions, we shall define the constructor as explicit:
+            // the char 'x' will be implicitly converted to int and then will call the String(int) constructor.
+            // But this is not what the user might have intended. So to prevent such conditions, we shall define the constructor as explicit:
             
             class String {
             public:
