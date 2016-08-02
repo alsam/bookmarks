@@ -135,6 +135,34 @@
     + [http://habrahabr.ru/company/infopulse/blog/274549/](http://habrahabr.ru/company/infopulse/blog/274549/)
     + [Советы о том, как писать на С в 2016 году](https://habrahabr.ru/company/inoventica/blog/275685/)
     + [The C++ scientist](http://jmabille.github.io/)
+    + [GoF patterns in modern C++](https://accu.org/content/conf2013/Tobias_Darm_Effective_GoF_Patterns.pdf)
+        + [Effective GoF Patterns with C++11 and Boost—Tobias Darm](https://isocpp.org/blog/2013/10/patterns) 
+    + chosen stackoverflow questions
+        + [throwing exceptions out of a destructor](http://stackoverflow.com/questions/130117/throwing-exceptions-out-of-a-destructor)
+            + summary: `Throwing an exception out of a destructor is dangerous. If another exception is already propagating the application will terminate.` 
+            + ["More Effective C++" Item 11: Prevent exceptions from leaving destructors](http://bin-login.name/ftp/pub/docs/programming_languages/cpp/cffective_cpp/MEC/MI11_FR.HTM)
+        + [What does the explicit keyword in C++ mean?](http://stackoverflow.com/questions/121162/what-does-the-explicit-keyword-in-c-mean)
+            + dubbed from aboe link
+            ```c++
+            Suppose you have a class String:
+
+            class String {
+            public:
+                String(int n); // allocate n bytes to the String object
+                String(const char *p); // initializes object with char *p
+            };
+            Now if you try
+            
+            String mystring = 'x';
+            the char 'x' will be implicitly converted to int and then will call the String(int) constructor. But this is not what the user might have intended. So to prevent such conditions, we shall define the constructor as explicit:
+            
+            class String {
+            public:
+                explicit String (int n); //allocate n bytes
+                String(const char *p); // initialize sobject with string p
+            };
+            ```
+    + [What's the difference between “mutex” and “lock”?](http://stackoverflow.com/questions/9382122/whats-the-difference-between-mutex-and-lock)
     + [Double-Checked Locking is Fixed In C++11](http://preshing.com/20130930/double-checked-locking-is-fixed-in-cpp11/)
         + [Several C++ singleton implementations](http://silviuardelean.ro/2012/06/05/few-singleton-approaches/) 
         ```c++
@@ -150,20 +178,18 @@
           public:
             ~smartSingleton();
          
-          static std::shared_ptr& getInstance()
-          {
+          static std::shared_ptr& getInstance() {
             static std::shared_ptr instance = nullptr;
-         
-            if (!instance)
-            {
-            std::lock_guard lock(_mutex);
-         
+
+            if (!instance) {
+              std::lock_guard lock(_mutex);
+
               if (!instance) {
-              instance.reset(new smartSingleton());
+                instance.reset(new smartSingleton());
               }
             }
          
-          return instance;
+            return instance;
           }
          
           void demo() { std::cout << "smart pointers # next - your code ..." << std::endl; }
