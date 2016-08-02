@@ -135,6 +135,46 @@
     + [http://habrahabr.ru/company/infopulse/blog/274549/](http://habrahabr.ru/company/infopulse/blog/274549/)
     + [Советы о том, как писать на С в 2016 году](https://habrahabr.ru/company/inoventica/blog/275685/)
     + [The C++ scientist](http://jmabille.github.io/)
+    + [Double-Checked Locking is Fixed In C++11](http://preshing.com/20130930/double-checked-locking-is-fixed-in-cpp11/)
+        + [How to implement multithread safe singleton in C++11 without using <mutex>](http://stackoverflow.com/questions/11711920/how-to-implement-multithread-safe-singleton-in-c11-without-using-mutex) 
+        ```c++
+        class Singleton
+        {
+        public:
+        static Singleton & Instance()
+        {
+            // Since it's a static variable, if the class has already been created,
+            // It won't be created again.
+            // And it **is** thread-safe in C++11.
+        
+            static Singleton myInstance;
+        
+            // Return a reference to our instance.
+            return myInstance;
+        }
+        
+        // delete copy and move constructors and assign operators
+        Singleton(Singleton const&) = delete;             // Copy construct
+        Singleton(Singleton&&) = delete;                  // Move construct
+        Singleton& operator=(Singleton const&) = delete;  // Copy assign
+        Singleton& operator=(Singleton &&) = delete;      // Move assign
+        
+        // Any other public methods
+        
+        protected:
+        Singleton()
+        {
+             // Constructor code goes here.
+        }
+        
+        ~Singleton()
+        {
+             // Destructor code goes here.
+        }
+        
+         // And any other protected methods.
+        }
+        ```
 
 + Text search-and-replace (grep-like tools)
     + [amber (written in Rust - a good starting point)](https://github.com/dalance/amber)
