@@ -43,6 +43,7 @@
 + Cache issues
     + [Determine if cache is write-back or write-through](http://stackoverflow.com/questions/12739472/determine-if-cache-is-write-back-or-through) 
     + [What causes a L3 cache miss in CPU?](http://stackoverflow.com/questions/10414787/what-causes-a-l3-cache-miss-in-cpu?)
+    + [What is “cache-friendly” code?](http://stackoverflow.com/questions/16699247/what-is-cache-friendly-code?rq=1)
 
 + Other Memory issues
     + [stream memory benchmarks](http://www.cs.virginia.edu/stream/)
