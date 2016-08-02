@@ -136,6 +136,39 @@
     + [Советы о том, как писать на С в 2016 году](https://habrahabr.ru/company/inoventica/blog/275685/)
     + [The C++ scientist](http://jmabille.github.io/)
     + [Double-Checked Locking is Fixed In C++11](http://preshing.com/20130930/double-checked-locking-is-fixed-in-cpp11/)
+        + [Several C++ singleton implementations](http://silviuardelean.ro/2012/06/05/few-singleton-approaches/) 
+        ```c++
+        class smartSingleton
+        {
+          private:
+            static std::mutex _mutex;
+         
+            smartSingleton();
+            smartSingleton(const smartSingleton& rs);
+            smartSingleton& operator = (const smartSingleton& rs);
+         
+          public:
+            ~smartSingleton();
+         
+          static std::shared_ptr& getInstance()
+          {
+            static std::shared_ptr instance = nullptr;
+         
+            if (!instance)
+            {
+            std::lock_guard lock(_mutex);
+         
+              if (!instance) {
+              instance.reset(new smartSingleton());
+              }
+            }
+         
+          return instance;
+          }
+         
+          void demo() { std::cout << "smart pointers # next - your code ..." << std::endl; }
+        };
+        ```
         + [How to implement multithread safe singleton in C++11 without using <mutex>](http://stackoverflow.com/questions/11711920/how-to-implement-multithread-safe-singleton-in-c11-without-using-mutex) 
         ```c++
         class Singleton
