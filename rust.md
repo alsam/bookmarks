@@ -53,6 +53,7 @@
         opannotate --source --assembly > operf.listing
         ```
         + [cargo subcommand to profile binaries](https://github.com/pegasos1/cargo-profiler)
+        + [Rust support in Linux `perf` tool](https://users.rust-lang.org/t/rust-support-in-linux-perf-tool/6513)
         + [What one must understand to be productive with Rust](https://medium.com/@ericdreichert/what-one-must-understand-to-be-productive-with-rust-e9e472116728#.yc1728nv4)
         + [On pattern matching performance in rust](http://www.cjqed.com/blog/rust-pattern-matching-performance/)
             + [Mixing matching, mutation, and moves in Rust](http://blog.rust-lang.org/2015/04/17/Enums-match-mutation-and-moves.html)
