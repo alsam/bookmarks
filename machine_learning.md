@@ -157,6 +157,8 @@
 
         + [Deep Visualization Toolbox video](https://www.youtube.com/watch?v=AgkfIQ4IGaM)
 
+        + [DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs](http://liangchiehchen.com/projects/DeepLab.html)
+
         + [A cognitive neural architecture able to learn and communicate through natural language](http://arxiv.org/abs/1506.03229)
             + [another paper link for `cognitive neural architecture...`](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0140866)
             + [`annabell` arxiv link](http://arxiv.org/ftp/arxiv/papers/1506/1506.03229.pdf)
