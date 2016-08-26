@@ -128,7 +128,8 @@
         + [Haskell Programming _from first principles_](http://haskellbook.com/feedback.html)
 
 + C++
-    + [C++11 FAQ rom the author](http://www.stroustrup.com/C++11FAQ.html)
+    + [C++11 FAQ rom the author of C++](http://www.stroustrup.com/C++11FAQ.html)
+    + [Impossibly fast delegate in C++11](http://codereview.stackexchange.com/questions/14730/impossibly-fast-delegate-in-c11)
     + [Nobody Understands C++](http://blog2.emptycrate.com/tags/nobody-understands)
         + [Nobody Understands C++: Part 5: Template Code Bloat](http://blog2.emptycrate.com/content/nobody-understands-c-part-5-template-code-bloat)
     + [The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++](https://github.com/isocpp/CppCoreGuidelines)
