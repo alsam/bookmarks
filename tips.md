@@ -238,6 +238,15 @@
         }
         ```
 
++ Google Unit Test
+    + [github repository](https://github.com/google/googletest)
+    + [good intro from IBM](http://www.ibm.com/developerworks/aix/library/au-googletestingframework.html)
+    + [another good introduction](https://blog.jetbrains.com/rscpp/unit-testing-google-test/)
+    + fast deployment in `/usr/local`
+    ```sh
+    clone https://github.com/google/googletest && pushd googletest && mkdir build && cd build && cmake .. && sudo make install
+    ```
+
 + Text search-and-replace (grep-like tools)
     + [amber (written in Rust - a good starting point)](https://github.com/dalance/amber)
         + [ag - the silver searcher](https://github.com/ggreer/the_silver_searcher)
