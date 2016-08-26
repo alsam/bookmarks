@@ -244,7 +244,7 @@
     + [another good introduction](https://blog.jetbrains.com/rscpp/unit-testing-google-test/)
     + fast deployment in `/usr/local`
     ```sh
-    clone https://github.com/google/googletest && pushd googletest && mkdir build && cd build && cmake .. && sudo make install
+    git clone https://github.com/google/googletest && pushd googletest && mkdir build && cd build && cmake .. && sudo make install
     ```
 
 + Text search-and-replace (grep-like tools)
