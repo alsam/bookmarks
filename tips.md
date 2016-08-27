@@ -13,10 +13,12 @@
       ```sh
       git push origin :refs/tags/v0.2.3
       ```sh
+
         + pushing new tags to remote
       ```
       git push --tags
       ```
+
     + [19 советов по повседневной работе с Git](http://habrahabr.ru/company/mailru/blog/267595/)
     + [Достаточно Git-а, чтобы быть (менее) опасным](http://habrahabr.ru/post/268951/)
     + [git checkout tag, git pull fails in branch](http://stackoverflow.com/questions/10147475/git-checkout-tag-git-pull-fails-in-branch)
