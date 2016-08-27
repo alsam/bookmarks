@@ -1,6 +1,9 @@
 # some math links
 
 + math links
+
+    + [A comprehensive 10-page probability cheatsheet that covers a semester's worth of introduction to probability](https://github.com/wzchen/probability_cheatsheet)
+
     + [Магия тензорной алгебры: Часть 1 — что такое тензор и для чего он нужен?](http://habrahabr.ru/post/261421/)
     + [Магия тензорной алгебры: Часть 12 — Параметры Родрига-Гамильтона в кинематике твердого тела](http://habrahabr.ru/post/263533/)
     + [Магия тензорной алгебры: Часть 13 — СКА Maxima в задачах преобразования тензорных выражений. Угловые скорость и ускорение в параметрах Родрига-Гамильтона](http://habrahabr.ru/post/263565/)
