@@ -10,6 +10,9 @@
     + [Как правильно скопировать массив и при чем тут SFINAE](http://habrahabr.ru/post/150654/)
     + [Linux Performance](http://www.brendangregg.com/linuxperf.html)
 
++ [Is Parallel Programming Hard, And, If So, What Can You Do About It?](https://www.kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook.html)
+    + [Paul E. McKenney](http://www.rdrop.com/~paulmck/) 
+
 + Performance Monitor
     + [What are perf cache events meaning?](http://stackoverflow.com/questions/12601474/what-are-perf-cache-events-meaning)
     + [perfmon2](http://perfmon2.sourceforge.net/)
