@@ -238,6 +238,8 @@
         }
         ```
 
+        + [К тридцатилетию первого C++ компилятора: ищем ошибки в Cfront](http://www.viva64.com/ru/b/0355/)
+
 + Google Unit Test
     + [github repository](https://github.com/google/googletest)
     + [good intro from IBM](http://www.ibm.com/developerworks/aix/library/au-googletestingframework.html)
