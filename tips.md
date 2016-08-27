@@ -242,6 +242,8 @@
     + [github repository](https://github.com/google/googletest)
     + [good intro from IBM](http://www.ibm.com/developerworks/aix/library/au-googletestingframework.html)
     + [another good introduction](https://blog.jetbrains.com/rscpp/unit-testing-google-test/)
+    + [Google Test Primer](https://github.com/google/googletest/blob/master/googletest/docs/Primer.md)
+    + [Google TestAdvanced](https://github.com/google/googletest/blob/master/googletest/docs/AdvancedGuide.md)
     + fast deployment in `/usr/local`
     ```sh
     git clone https://github.com/google/googletest && pushd googletest && mkdir build && cd build && cmake .. && sudo make install
