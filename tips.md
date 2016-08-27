@@ -12,10 +12,10 @@
         + delete tag
       ```sh
       git push origin :refs/tags/v0.2.3
-      ```sh
+      ```
 
         + pushing new tags to remote
-      ```
+      ```sh
       git push --tags
       ```
 
