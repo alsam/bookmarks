@@ -41,7 +41,14 @@
 
     + [https://medium.com/deep-learning-101/how-to-create-a-mind-the-secret-of-human-thought-revealed-6211bbdb092a](https://medium.com/deep-learning-101/how-to-create-a-mind-the-secret-of-human-thought-revealed-6211bbdb092a)
 
+    + [An Intuitive Explanation of Convolutional Neural Networks](https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/)
+        + [A Quick Introduction to Neural Networks](https://ujjwalkarn.me/2016/08/09/quick-intro-neural-networks/) 
+
     + [Convolutional Neural Networks backpropagation: from intuition to derivation](https://grzegorzgwardys.wordpress.com/2016/04/22/8/)
+
+    + Sirajology videos
+        + [TensorFlow in 5 Minutes](https://www.youtube.com/watch?v=2FmcHiLCwTU)
+        + [Build a Recurrent Neural Net in 5 Min](https://www.youtube.com/watch?v=cdLUzrjnlr4&feature=youtu.be)
 
     + [colah's blog](http://colah.github.io/archive.html)
         + [https://christopherolah.wordpress.com/](https://christopherolah.wordpress.com/)
