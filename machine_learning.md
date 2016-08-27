@@ -35,6 +35,10 @@
         + [open source reverse engineering of Maxwell scheduler hints](https://github.com/NervanaSystems/maxas/wiki/Control-Codes)
 
 + Misc
+
+    + [Which GPU(s) to Get for Deep Learning: My Experience and Advice for Using GPUs in Deep Learning](http://timdettmers.com/2014/08/14/which-gpu-for-deep-learning/)
+    + [The Brain vs Deep Learning Part I: Computational Complexity — Or Why the Singularity Is Nowhere Near](http://timdettmers.com/2015/07/27/brain-vs-deep-learning-singularity/)
+
     + [https://medium.com/deep-learning-101/how-to-create-a-mind-the-secret-of-human-thought-revealed-6211bbdb092a](https://medium.com/deep-learning-101/how-to-create-a-mind-the-secret-of-human-thought-revealed-6211bbdb092a)
 
     + [Convolutional Neural Networks backpropagation: from intuition to derivation](https://grzegorzgwardys.wordpress.com/2016/04/22/8/)
