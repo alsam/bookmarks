@@ -51,3 +51,8 @@
         - Consistency (all nodes see the same data at the same time)
         - Availability (every request receives a response about whether it succeeded or failed)
         - Partition tolerance (the system continues to operate despite arbitrary partitioning due to network failures)
+
+    + Elliptic Integrals
+        + [Useful Elliptic Integral Formulas for Magnetics](http://www.kurtnalty.com/UsefulEllipticIntegralFormulasSheet.pdf)
+        + [Chapter 19 Elliptic Integrals](http://dlmf.nist.gov/19)
+
