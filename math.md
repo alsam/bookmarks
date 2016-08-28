@@ -40,6 +40,7 @@
         + [Applied Topology](http://appliedtopology.org/)
         + [Computational Homology Project](http://chomp.rutgers.edu/)
         + [Konstantin Mischaikow](http://math.rutgers.edu/~mischaik/)
+        + [A fast generic C++11 library for applied and computational topology](https://github.com/appliedtopology/ctl)
 
     + Theory of Computation
         + [Universal Memcomputing Machines как альтернатива Машине Тьюринга](http://habrahabr.ru/post/274593/)
