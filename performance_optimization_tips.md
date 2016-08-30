@@ -16,6 +16,7 @@
     + [How to Write Fast Numerical Code](https://www.inf.ethz.ch/personal/markusp/teaching/263-2300-ETH-spring11/slides/class17.pdf)
     + [SSE multiplication of 4 32-bit integers](http://stackoverflow.com/questions/10500766/sse-multiplication-of-4-32-bit-integers)
     + [Vectorization in gcc](https://monoinfinito.wordpress.com/series/vectorization-in-gcc/)
+    + [C++ - Getting started with SSE](http://felix.abecassis.me/2011/09/cpp-getting-started-with-sse/)
 
 + [Is Parallel Programming Hard, And, If So, What Can You Do About It?](https://www.kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook.html)
     + [Paul E. McKenney](http://www.rdrop.com/~paulmck/) 
