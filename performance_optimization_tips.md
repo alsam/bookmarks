@@ -76,3 +76,5 @@
 + Videos from The 3rd annual JuliaCon 2016 (MIT)
     + [The 3rd annual JuliaCon 2016 (MIT) | Introduction to Writing High Performance Julia | Arch D. Robison](https://www.youtube.com/watch?v=szE4txAD8mk&list=PLP8iPy9hna6SQPwZUDtAM59-wPzCPyD_S&index=25)
 
++ Useful pieces of information
+    + [Difference between Mutex, Semaphore & Spin Locks](http://stackoverflow.com/questions/23511058/difference-between-mutex-semaphore-spin-locks)
