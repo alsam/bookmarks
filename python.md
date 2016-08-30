@@ -31,6 +31,10 @@
 
 + [PyInterval](https://pypi.python.org/pypi/PyIntervalTree)
 
++ Numba
+    + [Numba: Tell those C++ bullies to get lost](http://lorenabarba.com/blog/numba-tell-those-c-bullies-to-get-lost/)
+        + [Numba tutorial materials for Scipy 2016](https://github.com/barbagroup/numba_tutorial_scipy2016)
+
 + StackOverflow questions
     + [Python sort dict by key](http://stackoverflow.com/questions/9001509/python-dictionary-sort-by-key)
     + [Python item freq count](http://stackoverflow.com/questions/893417/item-frequency-count-in-python)
