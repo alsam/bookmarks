@@ -10,13 +10,14 @@
     + [Как правильно скопировать массив и при чем тут SFINAE](http://habrahabr.ru/post/150654/)
     + [Linux Performance](http://www.brendangregg.com/linuxperf.html)
 
-+ g++ autovectorization tips and issues
++ g++ autovectorization tips and issues - SSE,AVX
     + [GCC auto-vectorization has no effect on runtime, even when supposedly “profitable”](http://stackoverflow.com/questions/26945981/gcc-auto-vectorization-has-no-effect-on-runtime-even-when-supposedly-profitabl) 
     + [Vectorize Source-Code](https://twiki.cern.ch/twiki/bin/view/LHCb/VectorizeSource-code)
     + [How to Write Fast Numerical Code](https://www.inf.ethz.ch/personal/markusp/teaching/263-2300-ETH-spring11/slides/class17.pdf)
     + [SSE multiplication of 4 32-bit integers](http://stackoverflow.com/questions/10500766/sse-multiplication-of-4-32-bit-integers)
     + [Vectorization in gcc](https://monoinfinito.wordpress.com/series/vectorization-in-gcc/)
     + [C++ - Getting started with SSE](http://felix.abecassis.me/2011/09/cpp-getting-started-with-sse/)
+    + [FastC++: Coding Cpp Efficiently](http://fastcpp.blogspot.ru/2013/03/efficient-processing-of-arrays-using.html)
 
 + [Is Parallel Programming Hard, And, If So, What Can You Do About It?](https://www.kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook.html)
     + [Paul E. McKenney](http://www.rdrop.com/~paulmck/) 
