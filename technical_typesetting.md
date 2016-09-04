@@ -1,5 +1,7 @@
 # Technical Typesetting links and tips
 
++ [Hyperpolyglot: Lightweight Markup: Markdown, reStructuredText, MediaWiki, AsciiDoc, Org-mode](http://hyperpolyglot.org/lightweight-markup)
+
 + pandoc
     + [pandoc binaries](https://github.com/jgm/pandoc/releases/tag/1.15.0.6)
     + installing from `hackage`
