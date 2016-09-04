@@ -24,6 +24,12 @@
     + Nektar++
         + [Nektar++: An efficient h to p finite element framework](http://www.nektar.info/)
         + [Nektar++: a high-order finite element framework](https://xyloid.org/assets/talks/2014-06-ices.pdf)
+    + Maxeler
+        + [Maxeler Technologies - Maximum Performance Computing](https://github.com/maxeler)
+            + [AirfoilDFE - An unstructured mesh finite volume solver on DFE.](https://github.com/maxeler/Airfoil)
+            + [Lattice QCD is a discretization of Quantum Chromodynamics](https://github.com/maxeler/LatticeQCD)
+            + [LatticeBoltzmann](https://github.com/maxeler/LatticeBoltzmann)
+
     + CFD + GPU
         + [Recent progress and challenges in exploiting graphics processors in computational fluid dynamics: slightly outdated but interesting](http://arxiv.org/pdf/1309.3018.pdf)
             + [Laplace solver running on GPU using CUDA, with CPU version for comparison, slightly outdated](https://github.com/kyleniemeyer/laplace_gpu)
