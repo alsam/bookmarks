@@ -321,3 +321,6 @@
 
 + CSV vs. JSON vs. XML vs. YAML
     + [Is CSV a good alternative to XML and JSON?](http://programmers.stackexchange.com/questions/224929/is-csv-a-good-alternative-to-xml-and-json)
+
++ [Implementing an update/upgrade system for embedded Linux devices](http://stackoverflow.com/questions/6937592/implementing-an-update-upgrade-system-for-embedded-linux-devices)
+    + [SWUpdate - Software Update for Embedded Systems](https://github.com/sbabic/swupdate)
