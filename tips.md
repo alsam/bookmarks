@@ -142,6 +142,8 @@
         pacman -S extra/kdegraphics-okular
 
         ```
+        + [Slack Desktop (Beta) for Linux](https://aur.archlinux.org/packages/slack-desktop/)
+        + [The Rust toolchain installer](https://aur.archlinux.org/packages/rustup/)
 
 + RHEL
     + [Software Collections for Scientific Linux CERN 6](http://linux.web.cern.ch/linux/scl/)
