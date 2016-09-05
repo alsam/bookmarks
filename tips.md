@@ -142,6 +142,7 @@
         pacman -S community/cairo-dock-plug-ins
         pacman -S extra/clang
         pacman -S extra/kdegraphics-okular
+        pacman -S the_silver_searcher
 
         ```
         + [Slack Desktop (Beta) for Linux](https://aur.archlinux.org/packages/slack-desktop/)
