@@ -63,6 +63,7 @@
         + [VIM and Python -- a Match Made in Heaven](https://realpython.com/blog/python/vim-and-python-a-match-made-in-heaven/)
         + [vim-multiple-cursors](https://github.com/terryma/vim-multiple-cursors)
         + [Provide easy code formatting in Vim by integrating existing code formatters](https://github.com/Chiel92/vim-autoformat)
+        + [Vundle vs. Pathogen](http://lepture.com/en/2012/vundle-vs-pathogen)
         + [Разработка → VIM: зачем, если есть IDE, и как?](https://habrahabr.ru/post/303554/)
 
     + Emacs
