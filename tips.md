@@ -101,8 +101,47 @@
     + [physics](http://ocw.mit.edu/courses/physics/)
     + [special courses](http://ocw.mit.edu/courses/special-programs/)
 
-+ Gentoo tips
-    + [Gentoo Cheat Sheet](https://wiki.gentoo.org/wiki/Gentoo_Cheat_Sheet)
++ Linux distros specific
+    + Gentoo tips
+        + [Gentoo Cheat Sheet](https://wiki.gentoo.org/wiki/Gentoo_Cheat_Sheet)
+    
+    + Arch Linux tips
+        + [Arch Linux Installation guide](https://wiki.archlinux.org/index.php/installation_guide)
+            + [Installing Arch Linux on a USB key](https://wiki.archlinux.org/index.php/Installing_Arch_Linux_on_a_USB_key)
+        + [Arch Linux Set timezone](https://wiki.archlinux.org/index.php?title=Time&redirect=no#Time_zone)
+        + [Arch Linux SSH keys](https://wiki.archlinux.org/index.php/SSH_keys)
+        + [Arch Linux AUR](https://wiki.archlinux.org/index.php/Arch_User_Repository)
+        + [How to install Yaourt on Arch Linux](http://www.ostechnix.com/install-yaourt-arch-linux/)
+        ```sh
+        pacman -S grub
+        pacman -S vim gvim
+        pacman -S os-prober
+        pacman -S bash-completion
+        pacman -S gnome build-base base-devel scons python-pip python2-pip python-yaml qt5 wayland gdm python2 python mc gdb cgdb
+        pacman -S chromium 
+        pacman -S konsole
+        pacman -S git
+        pacman -S extra/keychain
+        pacman -S openssh
+        pacman -S gconf
+        pacman -S hunspell-en
+        pacman -S rsync
+        pacman -S extra/emacs
+        pacman -S texlive
+        pacman -S texlive-bin
+        pacman -S texlive-core
+        pacman -S extra/texlive-fontsextra
+        pacman -S texlive-most
+        pacman -S texlive-lang
+        pacman -S pandoc
+        pacman -S qt extra/qt5-declarative
+        pacman -S community/netactview
+        pacman -S community/cairo-dock
+        pacman -S community/cairo-dock-plug-ins
+        pacman -S extra/clang
+        pacman -S extra/kdegraphics-okular
+
+        ```
 
 + RHEL
     + [Software Collections for Scientific Linux CERN 6](http://linux.web.cern.ch/linux/scl/)
