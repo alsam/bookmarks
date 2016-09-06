@@ -51,6 +51,7 @@
 
     + modern ctags
         + [A maintained ctags implementation](https://github.com/universal-ctags/ctags)
+        + [Universal-ctags Hacking Guide](http://docs.ctags.io/en/latest/)
             + [C++ Declarations/References?](https://github.com/universal-ctags/ctags/issues/651)
         ```sh
         ctags -R --c++-kinds=+p --fields=+iaS --extra=+q .
