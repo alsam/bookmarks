@@ -3,6 +3,7 @@
         + [AMA: Michael I Jordan](http://www.reddit.com/r/MachineLearning/comments/2fxi6v/ama_michael_i_jordan/)
         + [Big Data, Hype, the Media and Other Provocative Words to Put in a Title](https://amplab.cs.berkeley.edu/big-data-hype-the-media-and-other-provocative-words-to-put-in-a-title/)
         + [a goodreads list of books for ML](https://www.goodreads.com/review/list/6324945-nikita-zhiltsov?shelf=m-jordan-s-list)
+        + [5 free e-books for machine learning mastery](http://www.infoworld.com/article/3115334/artificial-intelligence/5-free-e-books-for-machine-learning-mastery.html)
 
 + [fresh Deep Learning book MIT press](http://www.deeplearningbook.org/)
 
