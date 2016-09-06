@@ -49,6 +49,12 @@
 
     + [How to Select Columns in Editors (Kate, Vim, etc.)](http://stackoverflow.com/questions/1802616/how-to-select-columns-in-editors-notepad-kate-vim-sublime-textpad-etc-an)
 
+    + modern ctags
+        + [A maintained ctags implementation](https://github.com/universal-ctags/ctags)
+        ```sh
+        ctags -R --c++-kinds=+p --fields=+iaS --extra=+q .
+        ```
+
     + vim tips
         :set ff=unix
         + [From Vim to Emacs+Evil chaotic migration guide](http://juanjoalvarez.net/es/)
