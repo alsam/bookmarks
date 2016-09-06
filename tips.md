@@ -53,6 +53,7 @@
         + [A maintained ctags implementation](https://github.com/universal-ctags/ctags)
         + [Universal-ctags Hacking Guide](http://docs.ctags.io/en/latest/)
             + [C++ Declarations/References?](https://github.com/universal-ctags/ctags/issues/651)
+        + [Hong's Technology Blog for ctags for C++](https://www.topbug.net/blog/2012/03/17/generate-ctags-files-for-c-slash-c-plus-plus-source-files-and-all-of-their-included-header-files/)
         ```sh
         ctags -R --c++-kinds=+p --fields=+iaS --extra=+q .
         ```
