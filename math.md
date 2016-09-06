@@ -57,4 +57,5 @@
         + [Useful Elliptic Integral Formulas for Magnetics](http://www.kurtnalty.com/UsefulEllipticIntegralFormulasSheet.pdf)
         + [Chapter 19 Elliptic Integrals](http://dlmf.nist.gov/19)
         + [Mathoverflow Derivative of the elliptic integral of the first kind](http://math.stackexchange.com/questions/426257/derivative-of-the-elliptic-integral-of-the-first-kind)
+        + [Evaluation of a Generalized Elliptic-Type Integral](http://nvlpubs.nist.gov/nistpubs/jres/67B/jresv67Bn1p1_A1b.pdf)
 
