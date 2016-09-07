@@ -239,6 +239,7 @@
             };
             ```
     + [What's the difference between “mutex” and “lock”?](http://stackoverflow.com/questions/9382122/whats-the-difference-between-mutex-and-lock)
+    + [Потоки, блокировки и условные переменные в C++11 [Часть 2] ](https://habrahabr.ru/post/182626/)
     + C++11 and semaphores
         + [C++0x has no semaphores? How to synchronize threads?](http://stackoverflow.com/questions/4792449/c0x-has-no-semaphores-how-to-synchronize-threads/19659736#19659736)
         + [Semaphores C++11 when Multithreading](http://austingwalters.com/multithreading-semaphores/)
