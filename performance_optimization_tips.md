@@ -79,3 +79,4 @@
 
 + Useful pieces of information
     + [Difference between Mutex, Semaphore & Spin Locks](http://stackoverflow.com/questions/23511058/difference-between-mutex-semaphore-spin-locks)
+    + [Does endless While loop take up CPU resources?](http://stackoverflow.com/questions/13680512/does-endless-while-loop-take-up-cpu-resources)
