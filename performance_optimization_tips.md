@@ -32,6 +32,7 @@
         + [An easy-to-use interface to the Linux perf_event API.](https://github.com/castl/easyperf)
 
 + MMU - TLB - huge pages
+    + [Virtual Memory](http://austingwalters.com/virtual-memory-and-you/)
     + [Which CPUs support 1GB pages?](http://superuser.com/questions/710870/which-cpus-support-1gb-pages)
     + [How to use Intel Westmere 1GB pages on Linux?](http://stackoverflow.com/questions/27951778/how-to-use-intel-westmere-1gb-pages-on-linux)
         + [Some benchmarks to evaluate NUMA remote memory overhead](https://github.com/ManuelSelva/c4fun)
@@ -56,6 +57,9 @@
     + [Determine if cache is write-back or write-through](http://stackoverflow.com/questions/12739472/determine-if-cache-is-write-back-or-through) 
     + [What causes a L3 cache miss in CPU?](http://stackoverflow.com/questions/10414787/what-causes-a-l3-cache-miss-in-cpu?)
     + [What is “cache-friendly” code?](http://stackoverflow.com/questions/16699247/what-is-cache-friendly-code?rq=1)
+    + [Cache Optimizing](http://austingwalters.com/cache-optimizing/)
+    + [Caches and multithreading](http://austingwalters.com/the-cache-and-multithreading/)
+    + [Optimizing `for` loops](https://docs.google.com/presentation/d/1uYhRYHBWX3J_CJ0vGi3L3bJ7lcZ2hwf4hvFA7HPxDjc/edit#slide=id.g271f1295a_048)
 
 + Other Memory issues
     + [stream memory benchmarks](http://www.cs.virginia.edu/stream/)
@@ -79,3 +83,4 @@
 
 + Useful pieces of information
     + [Difference between Mutex, Semaphore & Spin Locks](http://stackoverflow.com/questions/23511058/difference-between-mutex-semaphore-spin-locks)
+    + [Does endless While loop take up CPU resources?](http://stackoverflow.com/questions/13680512/does-endless-while-loop-take-up-cpu-resources)
