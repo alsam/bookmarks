@@ -113,6 +113,10 @@
     + [special courses](http://ocw.mit.edu/courses/special-programs/)
 
 + Linux distros specific
+    + `systemd` vs. `init`
+        + [The Story Behind ‘init’ and ‘systemd’: Why ‘init’ Needed to be Replaced with ‘systemd’ in Linux](http://www.tecmint.com/systemd-replaces-init-in-linux/)
+        + [Systemd Essentials: Working with Services, Units, and the Journal](https://www.digitalocean.com/community/tutorials/systemd-essentials-working-with-services-units-and-the-journal)
+
     + Gentoo tips
         + [Gentoo Cheat Sheet](https://wiki.gentoo.org/wiki/Gentoo_Cheat_Sheet)
     
