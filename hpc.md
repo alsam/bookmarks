@@ -76,3 +76,6 @@
     + [Inside Pascal: NVIDIA’s Newest Computing Platform](https://devblogs.nvidia.com/parallelforall/inside-pascal/)
     
 + [GPU Programming in Functional Languages](http://www.cse.chalmers.se/~joels/writing/GPUFL.pdf)
+
++ Stencil computations
+    + [Ускоряем трафаретные вычисления: сборка и запуск YASK на процессорах Intel](https://habrahabr.ru/company/intel/blog/305128/)
