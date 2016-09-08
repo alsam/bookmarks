@@ -22,3 +22,5 @@
 
     + [Бесплатная библиотека Self-learning – более 20 курсов по ключевым направлениям Software Engineering](http://habrahabr.ru/company/luxoft/blog/265339/)
         + [50+ Free Data Science Books](http://www.datasciencecentral.com/profiles/blogs/50-free-data-science-books?xg_source=activity)
+
+    + [Explained Visually](http://setosa.io/ev/)
