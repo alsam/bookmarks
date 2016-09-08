@@ -33,6 +33,15 @@
             + [Rust Module std::ptr](https://doc.rust-lang.org/std/ptr/)
     + [Awesome documentation links for Rust](http://diveintodata.org/2015/10/11/rust-awesome-documentation-links/)
 
+    + Are we yet?
+        + [Are we (I)DE yet?](https://areweideyet.com/)
+        + [Are we web yet?](http://www.arewewebyet.org/)
+        + [Are we concurrent yet?](http://areweconcurrentyet.com/)
+        + [Are we numeric yet?](https://www.reddit.com/r/rust/comments/4drr2c/are_we_numeric_yet/)
+        + [Are we game yet?](http://arewegameyet.com/)
+        + [Are we learning yet?](http://www.arewelearningyet.com/)
+            + [Are we yet?](https://wiki.mozilla.org/Areweyet) 
+
 
     + Rust ownership, lifetimes and borrowing
         + [Why Rust's ownership/borrowing is hard](http://softwaremaniacs.org/blog/2016/02/12/ownership-borrowing-hard/en/)
