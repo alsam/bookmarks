@@ -106,6 +106,12 @@
 
     + [A curated list of speech and natural language processing resources](https://medium.com/@joshdotai/a-curated-list-of-speech-and-natural-language-processing-resources-4d89f94c032a#.2cyphikgy)
 
+    + Convolutional Neural Networks
+        + [A Beginner's Guide To Understanding Convolutional Neural Networks](https://adeshpande3.github.io/A-Beginner's-Guide-To-Understanding-Convolutional-Neural-Networks/)
+        + [A Beginner's Guide To Understanding Convolutional Neural Networks Part 2](https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner's-Guide-To-Understanding-Convolutional-Neural-Networks-Part-2/)
+        + [The 9 Deep Learning Papers You Need To Know About (Understanding CNNs Part 3)](https://adeshpande3.github.io/adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html)
+        + [Что такое свёрточная нейронная сеть](https://habrahabr.ru/post/309508/)
+
     + RNN et. al
         + [Optimizing RNN performance : Part I: Investigating performance of GPU BLAS Libraries](http://svail.github.io/)
         + [MemN2N for language modeling](https://github.com/facebook/MemNN/tree/master/MemN2N-lang-model)
