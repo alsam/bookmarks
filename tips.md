@@ -115,7 +115,12 @@
 + Linux distros specific
     + `systemd` vs. `init`
         + [The Story Behind ‘init’ and ‘systemd’: Why ‘init’ Needed to be Replaced with ‘systemd’ in Linux](http://www.tecmint.com/systemd-replaces-init-in-linux/)
+        + [ELI5: The SystemD vs. init/upstart controversy](https://www.reddit.com/r/linux/comments/132gle/eli5_the_systemd_vs_initupstart_controversy/)
         + [Systemd Essentials: Working with Services, Units, and the Journal](https://www.digitalocean.com/community/tutorials/systemd-essentials-working-with-services-units-and-the-journal)
+        + [Comparison of init systems](https://wiki.gentoo.org/wiki/Comparison_of_init_systems)
+        + [gentoo - systemd](https://wiki.gentoo.org/wiki/Systemd)
+        + [How does systemd use /etc/init.d scripts?](http://unix.stackexchange.com/questions/233468/how-does-systemd-use-etc-init-d-scripts)
+        + [`systemds for `upstart` users](https://wiki.ubuntu.com/SystemdForUpstartUsers)
 
     + Gentoo tips
         + [Gentoo Cheat Sheet](https://wiki.gentoo.org/wiki/Gentoo_Cheat_Sheet)
