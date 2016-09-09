@@ -483,6 +483,13 @@
     + [A native-rust implementation of an Effect monad, inspired by PureScript's EFF Monad](https://crates.io/crates/effect-monad/)
 
     + Hardware (bare metal) - OSes, ISA simulators,etc.
+        + DBus
+            + [DBus projects in Rust](https://crates.io/search?q=dbus)
+
+            + [D-Bus Desktop Notification using dbus-rs](http://stackoverflow.com/questions/29800616/d-bus-desktop-notification-using-dbus-rs)
+                + [Send Desktop Notifications on linux and bsd](https://github.com/hoodie/notify-rust)
+                    + [Handpicked Rusty Crates](http://blog.hoodie.de/2016/04/30/handpicked-rusty-crates/)
+ 
         + [Writing an OS in Rust](http://os.phil-opp.com/)
             + [Page Tables](http://os.phil-opp.com/modifying-page-tables.html)
         + [A comparison of operating systems written in Rust](https://github.com/flosse/rust-os-comparison)
