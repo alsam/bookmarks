@@ -10,11 +10,19 @@
         + [Multi-dimensional arrays with arbitrary upper and lower bounds that can be fixed or flexible](https://github.com/eschnett/FlexibleArrays.jl)
     + [Compiling Julia for NVIDIA GPUs](http://blog.maleadt.net/2015/01/15/julia-cuda/)
     + [phdthesis\title{Abstraction in Technical Computing}\author{Jeffrey Werner Bezanson}](https://github.com/JeffBezanson/phdthesis/blob/master/main.pdf)
-    + [JuliaQuantum](http://juliaquantum.github.io/)
-        + [news](http://juliaquantum.github.io/news/)
-        + [GSoC2015:Community Bonding Period Updates](http://juliaquantum.github.io/news/2015/04/JuliaQuantum-and-GSoC2015/)
-        + [Julia Libraries for Quantum Science and Technology](https://github.com/JuliaQuantum)
-        + [QuDynamics.jl](https://github.com/JuliaQuantum/QuDynamics.jl)
+
+    + Julia Groups  
+        + [Julia Arbitrary Precision](https://github.com/JuliaArbTypes)
+        + [JuliaGPU - GPU Computing for Julia](https://github.com/JuliaGPU)
+        + [Julia Statistics - Statistics and Machine Learning made easy in Julia](https://github.com/JuliaStats)
+        + [JuliaPlots - Data visualization in Julia using Plots.jl](https://github.com/JuliaPlots)
+        + [JuliaGraphics](https://github.com/JuliaGraphics)
+        + [JuliaQuantum](http://juliaquantum.github.io/)
+            + [news](http://juliaquantum.github.io/news/)
+            + [GSoC2015:Community Bonding Period Updates](http://juliaquantum.github.io/news/2015/04/JuliaQuantum-and-GSoC2015/)
+            + [Julia Libraries for Quantum Science and Technology](https://github.com/JuliaQuantum)
+            + [QuDynamics.jl](https://github.com/JuliaQuantum/QuDynamics.jl)
+
     + Julia (sub)arrays performance
         + [Generalizing AbstractArrays: opportunities and challenges](http://julialang.org/blog/2016/03/arrays-iteration)
         + [RFC: Give AbstractArrays smart and performant indexing behaviors for free #10525](https://github.com/JuliaLang/julia/pull/10525)
