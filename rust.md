@@ -97,6 +97,7 @@
             + [Loop unrolling on request](https://internals.rust-lang.org/t/loop-unrolling-on-request/3091/3)
 
     + Linear Algebra
+        + [A linear algebra library in Rust designed for machine learning](https://github.com/AtheMathmo/rulinalg)
         + [Linear Algebra in Rust](http://athemathmo.github.io/2016/03/23/linear-algebra-in-rust.html)
         + [Multithreaded matrix multiplication in Rust - Part I](http://athemathmo.github.io/2016/04/16/multithreading-multiplication-1.html)
         + [Multithreaded matrix multiplication in Rust - Part II](http://athemathmo.github.io/2016/04/25/multithreading-multiplication-2.html)
