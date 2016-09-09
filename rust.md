@@ -498,3 +498,5 @@
             + [about RISC-V and Rocket processor see The RISC-V Instruction Set Architecture](http://riscv.org/)
             + [see also Chisel - Constructing Hardware in a Scala Embedded Language](https://chisel.eecs.berkeley.edu/)
 
+    + Linux distros Rust support
+        + [Fedora to support Rust Compiler](https://fedoraproject.org/wiki/Changes/RustCompiler) 
