@@ -485,6 +485,11 @@
 
     + [`Recyle` - ergonomic allocated memory reusing.](https://www.reddit.com/r/rust/comments/521vxl/recyle_ergonomic_allocated_memory_reusing/)
 
+    + [Lock free stack](https://crates.io/crates/concurrent-stack)
+        + [Lock free stack on github](https://github.com/lucklove/concurrent-stack)
+        + [AtomicPtr with stamp to avoid ABA problem](https://github.com/lucklove/atomic-stamped-ptr)
+        + [AtomicU128 for x86_64](https://github.com/lucklove/atomic128)
+
     + Hardware (bare metal) - OSes, ISA simulators,etc.
         + DBus
             + [DBus projects in Rust](https://crates.io/search?q=dbus)
