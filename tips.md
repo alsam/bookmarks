@@ -127,6 +127,8 @@
         + [How does systemd use /etc/init.d scripts?](http://unix.stackexchange.com/questions/233468/how-does-systemd-use-etc-init-d-scripts)
         + [`systemds for `upstart` users](https://wiki.ubuntu.com/SystemdForUpstartUsers)
 
+    + [terse DBus introspection table - borrowed from D lang](http://www.dsource.org/projects/dbus-d/wiki/Introspection)
+
     + Gentoo tips
         + [Gentoo Cheat Sheet](https://wiki.gentoo.org/wiki/Gentoo_Cheat_Sheet)
     
