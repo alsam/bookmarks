@@ -483,6 +483,8 @@
 
     + [pijul - distributed version control system written in Rust](https://pijul.org)
 
+    + [`Recyle` - ergonomic allocated memory reusing.](https://www.reddit.com/r/rust/comments/521vxl/recyle_ergonomic_allocated_memory_reusing/)
+
     + Hardware (bare metal) - OSes, ISA simulators,etc.
         + DBus
             + [DBus projects in Rust](https://crates.io/search?q=dbus)
