@@ -3,7 +3,7 @@
     + [Why Rust?](http://www.oreilly.com/programming/free/files/why-rust.pdf)
     + [The Rust Book](https://doc.rust-lang.org/stable/book/)
         + [An alternative introduction to Rust](http://words.steveklabnik.com/a-new-introduction-to-rust)
-        + [24day sof rust](http://zsiciarz.github.io/24daysofrust/)
+        + [24days of rust](http://zsiciarz.github.io/24daysofrust/)
     + [rust-learning](https://github.com/ctjhoa/rust-learning)
     + [http://rustbyexample.com/](http://rustbyexample.com/)
         + [Rust by example](https://github.com/rust-lang/rust-by-example)
@@ -41,7 +41,6 @@
         + [Are we game yet?](http://arewegameyet.com/)
         + [Are we learning yet?](http://www.arewelearningyet.com/)
             + [Are we yet?](https://wiki.mozilla.org/Areweyet) 
-
 
     + Rust ownership, lifetimes and borrowing
         + [Why Rust's ownership/borrowing is hard](http://softwaremaniacs.org/blog/2016/02/12/ownership-borrowing-hard/en/)
@@ -481,6 +480,8 @@
             + [Possible bug in trait bounds evaluation #30262](https://github.com/rust-lang/rust/issues/30262)
 
     + [A native-rust implementation of an Effect monad, inspired by PureScript's EFF Monad](https://crates.io/crates/effect-monad/)
+
+    + [pijul - distributed version control system written in Rust](https://pijul.org)
 
     + Hardware (bare metal) - OSes, ISA simulators,etc.
         + DBus

@@ -1,44 +1,49 @@
 # useful tips
-+ git & github
-    + [Git и Github. Простые рецепты](http://habrahabr.ru/post/273897/)
-    + [Моя шпаргалка по работе с Git](http://eax.me/git-commands/)
-    + Mary Rose Cook on git
-        + [Mary Rose Cook blog](http://maryrosecook.com/)
-        + [github for maryrosecook.com](https://github.com/maryrosecook/maryrosecook.com)
-    + [Revert Git repo to a previous commit](http://stackoverflow.com/questions/4114095/revert-git-repo-to-a-previous-commit)
-    + [git returns http error 407 from proxy after CONNECT](http://stackoverflow.com/questions/24907140/git-returns-http-error-407-from-proxy-after-connect)
-    + [Git Basics - Tagging](https://git-scm.com/book/en/v2/Git-Basics-Tagging)
-    + [Git delete a remote/local branch or tag](https://matoski.com/article/git-delete-remote-branch-tag/)
-    + [How to: Delete a remote Git tag](https://nathanhoad.net/how-to-delete-a-remote-git-tag)
-        + delete tag
-      ```sh
-      git tag -d v0.2.3
-      git push origin :refs/tags/v0.2.3
-      ```
 
-        + pushing new tags to remote
-      ```sh
-      git push --tags
-      ```
++ Distributed versioning systems
+    + git & github
+        + [Git и Github. Простые рецепты](http://habrahabr.ru/post/273897/)
+        + [Моя шпаргалка по работе с Git](http://eax.me/git-commands/)
+        + Mary Rose Cook on git
+            + [Mary Rose Cook blog](http://maryrosecook.com/)
+            + [github for maryrosecook.com](https://github.com/maryrosecook/maryrosecook.com)
+        + [Revert Git repo to a previous commit](http://stackoverflow.com/questions/4114095/revert-git-repo-to-a-previous-commit)
+        + [git returns http error 407 from proxy after CONNECT](http://stackoverflow.com/questions/24907140/git-returns-http-error-407-from-proxy-after-connect)
+        + [Git Basics - Tagging](https://git-scm.com/book/en/v2/Git-Basics-Tagging)
+        + [Git delete a remote/local branch or tag](https://matoski.com/article/git-delete-remote-branch-tag/)
+        + [How to: Delete a remote Git tag](https://nathanhoad.net/how-to-delete-a-remote-git-tag)
+            + delete tag
+          ```sh
+          git tag -d v0.2.3
+          git push origin :refs/tags/v0.2.3
+          ```
 
-    + [19 советов по повседневной работе с Git](http://habrahabr.ru/company/mailru/blog/267595/)
-    + [Достаточно Git-а, чтобы быть (менее) опасным](http://habrahabr.ru/post/268951/)
-    + [git checkout tag, git pull fails in branch](http://stackoverflow.com/questions/10147475/git-checkout-tag-git-pull-fails-in-branch)
-      ```sh
-      git push -u origin master
-      git pull origin master
-      git pull
-      git branch --set-upstream-to=origin/master master
-      git pull
-      git branch -u origin/master
-      git branch --set-upstream-to=origin/master master
-      git branch -u origin/master
-      ```
-    + [A Git Horror Story: Repository Integrity With Signed Commits](https://mikegerwitz.com/papers/git-horror-story)
+            + pushing new tags to remote
+          ```sh
+          git push --tags
+          ```
 
-    + [Как оформлять коммиты, чтобы потом не было больно](https://habrahabr.ru/company/Voximplant/blog/276695/)
+        + [19 советов по повседневной работе с Git](http://habrahabr.ru/company/mailru/blog/267595/)
+        + [Достаточно Git-а, чтобы быть (менее) опасным](http://habrahabr.ru/post/268951/)
+        + [git checkout tag, git pull fails in branch](http://stackoverflow.com/questions/10147475/git-checkout-tag-git-pull-fails-in-branch)
+          ```sh
+          git push -u origin master
+          git pull origin master
+          git pull
+          git branch --set-upstream-to=origin/master master
+          git pull
+          git branch -u origin/master
+          git branch --set-upstream-to=origin/master master
+          git branch -u origin/master
+          ```
+        + [A Git Horror Story: Repository Integrity With Signed Commits](https://mikegerwitz.com/papers/git-horror-story)
 
-+ [Pijul - distributed version control system written in Rust](https://pijul.org/documentation/install/)
+        + [constructive git critique](http://komar.bitcheese.net/en/git-sucks-or-why-do-I-use-darcs-instead)
+        + [another point of view on darcs vs. git](http://blog.moertel.com/posts/2007-12-10-how-i-stopped-missing-darcs-and-started-loving-git.html
+
+        + [Как оформлять коммиты, чтобы потом не было больно](https://habrahabr.ru/company/Voximplant/blog/276695/)
+
+    + [Pijul - distributed version control system written in Rust](https://pijul.org/documentation/install/)
 
 + compile optimization tips (TODO reorganize)
     + [Why doesn't GCC optimize a*a*a*a*a*a to (a*a*a)*(a*a*a)?](http://stackoverflow.com/questions/6430448/why-doesnt-gcc-optimize-aaaaaa-to-aaaaaa)
