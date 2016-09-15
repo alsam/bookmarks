@@ -23,16 +23,19 @@
             + [Julia Libraries for Quantum Science and Technology](https://github.com/JuliaQuantum)
             + [QuDynamics.jl](https://github.com/JuliaQuantum/QuDynamics.jl)
 
-    + Julia (sub)arrays performance
+    + Translating from Fortran to Julia
+        + [Julia equivalent of Fortran common blocks or, even better, Fortran 90 Modules](https://groups.google.com/forum/#!topic/julia-users/-bzuOUTeMX4)
+        + Julia (sub)arrays performance
+            + OffsetArrays
+                + [github repo for OffsetArrays](https://github.com/alsam/OffsetArrays.jl)
+                + [Tag OffsetArrays v0.1.0 (retry) #5417](https://github.com/JuliaLang/METADATA.jl/pull/5417)
         + [Generalizing AbstractArrays: opportunities and challenges](http://julialang.org/blog/2016/03/arrays-iteration)
         + [RFC: Give AbstractArrays smart and performant indexing behaviors for free #10525](https://github.com/JuliaLang/julia/pull/10525)
         + [room for performance improvement for SubArray #5117](https://github.com/JuliaLang/julia/issues/5117)
         + [Fortran-like arrays such as FArray(Float64, -1:1,-7:7,-128:512)](https://groups.google.com/forum/#!topic/julia-dev/NOF6MA6tb9Y)
         + [Docs » Documentation of Julia’s Internals » SubArrays](http://julia.readthedocs.org/en/latest/devdocs/subarrays/)
         + [JuliaLang/ArrayViews.jl :> A Julia package to explore a new system of array views](https://github.com/JuliaLang/ArrayViews.jl)
-        + OffsetArrays
-            + [github repo for OffsetArrays](https://github.com/alsam/OffsetArrays.jl)
-            + [Tag OffsetArrays v0.1.0 (retry) #5417](https://github.com/JuliaLang/METADATA.jl/pull/5417)
+
     + Julia closures aka lambdas performance
         + [anonymous function calls have a huge overhead #1864](https://github.com/JuliaLang/julia/issues/1864)
             + [from here: reddit: Rust and Julia comparison](http://www.reddit.com/r/rust/comments/27jk63/rust_and_julia_comparison/)
