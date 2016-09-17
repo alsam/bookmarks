@@ -13,6 +13,9 @@
     + Number crunching in Scala
         + [Number Crunching in Scala - Chris Stucchio](https://www.chrisstucchio.com/pubs/slides/thoughtworks_scientific_2014/slides.html#1)
         + [non/spire : Powerful new number types and numeric abstractions for Scala](https://github.com/non/spire)
+            + [Demystifying Spire](http://www.cakesolutions.net/teamblogs/demystifying-spire)
+            + [An Intro to Generic Numeric Programming with Spire](http://typelevel.org/blog/2013/07/07/generic-numeric-programming.html)
+    + [Scala Math - Numerical (Matlab-like) and Symbolic (Mathematica-like) tool](https://github.com/cascala/galileo)
     + [«Перегрузка операторов» в Scala](http://habrahabr.ru/company/golovachcourses/blog/255631/)
     + [Scala. Всем выйти из сумрака! (i.e. scala implicits)](http://habrahabr.ru/post/209850/)
     + [Cake pattern in depth](http://www.cakesolutions.net/teamblogs/2011/12/19/cake-pattern-in-depth)
@@ -30,3 +33,7 @@
 + [sbt-robovm: a plugin for the Scala build tool that aims to make it as simple as possible to compile Scala (and Java) code to binaries for iOS, linux, and OSX using RoboVM ](https://github.com/roboscala/sbt-robovm)
     + [robovm](http://robovm.com/)
 
++ Scala to native code
+    + [Scala Native](http://www.scala-native.org/)
+    + [Scala language moves closer to bare metal](http://www.infoworld.com/article/3068669/application-development/scala-language-moves-closer-to-bare-metal.html)
+    + [Scala native github](https://github.com/scala-native/scala-native)
