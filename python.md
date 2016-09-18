@@ -44,3 +44,5 @@
         + [Test and demo notebooks for the sympy.physics.quantum](https://github.com/jrjohansson/sympsi-notebooks)
     + [QuTiP: Quantum Toolbox in Python](https://github.com/qutip/qutip)
     + [Quantum Python: Animating the Schrodinger Equation](https://jakevdp.github.io/blog/2012/09/05/quantum-python/)
+
++ [Asynchronous Programming in Python](https://engineering.quora.com/Asynchronous-Programming-in-Python)
