@@ -36,4 +36,5 @@
 + Scala to native code
     + [Scala Native](http://www.scala-native.org/)
     + [Scala language moves closer to bare metal](http://www.infoworld.com/article/3068669/application-development/scala-language-moves-closer-to-bare-metal.html)
-    + [Scala native github](https://github.com/scala-native/scala-native)
+    + [Scala n<t_%9>Native github](https://github.com/scala-native/scala-native)
+        + [Scala Native Example](https://github.com/scala-native/scala-native-example)
