@@ -247,10 +247,14 @@
 + Haskell (see also `pandoc` and `diagrams` links above)
     + [Haskell Communities and Activities Report Twenty-Ninth Edition – November 2015](https://www.haskell.org/communities/11-2015/html/report.html)
         + [Haskell Programming _from first principles_](http://haskellbook.com/feedback.html)
-
-+ [lucid and terse multithread intro](http://www.bogotobogo.com/cplusplus/multithreaded.php)
-
+ 
 + C++
+    + C++ and multithreading
+        + [lucid and terse multithread intro](http://www.bogotobogo.com/cplusplus/multithreaded.php)
+        + [Multithreading in C++11/14 – Part 1](http://www.loic-yvonnet.com/articles/multithreading-in-cpp14-part-1/)
+        + [Multithreading in C++11/14 – Part 2](http://www.loic-yvonnet.com/articles/multithreading-in-cpp14-part-2/)
+        + [Multithreading in C++11/14 – Part 12](http://www.loic-yvonnet.com/articles/multithreading-in-cpp14-part-12/)
+        + [c11-concurrency-tutorial-advanced-locking-and-condition-variables](http://baptiste-wicht.com/posts/2012/04/c11-concurrency-tutorial-advanced-locking-and-condition-variables.html)
     + [C++11 FAQ rom the author of C++](http://www.stroustrup.com/C++11FAQ.html)
     + [Impossibly fast delegate in C++11](http://codereview.stackexchange.com/questions/14730/impossibly-fast-delegate-in-c11)
     + [Perfect forwarding and universal references in C++](http://eli.thegreenplace.net/2014/perfect-forwarding-and-universal-references-in-c/)
