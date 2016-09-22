@@ -248,6 +248,8 @@
     + [Haskell Communities and Activities Report Twenty-Ninth Edition – November 2015](https://www.haskell.org/communities/11-2015/html/report.html)
         + [Haskell Programming _from first principles_](http://haskellbook.com/feedback.html)
 
++ [lucid and terse multithread intro](http://www.bogotobogo.com/cplusplus/multithreaded.php)
+
 + C++
     + [C++11 FAQ rom the author of C++](http://www.stroustrup.com/C++11FAQ.html)
     + [Impossibly fast delegate in C++11](http://codereview.stackexchange.com/questions/14730/impossibly-fast-delegate-in-c11)
