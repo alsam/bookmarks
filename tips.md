@@ -1,5 +1,23 @@
 # useful tips
 
++ Backup + Restore of the system
+    + [Howto: Backup and restore your system!](https://ubuntuforums.org/showthread.php?t=35087)
+        + Backup:
+        ```
+        sudo su
+        cd /
+        tar cvpjf backup.tar.bz2 --exclude=/proc --exclude=/lost+found --exclude=/backup.tar.bz2 --exclude=/mnt --exclude=/sys /
+        ```
+        + Restore:
+        ```sh
+        tar xvpfj backup.tar.bz2 -C /
+        mkdir proc
+        mkdir lost+found
+        mkdir mnt
+        mkdir sys
+        etc...
+        ```
+
 + Distributed versioning systems
     + git & github
         + [Git и Github. Простые рецепты](http://habrahabr.ru/post/273897/)
