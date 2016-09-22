@@ -84,3 +84,7 @@
 + Useful pieces of information
     + [Difference between Mutex, Semaphore & Spin Locks](http://stackoverflow.com/questions/23511058/difference-between-mutex-semaphore-spin-locks)
     + [Does endless While loop take up CPU resources?](http://stackoverflow.com/questions/13680512/does-endless-while-loop-take-up-cpu-resources)
+
++ Assembler
+    + [Compiler Explorer C++](https://gcc.godbolt.org/)
+    + [Whirlwind Tour of ARM Assembly](http://www.coranac.com/tonc/text/asm.htm)
