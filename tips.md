@@ -80,6 +80,7 @@
         + [Provide easy code formatting in Vim by integrating existing code formatters](https://github.com/Chiel92/vim-autoformat)
         + [Vundle vs. Pathogen](http://lepture.com/en/2012/vundle-vs-pathogen)
         + [Разработка → VIM: зачем, если есть IDE, и как?](https://habrahabr.ru/post/303554/)
+        + [Vim vs. Neovim](https://www.slant.co/versus/42/62/~vim_vs_neovim)
         + [Install Vim 8.0 on on Ubuntu 16.04, Debian, Fedora, CentOS](http://www.ubuntumaniac.com/2016/09/install-vim-80-on-on-ubuntu-1604-debian.html)
 
     + Emacs
@@ -107,6 +108,9 @@
                 + [Atom hangs on large directories/files and when window switching #9325](https://github.com/atom/atom/issues/9325)
                 + [ Render lines via tiles #6733 ](https://github.com/atom/atom/pull/6733#issuecomment-108407945)
                 + [Find remaining performance bottlenecks for large files #6692](https://github.com/atom/atom/issues/6692)
+
+    + [Slap is a sublime-like text editor which works inside the terminal.](https://www.slant.co/options/53/~slap-review)
+        + [Slap - sublime-like terminal-based text editor](https://github.com/slap-editor/slap)
 
 + [Technical typesetting](https://github.com/alsam/bookmarks/blob/master/technical_typesetting.md)
 
