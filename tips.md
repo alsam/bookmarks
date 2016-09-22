@@ -90,7 +90,8 @@
         + [Kate configuration for Rust](https://github.com/rust-lang/kate-config)
 
     + [Textadept (Editor)](https://www.openhub.net/p/textadept)
-      + [Textadept module for ctags](http://foicica.com/wiki/ctags)
+        + [Textadept module for ctags](http://foicica.com/wiki/ctags)
+        + [Git mirror of Mitchell's Textadept editor](https://github.com/rgieseke/textadept)
 
     + [Atom - The hackable text editor](https://atom.io)
         + [atom github](https://github.com/atom/atom)
@@ -111,6 +112,8 @@
 
     + [Slap is a sublime-like text editor which works inside the terminal.](https://www.slant.co/options/53/~slap-review)
         + [Slap - sublime-like terminal-based text editor](https://github.com/slap-editor/slap)
+
+    + [Xi-editor - a modern editor with a backend written in Rust.](https://github.com/google/xi-editor)
 
 + [Technical typesetting](https://github.com/alsam/bookmarks/blob/master/technical_typesetting.md)
 
