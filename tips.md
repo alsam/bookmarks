@@ -43,6 +43,17 @@
 
         + [Как оформлять коммиты, чтобы потом не было больно](https://habrahabr.ru/company/Voximplant/blog/276695/)
 
+        + git rebase memo
+        ```sh
+        git rebase origin/master
+        git status
+        <fix conflicts>
+        git add <changed>
+        git rebase --continue
+        git push origin my-branch --force
+        <repeat>
+        ```
+
     + [Pijul - distributed version control system written in Rust](https://pijul.org/documentation/install/)
 
 + compile optimization tips (TODO reorganize)
