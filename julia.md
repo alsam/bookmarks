@@ -35,6 +35,8 @@
         + [Fortran-like arrays such as FArray(Float64, -1:1,-7:7,-128:512)](https://groups.google.com/forum/#!topic/julia-dev/NOF6MA6tb9Y)
         + [Docs » Documentation of Julia’s Internals » SubArrays](http://julia.readthedocs.org/en/latest/devdocs/subarrays/)
         + [JuliaLang/ArrayViews.jl :> A Julia package to explore a new system of array views](https://github.com/JuliaLang/ArrayViews.jl)
+        + `goto` and `label`
+            + [@goto and @label](http://stackoverflow.com/documentation/julia-lang/5564/goto-and-label)
 
     + Julia closures aka lambdas performance
         + [anonymous function calls have a huge overhead #1864](https://github.com/JuliaLang/julia/issues/1864)
