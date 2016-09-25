@@ -207,6 +207,9 @@
         pacman -S extra/kdegraphics-okular
         pacman -S the_silver_searcher
 
+        systemctl enable gdm
+        systemctl start gdm
+
         ```
         + [Slack Desktop (Beta) for Linux](https://aur.archlinux.org/packages/slack-desktop/)
         + [The Rust toolchain installer](https://aur.archlinux.org/packages/rustup/)
