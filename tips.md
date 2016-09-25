@@ -408,6 +408,13 @@
         ```sh
         git clone https://github.com/google/googletest && pushd googletest && mkdir build && cd build && cmake .. && sudo make install
         ```
++ Scriptics selected tips
+    + The most recently changed file.
+        + [from here #5: 20 SHELL SCRIPTING QUESTIONS FOR PRACTICE](http://www.techbeamers.com/20-shell-scripting-questions-answers/)
+    ```sh
+    ls -lrt | grep ^- | awk 'END{print $NF}'
+    ```
+
 
 + Text search-and-replace (grep-like tools)
     + [amber (written in Rust - a good starting point)](https://github.com/dalance/amber)
