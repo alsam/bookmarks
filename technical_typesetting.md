@@ -11,6 +11,13 @@
 
 + LaTeX tips
     + [Modern LaTeX typesetting](https://www.olivierverdier.com/posts/2013/07/15/modern-latex/)
+    + Arch Linux specifics for Cyrillic letters with LaTeX
+        ```sh
+        pacman -S texlive-langcyrillic
+        yaourt -S ttf-computer-modern-fonts
+        yaourt -S ttf-cm-unicode
+        ```
+        + [Problems with Cyrillic fonts in XeTeX](http://tex.stackexchange.com/questions/209614/problems-with-cyrillic-fonts-in-xetex)
     + [What are the main differences between Texmaker and TeXstudio?](http://tex.stackexchange.com/questions/208219/what-are-the-main-differences-between-texmaker-and-texstudio)
         + [LaTeX Editors/IDEs](http://tex.stackexchange.com/questions/339/latex-editors-ides)
     + [buildtexlive](https://github.com/elkrejzi/system-management/blob/master/buildscripts/buildtexlive#L52)
