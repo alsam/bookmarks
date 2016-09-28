@@ -428,3 +428,16 @@
 
 + [Implementing an update/upgrade system for embedded Linux devices](http://stackoverflow.com/questions/6937592/implementing-an-update-upgrade-system-for-embedded-linux-devices)
     + [SWUpdate - Software Update for Embedded Systems](https://github.com/sbabic/swupdate)
+
++ VirtualBox
+    + [VirtualBox on ArchLinux](https://wiki.archlinux.org/index.php/VirtualBox)
+        + [GNU Parted](https://wiki.archlinux.org/index.php/GNU_Parted)
+        ```sh
+        parted /dev/sda
+        (parted) mklabel gpt
+        (parted) mkpart primary ext4 0% 100%
+        mkfs.ext4 /dev/sda1
+        tune2fs -L "/scratch" /dev/sda1
+        ```
+        + [ [Solved]Vboxdrv kernel module is not loaded](https://bbs.archlinux.org/viewtopic.php?id=117795)
+    + [How To Install Ubuntu 14.04.3 LTS On VirtualBox](https://www.unixmen.com/install-ubuntu-14-04-3-lts-virtualbox/)
