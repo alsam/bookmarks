@@ -441,3 +441,7 @@
         ```
         + [ [Solved]Vboxdrv kernel module is not loaded](https://bbs.archlinux.org/viewtopic.php?id=117795)
     + [How To Install Ubuntu 14.04.3 LTS On VirtualBox](https://www.unixmen.com/install-ubuntu-14-04-3-lts-virtualbox/)
+        ```sh
+        sudo gpasswd -a <username> vboxusers
+        VBoxManage list usbhost
+        ```
