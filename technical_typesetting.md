@@ -43,6 +43,7 @@
     + [minted – highlighted source code for LaTeX](https://code.google.com/p/minted/)
         + [Code Highlighting with minted -- contains nifty colour styles to choose from](https://www.sharelatex.com/learn/Code_Highlighting_with_minted)
     + [Description list with aligned descriptions](http://tex.stackexchange.com/questions/67720/description-list-with-aligned-descriptions)
+    + [texblog Lists: Enumerate, itemize, description and how to change them](http://texblog.org/2008/10/16/lists-enumerate-itemize-description-and-how-to-change-them/)
     + Unicode
         + [entering-unicode-characters-in-latex](http://tex.stackexchange.com/questions/34604/entering-unicode-characters-in-latex)
             + [insert-unicode-symbol](http://tex.stackexchange.com/questions/37445/insert-unicode-symbol)
@@ -54,6 +55,8 @@
 
     + [PDF slides and handouts using Pandoc and Beamer](https://gist.github.com/lmullen/c3d4c7883f081ed8692a)
         + [Better-looking LaTeX/Beamer slides](https://kbroman.wordpress.com/2013/10/07/better-looking-latexbeamer-slides/)
+        + [verbatim environment does not work with beamer](http://tex.stackexchange.com/questions/161202/verbatim-environment-does-not-work-with-beamer)
+        + [LaTeX beamer: way to change the bullet indentation?](http://stackoverflow.com/questions/2611276/latex-beamer-way-to-change-the-bullet-indentation)
 
     + [The Haskell LaTeX library](https://github.com/Daniel-Diaz/HaTeX)
         + [Convenient Haskell syntax for writing in LaTeX math expressions](https://github.com/leftaroundabout/Symbolic-math-HaTeX)

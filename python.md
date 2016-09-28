@@ -46,3 +46,7 @@
     + [Quantum Python: Animating the Schrodinger Equation](https://jakevdp.github.io/blog/2012/09/05/quantum-python/)
 
 + [Asynchronous Programming in Python](https://engineering.quora.com/Asynchronous-Programming-in-Python)
+
++ HTTP Server and Client in Python
+    + [Let’s Build A Web Server. Part 1.](https://ruslanspivak.com/lsbaws-part1/)
+    + [Simple HTTP Server and Client in Python](https://www.junian.net/2014/07/simple-http-server-and-client-in-python.html)
