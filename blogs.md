@@ -13,3 +13,5 @@
 + [Joachim Breitner’s doctoral thesis "Lazy Evaluation: From natural semantics to a machine-checked compiler transformation"](http://www.joachim-breitner.de/thesis/)
 
 + [Deeper Than Quantum Mechanics—David Deutsch’s New Theory of Reality](https://medium.com/the-physics-arxiv-blog/deeper-than-quantum-mechanics-david-deutschs-new-theory-of-reality-9b8281bc793a#.q5tkxirjk)
+
++ [Алексей Редозубов @AlexeyR](https://habrahabr.ru/users/alexeyr/topics/)
