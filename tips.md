@@ -432,6 +432,10 @@
 
 + [Implementing an update/upgrade system for embedded Linux devices](http://stackoverflow.com/questions/6937592/implementing-an-update-upgrade-system-for-embedded-linux-devices)
     + [SWUpdate - Software Update for Embedded Systems](https://github.com/sbabic/swupdate)
+        + [Creating Linux based Embedded System Images with Yocto](https://github.com/Nuand/bladeRF/wiki/Creating-Linux-based-Embedded-System-Images-with-Yocto)
+        + [machine arch files for Jetson TX1 (Quad-core ARMCortex-A57 MPCore Processor)](http://yocto.yoctoproject.narkive.com/OOuKNJVm/machine-arch-files-for-jetson-tx1-quad-core-armcortex-a57-mpcore-processor)
+        + [Yocto layer for the NVidia Tegra Jetson TK1 board](https://github.com/watatuki/meta-jetson-tk1)
+        + [TX1 Yocto layer?](https://devtalk.nvidia.com/default/topic/935629/tx1-yocto-layer-/?offset=5)
 
 + VirtualBox
     + [VirtualBox on ArchLinux](https://wiki.archlinux.org/index.php/VirtualBox)
