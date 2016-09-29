@@ -449,3 +449,5 @@
         sudo gpasswd -a <username> vboxusers
         VBoxManage list usbhost
         ```
++ [Checkpoint/Restore tool http://criu.org](https://github.com/xemul/criu)
+    + [CRIU, a project to implement checkpoint/restore functionality for Linux.](http://criu.org/Main_Page)
