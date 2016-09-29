@@ -54,6 +54,7 @@
           git branch --set-upstream-to=origin/master master
           git branch -u origin/master
           ```
+        + [Reset Demystified](https://git-scm.com/blog/2011/07/11/reset.html)
         + [A Git Horror Story: Repository Integrity With Signed Commits](https://mikegerwitz.com/papers/git-horror-story)
 
         + [constructive git critique](http://komar.bitcheese.net/en/git-sucks-or-why-do-I-use-darcs-instead)
