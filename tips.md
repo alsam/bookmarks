@@ -466,6 +466,7 @@
                 ./tegrarcm: ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), statically linked, for GNU/Linux 2.6.8, not stripped
 
                 ```
+                + [Jetpack output when flashing Tegra X1](https://developer.ridgerun.com/wiki/index.php?title=Jetpack_output_when_flashing_Tegra_X1)
                 + [NVIDIA/cbootimage](https://github.com/NVIDIA/cbootimage)
                 + [org:NVIDIA tegra](https://github.com/search?q=org%3ANVIDIA+tegra)
 
