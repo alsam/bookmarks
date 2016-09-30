@@ -452,6 +452,22 @@
             + [TX1/R23.1: New Flash Structure...How to Clone?](https://devtalk.nvidia.com/default/topic/898999/jetson-tx1/tx1-r23-1-new-flash-structure-how-to-clone-/post/4784149/#4784149)
             + [Updating TX1 driver package but not rootfs](https://devtalk.nvidia.com/default/topic/940485/updating-tx1-driver-package-but-not-rootfs/)
             + [Jetson/Cloning](http://elinux.org/Jetson/Cloning)
+                + [tegrarcm](https://github.com/NVIDIA/tegrarcm)
+                ```
+                sudo python2 ./tegraflash.py --bl cboot.bin --applet nvtboot_recovery.bin --chip 0x21 --cmd "read APP my_backup_image_APP.img"
+                Welcome to Tegra Flash
+                version 1.0.0
+                Type ? or help for help and q or quit to exit
+                Use ! to execute system commands
+                 
+                [   0.0011 ] Generating RCM messages
+                Error: Could not find tegrarcm
+                file ./tegrarcm
+                ./tegrarcm: ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), statically linked, for GNU/Linux 2.6.8, not stripped
+
+                ```
+                + [NVIDIA/cbootimage](https://github.com/NVIDIA/cbootimage)
+                + [org:NVIDIA tegra](https://github.com/search?q=org%3ANVIDIA+tegra)
 
 + VirtualBox
     + [VirtualBox on ArchLinux](https://wiki.archlinux.org/index.php/VirtualBox)
