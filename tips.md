@@ -17,6 +17,7 @@
         mkdir sys
         etc...
         ```
++ [Fstab doesn't mount with exec](http://askubuntu.com/questions/678857/fstab-doesnt-mount-with-exec)
 
 + Distributed versioning systems
     + git & github
