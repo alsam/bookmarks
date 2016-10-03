@@ -50,3 +50,14 @@
 + HTTP Server and Client in Python
     + [Let’s Build A Web Server. Part 1.](https://ruslanspivak.com/lsbaws-part1/)
     + [Simple HTTP Server and Client in Python](https://www.junian.net/2014/07/simple-http-server-and-client-in-python.html)
+
++ Python daemon
+    + [python-daemon 2.1.1](https://pypi.python.org/pypi/python-daemon/)
+    + [Python daemonizer class - outdated](https://github.com/serverdensity/python-daemon)
+    + [How to make a Python script run like a service or daemon in Linux](http://stackoverflow.com/questions/1603109/how-to-make-a-python-script-run-like-a-service-or-daemon-in-linux)
+
++ Selected StackOverflow Python questions
+    + [Invalid Token when using Octal numbers](http://stackoverflow.com/questions/1837874/invalid-token-when-using-octal-numbers)
+    use `0o22` instead of `022`.
+
+    + [Python3: Invalid Syntax](http://stackoverflow.com/questions/12519554/python3-invalid-syntax)
