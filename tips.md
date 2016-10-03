@@ -74,6 +74,8 @@
         <repeat>
         ```
 
+        + [Adding an existing project to GitHub using the command line](https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/)
+
     + [Pijul - distributed version control system written in Rust](https://pijul.org/documentation/install/)
 
 + compile optimization tips (TODO reorganize)
