@@ -474,6 +474,10 @@
                 + [NVIDIA/cbootimage](https://github.com/NVIDIA/cbootimage)
                 + [org:NVIDIA tegra](https://github.com/search?q=org%3ANVIDIA+tegra)
                 + [Flashing Jetson TX1 with tegraflash.py](https://devtalk.nvidia.com/default/topic/900378/tegra-tools/flashing-jetson-tx1-with-tegraflash-py/)
+                + [nVidia Jetson TX1 Installation Guide](https://github.com/OpenPTrack/open_ptrack/wiki/Jetson-TX1-Installation)
+                + [l4t_prebuilt_image](https://github.com/InES-HPMM/linux-l4t/wiki/l4t_prebuilt_image)
+                + [NVIDIA TEGRA LINUX DRIVER PACKAGE QUICK-START GUIDE](http://developer.download.nvidia.com/embedded/L4T/r23_Release_v1.0/l4t_quick_start_guide.txt)
+                + [Compiling Tegra X1 source code](https://developer.ridgerun.com/wiki/index.php?title=Compiling_Tegra_X1_source_code)
 
 + VirtualBox
     + [VirtualBox on ArchLinux](https://wiki.archlinux.org/index.php/VirtualBox)
