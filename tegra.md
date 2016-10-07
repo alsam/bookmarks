@@ -49,7 +49,7 @@
 
 + ARM cross compile
     + [Problems with linking arm objects : resolution](https://stackoverflow.com/questions/13235748/linker-error-on-a-c-project-using-eclipse)
-        + [Problems with linking arm objects](https://bbs.archlinux.org/viewtopic.php?id=185630
+        + [Problems with linking arm objects](https://bbs.archlinux.org/viewtopic.php?id=185630)
         ```sh
         /usr/lib/gcc/arm-none-eabi/4.9.1/../../../../arm-none-eabi/lib/libc.a(lib_a-exit.o): In function `exit':
         /build/arm-none-eabi-gcc/src/gcc-4.9.1/build/arm-none-eabi/newlib/libc/stdlib/../../../../../newlib/libc/stdlib/exit.c:70: undefined reference to `_exit'
@@ -59,3 +59,19 @@
     ```sh
     arm-none-eabi-gcc hi.c -lc -specs=nosys.specs -o hi
     ```
+
+    ```sh
+    export ARCH=arm64
+    export CROSS_COMPILE=/usr/bin/arm-none-eabi-
+    export CROSS_COMPILE=/opt/armgcc/bin/
+
+    ```
++ [Jetson TX1](http://elinux.org/Jetson_TX1)
+    + [Tegra210 nvtboot-Based Boot Flow](ftp://download.nvidia.com/tegra-public-appnotes/t210-nvtboot-flow.html)
+    + [Tegra Boot Flow](ftp://download.nvidia.com/tegra-public-appnotes/tegra-boot-flow.html)
+    + [Built TX1 u-boot from source](https://devtalk.nvidia.com/default/topic/905345/jetson-tx1/built-tx1-u-boot-from-source/)
+
++ Das U-Boot programming
+    + [U-Boot programming: A tutorial -- Part I](http://xillybus.com/tutorials/uboot-hacking-howto-1)
+    + [U-Boot programming: A tutorial -- Part II](http://xillybus.com/tutorials/uboot-hacking-howto-2)
+    + [U-Boot programming: A tutorial -- Part III](http://xillybus.com/tutorials/uboot-hacking-howto-3)
