@@ -21,7 +21,7 @@
         + [Updating TX1 driver package but not rootfs](https://devtalk.nvidia.com/default/topic/940485/updating-tx1-driver-package-but-not-rootfs/)
         + [Jetson/Cloning](http://elinux.org/Jetson/Cloning)
             + [tegrarcm](https://github.com/NVIDIA/tegrarcm)
-            ```
+            ```sh
             sudo python2 ./tegraflash.py --bl cboot.bin --applet nvtboot_recovery.bin --chip 0x21 --cmd "read APP my_backup_image_APP.img"
             Welcome to Tegra Flash
             version 1.0.0
@@ -75,3 +75,7 @@
     + [U-Boot programming: A tutorial -- Part I](http://xillybus.com/tutorials/uboot-hacking-howto-1)
     + [U-Boot programming: A tutorial -- Part II](http://xillybus.com/tutorials/uboot-hacking-howto-2)
     + [U-Boot programming: A tutorial -- Part III](http://xillybus.com/tutorials/uboot-hacking-howto-3)
+
++ Cross compilation
+    + [A versatile (cross-)toolchain generator.](https://github.com/crosstool-ng/crosstool-ng)
+    + [Building embedded ARM systems with Crosstool-NG](https://briolidz.wordpress.com/2012/02/07/building-embedded-arm-systems-with-crosstool-ng/)
