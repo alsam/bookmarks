@@ -176,4 +176,6 @@
 
 + [Mechanics links](https://github.com/alsam/bookmarks/blob/master/mechanics.md)
 
++ [tegra + ARM links](https://github.com/alsam/bookmarks/blob/master/tegra.md)
+
 + [Blogs](https://github.com/alsam/bookmarks/blob/master/blogs.md)
