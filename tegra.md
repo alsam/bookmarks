@@ -79,3 +79,9 @@
 + Cross compilation
     + [A versatile (cross-)toolchain generator.](https://github.com/crosstool-ng/crosstool-ng)
     + [Building embedded ARM systems with Crosstool-NG](https://briolidz.wordpress.com/2012/02/07/building-embedded-arm-systems-with-crosstool-ng/)
+    + SDL
+        + [SDL - **S**imple **D**irect**M**edia](https://www.libsdl.org/)
+        + [SDL installation](https://wiki.libsdl.org/Installation)
+        + [Building embedded ARM systems with Crosstool-NG](https://briolidz.wordpress.com/2012/02/07/building-embedded-arm-systems-with-crosstool-ng/)
+        + [SDL: How To Build for ARM](https://how-to-build-for-arm.wikispaces.com/sdl)
+        + [SDL2: How To Build for ARM](https://how-to-build-for-arm.wikispaces.com/sdl2)
