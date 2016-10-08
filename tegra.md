@@ -93,3 +93,4 @@
             ```sh
             pkg-config dbus-1 --cflags
             ```
++ [Android sparse image format](http://www.2net.co.uk/tutorial/android-sparse-image-format)
