@@ -85,3 +85,9 @@
         + [Building embedded ARM systems with Crosstool-NG](https://briolidz.wordpress.com/2012/02/07/building-embedded-arm-systems-with-crosstool-ng/)
         + [SDL: How To Build for ARM](https://how-to-build-for-arm.wikispaces.com/sdl)
         + [SDL2: How To Build for ARM](https://how-to-build-for-arm.wikispaces.com/sdl2)
+            + [dbus-arch-deps.h missing from usr/include/dbus-1.0/dbus](https://bugs.launchpad.net/ubuntu/+source/dbus/+bug/992463)
+            + [symlink for dbus headers](http://askubuntu.com/questions/40763/symlink-for-dbus-headers)
+            TL;DR
+            ```sh
+            pkg-config dbus-1 --cflags
+            ```
