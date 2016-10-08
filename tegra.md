@@ -79,6 +79,8 @@
 + Cross compilation
     + [A versatile (cross-)toolchain generator.](https://github.com/crosstool-ng/crosstool-ng)
     + [Building embedded ARM systems with Crosstool-NG](https://briolidz.wordpress.com/2012/02/07/building-embedded-arm-systems-with-crosstool-ng/)
+    + [Bash: Build Binutils, GCC, Newlib, and GDB for ARM EABI (Cross-compiler).](https://gist.github.com/cjmeyer/4251208)
+    + [building U-boot](http://odroid.com/dokuwiki/doku.php?id=en:c1_building_u-boot)
     + SDL
         + [SDL - **S**imple **D**irect**M**edia](https://www.libsdl.org/)
         + [SDL installation](https://wiki.libsdl.org/Installation)
@@ -87,7 +89,7 @@
         + [SDL2: How To Build for ARM](https://how-to-build-for-arm.wikispaces.com/sdl2)
             + [dbus-arch-deps.h missing from usr/include/dbus-1.0/dbus](https://bugs.launchpad.net/ubuntu/+source/dbus/+bug/992463)
             + [symlink for dbus headers](http://askubuntu.com/questions/40763/symlink-for-dbus-headers)
-            TL;DR
+            + TL;DR
             ```sh
             pkg-config dbus-1 --cflags
             ```
