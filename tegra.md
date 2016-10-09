@@ -41,7 +41,6 @@
             + [nVidia Jetson TX1 Installation Guide](https://github.com/OpenPTrack/open_ptrack/wiki/Jetson-TX1-Installation)
             + [l4t_prebuilt_image](https://github.com/InES-HPMM/linux-l4t/wiki/l4t_prebuilt_image)
             + [NVIDIA TEGRA LINUX DRIVER PACKAGE QUICK-START GUIDE](http://developer.download.nvidia.com/embedded/L4T/r23_Release_v1.0/l4t_quick_start_guide.txt)
-            + [Compiling Tegra X1 source code](https://developer.ridgerun.com/wiki/index.php?title=Compiling_Tegra_X1_source_code)
             + `flash.sh`
                 + [NVIDIA Jetson TX1](https://rtime.felk.cvut.cz/hw/index.php/NVIDIA_Jetson_TX1)
                 + [NVIDIA TEGRA LINUX DRIVER PACKAGE QUICK-START GUIDE](http://developer.download.nvidia.com/embedded/L4T/r23_Release_v1.0/l4t_quick_start_guide.txt)
@@ -83,6 +82,7 @@
     + [building U-boot](http://odroid.com/dokuwiki/doku.php?id=en:c1_building_u-boot)
     + [Jetson/TX1 Upstream Kernel](http://elinux.org/Jetson/TX1_Upstream_Kernel)
     + [tegra-uboot-flasher-scripts : README-developer](https://github.com/NVIDIA/tegra-uboot-flasher-scripts/blob/master/README-developer.txt)
+    + [Compiling Tegra X1 source code](https://developer.ridgerun.com/wiki/index.php?title=Compiling_Tegra_X1_source_code)
     + SDL
         + [SDL - **S**imple **D**irect**M**edia](https://www.libsdl.org/)
         + [SDL installation](https://wiki.libsdl.org/Installation)
