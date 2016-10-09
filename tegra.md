@@ -81,6 +81,8 @@
     + [Building embedded ARM systems with Crosstool-NG](https://briolidz.wordpress.com/2012/02/07/building-embedded-arm-systems-with-crosstool-ng/)
     + [Bash: Build Binutils, GCC, Newlib, and GDB for ARM EABI (Cross-compiler).](https://gist.github.com/cjmeyer/4251208)
     + [building U-boot](http://odroid.com/dokuwiki/doku.php?id=en:c1_building_u-boot)
+    + [Jetson/TX1 Upstream Kernel](http://elinux.org/Jetson/TX1_Upstream_Kernel)
+    + [tegra-uboot-flasher-scripts : README-developer](https://github.com/NVIDIA/tegra-uboot-flasher-scripts/blob/master/README-developer.txt)
     + SDL
         + [SDL - **S**imple **D**irect**M**edia](https://www.libsdl.org/)
         + [SDL installation](https://wiki.libsdl.org/Installation)
