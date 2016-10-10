@@ -1,6 +1,7 @@
 # tegra tips
 
 + Jetson TX1
+    + [Some Jetson Web Links](https://devtalk.nvidia.com/default/topic/793798/embedded-systems/some-jetson-web-links/)
     + [machine arch files for Jetson TX1 (Quad-core ARMCortex-A57 MPCore Processor)](http://yocto.yoctoproject.narkive.com/OOuKNJVm/machine-arch-files-for-jetson-tx1-quad-core-armcortex-a57-mpcore-processor)
     + [Yocto layer for the NVidia Tegra Jetson TK1 board](https://github.com/watatuki/meta-jetson-tk1)
     + [TX1 Yocto layer?](https://devtalk.nvidia.com/default/topic/935629/tx1-yocto-layer-/?offset=5)
@@ -11,6 +12,8 @@
     + [tegra-uboot-scripts](https://github.com/NVIDIA/tegra-uboot-scripts)
     + [tegra-uboot-flasher-scripts](https://github.com/NVIDIA/tegra-uboot-flasher-scripts/blob/master/tegra-uboot-flasher)
     + [tegra-uboot-flasher-manifests](https://github.com/NVIDIA/tegra-uboot-flasher-manifests)
+        + [Flashing with tegrarcm](https://devtalk.nvidia.com/default/topic/900528/flashing-with-tegrarcm/?offset=3)
+    + [Jetson/Porting Arch](http://elinux.org/Jetson/Porting_Arch)
     + [Das U-Boot](http://www.denx.de/wiki/view/DULG/UBoot)
         + [git for Das U-Boot](http://git.denx.de/?p=u-boot.git;a=summary)
         + [U-Boot tegra](http://git.denx.de/?p=u-boot/u-boot-tegra.git;a=summary)
