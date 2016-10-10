@@ -86,6 +86,7 @@
     + [Jetson/TX1 Upstream Kernel](http://elinux.org/Jetson/TX1_Upstream_Kernel)
     + [tegra-uboot-flasher-scripts : README-developer](https://github.com/NVIDIA/tegra-uboot-flasher-scripts/blob/master/README-developer.txt)
     + [Compiling Tegra X1 source code](https://developer.ridgerun.com/wiki/index.php?title=Compiling_Tegra_X1_source_code)
+    + [[meta-fsl-arm,5/5] u-boot: fix build error under gcc6](https://patchwork.openembedded.org/patch/124049/)
     + SDL
         + [SDL - **S**imple **D**irect**M**edia](https://www.libsdl.org/)
         + [SDL installation](https://wiki.libsdl.org/Installation)
