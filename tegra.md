@@ -77,9 +77,11 @@
     + [U-Boot programming: A tutorial -- Part I](http://xillybus.com/tutorials/uboot-hacking-howto-1)
     + [U-Boot programming: A tutorial -- Part II](http://xillybus.com/tutorials/uboot-hacking-howto-2)
     + [U-Boot programming: A tutorial -- Part III](http://xillybus.com/tutorials/uboot-hacking-howto-3)
+    + [Tegra/Mainline SW/U-Boot](http://elinux.org/Tegra/Mainline_SW/U-Boot)
 
 + Cross compilation
     + [A versatile (cross-)toolchain generator.](https://github.com/crosstool-ng/crosstool-ng)
+    + [Cross Compiling Environment Setup For ARM Architecture Pidora OS](https://johnsofteng.wordpress.com/2013/09/02/cross-compiling-environment-setup-for-arm-architecture/)
     + [Building embedded ARM systems with Crosstool-NG](https://briolidz.wordpress.com/2012/02/07/building-embedded-arm-systems-with-crosstool-ng/)
     + [Bash: Build Binutils, GCC, Newlib, and GDB for ARM EABI (Cross-compiler).](https://gist.github.com/cjmeyer/4251208)
     + [building U-boot](http://odroid.com/dokuwiki/doku.php?id=en:c1_building_u-boot)
