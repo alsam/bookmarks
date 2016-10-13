@@ -59,3 +59,6 @@
         + [Mathoverflow Derivative of the elliptic integral of the first kind](http://math.stackexchange.com/questions/426257/derivative-of-the-elliptic-integral-of-the-first-kind)
         + [Evaluation of a Generalized Elliptic-Type Integral](http://nvlpubs.nist.gov/nistpubs/jres/67B/jresv67Bn1p1_A1b.pdf)
 
+    + [Open Problems in Mathematics with John Nash](https://www.ias.edu/2016/rassias-nash)
+
+    + [Physics 420/580: Computational Physics Final Exam](https://sites.ualberta.ca/~kbeach/phys420_580/docs/Exam_2008.pdf)
