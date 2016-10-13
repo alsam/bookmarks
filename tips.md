@@ -130,6 +130,22 @@
     + [Atom - The hackable text editor](https://atom.io)
         + [atom github](https://github.com/atom/atom)
         + [Atom Flight Manual](https://atom.io/docs/latest/getting-started-atom-basics)
+        + [Atom Editor Keyboard Shortcut Cheat Sheet](https://blog.bugsnag.com/atom-editor-cheat-sheet/)
+            + *Line Manipulation*
+                1. ⌘ + ] / [ Indent/outdent current line.
+                2. ⌘ + enter. Insert new line after current line.
+                3. ⌘ + shift + enter. Insert new line before current line.
+                4. ctrl + shift + k. Delete current line.
+                5. ctrl + ⌘ + up/down. Move current line up/down.
+                6. shift + ⌘ + d. Duplicate current line.
+                7. ⌘ + j. Join current and next lines.
+            + [Auto indent code in Atom editor](http://stackoverflow.com/questions/22611377/auto-indent-code-in-atom-editor)
+                + *TL;DR*
+                    Package auto-indent exists to apply auto-indent to entire file with this shortcuts :
+                    `ctrl+shift+i`
+                    Package url : [auto-indent](atom.io/packages/auto-indent)
+
+
         + [The Atom text editor and Rust](http://www.perfectchipperman.com/2015/10/the-atom-text-editor-and-rust.html)
             + [Software development and other things](http://markusjais.com/)
             + [atom/markdown-preview](https://github.com/atom/markdown-preview/pull/298)
