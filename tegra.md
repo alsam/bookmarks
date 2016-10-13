@@ -14,6 +14,11 @@
     + [tegra-uboot-flasher-manifests](https://github.com/NVIDIA/tegra-uboot-flasher-manifests)
         + [Flashing with tegrarcm](https://devtalk.nvidia.com/default/topic/900528/flashing-with-tegrarcm/?offset=3)
     + [Jetson/Porting Arch](http://elinux.org/Jetson/Porting_Arch)
+
+    + **SPI** - **S**erial **P**eripheral **I**nterface
+        + [Using the Jetson TK1 SPI - Part 1 (Why is SPI important)](http://neurorobotictech.com/Community/Blog/tabid/184/ID/11/Using-the-Jetson-TK1-SPI--Part-1-Why-is-SPI-important.aspx)
+        + [Using the Jetson TK1 SPI - Part 3 (Configuring SPI in the device tree)](http://neurorobotictech.com/Community/Blog/tabid/184/ID/13/Using-the-Jetson-TK1-SPI--Part-3-Configuring-SPI-in-the-device-tree.aspx)
+
     + [Das U-Boot](http://www.denx.de/wiki/view/DULG/UBoot)
         + [git for Das U-Boot](http://git.denx.de/?p=u-boot.git;a=summary)
         + [U-Boot tegra](http://git.denx.de/?p=u-boot/u-boot-tegra.git;a=summary)
@@ -69,9 +74,9 @@
 
     ```
 + [Jetson TX1](http://elinux.org/Jetson_TX1)
-    + [Tegra210 nvtboot-Based Boot Flow](ftp://download.nvidia.com/tegra-public-appnotes/t210-nvtboot-flow.html)
-    + [Tegra Boot Flow](ftp://download.nvidia.com/tegra-public-appnotes/tegra-boot-flow.html)
-    + [Built TX1 u-boot from source](https://devtalk.nvidia.com/default/topic/905345/jetson-tx1/built-tx1-u-boot-from-source/)
+    + [**Tegra210 nvtboot-Based Boot Flow**](http://http.download.nvidia.com/tegra-public-appnotes/t210-nvtboot-flow.html)
+    + [**Tegra Boot Flow**](http://http.download.nvidia.com/tegra-public-appnotes/tegra-boot-flow.html)
+    + [**Built TX1 u-boot from source**](https://devtalk.nvidia.com/default/topic/905345/jetson-tx1/built-tx1-u-boot-from-source/)
 
 + Das U-Boot programming
     + [U-Boot programming: A tutorial -- Part I](http://xillybus.com/tutorials/uboot-hacking-howto-1)
@@ -87,7 +92,7 @@
     + [building U-boot](http://odroid.com/dokuwiki/doku.php?id=en:c1_building_u-boot)
     + [Jetson/TX1 Upstream Kernel](http://elinux.org/Jetson/TX1_Upstream_Kernel)
     + [tegra-uboot-flasher-scripts : README-developer](https://github.com/NVIDIA/tegra-uboot-flasher-scripts/blob/master/README-developer.txt)
-    + [Compiling Tegra X1 source code](https://developer.ridgerun.com/wiki/index.php?title=Compiling_Tegra_X1_source_code)
+    + [**Compiling Tegra X1 source code**](https://developer.ridgerun.com/wiki/index.php?title=Compiling_Tegra_X1_source_code)
     + [[meta-fsl-arm,5/5] u-boot: fix build error under gcc6](https://patchwork.openembedded.org/patch/124049/)
     + SDL
         + [SDL - **S**imple **D**irect**M**edia](https://www.libsdl.org/)
