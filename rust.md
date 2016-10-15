@@ -295,6 +295,8 @@
             + [C to Rust transpiler, based on cparser](https://github.com/PeterReid/cparser-to-rust)
             + [Type-Safe Unions in C++ and Rust](http://genbattle.bitbucket.org/blog/2016/10/07/Type-Safe-Unions-in-C-and-Rust/)
                 + [Beyond Memory Safety With Types](https://insanitybit.github.io/2016/05/30/beyond-memory-safety-with-types)
+            + [The Arduous Journey of Porting C to Rust](https://bawk.space/2016/10/06/c-to-rust.html)
+            + [Baby Steps: Slowly Porting musl to Rust](http://blog.adamperry.me/rust/2016/06/11/baby-steps-porting-musl-to-rust/)
 
         + [Iterator trait](https://doc.rust-lang.org/nightly/std/iter/trait.Iterator.html)
             + [iota editor written in Rust; use case for idiomatic iterator usage](https://github.com/gchp/iota/blob/master/src/iota/iterators.rs)
