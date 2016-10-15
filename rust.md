@@ -88,6 +88,8 @@
         + [Fearless Concurrency with Rust](http://blog.rust-lang.org/2015/04/10/Fearless-Concurrency.html)
         + [Rust vs. C++: Fine-grained Performance](https://users.rust-lang.org/t/rust-vs-c-fine-grained-performance/4407)
         + [Are we concurrent yet](http://areweconcurrentyet.com/)
+        + [cargo benchcmp](https://github.com/BurntSushi/cargo-benchcmp)
+            + [Porting cargo benchcmp](https://apanatshka.github.io/compsci/2016/09/04/porting-cargo-benchcmp/)
 
         + Loop unrolling
             + [Can I create a macro that unrolls loops?](http://stackoverflow.com/questions/30887356/can-i-create-a-macro-that-unrolls-loops)
@@ -262,6 +264,7 @@
     + [unicode chars for idents](http://www.reddit.com/r/rust/comments/2pvksp/filename_with_dots_or_unicode_chars_not_working/)
 
     + Misc
+        + [Implementing Finite Automata (Part 1)](https://apanatshka.github.io/compsci/2016/10/03/implementing-finite-automata-part-1/)
         + [Contributing to Rust]([http://www.ncameron.org/rust.html)
         + [Interview with Mozilla’s Aaron Turon](http://www.pl-enthusiast.net/2015/06/09/interview-with-mozillas-aaron-turon/)
         + [julia vs. rust](http://vschart.com/compare/julia/vs/rust)
@@ -288,7 +291,10 @@
 
         + [Good Practices for Writing Rust Libraries](https://pascalhertleif.de/artikel/good-practices-for-writing-rust-libraries/)
 
-        + [C to Rust transpiler, based on cparser](https://github.com/PeterReid/cparser-to-rust)
+        + Porting to Rust
+            + [C to Rust transpiler, based on cparser](https://github.com/PeterReid/cparser-to-rust)
+            + [Type-Safe Unions in C++ and Rust](http://genbattle.bitbucket.org/blog/2016/10/07/Type-Safe-Unions-in-C-and-Rust/)
+                + [Beyond Memory Safety With Types](https://insanitybit.github.io/2016/05/30/beyond-memory-safety-with-types)
 
         + [Iterator trait](https://doc.rust-lang.org/nightly/std/iter/trait.Iterator.html)
             + [iota editor written in Rust; use case for idiomatic iterator usage](https://github.com/gchp/iota/blob/master/src/iota/iterators.rs)
