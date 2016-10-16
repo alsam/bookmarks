@@ -381,6 +381,8 @@
 
         + [libfloat](https://github.com/peterhj/libfloat)
 
+        + [A vantage-point tree implementation backed by vectors for good performance with no unsafe code](https://crates.io/crates/vec-vp-tree)
+
         + [Special functions for Rust by binding to the Cephes library](https://crates.io/crates/special-fun/)
 
         + [Library of well known algorithms for numerical root finding](https://crates.io/crates/roots/)
