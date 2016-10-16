@@ -116,9 +116,18 @@
         + [Разработка → VIM: зачем, если есть IDE, и как?](https://habrahabr.ru/post/303554/)
         + [Vim vs. Neovim](https://www.slant.co/versus/42/62/~vim_vs_neovim)
         + [Install Vim 8.0 on on Ubuntu 16.04, Debian, Fedora, CentOS](http://www.ubuntumaniac.com/2016/09/install-vim-80-on-on-ubuntu-1604-debian.html)
+        + [The Ultimate Vim Distribution](http://vim.spf13.com/)
+        + [Ultimate auto-completion system for Vim](https://github.com/Shougo/neocomplcache.vim)
+        ```sh
+        Plugin 'Shougo/neocomplcache'
+        Plugin 'Shougo/neosnippet'
+        Plugin 'Shougo/neosnippet-snippets'
+        Open up Vim and start installation with :PluginInstall
+        ```
 
     + Emacs
         + [Хорошо настроенный Emacs](http://habrahabr.ru/post/274759/)
+        + [Prelude is an enhanced Emacs 24 or 25 distribution that should make your experience with Emacs both more pleasant and more powerful](https://github.com/bbatsov/prelude)
 
     + kate-config
         + [Kate configuration for Rust](https://github.com/rust-lang/kate-config)
