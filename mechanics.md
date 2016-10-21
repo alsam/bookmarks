@@ -1,5 +1,7 @@
 # some mechanics links
 
++ [Numerical Solution of Hyperbolic Partial Differential Equation](https://services.math.duke.edu/~jliu/math226/book2.pdf)
+
 + Statistical Mechanics
     + [Werner Krauth Laboratoire de Physique Statistique École normale supérieure](http://www.lps.ens.fr/~krauth/index.php/Main_Page)
     + [interactive website of the Master course in Computational Statistical Physics at Ecole normale supérieure](http://statmechalgcomp.wikispaces.com/#Organization-Lectures)
