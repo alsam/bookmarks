@@ -482,3 +482,7 @@
         ```
 + [Checkpoint/Restore tool http://criu.org](https://github.com/xemul/criu)
     + [CRIU, a project to implement checkpoint/restore functionality for Linux.](http://criu.org/Main_Page)
+
++ Ext4
+    + [Ext4 Disk Layout](https://ext4.wiki.kernel.org/index.php/Ext4_Disk_Layout)
+    + [How to extract raw ext3 inode data from disk?](http://unix.stackexchange.com/questions/167222/how-to-extract-raw-ext3-inode-data-from-disk)
