@@ -13,6 +13,15 @@
     + [tegra-uboot-flasher-scripts](https://github.com/NVIDIA/tegra-uboot-flasher-scripts/blob/master/tegra-uboot-flasher)
     + [tegra-uboot-flasher-manifests](https://github.com/NVIDIA/tegra-uboot-flasher-manifests)
         + [Flashing with tegrarcm](https://devtalk.nvidia.com/default/topic/900528/flashing-with-tegrarcm/?offset=3)
+        + [Flash nvidia jetson tx1](https://github.com/madisongh/meta-tegra/issues/12)
+        ```sh
+        git clone -b krogoth git://git.yoctoproject.org/poky.git 
+        cd poky
+        git clone https://github.com/madisongh/meta-tegra
+        . oe-init-build-env build_jetson
+        cd build_jetson/conf/
+        ...
+        ```
     + [Jetson/Porting Arch](http://elinux.org/Jetson/Porting_Arch)
 
     + **SPI** - **S**erial **P**eripheral **I**nterface
