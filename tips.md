@@ -494,11 +494,10 @@
 	build_fsimg "$localsysfile" "$fillpat" \
 		    "$rootfssize" "$rootfs_type" "$rootfs1_dir";
     fi;
-    ```
+    ```sh
     is equivalent to more readable
     ```
     if [[ "${target_partname}" == "" || "${target_partname}" == "APP" ]]; then
     ...
     ```
-
 
