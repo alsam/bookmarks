@@ -492,7 +492,7 @@
     ```sh
     if [ "${target_partname}" = "" -o "${target_partname}" = "APP" ]; then
 	build_fsimg "$localsysfile" "$fillpat" \
-		    "$rootfssize" "$rootfs_type" "$rootfs1_dir";
+		    "$rootfssize" "$rootfs_type" "$rootfs_dir";
     fi;
     ```
     is equivalent to more readable

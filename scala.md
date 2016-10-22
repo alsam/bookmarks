@@ -38,3 +38,4 @@
     + [Scala language moves closer to bare metal](http://www.infoworld.com/article/3068669/application-development/scala-language-moves-closer-to-bare-metal.html)
     + [Scala Native github](https://github.com/scala-native/scala-native)
         + [Scala Native Example](https://github.com/scala-native/scala-native-example)
+    + [Kotlin Native - point of view about JVM vs. native code](https://medium.com/@octskyward/kotlin-native-310ffac94af2#.bu93px9jy)
