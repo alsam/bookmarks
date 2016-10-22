@@ -486,3 +486,19 @@
 + Ext4
     + [Ext4 Disk Layout](https://ext4.wiki.kernel.org/index.php/Ext4_Disk_Layout)
     + [How to extract raw ext3 inode data from disk?](http://unix.stackexchange.com/questions/167222/how-to-extract-raw-ext3-inode-data-from-disk)
+
++ bash
+    + [comparison operators](http://www.tldp.org/LDP/abs/html/comparison-ops.html)
+    ```sh
+    if [ "${target_partname}" = "" -o "${target_partname}" = "APP" ]; then
+	build_fsimg "$localsysfile" "$fillpat" \
+		    "$rootfssize" "$rootfs_type" "$rootfs1_dir";
+    fi;
+    ```
+    is equivalent to more readable
+    ```
+    if [[ "${target_partname}" == "" || "${target_partname}" == "APP" ]]; then
+    ...
+    ```
+
+
