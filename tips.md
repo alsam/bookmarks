@@ -486,7 +486,26 @@
 + Ext4
     + [Ext4 Disk Layout](https://ext4.wiki.kernel.org/index.php/Ext4_Disk_Layout)
     + [How to extract raw ext3 inode data from disk?](http://unix.stackexchange.com/questions/167222/how-to-extract-raw-ext3-inode-data-from-disk)
-
+    + `debugfs` sample session:
+    ```sh
+    debugfs:  imap <262328>
+    Inode 262328 is part of block group 32
+            located at block 1048619, offset 0x0700
+    debugfs:  show_inode_info <262328>
+    Inode: 262328   Type: regular    Mode:  0644   Flags: 0x80000
+    Generation: 933973137    Version: 0x00000000:00000001
+    User:  1000   Group:  1000   Project:     0   Size: 948
+    File ACL: 0    Directory ACL: 0
+    Links: 1   Blockcount: 8
+    Fragment:  Address: 0    Number: 0    Size: 0
+     ctime: 0x5809deb8:1af1cef0 -- Fri Oct 21 12:24:08 2016
+     atime: 0x5809deb8:1af1cef0 -- Fri Oct 21 12:24:08 2016
+     mtime: 0x5809deb6:00000000 -- Fri Oct 21 12:24:06 2016
+    crtime: 0x5809deb8:1af1cef0 -- Fri Oct 21 12:24:08 2016
+    Size of extra inode fields: 32
+    EXTENTS:
+    (0):1082813
+    ```
 + bash
     + [comparison operators](http://www.tldp.org/LDP/abs/html/comparison-ops.html)
     ```sh
