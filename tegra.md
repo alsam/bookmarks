@@ -92,6 +92,37 @@
     + [U-Boot programming: A tutorial -- Part II](http://xillybus.com/tutorials/uboot-hacking-howto-2)
     + [U-Boot programming: A tutorial -- Part III](http://xillybus.com/tutorials/uboot-hacking-howto-3)
     + [Tegra/Mainline SW/U-Boot](http://elinux.org/Tegra/Mainline_SW/U-Boot)
+    + [extlinux.conf](https://github.com/ppisa/rpi-utils/blob/master/u-boot-setup/boot/extlinux/extlinux.conf)
+    ```
+    TIMEOUT 100
+    DEFAULT default
+    MENU TITLE Boot menu
+    
+    LABEL default
+        MENU LABEL Linux 3.18.8-rt2+ with Overlay
+        LINUX vmlinuz-3.18.8-rt2+
+        FDTDIR .
+        APPEND dwc_otg.lpm_enable=0 console=ttyAMA0,115200 kgdboc=ttyAMA0,115200 smsc95xx.macaddr=${usbethaddr} root=/dev/mmcblk0p2 rootfstype=ext4 elevator=deadline rootwait ro init=/sbin/init-overlay
+    
+    LABEL aufs
+        MENU LABEL Linux 3.18.8-rt2+ with Aufs
+        LINUX vmlinuz-3.18.8-rt2+
+        FDTDIR .
+        APPEND dwc_otg.lpm_enable=0 console=ttyAMA0,115200 kgdboc=ttyAMA0,115200 smsc95xx.macaddr=${usbethaddr} root=/dev/mmcblk0p2 rootfstype=ext4 elevator=deadline rootwait ro OVERLAY=aufs init=/sbin/init-overlay
+    
+    LABEL rw
+        MENU LABEL Linux 3.18.8-rt2+ RW root
+        LINUX vmlinuz-3.18.8-rt2+
+        FDTDIR .
+        APPEND dwc_otg.lpm_enable=0 console=ttyAMA0,115200 kgdboc=ttyAMA0,115200 smsc95xx.macaddr=${usbethaddr} root=/dev/mmcblk0p2 rootfstype=ext4 elevator=deadline rootwait ro
+    
+    LABEL nfs-busybox
+        MENU LABEL Linux 3.18.8-rt2+ NFS BusyBox
+        LINUX vmlinuz-3.18.8-rt2+
+        FDTDIR .
+        APPEND dwc_otg.lpm_enable=0 console=ttyAMA0,115200 kgdboc=ttyAMA0,115200 smsc95xx.macaddr=${usbethaddr} root=/dev/nfs rw nfsroot=192.168.1.10:/srv/nfs/rpi ip=192.168.1.33:::::eth0 elevator=deadline rootwait
+    ...
+    ```
 
 + Cross compilation
     + [A versatile (cross-)toolchain generator.](https://github.com/crosstool-ng/crosstool-ng)
