@@ -124,6 +124,23 @@
     ...
     ```
 
+    + [PXELINUX](http://www.syslinux.org/wiki/index.php?title=PXELINUX)
+    ```sh
+    gvim u-boot/common/cmd_pxe.c u-boot/common/cmd_ext2.c uboot/fs/fs.c
+    ```
+    ```c
+    static int get_relfile(cmd_tbl_t *cmdtp, const char *file_path,
+	    unsigned long file_addr)
+        ...
+	    strcat(relfile, file_path);
+
+	    printf("Retrieving file: %s\n", relfile);
+
+	    sprintf(addr_buf, "%lx", file_addr);
+
+	    return do_getfile(cmdtp, relfile, addr_buf);
+    ```
+
 + Cross compilation
     + [A versatile (cross-)toolchain generator.](https://github.com/crosstool-ng/crosstool-ng)
     + [Cross Compiling Environment Setup For ARM Architecture Pidora OS](https://johnsofteng.wordpress.com/2013/09/02/cross-compiling-environment-setup-for-arm-architecture/)
