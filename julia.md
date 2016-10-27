@@ -48,18 +48,29 @@
         + [Julia package for function approximation](https://github.com/ApproxFun/ApproxFun.jl)
         + [Julia package for solving singular integral equations and Riemann–Hilbert problems](https://github.com/ApproxFun/SingularIntegralEquations.jl)
 
-    + Gadfly
-        + [latex axis labels in Gadfly](https://groups.google.com/forum/#!topic/julia-users/4QY2hzaR_EI)
-        + [MathJax/LaTeX/Some sort of thing like that for labels/titles #356](https://github.com/dcjones/Gadfly.jl/issues/356)
-        + [PGFPlots backend #152](https://github.com/dcjones/Gadfly.jl/issues/152)
-            + [PGFPlots – Plotting in LaTeX](http://pgfplots.sourceforge.net/pgfplots_talk_FTUG_2012_final.pdf)
-            + [Public Fonts for Minority Languages of Russia](http://www.paratype.com/public/)
-            + ```sh
-                fc-cache -fv
-                xelatex Int_J1_tex.tex
-              ```
-        + JSON to work with 0.5
-            + [Fix JSON.parse with dicttype specified #137 ](https://github.com/JuliaLang/JSON.jl/pull/137)
+    + Graphics
+        + Gadfly
+            + [latex axis labels in Gadfly](https://groups.google.com/forum/#!topic/julia-users/4QY2hzaR_EI)
+            + [MathJax/LaTeX/Some sort of thing like that for labels/titles #356](https://github.com/dcjones/Gadfly.jl/issues/356)
+            + [PGFPlots backend #152](https://github.com/dcjones/Gadfly.jl/issues/152)
+                + [PGFPlots – Plotting in LaTeX](http://pgfplots.sourceforge.net/pgfplots_talk_FTUG_2012_final.pdf)
+                + [Public Fonts for Minority Languages of Russia](http://www.paratype.com/public/)
+                + ```sh
+                    fc-cache -fv
+                    xelatex Int_J1_tex.tex
+                  ```
+            + JSON to work with 0.5
+                + [Fix JSON.parse with dicttype specified #137 ](https://github.com/JuliaLang/JSON.jl/pull/137)
+        + [PGFPlots](http://nbviewer.jupyter.org/github/sisl/PGFPlots.jl/blob/master/doc/PGFPlots.ipynb)
+        ```julia
+        using PGFPlots
+        a=Axis([
+           Plots.Linear(sin, (0,10), legendentry=L"$\sin(x)$"),
+           Plots.Linear(x->sqrt(2*x), (0,10), legendentry=L"$\sqrt{2x}$")
+           ], legendPos="north west")
+        save("t.pdf",a)
+        save("t1.tex",a)
+        ```
 
     + Iterative Solvers
         + [Iterative Solvers](https://github.com/JuliaLang/IterativeSolvers.jl)
@@ -128,3 +139,6 @@ Dict{ASCIIString,Int64} with 2 entries:
  @test (10.^[-1.])[1] == 0.1
 
 ```
+
++ Selected issues
+    + [Precompile error when using Plots.jl](https://github.com/tbreloff/Plots.jl/issues/545)
