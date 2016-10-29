@@ -342,6 +342,10 @@
                 + [Most coveted Rust features](https://users.rust-lang.org/t/most-coveted-rust-features/324/15)
 
     + Useful tips
+        + [Read a file line by line](https://users.rust-lang.org/t/read-a-file-line-by-line/1585)
+
+        + [Rust Tips and Tricks](https://thesquareplanet.com/blog/rust-tips-and-tricks/)
+
         + [Using rustfmt in Vim](http://johannh.me/blog/rustfmt-vim.html)
         ```sh
         # for cargo
