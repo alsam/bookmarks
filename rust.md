@@ -185,18 +185,15 @@
     + [Announcing Rust 1.0](http://blog.rust-lang.org/2015/05/15/Rust-1.0.html)
         + [Priorities after 1.0](http://internals.rust-lang.org/t/priorities-after-1-0/1901)
 
-    + [Announcing Rust 1.2](http://blog.rust-lang.org/2015/08/06/Rust-1.2.html)
-        + [Implement associated items](https://github.com/rust-lang/rust/issues/17307)
-
-    + [Announcing Rust 1.5 stable](http://blog.rust-lang.org/2015/12/10/Rust-1.5.html)
-        + [Version 1.5.0 (2015-12-10)](https://github.com/rust-lang/rust/blob/stable/RELEASES.md#version-150-2015-12-10)
-        + [Rust 1.5: Cargo с блэкджеком](http://habrahabr.ru/post/275157/)
-
-    + [Announcing Rust 1.6](http://blog.rust-lang.org/2016/01/21/Rust-1.6.html)
-        + [Version 1.6.0 (2016-01-21)](https://github.com/rust-lang/rust/blob/stable/RELEASES.md#version-160-2016-01-21)
+    + [Announcing Rust 1.12](https://blog.rust-lang.org/2016/09/29/Rust-1.12.html)
+        + [Announcing Rust 1.12.1](https://blog.rust-lang.org/2016/10/20/Rust-1.12.1.html)
 
     + [Rust в 2016 году](http://habrahabr.ru/post/274757/)
         + [My thoughts on Rust in 2016](http://www.ncameron.org/blog/my-thoughts-on-rust-in-2016/)
+
+    + [Setting vision for 2017 cycle](https://internals.rust-lang.org/t/setting-our-vision-for-the-2017-cycle/3958/156)
+        + [Associated type constructors (a form of higher-kinded polymorphism)](https://github.com/rust-lang/rfcs/pull/1598)
+    + [[Roadmap 2017] Productivity: learning curve and expressiveness](https://internals.rust-lang.org/t/roadmap-2017-productivity-learning-curve-and-expressiveness/4097)
 
     + [IDE для Rust](http://rustycrate.ru/%D1%80%D1%83%D0%BA%D0%BE%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%B0/2015/12/04/ide-for-rust.html)
         + [Are we (I)DE yet?](http://areweideyet.com/)
