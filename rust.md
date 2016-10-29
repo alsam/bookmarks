@@ -1,5 +1,6 @@
 # rust language bookmarks
 + Rust links
+    + [Rust deployment](http://blog.jfo.click/how-rust-do/)
     + [Why Rust?](http://www.oreilly.com/programming/free/files/why-rust.pdf)
     + [The Rust Book](https://doc.rust-lang.org/stable/book/)
         + [An alternative introduction to Rust](http://words.steveklabnik.com/a-new-introduction-to-rust)
@@ -175,6 +176,7 @@
         + [History and status quo of async/non-blocking I/O in Rust?](https://users.rust-lang.org/t/history-and-status-quo-of-async-non-blocking-i-o-in-rust/6441)
             + [Add a Client Guide](https://github.com/hyperium/hyper/issues/805)
         + [Stateful: A Rust Experimental Syntax Extension for Generators and More](http://erickt.github.io/blog/2016/01/27/stateful-in-progress-generators/)
+        + [Pretty State Machine Patterns in Rust](https://hoverbear.org/2016/10/12/rust-state-machine-pattern/)
 
     + Rust parser generators
         + [nom 1.0 Write Really Fast Parsers](https://www.clever-cloud.com/blog/engineering/2015/11/16/nom-1-0/)
@@ -249,8 +251,6 @@
         + [Graphs and arena allocation](https://github.com/nrc/r4cppp/tree/master/graphs)
 
     + [A library of mesh generation utilities](https://github.com/gfx-rs/genmesh)a
-
-    + [Stateful: A Rust Experimental Syntax Extension for Generators and More](https://erickt.github.io/blog/2016/01/27/stateful-in-progress-generators/)
 
     + [rust on habrahabr](http://habrahabr.ru/hub/rust/)
         + [Многопоточность в Rust](http://habrahabr.ru/post/256211/)
