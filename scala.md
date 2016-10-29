@@ -29,6 +29,7 @@
         + [Passing pointers between C and Java through JNI](http://stackoverflow.com/questions/1632367/passing-pointers-between-c-and-java-through-jni)
         + [jni.h: no such file or directory](http://stackoverflow.com/questions/13466777/jni-h-no-such-file-or-directory)
         + [NewStringUTF has changed its prototype](http://xyplot.com/jni.simple.htm)
+    + [Scala Design Patterns](https://github.com/paulocheque/scala-design-patterns)
 
 + [sbt-robovm: a plugin for the Scala build tool that aims to make it as simple as possible to compile Scala (and Java) code to binaries for iOS, linux, and OSX using RoboVM ](https://github.com/roboscala/sbt-robovm)
     + [robovm](http://robovm.com/)
