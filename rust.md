@@ -98,6 +98,7 @@
             + [Loop unrolling on request](https://internals.rust-lang.org/t/loop-unrolling-on-request/3091/3)
 
     + Linear Algebra
+        + [Numerics & math foundation](https://users.rust-lang.org/t/numerics-math-foundation/7247
         + [A linear algebra library in Rust designed for machine learning](https://github.com/AtheMathmo/rulinalg)
         + [Linear Algebra in Rust](http://athemathmo.github.io/2016/03/23/linear-algebra-in-rust.html)
         + [Multithreaded matrix multiplication in Rust - Part I](http://athemathmo.github.io/2016/04/16/multithreading-multiplication-1.html)
@@ -170,6 +171,10 @@
                 ```
                 + [arrayfire-project-templates/CMake/CMakeModules/FindOpenCL.cmake](https://github.com/arrayfire/arrayfire-project-templates/blob/master/CMake/CMakeModules/FindOpenCL.cmake)
 
+    + Asynchronous IO
+        + [History and status quo of async/non-blocking I/O in Rust?](https://users.rust-lang.org/t/history-and-status-quo-of-async-non-blocking-i-o-in-rust/6441)
+            + [Add a Client Guide](https://github.com/hyperium/hyper/issues/805)
+        + [Stateful: A Rust Experimental Syntax Extension for Generators and More](http://erickt.github.io/blog/2016/01/27/stateful-in-progress-generators/)
 
     + Rust parser generators
         + [nom 1.0 Write Really Fast Parsers](https://www.clever-cloud.com/blog/engineering/2015/11/16/nom-1-0/)
@@ -180,7 +185,6 @@
             + [rusty-peg github](https://github.com/nikomatsakis/rusty-peg)
         + [Parser Combinators: The road to Chomp 0.1](https://m4rw3r.github.io/)
             + [A fast monadic-style parser combinator designed to work on stable Rust](https://github.com/m4rw3r/chomp)
-
 
     + [Announcing Rust 1.0](http://blog.rust-lang.org/2015/05/15/Rust-1.0.html)
         + [Priorities after 1.0](http://internals.rust-lang.org/t/priorities-after-1-0/1901)
