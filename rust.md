@@ -500,7 +500,7 @@
 
     + [pijul - distributed version control system written in Rust](https://pijul.org)
 
-    + [`Recyle` - ergonomic allocated memory reusing.](https://www.reddit.com/r/rust/comments/521vxl/recyle_ergonomic_allocated_memory_reusing/)
+    + [`Recycle` - ergonomic allocated memory reusing.](https://www.reddit.com/r/rust/comments/521vxl/recyle_ergonomic_allocated_memory_reusing/)
 
     + [Lock free stack](https://crates.io/crates/concurrent-stack)
         + [Lock free stack on github](https://github.com/lucklove/concurrent-stack)
@@ -530,6 +530,8 @@
         + [rustv - A minimal, intentionally inaccurate RISC-V ISA simulator](https://crates.io/crates/rustv/)
             + [about RISC-V and Rocket processor see The RISC-V Instruction Set Architecture](http://riscv.org/)
             + [see also Chisel - Constructing Hardware in a Scala Embedded Language](https://chisel.eecs.berkeley.edu/)
+
+        + [Grover: Why Rust for Low-level Linux programming?](https://lwn.net/Articles/690821/)
 
     + Formal Verification
         + [Simple verification of Rust programs via functional purification](https://github.com/Kha/electrolysis)
