@@ -15,3 +15,6 @@
 + [Deeper Than Quantum Mechanics—David Deutsch’s New Theory of Reality](https://medium.com/the-physics-arxiv-blog/deeper-than-quantum-mechanics-david-deutschs-new-theory-of-reality-9b8281bc793a#.q5tkxirjk)
 
 + [Алексей Редозубов @AlexeyR](https://habrahabr.ru/users/alexeyr/topics/)
+
++ [10 Lesser-Known Programming Languages Worth Exploring; td;lr Chapel, Picat](https://www.reddit.com/r/programming/comments/4mzlvi/10_lesserknown_programming_languages_worth/)
+    + [Picat](http://picat-lang.org/)
