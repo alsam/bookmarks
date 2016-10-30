@@ -531,5 +531,13 @@
             + [about RISC-V and Rocket processor see The RISC-V Instruction Set Architecture](http://riscv.org/)
             + [see also Chisel - Constructing Hardware in a Scala Embedded Language](https://chisel.eecs.berkeley.edu/)
 
+    + Formal Verification
+        + [Simple verification of Rust programs via functional purification](https://github.com/Kha/electrolysis)
+            + [LEAN](https://github.com/leanprover/lean)
+            + [Theorem Proving in Lean](https://leanprover.github.io/tutorial/index.html)
+        + [A Formal Verification of Rust's Binary Search Implementation](https://kha.github.io/2016/07/22/formally-verifying-rusts-binary-search.html)
+        + [GitHub - Kha/electrolysis: Simple verification of Rust programs via functional purification](https://www.reddit.com/r/rust/comments/4ty6z8/github_khaelectrolysis_simple_verification_of/)
+        + [Electrolysis Reference](http://kha.github.io/electrolysis/)
+
     + Linux distros Rust support
         + [Fedora to support Rust Compiler](https://fedoraproject.org/wiki/Changes/RustCompiler) 
