@@ -7,6 +7,11 @@
     + [Магия тензорной алгебры: Часть 1 — что такое тензор и для чего он нужен?](http://habrahabr.ru/post/261421/)
     + [Магия тензорной алгебры: Часть 12 — Параметры Родрига-Гамильтона в кинематике твердого тела](http://habrahabr.ru/post/263533/)
     + [Магия тензорной алгебры: Часть 13 — СКА Maxima в задачах преобразования тензорных выражений. Угловые скорость и ускорение в параметрах Родрига-Гамильтона](http://habrahabr.ru/post/263565/)
+    + [Магия тензорной алгебры: Часть 16 — Свойства тензора инерции твердого тела](http://habrahabr.ru/post/263565/)
+
+    + [Тензорные разложения и их применения. ](https://habrahabr.ru/company/yandex/blog/313892/)
+        + [The git repository for the TT-Toolbox](https://github.com/oseledets/TT-Toolbox)
+        + [Fortran computing core of the TT-Toolbox](https://github.com/oseledets/tt-fort)
 
     + [Про Бурали-Форти, Пуанкаре и то самое определение единицы)(http://habrahabr.ru/post/263067/#1)
 
