@@ -54,6 +54,7 @@
             + [Lifetime elision in struct impl](https://users.rust-lang.org/t/lifetime-elision-in-struct-impl/4255/6)
         + [Rust, Lifetimes, and Collections](http://cglab.ca/~abeinges/blah/rust-lifetimes-and-collections/)
             + [Problem about borrowing: My timer implementation requires a mutable reference to the timer queue](https://users.rust-lang.org/t/problem-about-borrowing-my-timer-implementation-requires-a-mutable-reference-to-the-timer-queue/4118/1)
+            + [Problems with a recursive parser](https://users.rust-lang.org/t/problems-with-a-recursive-parser/7721/8)
 
     + *Performance Tips*
         + [Profiling Rust applications on Linux](https://llogiq.github.io/2015/07/15/profiling.html)
