@@ -138,6 +138,8 @@
             + [Learning Simple Algorithms from Examples github](https://github.com/wojzaremba/algorithm-learning)
         + [Human-level concept learning through probabilistic program induction Bayesian Program Learning (BPL) model for one-shot learning](http://gitxiv.com/posts/jS9LJ5kh9ny6iqD7Z/human-level-concept-learning-through-probabilistic-program)
             + [Байесовская нейронная сеть — потому что а почему бы и нет, черт возьми (часть 1)](https://habrahabr.ru/post/276355/)
+        + [THE NEURAL NETWORK ZOO](http://www.asimovinstitute.org/neural-network-zoo/)
+            + [Зоопарк архитектур нейронных сетей. Часть 1](https://habrahabr.ru/company/wunderfund/blog/313696/)
 
     + misc.
         + [Deep Learning links](http://deeplearning.net/software_links/)
