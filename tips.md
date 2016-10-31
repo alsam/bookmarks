@@ -197,6 +197,7 @@
         + [`systemds for `upstart` users](https://wiki.ubuntu.com/SystemdForUpstartUsers)
 
     + [terse DBus introspection table - borrowed from D lang](http://www.dsource.org/projects/dbus-d/wiki/Introspection)
+        + [The Extended Introspection XML Format](https://wiki.allseenalliance.org/irb/extended_introspection_xml)
 
     + Gentoo tips
         + [Gentoo Cheat Sheet](https://wiki.gentoo.org/wiki/Gentoo_Cheat_Sheet)
