@@ -178,6 +178,7 @@
             + [Add a Client Guide](https://github.com/hyperium/hyper/issues/805)
         + [Stateful: A Rust Experimental Syntax Extension for Generators and More](http://erickt.github.io/blog/2016/01/27/stateful-in-progress-generators/)
         + [Pretty State Machine Patterns in Rust](https://hoverbear.org/2016/10/12/rust-state-machine-pattern/)
+        + [Async IO for Rust (part II)](https://medium.com/@paulcolomiets/async-io-for-rust-part-ii-33b9a7274e67#.7d7vsjfni)
 
     + Rust parser generators
         + [nom 1.0 Write Really Fast Parsers](https://www.clever-cloud.com/blog/engineering/2015/11/16/nom-1-0/)
