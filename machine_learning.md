@@ -140,6 +140,7 @@
             + [Байесовская нейронная сеть — потому что а почему бы и нет, черт возьми (часть 1)](https://habrahabr.ru/post/276355/)
         + [THE NEURAL NETWORK ZOO](http://www.asimovinstitute.org/neural-network-zoo/)
             + [Зоопарк архитектур нейронных сетей. Часть 1](https://habrahabr.ru/company/wunderfund/blog/313696/)
+            + [Зоопарк архитектур нейронных сетей. Часть 2](https://habrahabr.ru/company/wunderfund/blog/313906/)
 
     + misc.
         + [Deep Learning links](http://deeplearning.net/software_links/)
