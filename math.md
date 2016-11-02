@@ -67,3 +67,5 @@
     + [Open Problems in Mathematics with John Nash](https://www.ias.edu/2016/rassias-nash)
 
     + [Physics 420/580: Computational Physics Final Exam](https://sites.ualberta.ca/~kbeach/phys420_580/docs/Exam_2008.pdf)
+
+    + [Статистика для математика](https://habrahabr.ru/post/312552/)
