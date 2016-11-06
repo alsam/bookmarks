@@ -88,6 +88,7 @@
     + [**Built TX1 u-boot from source**](https://devtalk.nvidia.com/default/topic/905345/jetson-tx1/built-tx1-u-boot-from-source/)
 
 + Das U-Boot programming
+    + [Banana Pi: через U-Boot к Arch Linux](https://habrahabr.ru/post/264259/)
     + [U-Boot programming: A tutorial -- Part I](http://xillybus.com/tutorials/uboot-hacking-howto-1)
     + [U-Boot programming: A tutorial -- Part II](http://xillybus.com/tutorials/uboot-hacking-howto-2)
     + [U-Boot programming: A tutorial -- Part III](http://xillybus.com/tutorials/uboot-hacking-howto-3)
