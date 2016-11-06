@@ -474,7 +474,8 @@
             + [Does rust really need higher kinded types?](https://users.rust-lang.org/t/does-rust-really-need-higher-kinded-types/5531/28)
                 + [High Order Function with Type Parameter](https://users.rust-lang.org/t/high-order-function-with-type-parameter/3112)
                 + [Design patterns for composability with traits (i.e. typeclasses)?](https://users.rust-lang.org/t/design-patterns-for-composability-with-traits-i-e-typeclasses/5569/49)
-        + [ Add Mathjax (KaTeX?) Support to Rustdoc #16300 ](https://github.com/rust-lang/rust/issues/16300)
+        + [Add LaTeX support to Rustdoc](https://github.com/rust-lang/rust/issues/34261)
+            + [ Add Mathjax (KaTeX?) Support to Rustdoc #16300 ](https://github.com/rust-lang/rust/issues/16300)
             + [ Add mathematics support to rustdoc #17390 ](https://github.com/rust-lang/rust/pull/17390#issuecomment-61195381)
             + [Rustdoc: reStructuredText vs Markdown](https://internals.rust-lang.org/t/rustdoc-restructuredtext-vs-markdown/356/63)
         + GC in Rust
