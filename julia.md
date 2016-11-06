@@ -142,3 +142,4 @@ Dict{ASCIIString,Int64} with 2 entries:
 
 + Selected issues
     + [Precompile error when using Plots.jl](https://github.com/tbreloff/Plots.jl/issues/545)
+    + [A case/switch statement for Julia](https://github.com/JuliaLang/julia/issues/18285)
