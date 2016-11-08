@@ -359,6 +359,7 @@
                 String(const char *p); // initialize sobject with string p
             };
             ```
+        + [How to automatically convert strongly typed enum into int?](http://stackoverflow.com/questions/8357240/how-to-automatically-convert-strongly-typed-enum-into-int)
     + REST API
         + [REST APIs in C++](http://lordjeb.com/category/c-2/)
         + [What is a good open source C++11 web/HTTP server library for building an application server ?](https://www.reddit.com/r/cpp/comments/2rjbrd/what_is_a_good_open_source_c11_webhttp_server/)
