@@ -128,6 +128,7 @@
         Plugin 'Shougo/neosnippet-snippets'
         Open up Vim and start installation with :PluginInstall
         ```
+        + [Demystifying multi file searches in `vim` and the command line](https://seesparkbox.com/foundry/demystifying_multi_file_searches_in_vim_and_the_command_line)
 
     + Emacs
         + [Хорошо настроенный Emacs](http://habrahabr.ru/post/274759/)
