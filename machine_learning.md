@@ -132,6 +132,10 @@
 
         + [A DSL for deep neural networks, supporting Caffe and Torch http://ajtulloch.github.io/dnngraph](https://github.com/ajtulloch/dnngraph)
 
+        + [Tamp: A Library for Compact Deep Neural Networks with Structured Matrices](http://www.ee.columbia.edu/ln/dvmm/pubs/2016.html)
+            + [Tamp github repository](https://github.com/ColumbiaDVMM/Tamp)
+            + [Tamp: A Library for Compact Deep Neural Networks with Structured Matrices : pdf](http://dvmmweb.cs.columbia.edu/files/acm-multimedia-2016%20camera%20ready.pdf)
+
         + [Recurrent Neural Networks (RNN) list](http://gitxiv.com/category/recurrent-neural-networks-rnn)
         + [Convolutional Neural Networks (CNN)](http://gitxiv.com/category/convolutional-neural-networks-cnn)
         + [Learning Simple Algorithms from Examples](http://gitxiv.com/posts/GiJu9ASP5WJGnapPd/learning-simple-algorithms-from-examples)
