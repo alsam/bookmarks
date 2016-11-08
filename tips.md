@@ -264,6 +264,7 @@
         ```
         + [Slack Desktop (Beta) for Linux](https://aur.archlinux.org/packages/slack-desktop/)
         + [The Rust toolchain installer](https://aur.archlinux.org/packages/rustup/)
+        + [[SOLVED] Graphics / Nvidia / Opengl not working as expected](https://bbs.archlinux.org/viewtopic.php?id=213895)
 
 + RHEL
     + [Software Collections for Scientific Linux CERN 6](http://linux.web.cern.ch/linux/scl/)
