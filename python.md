@@ -55,6 +55,7 @@
     + [python-daemon 2.1.1](https://pypi.python.org/pypi/python-daemon/)
     + [Python daemonizer class - outdated](https://github.com/serverdensity/python-daemon)
     + [How to make a Python script run like a service or daemon in Linux](http://stackoverflow.com/questions/1603109/how-to-make-a-python-script-run-like-a-service-or-daemon-in-linux)
+    + [Немного фактов о python asyncio](https://habrahabr.ru/post/314606/)
 
 + Selected StackOverflow Python questions
     + [Invalid Token when using Octal numbers](http://stackoverflow.com/questions/1837874/invalid-token-when-using-octal-numbers)
