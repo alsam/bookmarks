@@ -29,6 +29,8 @@
             + [AirfoilDFE - An unstructured mesh finite volume solver on DFE.](https://github.com/maxeler/Airfoil)
             + [Lattice QCD is a discretization of Quantum Chromodynamics](https://github.com/maxeler/LatticeQCD)
             + [LatticeBoltzmann](https://github.com/maxeler/LatticeBoltzmann)
+    + [facilities to experiment with Discontinuous Petrov Galerkin (DPG) methods](https://github.com/jayggg/DPG)
+        + [Research papers of Jay Gopalakrishnan](http://web.pdx.edu/~gjay/research/papers.html)
 
     + CFD + GPU
         + [Recent progress and challenges in exploiting graphics processors in computational fluid dynamics: slightly outdated but interesting](http://arxiv.org/pdf/1309.3018.pdf)
