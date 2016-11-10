@@ -468,7 +468,7 @@
             + [Blog post series: Alternative type constructors and HKT](https://internals.rust-lang.org/t/blog-post-series-alternative-type-constructors-and-hkt/4300/89)
                 + [Associated type constructors, part 1: basic concepts and introduction](http://smallcultfollowing.com/babysteps/blog/2016/11/02/associated-type-constructors-part-1-basic-concepts-and-introduction/)
                 + [Associated type constructors, part 2: family traits](http://smallcultfollowing.com/babysteps/blog/2016/11/03/associated-type-constructors-part-2-family-traits/)
-                + [Associated type constructors, part 3: What higher-kinded types might look like)
+                + [Associated type constructors, part 3: What higher-kinded types might look like](http://smallcultfollowing.com/babysteps/blog/2016/11/04/associated-type-constructors-part-3-what-higher-kinded-types-might-look-like/)
                 + [Associated type constructors, part 4: Unifying ATC and HKT](http://smallcultfollowing.com/babysteps/blog/2016/11/09/associated-type-constructors-part-4-unifying-atc-and-hkt/)
             + [Higher-kinded type trait](https://www.reddit.com/r/rust/comments/31g0qd/higherkinded_type_trait/](http://smallcultfollowing.com/babysteps/blog/2016/11/04/associated-type-constructors-part-3-what-higher-kinded-types-might-look-like/)
             + [GitHub Gist for HKT](https://gist.github.com/14427)
