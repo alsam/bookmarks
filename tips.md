@@ -223,6 +223,9 @@
         + [Gentoo Cheat Sheet](https://wiki.gentoo.org/wiki/Gentoo_Cheat_Sheet)
     
     + Arch Linux tips
+        + Arch Linux survival tips
+            + while booting type `e` (stands for edit)
+            + add `systemd.unit = resque.target` in `linux` boot menu
         + [Arch Linux Installation guide](https://wiki.archlinux.org/index.php/installation_guide)
             + [Installing Arch Linux on a USB key](https://wiki.archlinux.org/index.php/Installing_Arch_Linux_on_a_USB_key)
         + [Arch Linux Set timezone](https://wiki.archlinux.org/index.php?title=Time&redirect=no#Time_zone)
