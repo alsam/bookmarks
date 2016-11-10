@@ -477,7 +477,7 @@
             + [Higher Kinded Types](http://cglab.ca/~abeinges/blah/rust-reuse-and-recycle/#higher-kinded-types)
             + [Does rust really need higher kinded types?](https://users.rust-lang.org/t/does-rust-really-need-higher-kinded-types/5531/28)
                 + [High Order Function with Type Parameter](https://users.rust-lang.org/t/high-order-function-with-type-parameter/3112)
-                + [Design patterns for composability with traits (i.e. typeclasses)?](https://users.rust-lang.org/t/design-patterns-for-composability-with-traits-i-e-typeclasses/5569/
+                + [Design patterns for composability with traits (i.e. typeclasses)?](https://users.rust-lang.org/t/design-patterns-for-composability-with-traits-i-e-typeclasses/5569/)
         + [`step_by` on negative numbers](https://internals.rust-lang.org/t/step-by-on-negative-numbers/2231)
         + [GPU support](https://internals.rust-lang.org/t/single-source-gpu-support/898/13)
 49)
