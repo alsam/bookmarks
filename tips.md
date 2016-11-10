@@ -317,6 +317,45 @@
         + [What is the equivalent of boost::upgrade_to_unique_lock in STL?](http://stackoverflow.com/questions/30300212/what-is-the-equivalent-of-boostupgrade-to-unique-lock-in-stl)
         + [Охранные классы в boost::thread](http://htrd.su/wiki/zhurnal/2012/12/10/oxrannye_klassy_v_boost_thread)
     + [C++11 FAQ rom the author of C++](http://www.stroustrup.com/C++11FAQ.html)
+    + [C++11 Tidbits: Template Aliases](https://blogs.oracle.com/pcarlini/entry/template_aliases)
+        + [Why is `allocator::rebind` necessary when we have template template parameters?](http://stackoverflow.com/questions/12362363/why-is-allocatorrebind-necessary-when-we-have-template-template-parameters)
+        + tl;dr
+        instead of
+        ```c++
+        template<typename T>
+        class allocator {
+            //...
+ 
+            template<typename U>
+                struct rebind { typedef allocator<U> other; };
+        };
+
+        allocator<T>::rebind<U>::other x;  // sample usage
+        ```
+        can be rewritten
+        ```c++
+        template<typename T>
+        class allocator {
+            //...
+
+            template<typename U>
+                using rebind = allocator<U>;
+        };
+
+        allocator<T>::rebind<U> x;         // sample usage
+        ```
+        + why `rebind`
+        ```c++
+        template <typename T, typename A = std::allocator<T>>
+        class list {
+            struct node {
+                T value;
+                node* next;
+                node* prev;
+            };
+            using allocator = typename A::template rebind<node>::other;
+        };
+        ```
     + [Impossibly fast delegate in C++11](http://codereview.stackexchange.com/questions/14730/impossibly-fast-delegate-in-c11)
     + [Perfect forwarding and universal references in C++](http://eli.thegreenplace.net/2014/perfect-forwarding-and-universal-references-in-c/)
     + [Nobody Understands C++](http://blog2.emptycrate.com/tags/nobody-understands)
