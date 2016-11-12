@@ -226,6 +226,10 @@
         + Arch Linux survival tips
             + while booting type `e` (stands for edit)
             + add `systemd.unit = resque.target` in `linux` boot menu
+            + set correct time to avoid https certificate problems
+            ```sh
+            ntpdate ntp3.stratum2.ru
+            ```
         + [Arch Linux Installation guide](https://wiki.archlinux.org/index.php/installation_guide)
             + [Installing Arch Linux on a USB key](https://wiki.archlinux.org/index.php/Installing_Arch_Linux_on_a_USB_key)
         + [Arch Linux Set timezone](https://wiki.archlinux.org/index.php?title=Time&redirect=no#Time_zone)
