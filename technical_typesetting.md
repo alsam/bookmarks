@@ -9,6 +9,9 @@
     cabal install pandoc
     ```
 
++ Confluence tips
+    + [How to migrate a Confluence space to a Markdown Wiki](http://blog.deveo.com/confluence-to-markdown-wiki-migration/)
+
 + LaTeX tips
     + [Modern LaTeX typesetting](https://www.olivierverdier.com/posts/2013/07/15/modern-latex/)
     + Arch Linux specifics for Cyrillic letters with LaTeX
