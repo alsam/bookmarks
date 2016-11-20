@@ -59,6 +59,7 @@
             + [ForwardDiff.jl docs](http://www.juliadiff.org/ForwardDiff.jl/)
                 + [ForwardDiffNumber Types](http://www.juliadiff.org/ForwardDiff.jl/types.html)
                     + [ForwardDiff contributing to](http://www.juliadiff.org/ForwardDiff.jl/contributing.html)
+            + [Julia automatic differentiation with source code transformation](https://github.com/gaika/AutoDiffSource.jl)
             + [Àlex Haro Provinciale](http://www.maia.ub.es/~alex/)
             + [Latest publications of Olivier Pironneau](http://www.ann.jussieu.fr/pironneau/publi/publications/publi.html)
         + [Automatic differentiation](https://en.wikipedia.org/wiki/Automatic_differentiation)
