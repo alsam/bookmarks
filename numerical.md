@@ -51,6 +51,9 @@
     + [Boundary Element Template Library](http://www.sam.math.ethz.ch/betl/)
     + [HyENA - HyENA stands for [Hy]perbolic and [E]lliptic [N]umerical [A]nalysis and is a C++ library](http://portal.tugraz.at/portal/page/portal/Files/i2610/files/Forschung/Software/HyENA/html/index.html)
 
++ [The C++ Standards Library for Concurrency and Parallelism http://stellar-group.org/libraries/hpx](https://github.com/STEllAR-GROUP/hpx)
+    + [HPX (High Performance ParalleX) is a general purpose C++ runtime system for parallel and distributed applications of any scale](http://stellar-group.org/libraries/hpx)
+    + [HPX — рантайм-система для параллельных и распределенных вычислений](https://corehard.by/2016/02/15/conf2016-hpx/)
 
 +  Automatic Differentiation: mostly Julia, C++, Haskell. Scala as well
     + [JuliaDiff Differentiation tools in Julia](http://www.juliadiff.org/)
