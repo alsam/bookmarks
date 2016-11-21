@@ -20,3 +20,7 @@
     + [Picat](http://picat-lang.org/)
 
 + [Теория категорий на JavaScript. Часть 1. Категория множеств](https://habrahabr.ru/company/cit/blog/313254/)
++ [YourLanguageSucks](https://wiki.theory.org/YourLanguageSucks)
+    + [Talk:YourLanguageSucks](https://wiki.theory.org/Talk:YourLanguageSucks)
+    + [2015.03.14: The death of optimizing compilers](https://blog.cr.yp.to/20150314-optimizing.html)
+    + [The death of optimizing compilers](https://cr.yp.to/talks/2015.04.16/slides-djb-20150416-a4.pdf)
