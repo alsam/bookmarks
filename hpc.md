@@ -79,5 +79,7 @@
     
 + [GPU Programming in Functional Languages](http://www.cse.chalmers.se/~joels/writing/GPUFL.pdf)
 
++ [HIP : Convert CUDA to Portable C++ Code](https://github.com/GPUOpen-ProfessionalCompute-Tools/HIP)
+
 + Stencil computations
     + [Ускоряем трафаретные вычисления: сборка и запуск YASK на процессорах Intel](https://habrahabr.ru/company/intel/blog/305128/)
