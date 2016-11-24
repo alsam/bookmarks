@@ -178,4 +178,6 @@
 
 + [tegra + ARM links](https://github.com/alsam/bookmarks/blob/master/tegra.md)
 
++ [3D](https://github.com/alsam/bookmarks/blob/master/3D.md)
+
 + [Blogs](https://github.com/alsam/bookmarks/blob/master/blogs.md)
