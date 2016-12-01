@@ -106,6 +106,8 @@
 
     + [A curated list of speech and natural language processing resources](https://medium.com/@joshdotai/a-curated-list-of-speech-and-natural-language-processing-resources-4d89f94c032a#.2cyphikgy)
 
+    + [Keras - language modeling](http://benjaminbolte.com/blog/2016/keras-language-modeling.html)
+
     + Convolutional Neural Networks
         + [A Beginner's Guide To Understanding Convolutional Neural Networks](https://adeshpande3.github.io/A-Beginner's-Guide-To-Understanding-Convolutional-Neural-Networks/)
         + [A Beginner's Guide To Understanding Convolutional Neural Networks Part 2](https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner's-Guide-To-Understanding-Convolutional-Neural-Networks-Part-2/)
@@ -244,6 +246,14 @@
         + [Evaluation of Deep Learning Toolkits](https://github.com/zer0n/deepframeworks/blob/master/README.md)
         + [Deep Learning in Rust: baby steps](https://medium.com/@tedsta/deep-learning-in-rust-7e228107cccc)
         + [Deep Learning in Rust: a walk in the park](https://medium.com/@tedsta/deep-learning-in-rust-a-walk-in-the-park-fed6c87165ea#.4i3ci3o4m)
+
++ bleeding rnn
+    + [Neural language notes](https://github.com/dykang/neurallanguage-notes)
+    + [neural-network-papers](https://libraries.io/github/robertsdionne/neural-network-papers)
+    + [Awesome Recurrent Neural Networks](https://github.com/kjw0612/awesome-rnn)
+    + [Attention and Augmented Recurrent Neural Networks](http://distill.pub/2016/augmented-rnns/)
+        + [augmented-rnns github](https://github.com/distillpub/post--augmented-rnns)
+        + [The Wild Week in AI](https://www.getrevue.co/profile/wildml/issues/the-wild-week-in-ai-25-wavenet-text-to-speech-breakthrough-intel-movidius-augmented-rnn-tutorial-sarm-paper-withdrawn-29927)
 
 
 + The __Hard__ Problem
