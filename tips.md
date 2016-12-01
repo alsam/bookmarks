@@ -530,6 +530,7 @@
 
 
 + Text search-and-replace (grep-like tools)
+    + [Grep все, что можно](https://habrahabr.ru/post/316414/)
     + [amber (written in Rust - a good starting point)](https://github.com/dalance/amber)
         + [ag - the silver searcher](https://github.com/ggreer/the_silver_searcher)
 
