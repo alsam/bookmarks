@@ -256,6 +256,7 @@
     + [Attention and Augmented Recurrent Neural Networks](http://distill.pub/2016/augmented-rnns/)
         + [augmented-rnns github](https://github.com/distillpub/post--augmented-rnns)
         + [The Wild Week in AI](https://www.getrevue.co/profile/wildml/issues/the-wild-week-in-ai-25-wavenet-text-to-speech-breakthrough-intel-movidius-augmented-rnn-tutorial-sarm-paper-withdrawn-29927)
+    + [20+ hottest research papers on Computer Vision, Machine Learning](http://www.kdnuggets.com/2016/01/iccv-2015-21-hottest-papers.html)
 
 
 + The __Hard__ Problem
