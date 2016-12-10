@@ -19,7 +19,7 @@
         + [JuliaGraphics](https://github.com/JuliaGraphics)
         + [JuliaQuantum](http://juliaquantum.github.io/)
             + [news](http://juliaquantum.github.io/news/)
-            + [GSoC2015:Community Bonding Period Updates](http://juliaquantum.github.io/news/2015/04/JuliaQuantum-and-GSoC2015/)
+            + [GSoC2015:Community Bonding Period Updates](http://juliaquantum.github.io/news/2015/04/JuliaQuantum-and-GSoC2015)
             + [Julia Libraries for Quantum Science and Technology](https://github.com/JuliaQuantum)
             + [QuDynamics.jl](https://github.com/JuliaQuantum/QuDynamics.jl)
 
