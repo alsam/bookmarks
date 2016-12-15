@@ -166,3 +166,9 @@
             ```
 + [Android sparse image format](http://www.2net.co.uk/tutorial/android-sparse-image-format)
 + [Device Tree for dummies](https://events.linuxfoundation.org/sites/events/files/slides/petazzoni-device-tree-dummies.pdf)
+
++ misc
+    + restore screen after removing an inserting HDMI
+        ```sh
+        sudo xrandr -s 1
+        ```
