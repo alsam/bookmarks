@@ -172,3 +172,4 @@
         ```sh
         sudo xrandr -s 1
         ```
+    + [Enhancements of the massively parallel memory allocator ScatterAlloc and its adaption to the general interface mallocMC](https://zenodo.org/record/34461/files/mallocMC_final.pdf)
