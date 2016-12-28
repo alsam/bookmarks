@@ -276,6 +276,8 @@
 
         + [Using category theory to assess the relationship between consciousness and integrated information theory](http://www.sciencedirect.com/science/article/pii/S0168010215002989)
 
+        + [From Computation to Consciousness: Can AI reveal the nature of our minds?](https://hackernoon.com/from-computation-to-consciousness-can-ai-reveal-the-nature-of-our-minds-81bc994500ab#.kgkzxmp7x)
+
         + Books
             + [Artificial Cognitive Systems: A Primer](http://www.amazon.com/Artificial-Cognitive-Systems-A-Primer/dp/0262028387/ref=pd_bxgy_14_2?ie=UTF8&refRID=0827S66XPRA4SYQVXRKB)
                 + [Artificial Cognitive Systems by Prof. David Vernon](http://www.vernon.eu/ACS.htm)
