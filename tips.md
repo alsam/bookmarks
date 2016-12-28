@@ -276,6 +276,9 @@
         + [The Rust toolchain installer](https://aur.archlinux.org/packages/rustup/)
         + [[SOLVED] Graphics / Nvidia / Opengl not working as expected](https://bbs.archlinux.org/viewtopic.php?id=213895)
 
+        + [One or more PGP signatures could not be verified!](https://bbs.archlinux.org/viewtopic.php?id=191954)
+            + `TL;DR` `gpg --recv-key <KEYID>`
+
 + RHEL
     + [Software Collections for Scientific Linux CERN 6](http://linux.web.cern.ch/linux/scl/)
     + [Software Collections for Scientific Linux CERN 6 : RPMS](http://linuxsoft.cern.ch/cern/scl/slc6X/x86_64/RPMS/)
