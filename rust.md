@@ -546,6 +546,8 @@
 
         + [CLOCK-Pro: An Effective Improvement of the CLOCK Replacement](http://static.usenix.org/event/usenix05/tech/general/full_papers/jiang/jiang_html/html.html)
 
+        + [rust-cross](https://github.com/japaric/rust-cross)
+
     + Formal Verification
         + [Simple verification of Rust programs via functional purification](https://github.com/Kha/electrolysis)
             + [LEAN](https://github.com/leanprover/lean)
