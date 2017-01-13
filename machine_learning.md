@@ -262,6 +262,11 @@
         + [The Wild Week in AI](https://www.getrevue.co/profile/wildml/issues/the-wild-week-in-ai-25-wavenet-text-to-speech-breakthrough-intel-movidius-augmented-rnn-tutorial-sarm-paper-withdrawn-29927)
     + [20+ hottest research papers on Computer Vision, Machine Learning](http://www.kdnuggets.com/2016/01/iccv-2015-21-hottest-papers.html)
 
++ Brain simulators
+    + [Neocortical Simulator: An extensible neural simulator for heterogeneous clusters](https://github.com/BrainComputationLab/ncs)
+        + [NCS site](https://www.cse.unr.edu/brain/ncs6/)
+        + [GENESIS](https://www.neuroml.org/tool_support#GENESIS)
+        + [simulators list](http://www.opensourcebrain.org/docs#Simulators)
 
 + The __Hard__ Problem
     + Philosophical pop science
@@ -281,6 +286,8 @@
         + [Using category theory to assess the relationship between consciousness and integrated information theory](http://www.sciencedirect.com/science/article/pii/S0168010215002989)
 
         + [From Computation to Consciousness: Can AI reveal the nature of our minds?](https://hackernoon.com/from-computation-to-consciousness-can-ai-reveal-the-nature-of-our-minds-81bc994500ab#.kgkzxmp7x)
+        + [Why can’t the world’s greatest minds solve the mystery of consciousness?](https://www.theguardian.com/science/2015/jan/21/-sp-why-cant-worlds-greatest-minds-solve-mystery-consciousness)
+        + [Consciousness and AI](http://blog.agi.io/2015/01/consciousness-and-ai.html?m=0)
 
         + Books
             + [Artificial Cognitive Systems: A Primer](http://www.amazon.com/Artificial-Cognitive-Systems-A-Primer/dp/0262028387/ref=pd_bxgy_14_2?ie=UTF8&refRID=0827S66XPRA4SYQVXRKB)
