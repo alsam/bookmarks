@@ -30,6 +30,7 @@
         + [Where Do I get Source package for Perf tool](http://unix.stackexchange.com/questions/98399/where-do-i-get-source-package-for-perf-tool)
     + [Linux Performance Monitoring, any way to monitor per-thread?](http://stackoverflow.com/questions/28058710/linux-performance-monitoring-any-way-to-monitor-per-thread)
         + [An easy-to-use interface to the Linux perf_event API.](https://github.com/castl/easyperf)
+    + [oprofile](http://oprofile.sourceforge.net/doc/overview.html)
 
 + MMU - TLB - huge pages
     + [Virtual Memory](http://austingwalters.com/virtual-memory-and-you/)
