@@ -249,6 +249,10 @@
         + [Deep Learning in Rust: baby steps](https://medium.com/@tedsta/deep-learning-in-rust-7e228107cccc)
         + [Deep Learning in Rust: a walk in the park](https://medium.com/@tedsta/deep-learning-in-rust-a-walk-in-the-park-fed6c87165ea#.4i3ci3o4m)
 
++ FPGA for AI
+    + [quora: FPGAs-useful-in-neural-networks](https://www.quora.com/Artificial-Intelligence-How-are-field-programmable-gate-arrays-FPGAs-useful-in-neural-networks)
+        + [Recurrent Neural Networks Hardware Implementation on FPGA](https://arxiv.org/abs/1511.05552v1)
+
 + bleeding rnn
     + [Neural language notes](https://github.com/dykang/neurallanguage-notes)
     + [neural-network-papers](https://libraries.io/github/robertsdionne/neural-network-papers)
