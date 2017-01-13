@@ -78,7 +78,14 @@
         git subtree add -P u-boot /scratch/tegra-sources/u-boot_nvidia_distribution/u-boot master
         ```
 
+        + [Git - Find when a method is removed](http://stackoverflow.com/questions/21110272/git-find-when-a-method-is-removed)
+            + tl;dr
+            ```sh
+            git log -c -S'methodName' /path/to/file.cpp
+            ```
+
         + [Adding an existing project to GitHub using the command line](https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/)
+
         + [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 
     + [Pijul - distributed version control system written in Rust](https://pijul.org/documentation/install/)
