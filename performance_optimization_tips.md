@@ -31,6 +31,12 @@
     + [Linux Performance Monitoring, any way to monitor per-thread?](http://stackoverflow.com/questions/28058710/linux-performance-monitoring-any-way-to-monitor-per-thread)
         + [An easy-to-use interface to the Linux perf_event API.](https://github.com/castl/easyperf)
     + [oprofile](http://oprofile.sourceforge.net/doc/overview.html)
+        + tl;dr
+        ```sh
+        operf [ options ] [ --system-wide | --pid=<PID> | [ command [ args ] ] ]
+        A typical usage might look like this:
+        operf ./my_test_program my_arg
+        ```
 
 + MMU - TLB - huge pages
     + [Virtual Memory](http://austingwalters.com/virtual-memory-and-you/)
