@@ -177,6 +177,8 @@
 
         + [Baidu Research: warp-ctc (https://github.com/baidu-research/warp-ctc)](https://github.com/baidu-research/warp-ctc)
 
+        + [tiny-dnn — анонс библиотеки](https://habrahabr.ru/post/319436/)
+
         + GeNN: a code generation framework for accelerated brain simulations
             + [GeNN: a code generation framework for accelerated brain simulations - Scientific Reports 6, Article number: 18854](http://www.nature.com/articles/srep18854)
                 + [GeNN is a GPU enhanced Neuronal Network simulation environment based on NVIDIA CUDA technology.](http://genn-team.github.io/genn/)
