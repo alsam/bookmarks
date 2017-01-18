@@ -84,6 +84,8 @@
             git log -c -S'methodName' /path/to/file.cpp
             ```
 
+        + [Support .ssh/config for specifying keys if ssh-agent fails](https://github.com/rust-lang/cargo/issues/2078)
+
         + [Adding an existing project to GitHub using the command line](https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/)
 
         + [Малоизвестные Git-команды](https://habrahabr.ru/company/mailru/blog/318508/)
