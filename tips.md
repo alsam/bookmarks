@@ -426,6 +426,24 @@
             };
             ```
         + [How to automatically convert strongly typed enum into int?](http://stackoverflow.com/questions/8357240/how-to-automatically-convert-strongly-typed-enum-into-int)
+
+        + generic variadic lambdas
+            + TL;DR
+            ```c++
+            auto get_item = [&ifs](auto& item) {
+                std::string line;
+                std::getline(ifs, line);
+                std::istringstream iss(line);
+                iss >> item;
+            };
+            ...
+            get_items(std::ref(params.thorus_params.xfirst), std::ref(params.thorus_params.yfirst));
+            ```
+            + [Fun with Lambdas: C++14 Style (part 3)](http://cpptruths.blogspot.ru/2014/08/fun-with-lambdas-c14-style-part-3.html)
+            + [What is the easiest way to print a variadic parameter pack using std::ostream?](http://stackoverflow.com/questions/27375089/what-is-the-easiest-way-to-print-a-variadic-parameter-pack-using-stdostream)
+            + [Composing Continuations](https://functionalcpp.wordpress.com/)
+            + [Unpacking Tuples in C++14](http://aherrmann.github.io/programming/2016/02/28/unpacking-tuples-in-cpp14/)
+            + [Fun with Lambdas: C++14 Style (part 3)](http://cpptruths.blogspot.ru/2014/08/fun-with-lambdas-c14-style-part-3.html)
     + REST API
         + [REST APIs in C++](http://lordjeb.com/category/c-2/)
         + [What is a good open source C++11 web/HTTP server library for building an application server ?](https://www.reddit.com/r/cpp/comments/2rjbrd/what_is_a_good_open_source_c11_webhttp_server/)
