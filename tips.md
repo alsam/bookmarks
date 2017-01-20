@@ -327,7 +327,9 @@
 + Haskell (see also `pandoc` and `diagrams` links above)
     + [Haskell Communities and Activities Report Twenty-Ninth Edition – November 2015](https://www.haskell.org/communities/11-2015/html/report.html)
         + [Haskell Programming _from first principles_](http://haskellbook.com/feedback.html)
- 
++ C
+    + [9 интересных трюков на Си, с которыми вы раньше не сталкивались](https://tproger.ru/translations/9-clang-tricks/)
+
 + C++
     + C++ and multithreading
         + [lucid and terse multithread intro](http://www.bogotobogo.com/cplusplus/multithreaded.php)
