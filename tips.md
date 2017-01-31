@@ -291,6 +291,19 @@
         + [One or more PGP signatures could not be verified!](https://bbs.archlinux.org/viewtopic.php?id=191954)
             + `TL;DR` `gpg --recv-key <KEYID>`
 
+        + [Solve Kernel Panic on Arch Linux](https://www.unixmen.com/solve-arch-linux-kernel-panic/)
+            + [`Kernel Panic - Failed to execute /init`](https://www.linux.org.ru/forum/desktop/11626721)
+            + TD;LR
+            ```sh
+            boot from flash
+            mount /dev/sdb2 /mnt
+            arch-chroot /mnt /bin/bash
+            pacman -U /var/cache/pacman/pkg/linux-4.8..
+            pacman -S base
+            grub-mkconfig  -o /boot/grub/grub.cfg
+            mkinitcpio -k /boot/vmlinuz-linux -g /boot/initramfs-linux.img
+            ```
+
 + RHEL
     + [Software Collections for Scientific Linux CERN 6](http://linux.web.cern.ch/linux/scl/)
     + [Software Collections for Scientific Linux CERN 6 : RPMS](http://linuxsoft.cern.ch/cern/scl/slc6X/x86_64/RPMS/)
