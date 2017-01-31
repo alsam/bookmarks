@@ -395,6 +395,11 @@
     + [http://habrahabr.ru/company/infopulse/blog/274549/](http://habrahabr.ru/company/infopulse/blog/274549/)
     + [Советы о том, как писать на С в 2016 году](https://habrahabr.ru/company/inoventica/blog/275685/)
     + [The C++ scientist](http://jmabille.github.io/)
+    + [HowardHinnant.github.io World-class C++ expert](http://howardhinnant.github.io/)
+        + [Everything You Ever Wanted To Know About Move Semantics](https://github.com/HowardHinnant/presentations/blob/master/accu_2014/accu_2014.pdf)
+        + [A date and time library based on the C++11 (and beyond) <chrono> header](https://github.com/HowardHinnant/date)
+            + [This paper fully documents a date and time library for use with C++11 and C++14.](https://howardhinnant.github.io/date/date.html)
+            + [How to get current time and date in C++?](http://stackoverflow.com/questions/997946/how-to-get-current-time-and-date-in-c)
     + [GoF patterns in modern C++](https://accu.org/content/conf2013/Tobias_Darm_Effective_GoF_Patterns.pdf)
         + [Effective GoF Patterns with C++11 and Boost—Tobias Darm](https://isocpp.org/blog/2013/10/patterns) 
     + selected stackoverflow questions
