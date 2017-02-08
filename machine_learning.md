@@ -91,6 +91,16 @@
             + [TensorFlow white paper](http://download.tensorflow.org/paper/whitepaper2015.pdf)
         + [Setup_TensorFlow.md](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/Setup_TensorFlow.md)
             + [TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples)
+            ```sh
+            ./configure
+            bazel build -c opt --copt=-mavx --copt=-mavx2 --copt=-mfma --copt=-mfpmath=both    --config=cuda //tensorflow/tools/pip_package:build_pip_package
+            sudo pip install wheel
+            bazel-bin/tensorflow/tools/pip_package/build_pip_package /tmp/tensorflow_avx2_pkg
+            sudo pip uninstall /tmp/tensorflow_pkg/tensorflow-1.0.0rc1-cp36-cp36m-linux_x86_64.whl
+            sudo pip install /tmp/tensorflow_avx2_pkg/tensorflow-1.0.0rc1-cp36-cp36m-linux_x86_64.whl
+            ```
+            + [How to compile Tensorflow with SSE4.2 and AVX instructions?](http://stackoverflow.com/questions/41293077/how-to-compile-tensorflow-with-sse4-2-and-avx-instructions)
+            + [Feature request: Please provide AVX2/FMA capable builds](https://github.com/tensorflow/tensorflow/issues/7257)
         + [Open source software library for numerical computation using data flow graphs](https://github.com/tensorflow/tensorflow)
         + [A deep Q learning demonstration using Google Tensorflow](https://github.com/nivwusquorum/tensorflow-deepq)
         + [Simplified interface for TensorFlow (mimicking Scikit Learn)](https://github.com/tensorflow/skflow)
