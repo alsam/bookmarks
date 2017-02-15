@@ -684,3 +684,8 @@
         + [Use sendfile() to speed up transfers](https://github.com/giampaolo/pyftpdlib/issues/152)
     + [high CPU load by 'mmcqd' in Ubuntu](https://community.nxp.com/thread/318739)
     + [Copy a file in a sane, safe and efficient way](http://stackoverflow.com/questions/10195343/copy-a-file-in-a-sane-safe-and-efficient-way)
+
++ packaging
+    + [Hosting a Private Apt Repository on S3](https://zcox.wordpress.com/2012/08/13/hosting-a-private-apt-repository-on-s3/)
+    + [Managing Apt Repos in S3 Using Lambda](http://webscale.plumbing/managing-apt-repos-in-s3-using-lambda)
+        + [apt-s3](https://github.com/castlabs/apt-s3)
