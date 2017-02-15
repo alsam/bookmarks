@@ -662,3 +662,25 @@
     + [Accessing Members of a QML Object Type from C++](http://doc.qt.io/qt-5/qtqml-cppintegration-interactqmlfromcpp.html)
     + [Qt with Cascades UI Examples Documentation](http://blackberry.github.io/Qt2Cascades-Samples/docs/progressdialog.html)
 
++ Data transfer
+    + [So you want to write to a file real fast…](https://blog.plenz.com/2014-04/so-you-want-to-write-to-a-file-real-fast.html)
+        + tl;dr
+        ```c++
+        ssize_t do_sendfile(int in, int out)
+        {
+            ssize_t t = filesize(in);
+            off_t ofs = 0;
+
+            while(ofs < t) {
+                if(sendfile(out, in, &ofs, t - ofs) == -1) {
+                    assert(errno == EINTR);
+                    continue;
+                }
+            }
+
+            return t;
+        }
+        ```
+        + [Use sendfile() to speed up transfers](https://github.com/giampaolo/pyftpdlib/issues/152)
+    + [high CPU load by 'mmcqd' in Ubuntu](https://community.nxp.com/thread/318739)
+    + [Copy a file in a sane, safe and efficient way](http://stackoverflow.com/questions/10195343/copy-a-file-in-a-sane-safe-and-efficient-way)
