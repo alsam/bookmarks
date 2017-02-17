@@ -78,6 +78,14 @@
         git subtree add -P u-boot /scratch/tegra-sources/u-boot_nvidia_distribution/u-boot master
         ```
 
+        + subtree import of the subfolder
+            + [Add subdirectory of remote repo with git-subtree](http://stackoverflow.com/questions/23937436/add-subdirectory-of-remote-repo-with-git-subtree)
+            + tl;dr
+            ```sh
+            git subtree split -P modules/my_module -b temporary-split-branch
+            git subtree add -P prefix-name/  /path-to-repo temporary-split-branch
+            ```
+
         + [Git - Find when a method is removed](http://stackoverflow.com/questions/21110272/git-find-when-a-method-is-removed)
             + tl;dr
             ```sh
@@ -684,6 +692,29 @@
         + [Use sendfile() to speed up transfers](https://github.com/giampaolo/pyftpdlib/issues/152)
     + [high CPU load by 'mmcqd' in Ubuntu](https://community.nxp.com/thread/318739)
     + [Copy a file in a sane, safe and efficient way](http://stackoverflow.com/questions/10195343/copy-a-file-in-a-sane-safe-and-efficient-way)
+    + [Linux function to get mount points](http://stackoverflow.com/questions/9280759/linux-function-to-get-mount-points)
+        + tl;dr
+        ```c
+        #include <stdio.h>
+        #include <stdlib.h>
+        #include <mntent.h>
+        
+        int main(void)
+        {
+          struct mntent *ent;
+          FILE *aFile;
+        
+          aFile = setmntent("/proc/mounts", "r");
+          if (aFile == NULL) {
+            perror("setmntent");
+            exit(1);
+          }
+          while (NULL != (ent = getmntent(aFile))) {
+            printf("%s %s\n", ent->mnt_fsname, ent->mnt_dir);
+          }
+          endmntent(aFile);
+        }
+        ```
 
 + packaging
     + [Hosting a Private Apt Repository on S3](https://zcox.wordpress.com/2012/08/13/hosting-a-private-apt-repository-on-s3/)
