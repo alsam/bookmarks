@@ -478,6 +478,8 @@
             + [Unpacking Tuples in C++14](http://aherrmann.github.io/programming/2016/02/28/unpacking-tuples-in-cpp14/)
             + [Fun with Lambdas: C++14 Style (part 3)](http://cpptruths.blogspot.ru/2014/08/fun-with-lambdas-c14-style-part-3.html)
 
+        + cheat-sheet for callbacks in C++
+            + [Callback functions in c++](http://stackoverflow.com/questions/2298242/callback-functions-in-c)
         + [Using std::make_unique with custom deleter on a derived class?](http://stackoverflow.com/questions/37514101/using-stdmake-unique-with-custom-deleter-on-a-derived-class)
             + tl;dr you cannot indicate a custom deleter with the `make_*` helper functions for smart pointers (neither with `make_unique`, nor with `make_shared`). use
               to explicitly construct your pointer as it follows:
