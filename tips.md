@@ -720,3 +720,11 @@
     + [Hosting a Private Apt Repository on S3](https://zcox.wordpress.com/2012/08/13/hosting-a-private-apt-repository-on-s3/)
     + [Managing Apt Repos in S3 Using Lambda](http://webscale.plumbing/managing-apt-repos-in-s3-using-lambda)
         + [apt-s3](https://github.com/castlabs/apt-s3)
+
++ lock files
+    + [Linux: What is the difference between advisory lock and mandatory lock?](https://www.quora.com/Linux-What-is-the-difference-between-advisory-lock-and-mandatory-lock)
+    + [`flock` use case](http://stackoverflow.com/questions/1599459/optimal-lock-file-method)
+    + [lock files: 2.9 Synchronizing Resource Access Across Processes on Unix](http://etutorials.org/Programming/secure+programming/Chapter+2.+Access+Control/2.9+Synchronizing+Resource+Access+Across+Processes+on+Unix/)
+
++ misc
+    + [fdupes – A Comamndline Tool to Find and Delete Duplicate Files in Linux](http://www.tecmint.com/fdupes-find-and-delete-duplicate-files-in-linux/)
