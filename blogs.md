@@ -18,6 +18,11 @@
 
 + [10 Lesser-Known Programming Languages Worth Exploring; td;lr Chapel, Picat](https://www.reddit.com/r/programming/comments/4mzlvi/10_lesserknown_programming_languages_worth/)
     + [Picat](http://picat-lang.org/)
+    + [chapel Specified topology library (hwloc) does not work](http://chapel.cray.com/docs/latest/usingchapel/chplenv.html#readme-chplenv-chpl-hwloc)
+        + tl;dr
+        ```sh
+        export CHPL_HWLOC=none
+        ```
 
 + [Теория категорий на JavaScript. Часть 1. Категория множеств](https://habrahabr.ru/company/cit/blog/313254/)
 + [YourLanguageSucks](https://wiki.theory.org/YourLanguageSucks)
