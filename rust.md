@@ -410,6 +410,9 @@
 
         + [cargo-tree](https://github.com/sfackler/cargo-tree)
 
+        + [Rust and Rest](http://lucumr.pocoo.org/2016/7/10/rust-rest/)
+            + [Rust bindings to libcurl](https://github.com/alexcrichton/curl-rust)
+
         produces
         ```sh
         $ cargo tree
