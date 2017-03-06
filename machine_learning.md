@@ -24,6 +24,7 @@
 
 + Deep Learning
     + [Deep Learning: Methods and Applications](http://research.microsoft.com/pubs/209355/DeepLearning-NowPublishing-Vol7-SIG-039.pdf)
+    + [The Anatomy of Deep Learning Frameworks](http://www.kdnuggets.com/2017/02/anatomy-deep-learning-frameworks.html)
 
 + Nervana Systems
     + [Nervana](http://www.nervanasys.com/)
