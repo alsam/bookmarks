@@ -100,6 +100,7 @@
             sudo pip uninstall /tmp/tensorflow_pkg/tensorflow-1.0.0rc1-cp36-cp36m-linux_x86_64.whl
             sudo pip install /tmp/tensorflow_avx2_pkg/tensorflow-1.0.0rc1-cp36-cp36m-linux_x86_64.whl
             ```
+            + [gpu-accelerated-applications-tensorflow-installation](http://www.nvidia.com/object/gpu-accelerated-applications-tensorflow-installation.html)
             + [How to compile Tensorflow with SSE4.2 and AVX instructions?](http://stackoverflow.com/questions/41293077/how-to-compile-tensorflow-with-sse4-2-and-avx-instructions)
             + [Feature request: Please provide AVX2/FMA capable builds](https://github.com/tensorflow/tensorflow/issues/7257)
         + [Open source software library for numerical computation using data flow graphs](https://github.com/tensorflow/tensorflow)
