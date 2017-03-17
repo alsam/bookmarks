@@ -245,6 +245,8 @@
 
         + [New neural network building block allows faster and more accurate text understanding](http://metamind.io/research/new-neural-network-building-block-allows-faster-and-more-accurate-text-understanding/)
 
+        + [PathNet is a _network of neural networks_](https://medium.com/@thoszymkowiak/deepmind-just-published-a-mind-blowing-paper-pathnet-f72b1ed38d46#.u4yjl3tf0)
+
     + Rust based projects
         + [Open Machine Intelligence Framework written in Rust targeting CPU/GPU http://autumnai.github.io/leaf](https://github.com/autumnai/leaf)
             + [Crate leaf](http://autumnai.github.io/leaf/leaf/index.html)
