@@ -561,4 +561,11 @@
         + [Electrolysis Reference](http://kha.github.io/electrolysis/)
 
     + Linux distros Rust support
-        + [Fedora to support Rust Compiler](https://fedoraproject.org/wiki/Changes/RustCompiler) 
+        + [Fedora to support Rust Compiler](https://fedoraproject.org/wiki/Changes/RustCompiler)
+
+    + Run Rust code on your NVIDIA GPU
+        + [Rust nvptx](https://github.com/japaric/nvptx)
+        + [NVPTX backend metabug](https://github.com/rust-lang/rust/issues/38789)
+        + [Utilize GPU computational capabilities](https://github.com/lychee-eng/miro/issues/5)
+        + [PTX support, take 2](https://github.com/rust-lang/rust/pull/38559)
+        + [Tracking issue for the "ptx-kernel" ABI](https://github.com/rust-lang/rust/issues/38788)
