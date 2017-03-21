@@ -474,6 +474,8 @@
                 + [Associated type constructors, part 2: family traits](http://smallcultfollowing.com/babysteps/blog/2016/11/03/associated-type-constructors-part-2-family-traits/)
                 + [Associated type constructors, part 3: What higher-kinded types might look like](http://smallcultfollowing.com/babysteps/blog/2016/11/04/associated-type-constructors-part-3-what-higher-kinded-types-might-look-like/)
                 + [Associated type constructors, part 4: Unifying ATC and HKT](http://smallcultfollowing.com/babysteps/blog/2016/11/09/associated-type-constructors-part-4-unifying-atc-and-hkt/)
+            + [Pi types v2](https://internals.rust-lang.org/t/pi-types-v2/4860)
+            + [Dissertation on Algebraic Subtyping](https://internals.rust-lang.org/t/dissertation-on-algebraic-subtyping/4906)
             + [Higher-kinded type trait](https://www.reddit.com/r/rust/comments/31g0qd/higherkinded_type_trait/)
             + [GitHub Gist for HKT](https://gist.github.com/14427)
             + [Rust and the Monad trait - Not just higher kinded types](https://m4rw3r.github.io/rust-and-monad-trait/)
