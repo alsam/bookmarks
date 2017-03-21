@@ -303,7 +303,7 @@
 
         + [Solve Kernel Panic on Arch Linux](https://www.unixmen.com/solve-arch-linux-kernel-panic/)
             + [`Kernel Panic - Failed to execute /init`](https://www.linux.org.ru/forum/desktop/11626721)
-            + TD;LR
+            + TL;DR
             ```sh
             boot from flash
             mount /dev/sdb2 /mnt
@@ -313,7 +313,16 @@
             grub-mkconfig  -o /boot/grub/grub.cfg
             mkinitcpio -k /boot/vmlinuz-linux -g /boot/initramfs-linux.img
             ```
-
+        + Rescue from `Reboot and Select proper Boot device or insert Boot Media...`
+            + tl;dr
+            ```sh
+            boot from flash
+            mount /dev/sda2 /mnt
+            mount /dev/sda1 /mnt/boot/EFI # this is very important
+            mount /dev/sda3 /mnt/home
+            arch-chroot /mnt /bin/bash
+            grub-install
+            ```
 + RHEL
     + [Software Collections for Scientific Linux CERN 6](http://linux.web.cern.ch/linux/scl/)
     + [Software Collections for Scientific Linux CERN 6 : RPMS](http://linuxsoft.cern.ch/cern/scl/slc6X/x86_64/RPMS/)
