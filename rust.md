@@ -9,8 +9,10 @@
     + [http://rustbyexample.com/](http://rustbyexample.com/)
         + [Rust by example](https://github.com/rust-lang/rust-by-example)
     + [Implementing Rosetta Code problems in Rust](https://github.com/Hoverbear/rust-rosetta)
-    + [Rust projects](http://www.rust-ci.org/projects/)
+    + [Rust projects]
+        + [Trending Rust projects](https://github.com/trending/rust
         + [Is Rust CI still working?](https://www.reddit.com/r/rust/comments/3blikk/is_rust_ci_still_working/)
+        + [huonw/travis-cargo](https://github.com/huonw/travis-cargo)
     + [Awesome Rust: A curated list of awesome Rust code and resources](https://github.com/kud1ing/awesome-rust)
         + [gmp bindings for rust: status: build failing, ranges syntax changed](https://github.com/thestinger/rust-gmp)
             + [rust-gmp crate](https://crates.io/crates/rust-gmp)
@@ -23,8 +25,6 @@
             + [OpenBLAS Provider](https://github.com/cmr/openblas-provider)
         + [Rayon: A data parallelism library for Rust](https://github.com/huonw/rayon)
             + [Neon: Node + Rust = í ½í²–](https://www.reddit.com/r/rust/comments/3y0vx9/neon_node_rust/)
-        + [parry - Parallel array processing: deflect performance problems](https://github.com/huonw/parry)
-        + [crossbeam - Support for parallelism and low-level concurrency in Rust](https://github.com/aturon/crossbeam)
         + FFT libraries and bindings
             + [crate dft](https://crates.io/crates/dft)
                 + [dft docs](http://stainless-steel.github.io/dft/dft/index.html)
@@ -37,7 +37,7 @@
     + Are we yet?
         + [Are we (I)DE yet?](https://areweideyet.com/)
         + [Are we web yet?](http://www.arewewebyet.org/)
-        + [Are we concurrent yet?](http://areweconcurrentyet.com/)
+        + [dead link : Are we concurrent yet?](http://areweconcurrentyet.com/)
         + [Are we numeric yet?](https://www.reddit.com/r/rust/comments/4drr2c/are_we_numeric_yet/)
         + [Are we game yet?](http://arewegameyet.com/)
         + [Are we learning yet?](http://www.arewelearningyet.com/)
@@ -79,7 +79,6 @@
             + [Evaluation of performance and productivity metrics of potential programming languages in the HPC environment - A comparison of Rust, Go and C -- University of Hamburg](https://www.reddit.com/r/programming/comments/34ml5f/evaluation_of_performance_and_productivity/)
             + [Rust programs versus Go by benchmark task performance](http://benchmarksgame.alioth.debian.org/u64q/compare.php?lang=rust&lang2=go)
         + [How to explain slowdown with Sieve of Eratosthenes versus Nim and C?](https://users.rust-lang.org/t/how-to-explain-slowdown-with-sieve-of-eratosthenes-versus-nim-and-c/4394)
-        + [Learn Rust: Dining Philosophers runs not concurrent](https://users.rust-lang.org/t/learn-rust-dining-philosophers-runs-not-concurrent/4458)
 
         + [(more or less) accurate floating point algorithms](https://crates.io/crates/accurate)
         + [Benchmarking programs in Rust](http://stackoverflow.com/questions/13322479/benchmarking-programs-in-rust)
@@ -89,7 +88,6 @@
         + [`Builder` pattern without cloning](https://users.rust-lang.org/t/builder-pattern-without-cloning/2044)
         + [Fearless Concurrency with Rust](http://blog.rust-lang.org/2015/04/10/Fearless-Concurrency.html)
         + [Rust vs. C++: Fine-grained Performance](https://users.rust-lang.org/t/rust-vs-c-fine-grained-performance/4407)
-        + [Are we concurrent yet](http://areweconcurrentyet.com/)
         + [cargo benchcmp](https://github.com/BurntSushi/cargo-benchcmp)
             + [Porting cargo benchcmp](https://apanatshka.github.io/compsci/2016/09/04/porting-cargo-benchcmp/)
 
@@ -233,8 +231,18 @@
             + [chris-morgan/mopa](https://github.com/chris-morgan/mopa)
         + [Mixing matching, mutation, and moves in Rust](http://blog.rust-lang.org/2015/04/17/Enums-match-mutation-and-moves.html)
 
-    + [An Adventure in API Design and Concurrency in Rust](http://damienradtke.com/adventures-in-concurrency-1/)
-        + [Concurrency in Rust: vimeo video](https://vimeo.com/144809407)
+    + Rust concurrency
+        + [Concurrent Programming in Rust course EECS 3/495](http://users.eecs.northwestern.edu/~jesse/course/eecs395rust-wi16/)
+        + [An Adventure in API Design and Concurrency in Rust](http://damienradtke.com/adventures-in-concurrency-1/)
+            + [Concurrency in Rust: vimeo video](https://vimeo.com/144809407)
+        + [Lock free stack](https://crates.io/crates/concurrent-stack)
+            + [Lock free stack on github](https://github.com/lucklove/concurrent-stack)
+            + [AtomicPtr with stamp to avoid ABA problem](https://github.com/lucklove/atomic-stamped-ptr)
+            + [AtomicU128 for x86_64](https://github.com/lucklove/atomic128)
+        + [Learn Rust: Dining Philosophers runs not concurrent](https://users.rust-lang.org/t/learn-rust-dining-philosophers-runs-not-concurrent/4458)
+        + [parry - Parallel array processing: deflect performance problems](https://github.com/huonw/parry)
+        + [crossbeam - Support for parallelism and low-level concurrency in Rust](https://github.com/aturon/crossbeam)
+
     + [Pros and cons: Rust vs. C++](https://plus.google.com/+nialldouglas/posts/AXFJRSM8u2t)
         + [Rust and the Blub Paradox](http://www.jonathanturner.org/2016/01/rust-and-blub-paradox.html)
              + [You can't spell trust without Rust](https://cdn.rawgit.com/Gankro/thesis/master/thesis.pdf)
@@ -518,11 +526,6 @@
     + [pijul - distributed version control system written in Rust](https://pijul.org)
 
     + [`Recycle` - ergonomic allocated memory reusing.](https://www.reddit.com/r/rust/comments/521vxl/recyle_ergonomic_allocated_memory_reusing/)
-
-    + [Lock free stack](https://crates.io/crates/concurrent-stack)
-        + [Lock free stack on github](https://github.com/lucklove/concurrent-stack)
-        + [AtomicPtr with stamp to avoid ABA problem](https://github.com/lucklove/atomic-stamped-ptr)
-        + [AtomicU128 for x86_64](https://github.com/lucklove/atomic128)
 
     + Hardware (bare metal) - OSes, ISA simulators,etc.
         + DBus
