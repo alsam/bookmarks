@@ -419,6 +419,18 @@
             using allocator = typename A::template rebind<node>::other;
         };
         ```
+    + [Variable template](http://en.cppreference.com/w/cpp/language/variable_template)
+        + tl;dr
+        ```
+        template<class T>
+        constexpr T pi = T(3.1415926535897932385);  // variable template
+         
+        template<class T>
+        T circular_area(T r) // function template
+        {
+            return pi<T> * r * r; // pi<T> is a variable template instantiation
+        }
+        ```
     + [Impossibly fast delegate in C++11](http://codereview.stackexchange.com/questions/14730/impossibly-fast-delegate-in-c11)
     + [Разработка → RAII + С++ variadic templates = win](https://habrahabr.ru/post/172817/)
     + [Perfect forwarding and universal references in C++](http://eli.thegreenplace.net/2014/perfect-forwarding-and-universal-references-in-c/)
