@@ -690,6 +690,15 @@
     EXTENTS:
     (0):1082813
     ```
+
+    + [Determine the size of a block device](http://unix.stackexchange.com/questions/52215/determine-the-size-of-a-block-device)
+        + tl;dr with `sudo`
+        ```sh
+        #include <linux/fs.h>
+        ...
+        ioctl(file, BLKGETSIZE64, &file_size_in_bytes);
+        ```
+
 + bash
     + [comparison operators](http://www.tldp.org/LDP/abs/html/comparison-ops.html)
     ```sh
