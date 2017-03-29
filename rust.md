@@ -100,6 +100,7 @@
     + Linear Algebra + Numerics
         + [Numerics & math foundation](https://users.rust-lang.org/t/numerics-math-foundation/7247
         + [Request for some numerics related features](https://users.rust-lang.org/t/request-for-some-numerics-related-features/3530/6)
+            + [Create RUST posit arithmetic library based on 21 February 2017 Posit Arithmetic by John L. Gustafson - Beating Floating Point at its Own Game](https://users.rust-lang.org/t/create-rust-posit-arithmetic-library-based-on-21-february-2017-posit-arithmetic-by-john-l-gustafson-beating-floating-point-at-its-own-game/10077/3)
         + [A linear algebra library in Rust designed for machine learning](https://github.com/AtheMathmo/rulinalg)
         + [Linear Algebra in Rust](http://athemathmo.github.io/2016/03/23/linear-algebra-in-rust.html)
         + [Multithreaded matrix multiplication in Rust - Part I](http://athemathmo.github.io/2016/04/16/multithreading-multiplication-1.html)
