@@ -97,8 +97,9 @@
                     + [macro expand](https://github.com/dtolnay/cargo-expand)
             + [Loop unrolling on request](https://internals.rust-lang.org/t/loop-unrolling-on-request/3091/3)
 
-    + Linear Algebra
+    + Linear Algebra + Numerics
         + [Numerics & math foundation](https://users.rust-lang.org/t/numerics-math-foundation/7247
+        + [Request for some numerics related features](https://users.rust-lang.org/t/request-for-some-numerics-related-features/3530/6)
         + [A linear algebra library in Rust designed for machine learning](https://github.com/AtheMathmo/rulinalg)
         + [Linear Algebra in Rust](http://athemathmo.github.io/2016/03/23/linear-algebra-in-rust.html)
         + [Multithreaded matrix multiplication in Rust - Part I](http://athemathmo.github.io/2016/04/16/multithreading-multiplication-1.html)
