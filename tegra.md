@@ -173,3 +173,10 @@
         sudo xrandr -s 1
         ```
     + [Enhancements of the massively parallel memory allocator ScatterAlloc and its adaption to the general interface mallocMC](https://zenodo.org/record/34461/files/mallocMC_final.pdf)
+    + Network Troubleshooting
+        + [Jetson/Remote Access](http://elinux.org/Jetson/Remote_Access)
+        + tl;dr
+        ```sh
+        sudo service networking start
+        sudo service network-manager start
+        ```
