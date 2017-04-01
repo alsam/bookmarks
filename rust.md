@@ -571,6 +571,10 @@
 
     + Linux distros Rust support
         + [Fedora to support Rust Compiler](https://fedoraproject.org/wiki/Changes/RustCompiler)
+        + Rust crates for packaging systems
+            + [A cargo subcommand that generates Debian packages from information in Cargo.toml](https://github.com/mmstick/cargo-deb)
+                + [Announcing Cargo Deb](https://www.reddit.com/r/rust/comments/4ofiyr/announcing_cargo_deb/)
+            + [cargo-arch - generate Arch Linux packages from information in Cargo.toml](https://github.com/wdv4758h/cargo-arch/)
 
     + Run Rust code on your NVIDIA GPU
         + [Rust nvptx](https://github.com/japaric/nvptx)
