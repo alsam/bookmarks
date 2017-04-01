@@ -249,10 +249,12 @@
         + [Rust and the Blub Paradox](http://www.jonathanturner.org/2016/01/rust-and-blub-paradox.html)
              + [You can't spell trust without Rust](https://cdn.rawgit.com/Gankro/thesis/master/thesis.pdf)
              + [You can't spell trust without Rust](https://twitter.com/rustlang/status/689823725219377152)
-    + Docs: generation, in Russian, vs. C++
+    + Books, Docs: generation, in Russian, vs. C++
+        + [Rust Books List](https://github.com/sger/RustBooks)
+        + [Rust for C++ Programmers](https://www.gitbook.com/book/aminb/rust-for-c/details)
+        + [Rust Programming Step-by-Step](https://www.gitbook.com/book/carlomilanesi/rust-programming-step-by-step/details)
         + [Convert The Rust Programming Language to Epub](https://gist.github.com/killercup/a793e09638379dbc74e4#file-trpl-epub-rb)
         + [The Rust Programming Language (на русском)](https://www.gitbook.com/book/kgv/rust_book_ru/details)
-        + [Rust for C++ Programmers](https://www.gitbook.com/book/aminb/rust-for-c/details)
         + [Rust for clojurists](https://gist.github.com/oakes/4af1023b6c5162c6f8f0)
         + [Язык программирования Rust и первые впечатления от него (17 ноября 2014)](http://eax.me/rust/)
             + [Десять веских причин не тащить в продакшн новые игрушки](http://eax.me/avoid-new-toys/)
