@@ -89,6 +89,7 @@
 
     + [TensorFlow - Google’s latest machine learning system, open sourced for everyone](http://googleresearch.blogspot.ru/2015/11/tensorflow-googles-latest-machine_9.html)
         + [TensorFlow](http://www.tensorflow.org/)
+            + [TensorFlow: A primer](https://blog.metaflow.fr/tensorflow-a-primer-4b3fa0978be3)
             + [Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow/)
             + [TensorFlow white paper](http://download.tensorflow.org/paper/whitepaper2015.pdf)
         + [Setup_TensorFlow.md](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/Setup_TensorFlow.md)
