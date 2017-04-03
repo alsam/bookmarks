@@ -295,7 +295,9 @@
         systemctl enable wicd
         systemctl start wicd
 
+        sudo pip install gdbgui --upgrade
         ```
+        + [gdbgui review](https://tproger.ru/articles/gdbgui-for-browser/)
         + [Slack Desktop (Beta) for Linux](https://aur.archlinux.org/packages/slack-desktop/)
         + [The Rust toolchain installer](https://aur.archlinux.org/packages/rustup/)
         + [[SOLVED] Graphics / Nvidia / Opengl not working as expected](https://bbs.archlinux.org/viewtopic.php?id=213895)
