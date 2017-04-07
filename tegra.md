@@ -206,3 +206,5 @@
     ```sh
     sudo systemctl mask sleep.target suspend.target hibernate.target hybrid-sleep.target
     ```
+
+    + [U-Boot splash screen on Jetson TX1](https://devtalk.nvidia.com/default/topic/994301/jetson-tx1/l4t-24-2-plymouth-boot-splash/)
