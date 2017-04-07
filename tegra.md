@@ -180,3 +180,21 @@
         sudo service networking start
         sudo service network-manager start
         ```
+
+    + cursor disable in X11
+        + [cursor disable in X11](http://www.noah.org/wiki/cursor_disable_in_X11)
+        ```sh
+        cat /lib/systemd/system/X.service
+        ...
+        ExecStart=/usr/bin/startx -- -nocursor
+        ...
+        sudo systemctl daemon-reload
+        sudo systemctl restart X
+        ```
+        + [red herring - hhpc](https://github.com/Aktau/hhpc)
+        + [How to hide the mouse cursor](https://askubuntu.com/questions/157134/how-to-hide-the-mouse-cursor/586718)
+
+    + [How do I disable my system from going to sleep?](http://askubuntu.com/questions/47311/how-do-i-disable-my-system-from-going-to-sleep)
+    ```sh
+    sudo systemctl mask sleep.target suspend.target hibernate.target hybrid-sleep.target
+    ```
