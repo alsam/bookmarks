@@ -83,3 +83,6 @@
 
 + Stencil computations
     + [Ускоряем трафаретные вычисления: сборка и запуск YASK на процессорах Intel](https://habrahabr.ru/company/intel/blog/305128/)
+
++ [A flexible package manager that supports multiple versions, configurations, platforms, and compilers. https://spack.io](https://github.com/LLNL/spack)
+    + [Tutorial: Spack 101](https://spack.readthedocs.io/en/latest/tutorial_sc16.html)
