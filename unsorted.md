@@ -24,3 +24,6 @@
         + [50+ Free Data Science Books](http://www.datasciencecentral.com/profiles/blogs/50-free-data-science-books?xg_source=activity)
 
     + [Explained Visually](http://setosa.io/ev/)
+
+
+    + [ThCS. Introduction to programming with dependent types in Scala](https://stepik.org/course/ThCS-Introduction-to-programming-with-dependent-types-in-Scala-2294/)

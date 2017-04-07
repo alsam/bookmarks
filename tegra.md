@@ -36,6 +36,14 @@
         + [tegra downloads](https://developer.nvidia.com/embedded/downloads)
         + [TX1/R23.1: New Flash Structure...How to Clone?](https://devtalk.nvidia.com/default/topic/898999/jetson-tx1/tx1-r23-1-new-flash-structure-how-to-clone-/post/4784149/#4784149)
         + [Updating TX1 driver package but not rootfs](https://devtalk.nvidia.com/default/topic/940485/updating-tx1-driver-package-but-not-rootfs/)
+        + cross compile U-Boot
+        ```sh
+        export CROSS_COMPILE=/opt/linaro/gcc-linaro-5.3-2016.02-x86_64_aarch64-linux-gnu/bin/aarch64-linux-gnu-
+        export ARCH=arm64
+        make distclean
+        make p2371-2180_defconfig
+        make
+        ```
         + [Jetson/Cloning](http://elinux.org/Jetson/Cloning)
             + [tegrarcm](https://github.com/NVIDIA/tegrarcm)
             ```sh
