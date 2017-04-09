@@ -102,9 +102,16 @@
             sudo pip uninstall /tmp/tensorflow_pkg/tensorflow-1.0.0rc1-cp36-cp36m-linux_x86_64.whl
             sudo pip install /tmp/tensorflow_avx2_pkg/tensorflow-1.0.0rc1-cp36-cp36m-linux_x86_64.whl
             ```
+            + [How to find which version of TensorFlow is installed in my system?](http://stackoverflow.com/questions/38549253/how-to-find-which-version-of-tensorflow-is-installed-in-my-system)
+            tl;dr
+            ```sh
+            python -c 'import tensorflow as tf; print(tf.__version__)'
+            ```
             + [gpu-accelerated-applications-tensorflow-installation](http://www.nvidia.com/object/gpu-accelerated-applications-tensorflow-installation.html)
             + [How to compile Tensorflow with SSE4.2 and AVX instructions?](http://stackoverflow.com/questions/41293077/how-to-compile-tensorflow-with-sse4-2-and-avx-instructions)
             + [Feature request: Please provide AVX2/FMA capable builds](https://github.com/tensorflow/tensorflow/issues/7257)
+        + [sonnet: TensorFlow-based neural network library](https://github.com/deepmind/sonnet)
+            + [Google’s DeepMind Is Now Open Sourcing Sonnet](http://imgworkz.com/digital-marketing/artificial-intelligence/googles-deepmind-now-open-sourcing-sonnet/)
         + [Open source software library for numerical computation using data flow graphs](https://github.com/tensorflow/tensorflow)
         + [A deep Q learning demonstration using Google Tensorflow](https://github.com/nivwusquorum/tensorflow-deepq)
         + [Simplified interface for TensorFlow (mimicking Scikit Learn)](https://github.com/tensorflow/skflow)
