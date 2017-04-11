@@ -10,7 +10,7 @@
         + [Rust by example](https://github.com/rust-lang/rust-by-example)
     + [Implementing Rosetta Code problems in Rust](https://github.com/Hoverbear/rust-rosetta)
     + [Rust projects]
-        + [Trending Rust projects](https://github.com/trending/rust
+        + [Trending Rust projects](https://github.com/trending/rust)
         + [Is Rust CI still working?](https://www.reddit.com/r/rust/comments/3blikk/is_rust_ci_still_working/)
         + [huonw/travis-cargo](https://github.com/huonw/travis-cargo)
     + [Awesome Rust: A curated list of awesome Rust code and resources](https://github.com/kud1ing/awesome-rust)
