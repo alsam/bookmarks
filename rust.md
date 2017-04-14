@@ -498,7 +498,6 @@
                 + [Design patterns for composability with traits (i.e. typeclasses)?](https://users.rust-lang.org/t/design-patterns-for-composability-with-traits-i-e-typeclasses/5569/)
         + [`step_by` on negative numbers](https://internals.rust-lang.org/t/step-by-on-negative-numbers/2231)
         + [GPU support](https://internals.rust-lang.org/t/single-source-gpu-support/898/13)
-49)
 
     + [Add LaTeX support to Rustdoc](https://github.com/rust-lang/rust/issues/34261)
         + [Add Mathjax (KaTeX?) Support to Rustdoc #16300 ](https://github.com/rust-lang/rust/issues/16300)
@@ -530,6 +529,7 @@
     + [A native-rust implementation of an Effect monad, inspired by PureScript's EFF Monad](https://crates.io/crates/effect-monad/)
 
     + [pijul - distributed version control system written in Rust](https://pijul.org)
+        + [Add Pijul support to Cargo](https://github.com/rust-lang/cargo/pull/3842)
 
     + [`Recycle` - ergonomic allocated memory reusing.](https://www.reddit.com/r/rust/comments/521vxl/recyle_ergonomic_allocated_memory_reusing/)
 
