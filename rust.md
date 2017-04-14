@@ -409,8 +409,6 @@
 
         + [Library of well known algorithms for numerical root finding](https://crates.io/crates/roots/)
 
-        + [Rust docopt](Library of well known algorithms for numerical root finding)
-
         + [Rustdoc: reStructuredText vs Markdown: On The Potential Inadequacy of Markdown](https://internals.rust-lang.org/t/rustdoc-restructuredtext-vs-markdown/356/71)
 
         + [How to implement a C union in Rust](https://users.rust-lang.org/t/how-to-implement-a-c-union-in-rust/3291/4)
@@ -422,10 +420,6 @@
         + [Rust implementation of the Quine-McCluskey](https://github.com/oli-obk/quine-mc_cluskey)
 
         + [cargo-tree](https://github.com/sfackler/cargo-tree)
-
-        + [Rust and Rest](http://lucumr.pocoo.org/2016/7/10/rust-rest/)
-            + [Rust bindings to libcurl](https://github.com/alexcrichton/curl-rust)
-
         produces
         ```sh
         $ cargo tree
@@ -451,6 +445,9 @@
            ├── libc v0.2.4 (*)
            └── winapi v0.2.5 (*)
         ```
+
+        + [Rust and Rest](http://lucumr.pocoo.org/2016/7/10/rust-rest/)
+            + [Rust bindings to libcurl](https://github.com/alexcrichton/curl-rust)
 
         + [Accumulator factory Rust](http://rosettacode.org/wiki/Accumulator_Factory#Rust)
         ```rust
