@@ -527,6 +527,7 @@
 
     + [pijul - distributed version control system written in Rust](https://pijul.org)
         + [Add Pijul support to Cargo](https://github.com/rust-lang/cargo/pull/3842)
+        + [Pijul: Sane Version Control (Pierre Étienne Meunier)](https://vk.com/video-75161087_456239088)
 
     + [`Recycle` - ergonomic allocated memory reusing.](https://www.reddit.com/r/rust/comments/521vxl/recyle_ergonomic_allocated_memory_reusing/)
 
