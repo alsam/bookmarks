@@ -204,6 +204,7 @@
         + [Associated type constructors (a form of higher-kinded polymorphism)](https://github.com/rust-lang/rfcs/pull/1598)
         + [[Roadmap 2017] Productivity: learning curve and expressiveness](https://internals.rust-lang.org/t/roadmap-2017-productivity-learning-curve-and-expressiveness/4097)
         + [Roadmap 2017 request - needs of HPC](https://internals.rust-lang.org/t/roadmap-2017-request-needs-of-hpc/4276)
+        + [Language ergonomic/learnability improvements](https://github.com/rust-lang/rust-roadmap/issues/17)
 
     + [IDE для Rust](http://rustycrate.ru/%D1%80%D1%83%D0%BA%D0%BE%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%B0/2015/12/04/ide-for-rust.html)
         + [Are we (I)DE yet?](http://areweideyet.com/)
