@@ -90,6 +90,7 @@
     + [TensorFlow - Google’s latest machine learning system, open sourced for everyone](http://googleresearch.blogspot.ru/2015/11/tensorflow-googles-latest-machine_9.html)
         + [TensorFlow](http://www.tensorflow.org/)
             + [TensorFlow: A primer](https://blog.metaflow.fr/tensorflow-a-primer-4b3fa0978be3)
+            + [TensorFlow Tutorial: 10 minutes Practical TensorFlow lesson for quick learners](http://cv-tricks.com/artificial-intelligence/deep-learning/deep-learning-frameworks/tensorflow-tutorial/)
             + [Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow/)
             + [TensorFlow white paper](http://download.tensorflow.org/paper/whitepaper2015.pdf)
         + [Setup_TensorFlow.md](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/Setup_TensorFlow.md)
@@ -170,6 +171,7 @@
             + [Зоопарк архитектур нейронных сетей. Часть 2](https://habrahabr.ru/company/wunderfund/blog/313906/)
 
     + misc.
+        + [Innovations of AlphaGo](https://deepmind.com/blog/innovations-alphago/)
         + [Deep Learning links](http://deeplearning.net/software_links/)
         + [VK:  Библиотеки реализующие алгоритмы Deep Learning Nikolay Sergievsky](https://vk.com/topic-44016343_29211791)
         + [FB link on ML](https://m.facebook.com/elcompeng/posts/816517058368363)
