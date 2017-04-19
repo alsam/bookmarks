@@ -1,5 +1,13 @@
 # useful tips
 
++ [OOP cheatsheet](https://tproger.ru/translations/oop-principles-cheatsheet/)
+    + tl;dr
+        + use with inheritance
+            + delegation
+            + composition
+            + aggregation
+        + DRY - don't repeat yourself
+
 + Backup + Restore of the system
     + [Howto: Backup and restore your system!](https://ubuntuforums.org/showthread.php?t=35087)
         + Backup:
