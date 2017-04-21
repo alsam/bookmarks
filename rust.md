@@ -100,7 +100,9 @@
     + Linear Algebra + Numerics
         + [Numerics & math foundation](https://users.rust-lang.org/t/numerics-math-foundation/7247
         + [Request for some numerics related features](https://users.rust-lang.org/t/request-for-some-numerics-related-features/3530/6)
-            + [Create RUST posit arithmetic library based on 21 February 2017 Posit Arithmetic by John L. Gustafson - Beating Floating Point at its Own Game](https://users.rust-lang.org/t/create-rust-posit-arithmetic-library-based-on-21-february-2017-posit-arithmetic-by-john-l-gustafson-beating-floating-point-at-its-own-game/10077/3)
+            + [(former Unum)Create RUST posit arithmetic library based on 21 February 2017 Posit Arithmetic by John L. Gustafson - Beating Floating Point at its Own Game](https://users.rust-lang.org/t/create-rust-posit-arithmetic-library-based-on-21-february-2017-posit-arithmetic-by-john-l-gustafson-beating-floating-point-at-its-own-game/10077/3)
+            + [Pre-RFC: Dealing with broken floating point](https://internals.rust-lang.org/t/pre-rfc-dealing-with-broken-floating-point/2673/22)
+            + [John Gustafson presents: Beyond Floating Point – Next Generation Computer Arithmetic](http://insidehpc.com/2017/02/john-gustafson-presents-beyond-floating-point-next-generation-computer-arithmetic/)
         + [A linear algebra library in Rust designed for machine learning](https://github.com/AtheMathmo/rulinalg)
         + [Linear Algebra in Rust](http://athemathmo.github.io/2016/03/23/linear-algebra-in-rust.html)
         + [Multithreaded matrix multiplication in Rust - Part I](http://athemathmo.github.io/2016/04/16/multithreading-multiplication-1.html)
@@ -201,10 +203,12 @@
         + [My thoughts on Rust in 2016](http://www.ncameron.org/blog/my-thoughts-on-rust-in-2016/)
 
     + [Setting vision for 2017 cycle](https://internals.rust-lang.org/t/setting-our-vision-for-the-2017-cycle/3958/156)
+        + [Rust's 2017 roadmap](https://blog.rust-lang.org/2017/02/06/roadmap.html)
         + [Associated type constructors (a form of higher-kinded polymorphism)](https://github.com/rust-lang/rfcs/pull/1598)
         + [[Roadmap 2017] Productivity: learning curve and expressiveness](https://internals.rust-lang.org/t/roadmap-2017-productivity-learning-curve-and-expressiveness/4097)
         + [Roadmap 2017 request - needs of HPC](https://internals.rust-lang.org/t/roadmap-2017-request-needs-of-hpc/4276)
         + [Language ergonomic/learnability improvements](https://github.com/rust-lang/rust-roadmap/issues/17)
+        + [Rust Objectives Observation](https://users.rust-lang.org/t/rust-objectives-observation/10348/40)
 
     + [IDE для Rust](http://rustycrate.ru/%D1%80%D1%83%D0%BA%D0%BE%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%B0/2015/12/04/ide-for-rust.html)
         + [Are we (I)DE yet?](http://areweideyet.com/)
@@ -233,6 +237,8 @@
         + [Rust's flawed dynamic type](https://www.reddit.com/r/rust/comments/3mtim0/rusts_flawed_dynamic_type/)
             + [chris-morgan/mopa](https://github.com/chris-morgan/mopa)
         + [Mixing matching, mutation, and moves in Rust](http://blog.rust-lang.org/2015/04/17/Enums-match-mutation-and-moves.html)
+        + [Polymorphism in Rust: Enum vs Trait + Struct](http://keepcalmandlearnrust.com/2017/03/polymorphism-in-rust-enum-vs-trait-struct/)
+        + [Implementing an object factory pattern in Rust using closures](http://keepcalmandlearnrust.com/2016/08/implementing-an-object-factory-pattern-in-rust-using-closures/)
 
     + Rust concurrency
         + [Concurrent Programming in Rust course EECS 3/495](http://users.eecs.northwestern.edu/~jesse/course/eecs395rust-wi16/)
@@ -250,6 +256,8 @@
         + [Rust and the Blub Paradox](http://www.jonathanturner.org/2016/01/rust-and-blub-paradox.html)
              + [You can't spell trust without Rust](https://cdn.rawgit.com/Gankro/thesis/master/thesis.pdf)
              + [You can't spell trust without Rust](https://twitter.com/rustlang/status/689823725219377152)
+        + [cpp_to_rust](https://github.com/rust-qt/cpp_to_rust)
+
     + Books, Docs: generation, in Russian, vs. C++
         + [Rust Books List](https://github.com/sger/RustBooks)
         + [Rust for C++ Programmers](https://www.gitbook.com/book/aminb/rust-for-c/details)
@@ -260,6 +268,7 @@
         + [Язык программирования Rust и первые впечатления от него (17 ноября 2014)](http://eax.me/rust/)
             + [Десять веских причин не тащить в продакшн новые игрушки](http://eax.me/avoid-new-toys/)
             + [Criticizing the Rust Language, and Why C/C++ Will Never Die](http://www.viva64.com/en/b/0324/)
+
     + [epsilonz - Functional Programming in Rust](https://github.com/epsilonz)
 
     + [Abstracted Algebra in Rust, or, Why Rust is better than C++, part I](http://maniagnosis.crsr.net/2015/07/abstracted-algebra-in-rust.html)
