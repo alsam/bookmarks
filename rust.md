@@ -379,6 +379,8 @@
             + [Specialization/Inheritance](https://internals.rust-lang.org/t/specialization-inheritance/3030)
             + [Abstraction without overhead: traits in Rust](http://blog.rust-lang.org/2015/05/11/traits.html)
                 + [Most coveted Rust features](https://users.rust-lang.org/t/most-coveted-rust-features/324/15)
+        + [confusing error "ambiguous associated type" on missing enum variants](https://github.com/rust-lang/rust/issues/41003)
+            + [How do I disambiguate associated types?](http://stackoverflow.com/questions/31251170/how-do-i-disambiguate-associated-types)
 
     + Useful tips
         + [Read a file line by line](https://users.rust-lang.org/t/read-a-file-line-by-line/1585)
