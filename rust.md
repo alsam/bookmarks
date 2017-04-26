@@ -359,6 +359,19 @@
 
         + [Generics over the size of an array type](https://internals.rust-lang.org/t/generics-over-the-size-of-an-array-type/2845)
         + [Generics, Arrays and Cloning](https://users.rust-lang.org/t/generics-arrays-and-cloning/694/3)
+        + [Tricks with ownership in Rust](http://xion.io/post/code/rust-borrowchk-tricks.html
+        + [Effectively Using Iterators In Rust](http://hermanradtke.com/2015/06/22/effectively-using-iterators-in-rust.html)
+            + [What is the difference between iter and into_iter?](http://stackoverflow.com/questions/34733811/what-is-the-difference-between-iter-and-into-iter)
+            tl;dr
+            ```rust
+            let vec1 = vec![1, 2, 3];
+            let vec2 = vec![4, 5, 6];
+            
+            // `iter()` for vecs yields `&i32`. Destructure to `i32`.
+            println!("2 in vec1: {}", vec1.iter()     .any(|&x| x == 2));
+            // `into_iter()` for vecs yields `i32`. No destructuring required.
+            println!("2 in vec2: {}", vec2.into_iter().any(| x| x == 2));
+            ```
         + [Initialize an array with a closure](http://stackoverflow.com/questions/29682881/initialize-an-array-with-a-closure)
         + [OOP inheritance adapted to Rust](https://internals.rust-lang.org/t/oop-inheritance-adapted-to-rust/586)
             + [Usecases for inheritance](https://users.rust-lang.org/t/usecases-for-inheritance/348)
