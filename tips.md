@@ -332,9 +332,15 @@
             mount /dev/sda2 /mnt
             mount /dev/sda1 /mnt/boot/EFI # this is very important
             mount /dev/sda3 /mnt/home
+            mount -t proc none /mnt/proc
+            mount -o bind /dev /mnt/dev
+            ln /sys /mnt/sys
+            or
+            mount -t sysfs sys /mnt/sys
             arch-chroot /mnt /bin/bash
             grub-install
             ```
+                + [mount dev, proc, sys in a chroot environment?](https://superuser.com/questions/165116/mount-dev-proc-sys-in-a-chroot-environment)
 + RHEL
     + [Software Collections for Scientific Linux CERN 6](http://linux.web.cern.ch/linux/scl/)
     + [Software Collections for Scientific Linux CERN 6 : RPMS](http://linuxsoft.cern.ch/cern/scl/slc6X/x86_64/RPMS/)
