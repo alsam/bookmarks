@@ -416,6 +416,12 @@
 
         + [How do I sum a vector using fold?](http://stackoverflow.com/questions/29548819/how-do-i-sum-a-vector-using-fold)
 
+        + [How do you import macros in submodules in Rust?](http://stackoverflow.com/questions/39175953/how-do-you-import-macros-in-submodules-in-rust)
+        tl;dr
+        ```sh
+        an `extern crate` loading macros must be at the crate root
+        ```
+        put the `#[macro_use] extern crate serde_derive;` in the crate root, which is `main.rs` and/or `lib.rs`
 
     + Selected RFCs
         + [RFC 1210: impl specialization](https://github.com/rust-lang/rfcs/blob/master/text/1210-impl-specialization.md)
