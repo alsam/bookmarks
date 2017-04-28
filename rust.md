@@ -423,6 +423,8 @@
         ```
         put the `#[macro_use] extern crate serde_derive;` in the crate root, which is `main.rs` and/or `lib.rs`
 
+        + [Lifetime error when creating a function that returns a value implementing serde::Deserialize](http://stackoverflow.com/questions/43554679/lifetime-error-when-creating-a-function-that-returns-a-value-implementing-serde)
+
     + Selected RFCs
         + [RFC 1210: impl specialization](https://github.com/rust-lang/rfcs/blob/master/text/1210-impl-specialization.md)
             + [Implement RFC 1210: impl specialization #30652](https://github.com/rust-lang/rust/pull/30652)
