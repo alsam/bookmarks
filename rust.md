@@ -228,6 +228,7 @@
         + [On rust's memory management: Mainly for C/C++ programmers](http://blog.zgtm.de/)
         + [Why not just add classes?](https://users.rust-lang.org/t/why-not-just-add-classes/4618)
             + [Composition over inheritance](https://en.wikipedia.org/wiki/Composition_over_inheritance)
+        + [Today I learned — episode 3 (strong typing in C++ vs. Rust)](https://andidog.de/blog/2016-11-04-today-i-learned-3-strong-typing-in-cpp-vs-rust)
 
     + Rust patterns
         + [A catalogue of Rust design patterns](https://github.com/rust-unofficial/patterns)
