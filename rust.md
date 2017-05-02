@@ -439,6 +439,8 @@
 
         + [A vantage-point tree implementation backed by vectors for good performance with no unsafe code](https://crates.io/crates/vec-vp-tree)
 
+        + [Grouping structs with enums](http://stackoverflow.com/questions/29088633/grouping-structs-with-enums)
+
         + [Special functions for Rust by binding to the Cephes library](https://crates.io/crates/special-fun/)
 
         + [Library of well known algorithms for numerical root finding](https://crates.io/crates/roots/)
@@ -568,6 +570,33 @@
     + Hardware (bare metal) - OSes, ISA simulators,etc.
         + DBus
             + [DBus projects in Rust](https://crates.io/search?q=dbus)
+            + [A D-Bus binding for Rust](https://github.com/diwic/dbus-rs)
+            + [dbus-rs/src/message.rs](https://github.com/diwic/dbus-rs/blob/564e5af97a536d1a8cf93abdd2ad8550852a7b69/src/message.rs)
+            + [argument_guide](https://github.com/diwic/dbus-rs/blob/master/examples/argument_guide.md)
+            + [Struct dbus::arg::Iter](https://docs.rs/dbus/0.5.2/dbus/arg/struct.Iter.html)
+            tl;dr
+            ```rust
+            struct ServiceBrowserItemNew {
+                interface: i32,
+                protocol: i32,
+                name: String,
+                item_type: String,
+                domain: String,
+                flags: u32,
+            }
+            
+            fn service_browser_item_new_msg(m: &Message) -> Result<ServiceBrowserItemNew, TypeMismatchError> {
+                let mut iter = m.iter_init();
+                Ok(ServiceBrowserItemNew {
+                    interface: try!(iter.read()),
+                    protocol: try!(iter.read()),
+                    name: try!(iter.read()),
+                    item_type: try!(iter.read()),
+                    domain: try!(iter.read()),
+                    flags: try!(iter.read()),
+                })
+            }
+            ```
 
             + [D-Bus Desktop Notification using dbus-rs](http://stackoverflow.com/questions/29800616/d-bus-desktop-notification-using-dbus-rs)
                 + [Send Desktop Notifications on linux and bsd](https://github.com/hoodie/notify-rust)
