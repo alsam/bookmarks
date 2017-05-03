@@ -250,6 +250,83 @@
         + [Passing structure over d-bus - glib - example](https://lists.freedesktop.org/archives/dbus/2008-January/009171.html)
         + [[dbus-cplusplus-devel] Proposal: Give objects through dbus-c++](https://sourceforge.net/p/dbus-cplusplus/mailman/message/20200933/)
         + [DBus speed presentation](https://willthompson.co.uk/talks/the-slothful-ways-of-d-bus.pdf)
+        + sdbus - and shutdown
+            + [The new sd-bus API of systemd](http://0pointer.net/blog/the-new-sd-bus-api-of-systemd.html)
+                + [Patrick Williams' gists for sdbus](https://gist.github.com/williamspatrick)
+            + [systemd-233/src/libsystemd/sd-bus/test-bus-objects.c](https://fossies.org/linux/systemd/src/libsystemd/sd-bus/test-bus-objects.c)
+            + [C++ bindings for systemd dbus APIs](https://github.com/openbmc/sdbusplus)
+
+            tl;dr poweroff
+            ```
+            gdbus introspect --system --dest org.freedesktop.systemd1 --object-path /org/freedesktop/systemd1
+            ...
+              interface org.freedesktop.systemd1.Manager {
+                methods:
+            ...
+                 PowerOff();
+            ...
+            ```
+            ```sh
+            sudo busctl call org.freedesktop.systemd1 /org/freedesktop/systemd1 org.freedesktop.systemd1.Manager PowerOff
+            reboot: Power down
+            ```
+            ```c++
+            #include <stdio.h>
+            #include <stdlib.h>
+            #include <systemd/sd-bus.h>
+             
+            int main(int argc, char *argv[])
+            {
+                sd_bus_error error = SD_BUS_ERROR_NULL;
+                sd_bus_message *m = NULL;
+                sd_bus *bus = NULL;
+                const char *path;
+                int r;
+             
+                // Connect to the system bus
+                r = sd_bus_open_system(&bus);
+                if (r < 0) {
+                    fprintf(stderr, "Failed to connect to system bus: %s\n", strerror(-r));
+                    goto finish;
+                }
+             
+                // Issue the method call and store the respons message in m
+                r = sd_bus_call_method(bus,
+                                       "org.freedesktop.systemd1",           // service to contact
+                                       "/org/freedesktop/systemd1",          // object path
+                                       "org.freedesktop.systemd1.Manager",   // interface name
+                                       "PowerOff",                           // method name
+                                       &error,                               // object to return error in
+                                       &m,                                   // return message on success
+                                       nullptr,                              // input signature
+                                       nullptr);                             // 1st arg
+                if (r < 0) {
+                    fprintf(stderr, "Failed to issue method call: %s\n", error.message);
+                    goto finish;
+                }
+             
+                /* Parse the response message */
+                r = sd_bus_message_read(m, "o", &path);
+                if (r < 0) {
+                    fprintf(stderr, "Failed to parse response message: %s\n", strerror(-r));
+                    goto finish;
+                }
+             
+                printf("Queued service job as %s.\n", path);
+             
+            finish:
+                sd_bus_error_free(&error);
+                sd_bus_message_unref(m);
+                sd_bus_unref(bus);
+             
+                return r < 0 ? EXIT_FAILURE : EXIT_SUCCESS;
+            }
+            ```
+            ```sh
+            g++ systemd-service-client.cc -o systemd-service-client `pkg-config --cflags --libs libsystemd`
+            ``` 
+
+    + [How to shutdown Linux using C++ or Qt without call to “system()”?](http://stackoverflow.com/questions/28812514/how-to-shutdown-linux-using-c-or-qt-without-call-to-system/28812629)
 
     + Gentoo tips
         + [Gentoo Cheat Sheet](https://wiki.gentoo.org/wiki/Gentoo_Cheat_Sheet)
