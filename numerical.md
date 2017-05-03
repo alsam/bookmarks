@@ -30,6 +30,8 @@
     + [SIMD Vector Classes for C++](https://github.com/VcDevel/Vc)
     + [psBLAS -- Parallel Sparse Basic Linear Algebra Subroutines -- Fortran2003](http://www.ce.uniroma2.it/psblas/)
     + [Elemental is a modern C++ library for distributed-memory dense and sparse-direct linear algebra and optimization.](https://github.com/elemental/Elemental)
+        + [Elemental.jl](https://github.com/JuliaParallel/Elemental.jl)
+    + [Recommendations for a usable, fast C++ matrix library?](https://scicomp.stackexchange.com/questions/351/recommendations-for-a-usable-fast-c-matrix-library)
 
 
 + SIMD
@@ -124,6 +126,8 @@
 
 + Unum
     + [What are the biggest challenges in scientific computing?](https://www.quora.com/What-are-the-biggest-challenges-in-scientific-computing)
+        + [John Gustafson presents: Beyond Floating Point – Next Generation Computer Arithmetic](http://insidehpc.com/2017/02/john-gustafson-presents-beyond-floating-point-next-generation-computer-arithmetic/)
+            + [(former Unum)Create RUST posit arithmetic library based on 21 February 2017 Posit Arithmetic by John L. Gustafson - Beating Floating Point at its Own Game](https://users.rust-lang.org/t/create-rust-posit-arithmetic-library-based-on-21-february-2017-posit-arithmetic-by-john-l-gustafson-beating-floating-point-at-its-own-game/10077/3)
         + [UNUM ... a better alternative to IEEE Floating Point?](https://www.reddit.com/comments/2ckk5u)
         + [The Evils of Floating Point, and the Joys of Unum](http://vrworld.com/2015/03/24/the-evils-of-floating-point-and-the-joys-of-unum/)
         + [John Gustafson (scientist)](https://en.wikipedia.org/wiki/John_Gustafson_%28scientist%29)
