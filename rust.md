@@ -440,6 +440,39 @@
         + [A vantage-point tree implementation backed by vectors for good performance with no unsafe code](https://crates.io/crates/vec-vp-tree)
 
         + [Grouping structs with enums](http://stackoverflow.com/questions/29088633/grouping-structs-with-enums)
+            + [Proc macro crate for working with newtype enums: FromVariants](https://users.rust-lang.org/t/proc-macro-crate-for-working-with-newtype-enums-fromvariants/10546)
+            tl;dr
+            ```rust
+            //! Example
+            #![warn(missing_docs)]
+            
+            #[macro_use]
+            extern crate from_variants;
+            
+            /// A sample struct.
+            #[derive(Debug, Clone, FromVariants)]
+            pub enum Lorem {
+                /// Hello world
+                #[from_variants(skip)]
+                Str(String),
+                
+                /// Hello world
+                Num(u16),
+            }
+            
+            fn main() {
+                println!("{:?}", Lorem::from(10));
+            }
+            ```
+            generated
+            ```rust
+            #[doc = "Convert into a `Num` variant."]
+            impl ::std::convert::From<u16> for Lorem {
+                fn from(v: u16) -> Self {
+                    Lorem::Num(v)
+                }
+            }
+            ```
 
         + [Special functions for Rust by binding to the Cephes library](https://crates.io/crates/special-fun/)
 
