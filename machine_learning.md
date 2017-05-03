@@ -123,6 +123,9 @@
         + [Announcing SyntaxNet: The World’s Most Accurate Parser Goes Open Source ](http://googleresearch.blogspot.ru/2016/05/announcing-syntaxnet-worlds-most.html)
         + [SyntaxNet: Neural Models of Syntax](https://github.com/tensorflow/models/tree/master/syntaxnet)
 
+    + [Caffe2](https://tproger.ru/news/facebook-caffe2-deep-learning/)
+        + [Caffe2 github](https://github.com/caffe2/caffe2)
+
     + [Amazon's Deep Scalable Sparse Tensor Network Engine (DSSTNE) ](https://github.com/amznlabs/amazon-dsstne)
         + [Amazon open-sources its own deep learning software, DSSTNE](http://venturebeat.com/2016/05/11/amazon-open-sources-its-own-deep-learning-software-dsstne/)
 
