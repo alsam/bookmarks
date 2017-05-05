@@ -384,6 +384,8 @@
             + [How do I disambiguate associated types?](http://stackoverflow.com/questions/31251170/how-do-i-disambiguate-associated-types)
 
     + Useful tips
+        + [Use VIM as your RUST IDE](https://github.com/ivanceras/rust-vim-setup)
+
         + [Read a file line by line](https://users.rust-lang.org/t/read-a-file-line-by-line/1585)
 
         + [Rust Tips and Tricks](https://thesquareplanet.com/blog/rust-tips-and-tricks/)
