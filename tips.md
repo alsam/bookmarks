@@ -159,6 +159,7 @@
             + [libtinfo.so.* missing in Arch Linux](https://github.com/Valloric/YouCompleteMe/issues/778)
         + [Demystifying multi file searches in `vim` and the command line](https://seesparkbox.com/foundry/demystifying_multi_file_searches_in_vim_and_the_command_line)
         + [Use VIM as your RUST IDE](https://github.com/ivanceras/rust-vim-setup)
+        + [How to install NERDTree with Vundle?](https://vi.stackexchange.com/questions/5335/how-to-install-nerdtree-with-vundle)
 
     + Emacs
         + [Хорошо настроенный Emacs](http://habrahabr.ru/post/274759/)
