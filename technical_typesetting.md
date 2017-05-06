@@ -21,6 +21,18 @@
         yaourt -S ttf-cm-unicode
         ```
         + [Problems with Cyrillic fonts in XeTeX](http://tex.stackexchange.com/questions/209614/problems-with-cyrillic-fonts-in-xetex)
+    + [Show equation number only once in align environment](https://tex.stackexchange.com/questions/17528/show-equation-number-only-once-in-align-environment)
+      tl;dr
+      ```latex
+      \begin{align}
+      \begin{split}
+        a &= b \\
+        &=c \\
+        &=d \\
+        &=e
+      \end{split}
+      \end{align}
+      ```
     + [What are the main differences between Texmaker and TeXstudio?](http://tex.stackexchange.com/questions/208219/what-are-the-main-differences-between-texmaker-and-texstudio)
         + [LaTeX Editors/IDEs](http://tex.stackexchange.com/questions/339/latex-editors-ides)
     + [buildtexlive](https://github.com/elkrejzi/system-management/blob/master/buildscripts/buildtexlive#L52)
