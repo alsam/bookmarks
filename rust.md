@@ -384,6 +384,8 @@
         + [confusing error "ambiguous associated type" on missing enum variants](https://github.com/rust-lang/rust/issues/41003)
             + [How do I disambiguate associated types?](http://stackoverflow.com/questions/31251170/how-do-i-disambiguate-associated-types)
 
+        + [Announcing Alacritty, a GPU-accelerated terminal emulator](http://blog.jwilm.io/announcing-alacritty/)
+
     + Useful tips
         + [Use VIM as your RUST IDE](https://github.com/ivanceras/rust-vim-setup)
 
