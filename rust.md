@@ -4,6 +4,7 @@
     + [Why Rust?](http://www.oreilly.com/programming/free/files/why-rust.pdf)
     + [The Rust Book](https://doc.rust-lang.org/stable/book/)
         + [An alternative introduction to Rust](http://words.steveklabnik.com/a-new-introduction-to-rust)
+        + [A Gentle Introduction To Rust](http://stevedonovan.github.io/rust-gentle-intro/readme.html)
         + [24days of rust](http://zsiciarz.github.io/24daysofrust/)
     + [rust-learning](https://github.com/ctjhoa/rust-learning)
     + [http://rustbyexample.com/](http://rustbyexample.com/)
