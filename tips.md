@@ -232,6 +232,81 @@
         + [gentoo - systemd](https://wiki.gentoo.org/wiki/Systemd)
         + [How does systemd use /etc/init.d scripts?](http://unix.stackexchange.com/questions/233468/how-does-systemd-use-etc-init-d-scripts)
         + [`systemds for `upstart` users](https://wiki.ubuntu.com/SystemdForUpstartUsers)
+        + `journald`
+            + [How to configure systemd journal-remote?](https://serverfault.com/questions/758244/how-to-configure-systemd-journal-remote)
+            + [LOGGING DONE RIGHT systemd-journal-upload & systemd-journal-remote setup](https://www.youtube.com/watch?v=45CQ0tgXQmY)
+            + [log4cplus](https://github.com/wilx/log4cplus)
+            + polltest
+            ```c
+            #include <stdio.h>
+            #include <stdlib.h>
+            #include <string.h>
+            #include <systemd/sd-journal.h>
+            
+            int main(int argc, char *argv[]) {
+                    int r;
+                    sd_journal *j;
+                    r = sd_journal_open(&j, SD_JOURNAL_LOCAL_ONLY);
+                    if (r < 0) {
+                            fprintf(stderr, "Failed to open journal: %s\n", strerror(-r));
+                            return 1;
+                    }
+            
+                    /* Opening the fd now means the first sd_journal_wait() will actually wait */
+                    r = sd_journal_get_fd(j);
+                    if (r < 0) {
+                            fprintf(stderr, "Failed to get fd: %s\n", strerror(-r));
+                            return 1;
+                    }
+            
+                    r = sd_journal_seek_tail(j);
+                    if (r < 0) {
+                            fprintf(stderr, "Failed to seek tail: %s\n", strerror(-r));
+                            return 1;
+                    }
+            
+                    if (getenv("seek"))
+                            r = sd_journal_previous_skip(j, 0);
+                    else
+                            r = sd_journal_next_skip(j, 0);
+                    if (r < 0) {
+                            fprintf(stderr, "Failed to skip: %s\n", strerror(-r));
+                            return 1;
+                    }
+            
+                    r = sd_journal_wait(j, (uint64_t) -1);
+                    if (r < 0) {
+                            fprintf(stderr, "Failed to wait for changes: %s\n", strerror(-r));
+                            return 1;
+                    }
+            
+                    for (;;)  {
+                            const void *d;
+                            size_t l;
+                            r = sd_journal_next(j);
+                            if (r < 0) {
+                                    fprintf(stderr, "Failed to iterate to next entry: %s\n", strerror(-r));
+                                    break;
+                            }
+                            if (r == 0) {
+                                    /* Reached the end, let's wait for changes, and try again */
+                                    r = sd_journal_wait(j, (uint64_t) -1);
+                                    if (r < 0) {
+                                            fprintf(stderr, "Failed to wait for changes: %s\n", strerror(-r));
+                                            break;
+                                    }
+                                    continue;
+                            }
+                            r = sd_journal_get_data(j, "MESSAGE", &d, &l);
+                            if (r < 0) {
+                                    fprintf(stderr, "Failed to read message field: %s\n", strerror(-r));
+                                    continue;
+                            }
+                            printf("%.*s\n", (int) l, (const char*) d);
+                    }
+                    sd_journal_close(j);
+                    return 0;
+            }
 
     + D-Bus
         + [Understanding D-Bus](http://free-electrons.com/pub/conferences/2016/meetup/dbus/josserand-dbus-meetup.pdf)
@@ -299,7 +374,6 @@
                                        "org.freedesktop.systemd1.Manager",   // interface name
                                        "PowerOff",                           // method name
                                        &error,                               // object to return error in
-                                       &m,                                   // return message on success
                                        nullptr,                              // input signature
                                        nullptr);                             // 1st arg
                 if (r < 0) {
