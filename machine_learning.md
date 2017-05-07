@@ -327,3 +327,7 @@
             + [Brain Computation as Hierarchical Abstraction](http://www.amazon.com/Brain-Computation-as-Hierarchical-Abstraction/dp/0262028611/ref=pd_sim_14_10?ie=UTF8&dpID=51aiKu%2BuXFL&dpSrc=sims&preST=_AC_UL160_SR107%2C160_&refRID=0MXH9FP8761QW48BX4FT)
             + [Explaining the Computational Mind](http://www.amazon.com/Explaining-Computational-Mind-Marcin-Milkowski/dp/0262018861/ref=pd_sim_14_26?ie=UTF8&dpID=41vmg30AD0L&dpSrc=sims&preST=_AC_UL160_SR109%2C160_&refRID=0827S66XPRA4SYQVXRKB)
             + [The Cognitive-Emotional Brain: From Interactions to Integration](http://www.amazon.com/The-Cognitive-Emotional-Brain-Interactions-Integration/dp/0262019566/ref=pd_sim_14_7?ie=UTF8&dpID=41xeY0XoWfL&dpSrc=sims&preST=_AC_UL160_SR124%2C160_&refRID=0ZFH5DRN2M8J6ETTGY47)
+
+        + Courses
+            + [The Neuronal Basis of Consciousness Course: A Free Online Course from Caltech](http://www.openculture.com/the-neuronal-basis-of-consciousness-course-a-free-online-course-from-caltech)
+                + [The Neuronal Basis of Consciousness Course - CNS/Bi/Psy 120](https://www.youtube.com/playlist?list=PL1DBCFC32CF6945EE)
