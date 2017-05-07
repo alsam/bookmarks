@@ -233,6 +233,34 @@
         + [How does systemd use /etc/init.d scripts?](http://unix.stackexchange.com/questions/233468/how-does-systemd-use-etc-init-d-scripts)
         + [`systemds for `upstart` users](https://wiki.ubuntu.com/SystemdForUpstartUsers)
         + `journald`
+            + [Logging message workflow with journald](http://www.gabriel.urdhr.fr/2015/04/29/journald-workflow/)
+            + [systemd for Developers III : Logging to the Journal](http://0pointer.de/blog/projects/journal-submit.html)
+            tl;dr
+            ```c
+            #include <systemd/sd-journal.h>
+            #include <unistd.h>
+            #include <stdlib.h>
+             
+            int main(int argc, char *argv[]) {
+                    sd_journal_send("MESSAGE=Hello World!",
+                                    "MESSAGE_ID=52fb62f99e2c49d89cfbf9d6de5e3555",
+                                    "PRIORITY=5",
+                                    "HOME=%s", getenv("HOME"),
+                                    "TERM=%s", getenv("TERM"),
+                                    "PAGE_SIZE=%li", sysconf(_SC_PAGESIZE),
+                                    "N_CPUS=%li", sysconf(_SC_NPROCESSORS_ONLN),
+                                    NULL);
+                    return 0;
+            }
+            ```
+            ```sh
+            journalctl -o json-pretty MESSAGE="Hello World!"
+            ```
+            ```sh
+            printf "hola\n\rbro\n\r" | systemd-cat -t HOLA-BRO-SLASH-R
+            journalctl --sync
+            journalctl -b -t HOLA-BRO-SLASH-R --no-pager --no-hostname
+            ```
             + [How to configure systemd journal-remote?](https://serverfault.com/questions/758244/how-to-configure-systemd-journal-remote)
             + [LOGGING DONE RIGHT systemd-journal-upload & systemd-journal-remote setup](https://www.youtube.com/watch?v=45CQ0tgXQmY)
             + [log4cplus](https://github.com/wilx/log4cplus)
