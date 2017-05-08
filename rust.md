@@ -361,7 +361,7 @@
 
         + [Generics over the size of an array type](https://internals.rust-lang.org/t/generics-over-the-size-of-an-array-type/2845)
         + [Generics, Arrays and Cloning](https://users.rust-lang.org/t/generics-arrays-and-cloning/694/3)
-        + [Tricks with ownership in Rust](http://xion.io/post/code/rust-borrowchk-tricks.html
+        + [Tricks with ownership in Rust](http://xion.io/post/code/rust-borrowchk-tricks.html)
         + [Effectively Using Iterators In Rust](http://hermanradtke.com/2015/06/22/effectively-using-iterators-in-rust.html)
             + [What is the difference between iter and into_iter?](http://stackoverflow.com/questions/34733811/what-is-the-difference-between-iter-and-into-iter)
             tl;dr
@@ -558,6 +558,8 @@
                 + [Associated type constructors, part 3: What higher-kinded types might look like](http://smallcultfollowing.com/babysteps/blog/2016/11/04/associated-type-constructors-part-3-what-higher-kinded-types-might-look-like/)
                 + [Associated type constructors, part 4: Unifying ATC and HKT](http://smallcultfollowing.com/babysteps/blog/2016/11/09/associated-type-constructors-part-4-unifying-atc-and-hkt/)
             + [Pi types v2](https://internals.rust-lang.org/t/pi-types-v2/4860)
+                + [[lang-team-minutes] Const generics](https://internals.rust-lang.org/t/lang-team-minutes-const-generics/5090)
+                + [RFC: Constant generics (restricted Π types) for Rust, core RFC (v2)](https://github.com/rust-lang/rfcs/pull/1931)
             + [Dissertation on Algebraic Subtyping](https://internals.rust-lang.org/t/dissertation-on-algebraic-subtyping/4906)
             + [Higher-kinded type trait](https://www.reddit.com/r/rust/comments/31g0qd/higherkinded_type_trait/)
             + [GitHub Gist for HKT](https://gist.github.com/14427)
