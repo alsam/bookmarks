@@ -359,7 +359,6 @@
         }
         ```
 
-        + [Generics over the size of an array type](https://internals.rust-lang.org/t/generics-over-the-size-of-an-array-type/2845)
         + [Generics, Arrays and Cloning](https://users.rust-lang.org/t/generics-arrays-and-cloning/694/3)
         + [Tricks with ownership in Rust](http://xion.io/post/code/rust-borrowchk-tricks.html)
         + [Effectively Using Iterators In Rust](http://hermanradtke.com/2015/06/22/effectively-using-iterators-in-rust.html)
@@ -557,9 +556,12 @@
                 + [Associated type constructors, part 2: family traits](http://smallcultfollowing.com/babysteps/blog/2016/11/03/associated-type-constructors-part-2-family-traits/)
                 + [Associated type constructors, part 3: What higher-kinded types might look like](http://smallcultfollowing.com/babysteps/blog/2016/11/04/associated-type-constructors-part-3-what-higher-kinded-types-might-look-like/)
                 + [Associated type constructors, part 4: Unifying ATC and HKT](http://smallcultfollowing.com/babysteps/blog/2016/11/09/associated-type-constructors-part-4-unifying-atc-and-hkt/)
-            + [Pi types v2](https://internals.rust-lang.org/t/pi-types-v2/4860)
+            + [Pi types v2 (const generics)](https://internals.rust-lang.org/t/pi-types-v2/4860)
                 + [[lang-team-minutes] Const generics](https://internals.rust-lang.org/t/lang-team-minutes-const-generics/5090)
+                + [with-bounds-in-pi-types](https://github.com/ticki/rfcs/blob/pi-types-ext-1/text/0000-with-bounds-in-pi-types.md)
                 + [RFC: Constant generics (restricted Π types) for Rust, core RFC (v2)](https://github.com/rust-lang/rfcs/pull/1931)
+                    + [Generics over the size of an array type (in anticipation of const generics)](https://internals.rust-lang.org/t/generics-over-the-size-of-an-array-type/2845)
+                        + [generic-array](http://fizyk20.github.io/generic-array/generic_array/)
             + [Dissertation on Algebraic Subtyping](https://internals.rust-lang.org/t/dissertation-on-algebraic-subtyping/4906)
             + [Higher-kinded type trait](https://www.reddit.com/r/rust/comments/31g0qd/higherkinded_type_trait/)
             + [GitHub Gist for HKT](https://gist.github.com/14427)
