@@ -319,6 +319,12 @@
         + [Why can’t the world’s greatest minds solve the mystery of consciousness?](https://www.theguardian.com/science/2015/jan/21/-sp-why-cant-worlds-greatest-minds-solve-mystery-consciousness)
         + [Consciousness and AI](http://blog.agi.io/2015/01/consciousness-and-ai.html?m=0)
 
+        + [Brain Computation Is Organized via Power-of-Two-Based Permutation Logic](http://journal.frontiersin.org/article/10.3389/fnsys.2016.00095/full)
+            + [HTM Forum: Power-of-Two-Based Permutation Logic](https://discourse.numenta.org/t/power-of-two-based-permutation-logic/1618)
+            + [ycombinator: Brain Computation Is Organized via Power-of-Two-Based Permutation Logic](https://news.ycombinator.com/item?id=13098868)
+            + [Intelligence May Stem From a Basic Algorithm in the Human Brain](https://futurism.com/intelligence-may-stem-from-a-basic-algorithm-in-the-human-brain/)
+            + [One Simple Algorithm Could Explain Human Intelligence](http://www.sciencealert.com/one-simple-algorithm-could-be-all-we-need-to-explain-intelligence)
+
         + Books
             + [Artificial Cognitive Systems: A Primer](http://www.amazon.com/Artificial-Cognitive-Systems-A-Primer/dp/0262028387/ref=pd_bxgy_14_2?ie=UTF8&refRID=0827S66XPRA4SYQVXRKB)
                 + [Artificial Cognitive Systems by Prof. David Vernon](http://www.vernon.eu/ACS.htm)
