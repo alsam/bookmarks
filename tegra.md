@@ -208,3 +208,9 @@
     ```
 
     + [U-Boot splash screen on Jetson TX1](https://devtalk.nvidia.com/default/topic/994301/jetson-tx1/l4t-24-2-plymouth-boot-splash/)
+
+    + [How do I know what version of L4T my Jetson TX1 is running?](https://devtalk.nvidia.com/default/topic/860092/jetson-tk1/how-do-i-know-what-version-of-l4t-my-jetson-tk1-is-running-/)
+        tl;dr
+        ```sh
+        cat /etc/nv_tegra_release
+        ```
