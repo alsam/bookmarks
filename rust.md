@@ -430,6 +430,8 @@
 
         + [Lifetime error when creating a function that returns a value implementing serde::Deserialize](http://stackoverflow.com/questions/43554679/lifetime-error-when-creating-a-function-that-returns-a-value-implementing-serde)
 
+        + [Closures don’t move Copy types by default?](https://internals.rust-lang.org/t/closures-dont-move-copy-types-by-default/5179/6)
+
     + Selected RFCs
         + [RFC 1210: impl specialization](https://github.com/rust-lang/rfcs/blob/master/text/1210-impl-specialization.md)
             + [Implement RFC 1210: impl specialization #30652](https://github.com/rust-lang/rust/pull/30652)
