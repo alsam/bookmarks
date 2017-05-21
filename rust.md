@@ -551,6 +551,8 @@
         + [cpp-templates-vs-rust-generics](https://gist.github.com/bjz/9220415)
         + [Rust, Generics, and Collections](http://cglab.ca/~abeinges/blah/rust-generics-and-collections/)
 
+        + [Matching, saving and replacing text with the regex crate](https://elliotekj.com/2017/03/10/matching-saving-and-replacing-text-with-the-regex-crate/)
+
     + Ideas, RFCs, that are not in the language yet
         + HKT
             + [Blog post series: Alternative type constructors and HKT](https://internals.rust-lang.org/t/blog-post-series-alternative-type-constructors-and-hkt/4300/89)
