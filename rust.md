@@ -257,10 +257,12 @@
     + [Pros and cons: Rust vs. C++](https://plus.google.com/+nialldouglas/posts/AXFJRSM8u2t)
         + [Rust and the Blub Paradox](http://www.jonathanturner.org/2016/01/rust-and-blub-paradox.html)
              + [You can't spell trust without Rust](https://cdn.rawgit.com/Gankro/thesis/master/thesis.pdf)
-             + [You can't spell trust without Rust](https://twitter.com/rustlang/status/689823725219377152)
+             + [*twitter* You can't spell trust without Rust](https://twitter.com/rustlang/status/689823725219377152)
         + [cpp_to_rust](https://github.com/rust-qt/cpp_to_rust)
 
     + Books, Docs: generation, in Russian, vs. C++
+        + [*mpankov* ООП на Rust](https://github.com/mkpankov/rust-polymorphism-talk/blob/master/talk.org)
+        + [*mpankov* rust-crash-course](https://github.com/mkpankov/rust-crash-course)
         + [Rust Books List](https://github.com/sger/RustBooks)
         + [Rust for C++ Programmers](https://www.gitbook.com/book/aminb/rust-for-c/details)
         + [Rust Programming Step-by-Step](https://www.gitbook.com/book/carlomilanesi/rust-programming-step-by-step/details)
@@ -278,7 +280,7 @@
     + [Graphs in Rust](http://featherweightmusings.blogspot.co.nz/2015/04/graphs-in-rust.html)
         + [Graphs and arena allocation](https://github.com/nrc/r4cppp/tree/master/graphs)
 
-    + [A library of mesh generation utilities](https://github.com/gfx-rs/genmesh)a
+    + [A library of mesh generation utilities](https://github.com/gfx-rs/genmesh)
 
     + [rust on habrahabr](http://habrahabr.ru/hub/rust/)
         + [Многопоточность в Rust](http://habrahabr.ru/post/256211/)
@@ -295,7 +297,7 @@
 
     + Misc
         + [Implementing Finite Automata (Part 1)](https://apanatshka.github.io/compsci/2016/10/03/implementing-finite-automata-part-1/)
-        + [Contributing to Rust]([http://www.ncameron.org/rust.html)
+        + [Contributing to Rust](http://www.ncameron.org/rust.html)
         + [Interview with Mozilla’s Aaron Turon](http://www.pl-enthusiast.net/2015/06/09/interview-with-mozillas-aaron-turon/)
         + [julia vs. rust](http://vschart.com/compare/julia/vs/rust)
         + [Higher kinded polymorphism #324](https://github.com/rust-lang/rfcs/issues/324)
@@ -374,7 +376,7 @@
             println!("2 in vec2: {}", vec2.into_iter().any(| x| x == 2));
             ```
         + [Initialize an array with a closure](http://stackoverflow.com/questions/29682881/initialize-an-array-with-a-closure)
-        + [OOP inheritance adapted to Rust](https://internals.rust-lang.org/t/oop-inheritance-adapted-to-rust/586)
+        + [*deprecated* OOP inheritance adapted to Rust](https://internals.rust-lang.org/t/oop-inheritance-adapted-to-rust/586)
             + [Usecases for inheritance](https://users.rust-lang.org/t/usecases-for-inheritance/348)
                 + [Rust type system and the Circle-ellipse problem](https://internals.rust-lang.org/t/rust-type-system-and-the-circle-ellipse-problem/3057)
             + [Specialization/Inheritance](https://internals.rust-lang.org/t/specialization-inheritance/3030)
@@ -562,6 +564,7 @@
                 + [Associated type constructors, part 4: Unifying ATC and HKT](http://smallcultfollowing.com/babysteps/blog/2016/11/09/associated-type-constructors-part-4-unifying-atc-and-hkt/)
             + [Pi types v2 (const generics)](https://internals.rust-lang.org/t/pi-types-v2/4860)
                 + [[lang-team-minutes] Const generics](https://internals.rust-lang.org/t/lang-team-minutes-const-generics/5090)
+                    + [*new* Const generics RFC](https://github.com/rust-lang/rfcs/pull/2000)
                 + [with-bounds-in-pi-types](https://github.com/ticki/rfcs/blob/pi-types-ext-1/text/0000-with-bounds-in-pi-types.md)
                 + [RFC: Constant generics (restricted Π types) for Rust, core RFC (v2)](https://github.com/rust-lang/rfcs/pull/1931)
                     + [Generics over the size of an array type (in anticipation of const generics)](https://internals.rust-lang.org/t/generics-over-the-size-of-an-array-type/2845)
