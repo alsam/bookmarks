@@ -44,3 +44,16 @@
         + [Scala Native Example](https://github.com/scala-native/scala-native-example)
     + [Kotlin Native - point of view about JVM vs. native code](https://medium.com/@octskyward/kotlin-native-310ffac94af2#.bu93px9jy)
     + [Грааль и Трюфель (Graal & Truffle) ](https://habrahabr.ru/post/319424/)
+
++ Depedent Types, Scala and Idris
+    + [От зависимых типов к гомотопической теории типов на Scala + Shapeless + ProvingGround](https://habrahabr.ru/post/329176/)
+        + [ThCS. Introduction to programming with dependent types in Scala](https://stepik.org/course/ThCS-Introduction-to-programming-with-dependent-types-in-Scala-2294/)
+
+    + Idris
+        + [Idris 1.0 Released](https://www.idris-lang.org/idris-1-0-released/)
+        + [What do Haskell programmers think of Idris?](https://www.quora.com/What-do-Haskell-programmers-think-of-Idris)
+        + [Idris, a language that will change the way you think about programming (2015)](https://news.ycombinator.com/item?id=10850205)
+        + [Book: Type-Driven Development with Idris](https://www.manning.com/books/type-driven-development-with-idris)
+            + [Working through Type-Driven Development with Idris](https://github.com/steshaw/tdd-with-idris)
+            + [Exercises form Type-Driven Programming in Idris](https://github.com/gbasler/idris-book)
+        + [Type-Driven Development in Idris — Edwin Brady](https://www.youtube.com/watch?v=X36ye-1x_HQ)
