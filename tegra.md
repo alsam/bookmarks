@@ -150,6 +150,20 @@
 	    return do_getfile(cmdtp, relfile, addr_buf);
     ```
 
+    + U-Boot scripts
+        + [Where does U-Boot saveenv to?](https://forums.xilinx.com/t5/Embedded-Linux/Where-does-U-Boot-saveenv-to/td-p/532915)
+
+    + [U-Boot splash screen on Jetson TX1](https://devtalk.nvidia.com/default/topic/994301/jetson-tx1/l4t-24-2-plymouth-boot-splash/)
+
++ PCI & PCIe
+    + [The PCI Interface & PCI Addressing](http://www.makelinux.net/ldd3/chp-12-sect-1)
+    + [Considerations for host-to-FPGA PCIe traffic](http://xillybus.com/tutorials/pci-express-dma-requests-completions)
+    + [Down to the TLP: How PCI express devices talk (Part I)](http://xillybus.com/tutorials/pci-express-tlp-pcie-primer-tutorial-guide-1)
+    + [Down to the TLP: How PCI express devices talk (Part II)](http://xillybus.com/tutorials/pci-express-tlp-pcie-primer-tutorial-guide-2)
+    + [gittup.org's pciutils](https://github.com/gittup/pciutils)
+        + [lspci “Memory at…” vs /proc/bus/pci/devices BAR address](https://serverfault.com/questions/745888/lspci-memory-at-vs-proc-bus-pci-devices-bar-address)
+
+
 + Cross compilation
     + [A versatile (cross-)toolchain generator.](https://github.com/crosstool-ng/crosstool-ng)
     + [Cross Compiling Environment Setup For ARM Architecture Pidora OS](https://johnsofteng.wordpress.com/2013/09/02/cross-compiling-environment-setup-for-arm-architecture/)
@@ -175,8 +189,6 @@
 + [Android sparse image format](http://www.2net.co.uk/tutorial/android-sparse-image-format)
 + [Device Tree for dummies](https://events.linuxfoundation.org/sites/events/files/slides/petazzoni-device-tree-dummies.pdf)
 
-+ U-Boot scripts
-    + [Where does U-Boot saveenv to?](https://forums.xilinx.com/t5/Embedded-Linux/Where-does-U-Boot-saveenv-to/td-p/532915)
 
 + misc
     + restore screen after removing an inserting HDMI
@@ -209,8 +221,6 @@
     ```sh
     sudo systemctl mask sleep.target suspend.target hibernate.target hybrid-sleep.target
     ```
-
-    + [U-Boot splash screen on Jetson TX1](https://devtalk.nvidia.com/default/topic/994301/jetson-tx1/l4t-24-2-plymouth-boot-splash/)
 
     + [How do I know what version of L4T my Jetson TX1 is running?](https://devtalk.nvidia.com/default/topic/860092/jetson-tk1/how-do-i-know-what-version-of-l4t-my-jetson-tk1-is-running-/)
         tl;dr
