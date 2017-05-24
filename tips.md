@@ -71,6 +71,10 @@
 
         + [Как оформлять коммиты, чтобы потом не было больно](https://habrahabr.ru/company/Voximplant/blog/276695/)
 
+        + [Git: Squash your latests commits into one](https://www.devroom.io/2011/07/05/git-squash-your-latests-commits-into-one/)
+            + [How to Squash Multiple Commits Into One with Git](https://forum.freecodecamp.com/t/how-to-squash-multiple-commits-into-one-with-git/13231)
+            + [Squash my last X commits together using Git](https://stackoverflow.com/questions/5189560/squash-my-last-x-commits-together-using-git)
+
         + git rebase memo
         ```sh
         git rebase origin/master
