@@ -85,6 +85,13 @@
         git push origin my-branch --force
         <repeat>
         ```
+        + aborting & syncing with origin/master
+            ```sh
+            git rebase --abort
+            git merge --abort
+            git checkout -B master origin/master
+            ```
+
         + [How to import existing Git repository into another?](http://stackoverflow.com/questions/1683531/how-to-import-existing-git-repository-into-another)
         ```sh
         git subtree add -P u-boot /scratch/tegra-sources/u-boot_nvidia_distribution/u-boot master
