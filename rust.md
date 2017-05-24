@@ -591,8 +591,6 @@
         + [GC and Rust Part 1: Specifying the Problem](http://blog.pnkfx.org/blog/2015/11/10/gc-and-rust-part-1-specing-the-problem/)
         + [GC and Rust Part 2: The Roots of the Problem](http://blog.pnkfx.org/blog/2016/01/01/gc-and-rust-part-2-roots-of-the-problem/)
 
-    + [Algorithms and Concepts from Stepanov's "Elements of Programming" implemented in Rust](https://github.com/keean/elements_in_rust)
-
     + [Machine Learning in Rust](https://github.com/alsam/bookmarks/blob/master/machine_learning.md#Rust based projects)
         + [rustlearn - A machine learning package for Rust](https://github.com/maciejkula/rustlearn)
 
@@ -680,6 +678,19 @@
         + [A Formal Verification of Rust's Binary Search Implementation](https://kha.github.io/2016/07/22/formally-verifying-rusts-binary-search.html)
         + [GitHub - Kha/electrolysis: Simple verification of Rust programs via functional purification](https://www.reddit.com/r/rust/comments/4ty6z8/github_khaelectrolysis_simple_verification_of/)
         + [Electrolysis Reference](http://kha.github.io/electrolysis/)
+
+    + C & C++ projects being converted to Rust
+        + Physically Based Rendering
+            + [Rust crate to implement at least parts of the PBRT book's C++ code](https://github.com/wahn/rs_pbrt)
+            + [Release Notes for rs PBRT](https://github.com/wahn/rs_pbrt/wiki/Release-Notes)
+                + [from here](https://users.rust-lang.org/t/whats-everyone-working-on-this-week-21-2017/10941/2)
+        + Think Bayes
+            + [a unofficial rewrite of Allen B. Downey's ThinkBayes in to Rust](https://github.com/Eh2406/ThinkBayes-rs)
+        + Algorithms and Concepts from Stepanov's "Elements of Programming"
+            + [Algorithms and Concepts from Stepanov's "Elements of Programming" implemented in Rust](https://github.com/keean/elements_in_rust)
+        + [A community-driven port of Emacs to Rust](https://github.com/Wilfred/remacs)
+        + [Aspiring vim-like text editor](https://github.com/mathall/rim)
+            + [The Bram Moole-Laaw: There Will be Attempts to Rewrite Vim in Nearly Every New Language](http://joshldavis.com/2015/11/29/the-bram-moole-laaw-vim-re-write/)
 
     + Linux distros Rust support
         + [Fedora to support Rust Compiler](https://fedoraproject.org/wiki/Changes/RustCompiler)
