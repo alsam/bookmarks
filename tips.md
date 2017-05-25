@@ -90,6 +90,9 @@
             git rebase --abort
             git merge --abort
             git checkout -B master origin/master
+            ...
+            git push origin master:master
+            ...
             ```
 
         + [How to import existing Git repository into another?](http://stackoverflow.com/questions/1683531/how-to-import-existing-git-repository-into-another)
