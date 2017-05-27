@@ -736,6 +736,24 @@
               ```c++
               std::unique_ptr<T, D> ptr{new T{}, d};
               ```
+        + selected boost tips
+            + boost property tree
+                + [boost property tree 5 minutes tutorial](http://www.boost.org/doc/libs/1_61_0/doc/html/property_tree/tutorial.html)
+                + [3 ways of getting data from propert tree](http://www.boost.org/doc/libs/1_61_0/doc/html/property_tree/accessing.html)
+                tl;dr
+                ```
+                auto dump_vector = [](std::string const& name, auto const& v)
+                {
+                    std::cout << name << " : { ";
+                    for (auto val : v)
+                    {
+                        std::cout << val << ", ";
+                    }
+                    std::cout << "}\n";
+                };
+                auto vec = xml_data.get("A.E.S.coeffs", std::vector<float>());
+                dump_vector("coeffs", vec);
+                ```
 
     + REST API
         + [REST APIs in C++](http://lordjeb.com/category/c-2/)
