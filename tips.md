@@ -161,6 +161,7 @@
         + [Разработка → VIM: зачем, если есть IDE, и как?](https://habrahabr.ru/post/303554/)
         + [Vim vs. Neovim](https://www.slant.co/versus/42/62/~vim_vs_neovim)
         + [Install Vim 8.0 on on Ubuntu 16.04, Debian, Fedora, CentOS](http://www.ubuntumaniac.com/2016/09/install-vim-80-on-on-ubuntu-1604-debian.html)
+        + [Find in files within Vim](http://vim.wikia.com/wiki/Find_in_files_within_Vim)
         + [The Ultimate Vim Distribution](http://vim.spf13.com/)
         + [Ultimate auto-completion system for Vim](https://github.com/Shougo/neocomplcache.vim)
         ```sh
