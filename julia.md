@@ -144,3 +144,5 @@ Dict{ASCIIString,Int64} with 2 entries:
     + [Precompile error when using Plots.jl](https://github.com/tbreloff/Plots.jl/issues/545)
     + [A case/switch statement for Julia](https://github.com/JuliaLang/julia/issues/18285)
     + [JuliaCon 2016 | Accelerating Julia Kernels with ArrayFire.jl](https://www.youtube.com/watch?list=PLP8iPy9hna6SQPwZUDtAM59-wPzCPyD_S&v=2f32XSMYlDk)
+
++ [hould I use Chapel or Julia for my next project?](https://www.dursi.ca/post/julia-vs-chapel.html)
