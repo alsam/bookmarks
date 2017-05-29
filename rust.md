@@ -99,6 +99,7 @@
             + [Loop unrolling on request](https://internals.rust-lang.org/t/loop-unrolling-on-request/3091/3)
 
     + Linear Algebra + Numerics
+        + [a list of linear algebra librariesfor Rust](https://libraries.io/search?keywords=matrix&languages=Rust)
         + [Numerics & math foundation](https://users.rust-lang.org/t/numerics-math-foundation/7247)
         + [An extensible HPC-Framework for CUDA, OpenCL and native CPU](https://github.com/lychee-eng/parenchyma)
         + [Request for some numerics related features](https://users.rust-lang.org/t/request-for-some-numerics-related-features/3530/6)
