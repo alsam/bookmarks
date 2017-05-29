@@ -99,7 +99,8 @@
             + [Loop unrolling on request](https://internals.rust-lang.org/t/loop-unrolling-on-request/3091/3)
 
     + Linear Algebra + Numerics
-        + [Numerics & math foundation](https://users.rust-lang.org/t/numerics-math-foundation/7247
+        + [Numerics & math foundation](https://users.rust-lang.org/t/numerics-math-foundation/7247)
+        + [An extensible HPC-Framework for CUDA, OpenCL and native CPU](https://github.com/lychee-eng/parenchyma)
         + [Request for some numerics related features](https://users.rust-lang.org/t/request-for-some-numerics-related-features/3530/6)
             + [(former Unum)Create RUST posit arithmetic library based on 21 February 2017 Posit Arithmetic by John L. Gustafson - Beating Floating Point at its Own Game](https://users.rust-lang.org/t/create-rust-posit-arithmetic-library-based-on-21-february-2017-posit-arithmetic-by-john-l-gustafson-beating-floating-point-at-its-own-game/10077/3)
             + [Pre-RFC: Dealing with broken floating point](https://internals.rust-lang.org/t/pre-rfc-dealing-with-broken-floating-point/2673/22)
@@ -259,6 +260,8 @@
              + [You can't spell trust without Rust](https://cdn.rawgit.com/Gankro/thesis/master/thesis.pdf)
              + [*twitter* You can't spell trust without Rust](https://twitter.com/rustlang/status/689823725219377152)
         + [cpp_to_rust](https://github.com/rust-qt/cpp_to_rust)
+        + [What are the problems that Rust solves for you?](https://www.reddit.com/r/rust/comments/5o3yet/what_are_the_problems_that_rust_solves_for_you/)
+            + [Simple N-Body with LeapFrog integrator](https://github.com/marblestation/benchmark-leapfrog)
 
     + Books, Docs: generation, in Russian, vs. C++
         + [*mpankov* ООП на Rust](https://github.com/mkpankov/rust-polymorphism-talk/blob/master/talk.org)
@@ -557,6 +560,9 @@
 
     + Ideas, RFCs, that are not in the language yet
         + HKT
+            + [Rust/Haskell: Higher-Kinded Types (HKT)](https://gist.github.com/CMCDragonkai/a5638f50c87d49f815b8)
+                + [Higher-kinded type trait](https://gist.github.com/14427/af90a21b917d2892eace)
+                + [Does/Will Rust support functional programming idioms?](https://stackoverflow.com/questions/18374612/does-will-rust-support-functional-programming-idioms)
             + [Blog post series: Alternative type constructors and HKT](https://internals.rust-lang.org/t/blog-post-series-alternative-type-constructors-and-hkt/4300/89)
                 + [Associated type constructors, part 1: basic concepts and introduction](http://smallcultfollowing.com/babysteps/blog/2016/11/02/associated-type-constructors-part-1-basic-concepts-and-introduction/)
                 + [Associated type constructors, part 2: family traits](http://smallcultfollowing.com/babysteps/blog/2016/11/03/associated-type-constructors-part-2-family-traits/)
