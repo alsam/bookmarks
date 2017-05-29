@@ -42,6 +42,10 @@
     + [A header-only C++ library for large scale eigenvalue problems](https://github.com/yixuan/spectra)
     + [Spectra Performance](http://yixuan.cos.name/spectra/performance.html)
 
++ Dimension Reduction
+    + [A flexible and efficient С++ template library for dimension reduction](https://github.com/lisitsyn/tapkee)
+        + [Tapkee an efficient dimension reduction library](http://tapkee.lisitsyn.me/)
+
 + Hierarchical matrices
     + [H2Lib is an open source software library for hierarchical matrices and H²-matrices](http://h2lib.org/)
         + [H2Lib public github repository](https://github.com/H2Lib/H2Lib)
