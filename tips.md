@@ -474,6 +474,11 @@
          IgnorePkg   = linux linux-headers linux-firmware linux-lts gcc gcc-libs gcc-fortran nvidia cuda virtualbox-host-modules-arch
          IgnoreGroup =
         ```
+        tl;dr downgrade to gcc-6.3.1 from gcc-7.1.1
+        ```sh
+        sudo vim /etc/pacman.conf
+        pacman -U /var/cache/pacman/pkg/gcc-6.3.1-2-x86_64.pkg.tar.xz /var/cache/pacman/pkg/gcc-libs-6.3.1-2-x86_64.pkg.tar.xz /var/cache/pacman/pkg/gcc-fortran-6.3.1-2-x86_64.pkg.tar.xz
+        ```
         ```sh
         pacman -S grub
         pacman -S vim gvim
