@@ -466,6 +466,14 @@
         + [Arch Linux SSH keys](https://wiki.archlinux.org/index.php/SSH_keys)
         + [Arch Linux AUR](https://wiki.archlinux.org/index.php/Arch_User_Repository)
         + [How to install Yaourt on Arch Linux](http://www.ostechnix.com/install-yaourt-arch-linux/)
+        + [Ignore A Package From Being Upgraded In Arch Linux](https://www.ostechnix.com/safely-ignore-package-upgraded-arch-linux/)
+        tl;dr
+        ```sh
+         Pacman won't upgrade packages listed in IgnorePkg and members of IgnoreGroup
+         #IgnorePkg   =
+         IgnorePkg   = linux linux-headers linux-firmware linux-lts gcc gcc-libs gcc-fortran nvidia cuda virtualbox-host-modules-arch
+         IgnoreGroup =
+        ```
         ```sh
         pacman -S grub
         pacman -S vim gvim
