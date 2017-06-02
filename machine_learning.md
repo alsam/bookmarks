@@ -325,6 +325,8 @@
             + [Intelligence May Stem From a Basic Algorithm in the Human Brain](https://futurism.com/intelligence-may-stem-from-a-basic-algorithm-in-the-human-brain/)
             + [One Simple Algorithm Could Explain Human Intelligence](http://www.sciencealert.com/one-simple-algorithm-could-be-all-we-need-to-explain-intelligence)
 
+        + [From the Phenomenology to the Mechanisms of Consciousness: Integrated Information Theory 3.0](http://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1003588)
+
         + Books
             + [Artificial Cognitive Systems: A Primer](http://www.amazon.com/Artificial-Cognitive-Systems-A-Primer/dp/0262028387/ref=pd_bxgy_14_2?ie=UTF8&refRID=0827S66XPRA4SYQVXRKB)
                 + [Artificial Cognitive Systems by Prof. David Vernon](http://www.vernon.eu/ACS.htm)
