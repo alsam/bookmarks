@@ -451,6 +451,8 @@
 
         + [A vantage-point tree implementation backed by vectors for good performance with no unsafe code](https://crates.io/crates/vec-vp-tree)
 
+        + [[Announcement] ArrayDeque: Deque (ring buffer) on stack!](https://users.rust-lang.org/t/announcement-arraydeque-deque-ring-buffer-on-stack/11122)
+
         + [Grouping structs with enums](http://stackoverflow.com/questions/29088633/grouping-structs-with-enums)
             + [Proc macro crate for working with newtype enums: FromVariants](https://users.rust-lang.org/t/proc-macro-crate-for-working-with-newtype-enums-fromvariants/10546)
             tl;dr
