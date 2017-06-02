@@ -371,6 +371,10 @@
         + [Passing structure over d-bus - glib - example](https://lists.freedesktop.org/archives/dbus/2008-January/009171.html)
         + [[dbus-cplusplus-devel] Proposal: Give objects through dbus-c++](https://sourceforge.net/p/dbus-cplusplus/mailman/message/20200933/)
         + [DBus speed presentation](https://willthompson.co.uk/talks/the-slothful-ways-of-d-bus.pdf)
+        + dbus-c++ and g++-7.1
+            + [#18 Invalid template code in Threading class](https://sourceforge.net/p/dbus-cplusplus/patches/18/)
+            + tl;dr
+              patch '/usr/include/dbus-c++-1/dbus-c++/dispatcher.h'
         + sdbus - and shutdown
             + [The new sd-bus API of systemd](http://0pointer.net/blog/the-new-sd-bus-api-of-systemd.html)
                 + [Patrick Williams' gists for sdbus](https://gist.github.com/williamspatrick)
