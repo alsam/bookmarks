@@ -145,4 +145,19 @@ Dict{ASCIIString,Int64} with 2 entries:
     + [A case/switch statement for Julia](https://github.com/JuliaLang/julia/issues/18285)
     + [JuliaCon 2016 | Accelerating Julia Kernels with ArrayFire.jl](https://www.youtube.com/watch?list=PLP8iPy9hna6SQPwZUDtAM59-wPzCPyD_S&v=2f32XSMYlDk)
 
-+ [hould I use Chapel or Julia for my next project?](https://www.dursi.ca/post/julia-vs-chapel.html)
+Julia Groups
+    + [JuliaApproximation](https://github.com/JuliaApproximation)
+    + [Parallel Julia](https://github.com/JuliaParallel)
+    + [JuliaArrays](https://github.com/JuliaArrays)
+        + [Various improvements #26](https://github.com/JuliaArrays/OffsetArrays.jl/pull/26)
+        + [move OffsetArrays to JuliaArrays](https://github.com/JuliaLang/METADATA.jl/pull/8884)
+    + [JuliaSmoothOptimizers](https://github.com/JuliaSmoothOptimizers)
+    + [ulia DiffEq](https://github.com/JuliaDiffEq)
+    + [JuliaArbTypes](https://github.com/JuliaArbTypes)
+    + [Julia Math](https://github.com/JuliaMath)
+    + [JuliaML](https://github.com/JuliaML)
+    + [Julia Statistics](https://github.com/JuliaStats)
+    + [JuliaOpt](https://github.com/JuliaOpt)
+    + [JuliaGPU](https://github.com/JuliaGPU)
+
++ [Should I use Chapel or Julia for my next project?](https://www.dursi.ca/post/julia-vs-chapel.html)
