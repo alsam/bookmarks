@@ -10,6 +10,7 @@
     + [http://rustbyexample.com/](http://rustbyexample.com/)
         + [Rust by example](https://github.com/rust-lang/rust-by-example)
     + [Implementing Rosetta Code problems in Rust](https://github.com/Hoverbear/rust-rosetta)
+    + [Small but painful annoyances when writing Rust code](https://internals.rust-lang.org/t/small-but-painful-annoyances-when-writing-rust-code/5347)
     + [Rust projects]
         + [Trending Rust projects](https://github.com/trending/rust)
         + [Is Rust CI still working?](https://www.reddit.com/r/rust/comments/3blikk/is_rust_ci_still_working/)
@@ -58,6 +59,7 @@
             + [Problems with a recursive parser](https://users.rust-lang.org/t/problems-with-a-recursive-parser/7721/8)
 
     + *Performance Tips*
+        + [Rust Performance Pitfalls](https://llogiq.github.io/2017/06/01/perf-pitfalls.html)
         + [Profiling Rust applications on Linux](https://llogiq.github.io/2015/07/15/profiling.html)
         ```sh
         operf ./target/debug/add_sum_sq -k 4 -n 100
