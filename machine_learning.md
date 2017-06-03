@@ -113,6 +113,8 @@
             + [Feature request: Please provide AVX2/FMA capable builds](https://github.com/tensorflow/tensorflow/issues/7257)
         + [sonnet: TensorFlow-based neural network library](https://github.com/deepmind/sonnet)
             + [Google’s DeepMind Is Now Open Sourcing Sonnet](http://imgworkz.com/digital-marketing/artificial-intelligence/googles-deepmind-now-open-sourcing-sonnet/)
+        + [How to train a neural network to code by itself ?](https://becominghuman.ai/how-to-train-a-neural-network-to-code-by-itself-a432e8a120df)
+            + [Generate C code with Tensorflow](https://github.com/thibo73800/deep_generation/tree/master/c_code)
         + [Open source software library for numerical computation using data flow graphs](https://github.com/tensorflow/tensorflow)
         + [A deep Q learning demonstration using Google Tensorflow](https://github.com/nivwusquorum/tensorflow-deepq)
         + [Simplified interface for TensorFlow (mimicking Scikit Learn)](https://github.com/tensorflow/skflow)
