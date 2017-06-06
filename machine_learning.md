@@ -330,6 +330,8 @@
         + [From the Phenomenology to the Mechanisms of Consciousness: Integrated Information Theory 3.0](http://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1003588)
 
         + Books
+            + Deep Learning books
+                + [MIT Deep Learning Book in PDF format](https://github.com/HFTrader/DeepLearningBook)
             + [Artificial Cognitive Systems: A Primer](http://www.amazon.com/Artificial-Cognitive-Systems-A-Primer/dp/0262028387/ref=pd_bxgy_14_2?ie=UTF8&refRID=0827S66XPRA4SYQVXRKB)
                 + [Artificial Cognitive Systems by Prof. David Vernon](http://www.vernon.eu/ACS.htm)
             + [The Geometry of Meaning: Semantics Based on Conceptual Spaces](http://www.amazon.com/The-Geometry-Meaning-Semantics-Conceptual/dp/0262026783/ref=pd_sim_14_3?ie=UTF8&dpID=41USieoQ8aL&dpSrc=sims&preST=_AC_UL160_SR108%2C160_&refRID=0827S66XPRA4SYQVXRKB)
