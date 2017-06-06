@@ -565,6 +565,7 @@
 
     + Ideas, RFCs, that are not in the language yet
         + HKT
+            + [What Are Sum, Product, and Pi Types?](https://www.reddit.com/r/rust/comments/5xkmnh/what_are_sum_product_and_pi_types/)
             + [Rust/Haskell: Higher-Kinded Types (HKT)](https://gist.github.com/CMCDragonkai/a5638f50c87d49f815b8)
                 + [Higher-kinded type trait](https://gist.github.com/14427/af90a21b917d2892eace)
                 + [Does/Will Rust support functional programming idioms?](https://stackoverflow.com/questions/18374612/does-will-rust-support-functional-programming-idioms)
