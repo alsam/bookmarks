@@ -190,6 +190,8 @@
     + [Atom - The hackable text editor](https://atom.io)
         + [atom github](https://github.com/atom/atom)
         + [Atom Flight Manual](https://atom.io/docs/latest/getting-started-atom-basics)
+        + [Atom Keymaps In-Depth](http://flight-manual.atom.io/behind-atom/sections/keymaps-in-depth/)
+            + [Atom How to replace a keymap binding](https://discuss.atom.io/t/how-to-replace-a-keymap-binding/16834/6)
         + [Atom Editor Keyboard Shortcut Cheat Sheet](https://blog.bugsnag.com/atom-editor-cheat-sheet/)
             + *Line Manipulation*
                 1. ⌘ + ] / [ Indent/outdent current line.
@@ -208,8 +210,16 @@
 
         + [The Atom text editor and Rust](http://www.perfectchipperman.com/2015/10/the-atom-text-editor-and-rust.html)
             + [Software development and other things](http://markusjais.com/)
+            + [atom Force file reload](https://discuss.atom.io/t/force-file-reload/11508)
             + [atom/markdown-preview](https://github.com/atom/markdown-preview/pull/298)
             + [atom/multi-cursor-plus](https://atom.io/packages/multi-cursor-plus)
+            + [atom/Sublime Style Column Selection](https://atom.io/packages/Sublime-Style-Column-Selection)
+                + *TL;DR*
+                ```
+                Platform    Modifier Key    Mouse Button
+                Linux       Shift           Left
+                ```
+
             + [[Solved] disable alt+mouse "move window"?](https://forum.xfce.org/viewtopic.php?id=2989)
               + [How can I disable 'Alt' + mouse default behavior in KDE?](http://superuser.com/questions/584730/how-can-i-disable-alt-mouse-default-behavior-in-kde)
               + [use 'Shift-MiddleMouse' for column selection](https://github.com/bigfive/atom-sublime-select/issues/26)
