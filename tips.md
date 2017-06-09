@@ -468,6 +468,15 @@
             g++ systemd-service-client.cc -o systemd-service-client `pkg-config --cflags --libs libsystemd`
             ``` 
 
+    + WebSockets
+        + [ws: a Node.js WebSocket library](https://github.com/websockets/ws#sending-and-receiving-text-data)
+            + [Autobahn test suite reports](http://websockets.github.io/ws/)
+            tl;dr
+            ```sh
+            npm install -g ws
+            ...
+            ```
+
     + [How to shutdown Linux using C++ or Qt without call to “system()”?](http://stackoverflow.com/questions/28812514/how-to-shutdown-linux-using-c-or-qt-without-call-to-system/28812629)
         + [Core utility library for all LXQt components http://lxqt.org](https://github.com/lxde/liblxqt/blob/master/lxqtpower/lxqtpowerproviders.cpp)
 

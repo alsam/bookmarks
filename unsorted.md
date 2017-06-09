@@ -24,4 +24,6 @@
         + [50+ Free Data Science Books](http://www.datasciencecentral.com/profiles/blogs/50-free-data-science-books?xg_source=activity)
 
     + [Explained Visually](http://setosa.io/ev/)
+
+    + [The free physics textbook](http://www.motionmountain.net/?gclid=CLfavuaFqdQCFUhnGQodiJQJjQ)
  
