@@ -176,3 +176,17 @@
 
 + Automatic Fortran to C++ conversion
     + [Automatic Fortran to C++ conversion with FABLE](https://scfbm.biomedcentral.com/articles/10.1186/1751-0473-7-5)
+
++ Promising Languages for Scientific Computing (besides Julia)
+    + [SciLua: Scientific Computing with LuaJIT](http://scilua.org/)
+    + [Chapel Quickstart Instructions](http://chapel.cray.com/docs/latest/usingchapel/QUICKSTART.html)
+        tl;dr
+        ```sh
+        source util/quickstart/setchplenv.bash
+        make
+        make check
+        chpl -o hello examples/hello.chpl
+        ```
+
+
+
