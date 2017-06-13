@@ -583,6 +583,8 @@
             grub-install
             ```
 
+        + [Arch vs. Manjaro](https://www.slant.co/versus/2690/2706/~arch_vs_manjaro)
+
         + [mount dev, proc, sys in a chroot environment?](https://superuser.com/questions/165116/mount-dev-proc-sys-in-a-chroot-environment)
 + RHEL
     + [Software Collections for Scientific Linux CERN 6](http://linux.web.cern.ch/linux/scl/)
@@ -622,6 +624,7 @@
         + [Haskell Programming _from first principles_](http://haskellbook.com/feedback.html)
 + C
     + [9 интересных трюков на Си, с которыми вы раньше не сталкивались](https://tproger.ru/translations/9-clang-tricks/)
+    + [How do I create a custom file system in C?](https://www.quora.com/How-do-I-create-a-custom-file-system-in-C)
 
 + C++
     + C++ and multithreading
