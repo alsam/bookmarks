@@ -594,6 +594,8 @@
         + [`step_by` on negative numbers](https://internals.rust-lang.org/t/step-by-on-negative-numbers/2231)
         + [GPU support](https://internals.rust-lang.org/t/single-source-gpu-support/898/13)
 
+    + [Unable to create a polymorphic type because the trait cannot be made into an object](https://stackoverflow.com/questions/39412626/unable-to-create-a-polymorphic-type-because-the-trait-cannot-be-made-into-an-obj)
+
     + [Add LaTeX support to Rustdoc](https://github.com/rust-lang/rust/issues/34261)
         + [Add Mathjax (KaTeX?) Support to Rustdoc #16300 ](https://github.com/rust-lang/rust/issues/16300)
         + [Add mathematics support to rustdoc #17390](https://github.com/rust-lang/rust/pull/17390#issuecomment-61195381)
