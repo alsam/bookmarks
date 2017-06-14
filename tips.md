@@ -619,6 +619,10 @@
     + [Поняв Docker](https://habrahabr.ru/post/277699/)
     + [Образы и контейнеры Docker в картинках](http://habrahabr.ru/post/272145/)
 
++ Jenkins
+    + [Jenkins - Running a single job in master as well as slave](https://stackoverflow.com/questions/9214501/jenkins-running-a-single-job-in-master-as-well-as-slave)
+    + [Hudson: Copy artifact from master to slave fails](https://stackoverflow.com/questions/5830334/hudson-copy-artifact-from-master-to-slave-fails)
+
 + Haskell (see also `pandoc` and `diagrams` links above)
     + [Haskell Communities and Activities Report Twenty-Ninth Edition – November 2015](https://www.haskell.org/communities/11-2015/html/report.html)
         + [Haskell Programming _from first principles_](http://haskellbook.com/feedback.html)
