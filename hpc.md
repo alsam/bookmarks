@@ -86,3 +86,5 @@
 
 + [A flexible package manager that supports multiple versions, configurations, platforms, and compilers. https://spack.io](https://github.com/LLNL/spack)
     + [Tutorial: Spack 101](https://spack.readthedocs.io/en/latest/tutorial_sc16.html)
+
++ [NASA: High Performance Fast Computing Challenge](https://hn.svelte.technology/item/14265751)
