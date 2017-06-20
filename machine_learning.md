@@ -90,6 +90,7 @@
     + [TensorFlow - Google’s latest machine learning system, open sourced for everyone](http://googleresearch.blogspot.ru/2015/11/tensorflow-googles-latest-machine_9.html)
         + [TensorFlow](http://www.tensorflow.org/)
             + [TensorFlow: A primer](https://blog.metaflow.fr/tensorflow-a-primer-4b3fa0978be3)
+            + [Learning Artificial Intelligence(AI) and Tensorflow Without a PhD by Google's Martin Görner](https://www.youtube.com/watch?v=wDxDhvLLNuE)
             + [TensorFlow Tutorial: 10 minutes Practical TensorFlow lesson for quick learners](http://cv-tricks.com/artificial-intelligence/deep-learning/deep-learning-frameworks/tensorflow-tutorial/)
             + [Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow/)
             + [TensorFlow white paper](http://download.tensorflow.org/paper/whitepaper2015.pdf)
@@ -118,6 +119,8 @@
         + [Open source software library for numerical computation using data flow graphs](https://github.com/tensorflow/tensorflow)
         + [A deep Q learning demonstration using Google Tensorflow](https://github.com/nivwusquorum/tensorflow-deepq)
         + [Simplified interface for TensorFlow (mimicking Scikit Learn)](https://github.com/tensorflow/skflow)
+        + [Google’s Tensor2Tensor makes it easier to conduct deep learning experiments](https://techcrunch.com/2017/06/19/tensor2tensor/)
+            + [T2T: Tensor2Tensor Transformers](https://github.com/tensorflow/tensor2tensor)
         + [Обзор примера применения обучения с подкреплением с использованием TensorFlow](http://habrahabr.ru/post/274597/)
         + [gvnn: Neural Network Library for Geometric Computer Vision](http://128.84.21.199/abs/1607.07405)
 
