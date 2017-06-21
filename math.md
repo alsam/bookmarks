@@ -64,6 +64,12 @@
         + [Mathoverflow Derivative of the elliptic integral of the first kind](http://math.stackexchange.com/questions/426257/derivative-of-the-elliptic-integral-of-the-first-kind)
         + [Evaluation of a Generalized Elliptic-Type Integral](http://nvlpubs.nist.gov/nistpubs/jres/67B/jresv67Bn1p1_A1b.pdf)
 
+        + [Computation of elliptic integrals and elliptic functions by Toshio Fukushima](https://www.researchgate.net/project/Computation-of-elliptic-integrals-and-elliptic-functions)
+            + [Precise and Fast Computation of Elliptic Integrals and Elliptic Functions](http://www.acsel-lab.com/arithmetic/arith22/papers/8664a050.pdf)
+            + [Precise & Fast Computation of Elliptic Functions & Elliptic Integrals](http://arith22.gforge.inria.fr/slides/05-fukushima.pdf)
+            + [PRECISE AND FAST COMPUTATION OF THE GENERAL COMPLETE ELLIPTIC INTEGRAL OF THE SECOND KIND](http://www.ams.org/journals/mcom/2011-80-275/S0025-5718-2011-02455-5/S0025-5718-2011-02455-5.pdf)
+            + [Fast Computation of a General Complete Elliptic Integral of Third Kind by Half and Double Argument Transformations](https://pdfs.semanticscholar.org/5915/b6f8a6741b90302e335c22dcee303f70a8f8.pdf)
+
     + [Open Problems in Mathematics with John Nash](https://www.ias.edu/2016/rassias-nash)
 
     + [Physics 420/580: Computational Physics Final Exam](https://sites.ualberta.ca/~kbeach/phys420_580/docs/Exam_2008.pdf)
