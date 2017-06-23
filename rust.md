@@ -236,6 +236,7 @@
         + [Today I learned — episode 3 (strong typing in C++ vs. Rust)](https://andidog.de/blog/2016-11-04-today-i-learned-3-strong-typing-in-cpp-vs-rust)
 
     + Rust patterns
+        + [Common data structures and algorithms in Rust](https://github.com/EbTech/rust-algorithms)
         + [A catalogue of Rust design patterns](https://github.com/rust-unofficial/patterns)
         + [Rust Patterns: Using traits for function overloading](https://medium.com/@jreem/advanced-rust-using-traits-for-argument-overloading-c6a6c8ba2e17)
             + [rust-modifier: emulates overloading](https://github.com/reem/rust-modifier)
@@ -531,6 +532,10 @@
            ├── libc v0.2.4 (*)
            └── winapi v0.2.5 (*)
         ```
+
+        + [Rust task runner and build tool](https://github.com/sagiegurari/cargo-make)
+
+        + [Parse command line argument by defining a struct](https://github.com/TeXitoi/structopt)
 
         + [Rust and Rest](http://lucumr.pocoo.org/2016/7/10/rust-rest/)
             + [Rust bindings to libcurl](https://github.com/alexcrichton/curl-rust)
