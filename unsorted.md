@@ -26,4 +26,7 @@
     + [Explained Visually](http://setosa.io/ev/)
 
     + [The free physics textbook](http://www.motionmountain.net/?gclid=CLfavuaFqdQCFUhnGQodiJQJjQ)
- 
+
+
+    + [Как создать свою собственную операционную систему с нуля](https://tproger.ru/books/create-os/)
+        + [A sample OS as demonstrated in the book Operating System: From 0 to 1](https://github.com/tuhdo/sample-os)
