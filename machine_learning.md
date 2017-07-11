@@ -39,6 +39,9 @@
 
 + Misc
 
+    + cheat sheets
+        + [Cheat Sheets for AI, Neural Networks, Machine Learning, Deep Learning & Big Data](https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-678c51b4b463)
+
     + [Which GPU(s) to Get for Deep Learning: My Experience and Advice for Using GPUs in Deep Learning](http://timdettmers.com/2014/08/14/which-gpu-for-deep-learning/)
     + [The Brain vs Deep Learning Part I: Computational Complexity — Or Why the Singularity Is Nowhere Near](http://timdettmers.com/2015/07/27/brain-vs-deep-learning-singularity/)
 
