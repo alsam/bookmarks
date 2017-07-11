@@ -548,6 +548,8 @@
         sudo pip install gdbgui --upgrade
         ```
         + [gdbgui review](https://tproger.ru/articles/gdbgui-for-browser/)
+        + [gdb-дуэль — списки, деревья и хэш таблицы против командной строки](https://habrahabr.ru/post/328180/)
+            + [Various tools to improve the gdb experience](https://github.com/vuvova/gdb-tools)
         + [Slack Desktop (Beta) for Linux](https://aur.archlinux.org/packages/slack-desktop/)
         + [The Rust toolchain installer](https://aur.archlinux.org/packages/rustup/)
         + [[SOLVED] Graphics / Nvidia / Opengl not working as expected](https://bbs.archlinux.org/viewtopic.php?id=213895)
