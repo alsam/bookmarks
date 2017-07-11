@@ -70,6 +70,7 @@
         + [Fanfiction, Graphs, and PageRank](http://colah.github.io/posts/2014-07-FFN-Graphs-Vis/)
         + [Visual Information Theory](http://colah.github.io/posts/2015-09-Visual-Information/)
 
+        + [How to Re-Invent the Cognitive Stack of Intelligence](https://medium.com/intuitionmachine/the-key-to-agi-learning-to-learn-new-skills-a2ce49d9bb0b)
 
     + [Andrej Karpathy blog](http://karpathy.github.io/)
         + [Efficient Image Captioning code in Torch, runs on GPU](https://github.com/karpathy/neuraltalk2)
