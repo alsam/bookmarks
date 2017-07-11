@@ -76,6 +76,8 @@
     + [The Haskell LaTeX library](https://github.com/Daniel-Diaz/HaTeX)
         + [Convenient Haskell syntax for writing in LaTeX math expressions](https://github.com/leftaroundabout/Symbolic-math-HaTeX)
 
+    + [TeX for Gmail](http://alexeev.org/gmailtex.html)
+
 + Creating diagrams
     + [Creating documents with embedded diagrams](https://byorgey.wordpress.com/2012/08/28/creating-documents-with-embedded-diagrams/)
         + [diagrams](http://projects.haskell.org/diagrams/)
