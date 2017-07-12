@@ -220,6 +220,7 @@
                     + [gethub: GeNN is a GPU enhanced Neuronal Network simulation environment based on Nvidia CUDA technology.](https://github.com/genn-team/genn)
 
         + [Deep Visualization Toolbox video](https://www.youtube.com/watch?v=AgkfIQ4IGaM)
+            + [Recurrent Neural Networks (RNN) and Long Short-Term Memory (LSTM)](https://www.youtube.com/watch?v=WCUNPb-5EYI&feature=youtu.be)
 
         + [DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs](http://liangchiehchen.com/projects/DeepLab.html)
 
@@ -342,6 +343,7 @@
         + Books
             + Deep Learning books
                 + [MIT Deep Learning Book in PDF format](https://github.com/HFTrader/DeepLearningBook)
+                + [An Algebraic Perspective on Deep Learning](http://helper.ipam.ucla.edu/publications/gss2012/gss2012_10605.pdf)
             + [Artificial Cognitive Systems: A Primer](http://www.amazon.com/Artificial-Cognitive-Systems-A-Primer/dp/0262028387/ref=pd_bxgy_14_2?ie=UTF8&refRID=0827S66XPRA4SYQVXRKB)
                 + [Artificial Cognitive Systems by Prof. David Vernon](http://www.vernon.eu/ACS.htm)
             + [The Geometry of Meaning: Semantics Based on Conceptual Spaces](http://www.amazon.com/The-Geometry-Meaning-Semantics-Conceptual/dp/0262026783/ref=pd_sim_14_3?ie=UTF8&dpID=41USieoQ8aL&dpSrc=sims&preST=_AC_UL160_SR108%2C160_&refRID=0827S66XPRA4SYQVXRKB)
