@@ -446,6 +446,8 @@
         + [RFC 1210: impl specialization](https://github.com/rust-lang/rfcs/blob/master/text/1210-impl-specialization.md)
             + [Implement RFC 1210: impl specialization #30652](https://github.com/rust-lang/rust/pull/30652)
             + [Specialize to reuse](https://aturon.github.io/blog/2015/09/18/reuse/)
+            + [Shipping specialization: a story of soundness](https://internals.rust-lang.org/t/shipping-specialization-a-story-of-soundness/5507/13)
+                + [Shipping specialization: a story of soundness](http://aturon.github.io/blog/2017/07/08/lifetime-dispatch/)
         + [RFC 1422: pub_restricted](https://github.com/rust-lang/rfcs/blob/master/text/1422-pub-restricted.md)
 
     + Misc.
