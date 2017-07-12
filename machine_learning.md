@@ -336,6 +336,9 @@
 
         + [From the Phenomenology to the Mechanisms of Consciousness: Integrated Information Theory 3.0](http://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1003588)
 
+        + [Cliques of Neurons Bound into Cavities Provide a Missing Link between Structure and Function](http://journal.frontiersin.org/article/10.3389/fncom.2017.00048/full)
+            + [The Human Brain Builds Structures in 11 Dimensions, Discover Scientists](http://bigthink.com/paul-ratner/our-brains-think-in-11-dimensions-discover-scientists)
+
         + Books
             + Deep Learning books
                 + [MIT Deep Learning Book in PDF format](https://github.com/HFTrader/DeepLearningBook)
