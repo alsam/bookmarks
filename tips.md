@@ -810,6 +810,8 @@
                 dump_vector("coeffs", vec);
                 ```
 
+        + [non-trivial designated initializers not supported](https://stackoverflow.com/questions/31215971/non-trivial-designated-initializers-not-supported)
+
     + REST API
         + [REST APIs in C++](http://lordjeb.com/category/c-2/)
         + [What is a good open source C++11 web/HTTP server library for building an application server ?](https://www.reddit.com/r/cpp/comments/2rjbrd/what_is_a_good_open_source_c11_webhttp_server/)
