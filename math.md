@@ -75,3 +75,9 @@
     + [Physics 420/580: Computational Physics Final Exam](https://sites.ualberta.ca/~kbeach/phys420_580/docs/Exam_2008.pdf)
 
     + [Статистика для математика](https://habrahabr.ru/post/312552/)
+
+    + Free books
+        + [TopologyNow!](http://people.albion.edu/ram/TopologyNow!/)
+            + [Best book for topology?](https://math.stackexchange.com/questions/7520/best-book-for-topology)
+        + [Algebraic General Topology and Math Synthesis](http://www.mathematics21.org/algebraic-general-topology.html)
+        + [Intro to Topology](http://math.ucr.edu/~res/math205C-2016/gentop-notes.pdf)
