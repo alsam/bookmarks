@@ -184,6 +184,18 @@
         + [Use VIM as your RUST IDE](https://github.com/ivanceras/rust-vim-setup)
         + [How to install NERDTree with Vundle?](https://vi.stackexchange.com/questions/5335/how-to-install-nerdtree-with-vundle)
 
+        + NeoVim specific
+            + [Neovim ArchLinux notes](https://wiki.archlinux.org/index.php/Neovim)
+            *tl;dr*
+            ```sh
+            mkdir -p ~/.config/nvim/
+            ln -s ~/.vimrc ~/.config/nvim/init.vim
+            ```
+            + [rxrc/nvimrc](https://libraries.io/github/rxrc/nvimrc)
+                + [from nvimrc](https://devhub.io/repos/makenew-nvimrc)
+            + [NeoVim config files](https://github.com/bigeagle/neovim-config)
+            + [GTK ui for neovim written in rust using gtk-rs bindings](https://github.com/daa84/neovim-gtk)
+
     + Emacs
         + [Хорошо настроенный Emacs](http://habrahabr.ru/post/274759/)
         + [Prelude is an enhanced Emacs 24 or 25 distribution that should make your experience with Emacs both more pleasant and more powerful](https://github.com/bbatsov/prelude)
