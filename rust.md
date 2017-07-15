@@ -387,7 +387,6 @@
         + [*deprecated* OOP inheritance adapted to Rust](https://internals.rust-lang.org/t/oop-inheritance-adapted-to-rust/586)
             + [Usecases for inheritance](https://users.rust-lang.org/t/usecases-for-inheritance/348)
                 + [Rust type system and the Circle-ellipse problem](https://internals.rust-lang.org/t/rust-type-system-and-the-circle-ellipse-problem/3057)
-            + [Specialization/Inheritance](https://internals.rust-lang.org/t/specialization-inheritance/3030)
             + [Abstraction without overhead: traits in Rust](http://blog.rust-lang.org/2015/05/11/traits.html)
                 + [Most coveted Rust features](https://users.rust-lang.org/t/most-coveted-rust-features/324/15)
         + [confusing error "ambiguous associated type" on missing enum variants](https://github.com/rust-lang/rust/issues/41003)
@@ -448,6 +447,10 @@
             + [Specialize to reuse](https://aturon.github.io/blog/2015/09/18/reuse/)
             + [Shipping specialization: a story of soundness](https://internals.rust-lang.org/t/shipping-specialization-a-story-of-soundness/5507/13)
                 + [Shipping specialization: a story of soundness](http://aturon.github.io/blog/2017/07/08/lifetime-dispatch/)
+
+            + [Specialization/Inheritance](https://internals.rust-lang.org/t/specialization-inheritance/3030)
+            + [Conditional Trait Implementations](https://users.rust-lang.org/t/conditional-trait-implementations/11850/4)
+                + [Rust: Conditional Trait Implementation](https://stackoverflow.com/questions/45113763/rust-conditional-trait-implementation)
         + [RFC 1422: pub_restricted](https://github.com/rust-lang/rfcs/blob/master/text/1422-pub-restricted.md)
 
     + Misc.
