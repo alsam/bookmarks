@@ -449,6 +449,7 @@
                 + [Shipping specialization: a story of soundness](http://aturon.github.io/blog/2017/07/08/lifetime-dispatch/)
 
             + [Specialization/Inheritance](https://internals.rust-lang.org/t/specialization-inheritance/3030)
+            + [Specialization Tree](https://users.rust-lang.org/t/specialization-tree/11863)
             + [Conditional Trait Implementations](https://users.rust-lang.org/t/conditional-trait-implementations/11850/4)
                 + [Rust: Conditional Trait Implementation](https://stackoverflow.com/questions/45113763/rust-conditional-trait-implementation)
         + [RFC 1422: pub_restricted](https://github.com/rust-lang/rfcs/blob/master/text/1422-pub-restricted.md)
