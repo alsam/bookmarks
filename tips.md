@@ -600,9 +600,13 @@
         + [Arch vs. Manjaro](https://www.slant.co/versus/2690/2706/~arch_vs_manjaro)
 
         + [mount dev, proc, sys in a chroot environment?](https://superuser.com/questions/165116/mount-dev-proc-sys-in-a-chroot-environment)
-+ RHEL
-    + [Software Collections for Scientific Linux CERN 6](http://linux.web.cern.ch/linux/scl/)
-    + [Software Collections for Scientific Linux CERN 6 : RPMS](http://linuxsoft.cern.ch/cern/scl/slc6X/x86_64/RPMS/)
+
+    + [Arch Linxu vs Nix OS](https://www.slant.co/versus/2690/11676/~arch_vs_nix-os)
+        + [Switching to Nixos from Arch Linux](https://ramsdenj.com/2017/06/19/switching-to-nixos-from-arch-linux.html)
+
+    + RHEL
+        + [Software Collections for Scientific Linux CERN 6](http://linux.web.cern.ch/linux/scl/)
+        + [Software Collections for Scientific Linux CERN 6 : RPMS](http://linuxsoft.cern.ch/cern/scl/slc6X/x86_64/RPMS/)
 
 + profilers
     + [gperftools: Fast, multi-threaded malloc() and nifty performance analysis tools](https://code.google.com/p/gperftools/?redir=1)
