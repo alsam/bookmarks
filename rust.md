@@ -647,6 +647,7 @@
         + DBus
             + [DBus projects in Rust](https://crates.io/search?q=dbus)
             + [A D-Bus binding for Rust](https://github.com/diwic/dbus-rs)
+                + [dbus-rs: Serde support for msgarg](https://github.com/diwic/dbus-rs/issues/56)
             + [dbus-rs/src/message.rs](https://github.com/diwic/dbus-rs/blob/564e5af97a536d1a8cf93abdd2ad8550852a7b69/src/message.rs)
             + [argument_guide](https://github.com/diwic/dbus-rs/blob/master/examples/argument_guide.md)
             + [Struct dbus::arg::Iter](https://docs.rs/dbus/0.5.2/dbus/arg/struct.Iter.html)
