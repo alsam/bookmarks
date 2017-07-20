@@ -46,16 +46,27 @@
     + [A flexible and efficient С++ template library for dimension reduction](https://github.com/lisitsyn/tapkee)
         + [Tapkee an efficient dimension reduction library](http://tapkee.lisitsyn.me/)
 
-+ Hierarchical matrices
-    + [H2Lib is an open source software library for hierarchical matrices and H²-matrices](http://h2lib.org/)
-        + [H2Lib public github repository](https://github.com/H2Lib/H2Lib)
-    + [AHMED - Another software library on hierarchical matrices for elliptic differential equations github repository](https://github.com/xantares/ahmed)
-        + [AHMED presentation](http://www.uni-graz.at/~haasegu/Lectures/HPC-II/SS14/ahmed.pdf)
++ BEM - **B**oundary **E**lement **L**ibrary
     + [BEM++ is an open-source Galerkin boundary element library that handles Laplace, Helmholtz and Maxwell problems on bounded and unbounded domains](http://www.bempp.org/)
         + [BEM++ github repo](https://github.com/bempp/bempp)
             + [BEM++ fork](https://github.com/UCL/bempp)
     + [Boundary Element Template Library](http://www.sam.math.ethz.ch/betl/)
     + [HyENA - HyENA stands for [Hy]perbolic and [E]lliptic [N]umerical [A]nalysis and is a C++ library](http://portal.tugraz.at/portal/page/portal/Files/i2610/files/Forschung/Software/HyENA/html/index.html)
+    + [NiHu C++ Boundary Element Library](http://last.hit.bme.hu/nihu/a00006.html#install_obtain)
+    tl;dr
+    ```c++
+    git clone -b release_1.1 git://last.hit.bme.hu/toolbox/nihu.git
+    ```
+        + [Formulating various BEM problems with an open source C++ BEM template library](http://pub.dega-akustik.de/DAGA_2014/data/articles/000368.pdf)
+    + [fmm-bem-relaxed](https://github.com/barbagroup/fmm-bem-relaxed)
+    + [SCUFF-EM](https://github.com/HomerReid/scuff-em/)
+        + [PhD Thesis on SCUFF-EM](http://homerreid.dyndns.org/research/memos/Thesis.pdf)
+
+    + Hierarchical matrices
+        + [H2Lib is an open source software library for hierarchical matrices and H²-matrices](http://h2lib.org/)
+            + [H2Lib public github repository](https://github.com/H2Lib/H2Lib)
+        + [AHMED - Another software library on hierarchical matrices for elliptic differential equations github repository](https://github.com/xantares/ahmed)
+            + [AHMED presentation](http://www.uni-graz.at/~haasegu/Lectures/HPC-II/SS14/ahmed.pdf)
 
 + [The C++ Standards Library for Concurrency and Parallelism http://stellar-group.org/libraries/hpx](https://github.com/STEllAR-GROUP/hpx)
     + [HPX (High Performance ParalleX) is a general purpose C++ runtime system for parallel and distributed applications of any scale](http://stellar-group.org/libraries/hpx)
