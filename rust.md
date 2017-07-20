@@ -35,6 +35,7 @@
         + [see it for FFI bindings: Rust bindings for libpcuid CPU detection and feature extraction library](https://github.com/zsiciarz/rust-cpuid)
             + [Rust Module std::ptr](https://doc.rust-lang.org/std/ptr/)
     + [Awesome documentation links for Rust](http://diveintodata.org/2015/10/11/rust-awesome-documentation-links/)
+    + [Rust release milestone predictions](https://internals.rust-lang.org/t/rust-release-milestone-predictions/4591/12)
 
     + Are we yet?
         + [Are we (I)DE yet?](https://areweideyet.com/)
