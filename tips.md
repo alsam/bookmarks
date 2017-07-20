@@ -601,7 +601,7 @@
 
         + [mount dev, proc, sys in a chroot environment?](https://superuser.com/questions/165116/mount-dev-proc-sys-in-a-chroot-environment)
 
-    + [Arch Linxu vs Nix OS](https://www.slant.co/versus/2690/11676/~arch_vs_nix-os)
+    + [Arch Linux vs Nix OS](https://www.slant.co/versus/2690/11676/~arch_vs_nix-os)
         + [Switching to Nixos from Arch Linux](https://ramsdenj.com/2017/06/19/switching-to-nixos-from-arch-linux.html)
 
     + RHEL
