@@ -1074,7 +1074,7 @@
           }
           endmntent(aFile);
         }
-        ```
+    + [How to Get Available Filesystem Space on Linux: a C Function with a C++ Example](https://www.systutorials.com/136585/how-to-get-available-filesystem-space-on-linux-a-c-function-and-a-cpp-example/)    ```
 
 + packaging
     + [Hosting a Private Apt Repository on S3](https://zcox.wordpress.com/2012/08/13/hosting-a-private-apt-repository-on-s3/)
