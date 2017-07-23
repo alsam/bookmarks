@@ -608,6 +608,13 @@
         + [Software Collections for Scientific Linux CERN 6](http://linux.web.cern.ch/linux/scl/)
         + [Software Collections for Scientific Linux CERN 6 : RPMS](http://linuxsoft.cern.ch/cern/scl/slc6X/x86_64/RPMS/)
 
+    + Ubuntu
+        + [How to list all installed packages](https://askubuntu.com/questions/17823/how-to-list-all-installed-packages)
+        tl;dr
+        ```sh
+        apt list --installed
+        ```
+
 + profilers
     + [gperftools: Fast, multi-threaded malloc() and nifty performance analysis tools](https://code.google.com/p/gperftools/?redir=1)
         + [cpuprofile doc](http://google-perftools.googlecode.com/svn/trunk/doc/cpuprofile.html)
