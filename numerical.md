@@ -189,6 +189,7 @@
     + [Automatic Fortran to C++ conversion with FABLE](https://scfbm.biomedcentral.com/articles/10.1186/1751-0473-7-5)
 
 + Promising Languages for Scientific Computing (besides Julia)
+    + [Polyglot Programming : review several candidate languages, namely C, C++, Fortran, Cython, Numba, Nim, Rust, D, Chapel and Julia](http://stash.artec-group.com:7990/projects/LSL/repos/mover/pull-requests/12/overview)
     + [SciLua: Scientific Computing with LuaJIT](http://scilua.org/)
     + [Chapel Quickstart Instructions](http://chapel.cray.com/docs/latest/usingchapel/QUICKSTART.html)
         tl;dr
