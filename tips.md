@@ -832,6 +832,43 @@
                 auto vec = xml_data.get("A.E.S.coeffs", std::vector<float>());
                 dump_vector("coeffs", vec);
                 ```
+            + [Christian Aichinger's thoughts : boost::make_iterator_range](https://greek0.net/boost-range/boost-make_iterator_range.html)
+                + [Overview of C++ Variable Initialization](https://greek0.net/cpp/initialization.html)
+
+            + [A method to list all files in directory and sub-directories using boost and c++](https://stackoverflow.com/questions/37618229/a-method-to-list-all-files-in-directory-and-sub-directories-using-boost-and-c)
+                + [GitGist : vivithemage/boost_list_directory.cpp](https://gist.github.com/vivithemage/9517678)
+                ```c++
+                #include <iostream>
+                #include <string>
+                #include <vector>
+                #include <boost/filesystem.hpp>
+                #include <boost/range.hpp>
+                
+                std::vector<std::string>
+                get_file_list(std::string const& path)
+                {
+                    std::vector<std::string> files;
+                    if (!path.empty()) {
+                        boost::filesystem::path dir = ".";
+                        boost::filesystem::recursive_directory_iterator it(dir), end;
+                
+                        for (auto& entry : boost::make_iterator_range(it, end))
+                            if (boost::filesystem::is_regular(entry))
+                                files.push_back(entry.path().native());
+                    }
+                    return files;
+                }
+                
+                int main(int argc, char** argv)
+                {
+                    if (argc > 1) {
+                        auto file_list = get_file_list(argv[1]);
+                        for (auto const& f : file_list) {
+                            std::cout << "- " << f << std::endl;
+                        }
+                    }
+                }
+                ```
 
         + [non-trivial designated initializers not supported](https://stackoverflow.com/questions/31215971/non-trivial-designated-initializers-not-supported)
 
