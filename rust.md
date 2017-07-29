@@ -425,6 +425,7 @@
         + [Racer progress update Dec 29, 2015](http://phildawes.net/blog/2015/12/29/racer-update-6/) 
 
         + [A bunch of lints to catch common mistakes and improve your Rust code](https://github.com/Manishearth/rust-clippy)
+            + [rust-clippy Failed to build with rustc 1.21.0-nightly (126321e2e 2017-07-28)](https://github.com/rust-lang-nursery/rust-clippy/issues/1910)
 
         + [Convert string slice to int in rust](http://stackoverflow.com/questions/26919609/convert-string-slice-to-int-in-rust)
         + [Learning to 'try!' things in Rust](http://www.jonathanturner.org/2015/11/learning-to-try-things-in-rust.html)
@@ -599,6 +600,31 @@
                         + [Associated constant doesn’t exist?](https://users.rust-lang.org/t/associated-constant-doesnt-exist/12070/2)
                             + [associated-constants can not be used in constant expressions](https://github.com/rust-lang/rust/issues/34344)
                         + [Generic associated consts can't currently be used to parameterize fixed array lengths](https://github.com/rust-lang/rust/issues/42863)
+                        tl;dr *it works!*
+                        ```rust
+                        #![feature(associated_consts)]
+
+                        trait Const {
+                            const VALUE: usize;
+                        }
+
+                        struct Foo;
+
+                        impl Const for Foo {
+                            const VALUE: usize = 4;
+                        }
+
+                        fn test(x: [u8; Foo::VALUE]) {
+                            for _ in x.iter() {
+                                println!("hello");
+                            }
+                        }
+
+                        fn main() {
+                            let x = [1,2,3,4];
+                            test(x);
+                        }
+                        ```
             + [Dissertation on Algebraic Subtyping](https://internals.rust-lang.org/t/dissertation-on-algebraic-subtyping/4906)
             + [Higher-kinded type trait](https://www.reddit.com/r/rust/comments/31g0qd/higherkinded_type_trait/)
             + [GitHub Gist for HKT](https://gist.github.com/14427)
@@ -626,7 +652,7 @@
         + [GC and Rust Part 1: Specifying the Problem](http://blog.pnkfx.org/blog/2015/11/10/gc-and-rust-part-1-specing-the-problem/)
         + [GC and Rust Part 2: The Roots of the Problem](http://blog.pnkfx.org/blog/2016/01/01/gc-and-rust-part-2-roots-of-the-problem/)
 
-    + [Machine Learning in Rust](https://github.com/alsam/bookmarks/blob/master/machine_learning.md#Rust based projects)
+    + [Machine Learning in Rust](https://github.com/alsam/bookmarks/blob/master/machine_learning.md)
         + [rustlearn - A machine learning package for Rust](https://github.com/maciejkula/rustlearn)
 
     + [The Kolmogorov-Smirnov Test](http://daithiocrualaoich.github.io/kolmogorov_smirnov/)
