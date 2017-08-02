@@ -759,6 +759,11 @@
         + [Aspiring vim-like text editor](https://github.com/mathall/rim)
             + [The Bram Moole-Laaw: There Will be Attempts to Rewrite Vim in Nearly Every New Language](http://joshldavis.com/2015/11/29/the-bram-moole-laaw-vim-re-write/)
 
+    + Video
+        + [warming up: Even more general pixels](https://users.rust-lang.org/t/even-more-general-pixels/12068)
+        + [imgref: A trivial Rust struct for interchange of pixel buffers with width, height & stride](https://github.com/pornel/imgref)
+        + [resize: Simple resampling library in pure Rust](https://github.com/PistonDevelopers/resize)
+
     + Linux distros Rust support
         + [Fedora to support Rust Compiler](https://fedoraproject.org/wiki/Changes/RustCompiler)
         + Rust crates for packaging systems
