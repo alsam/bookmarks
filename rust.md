@@ -646,6 +646,11 @@
         + [*Embedding LaTeX in Rust documentation?*](https://users.rust-lang.org/t/embedding-latex-in-rust-documentation/11234)
             + [The Tectonic Typesetting System](https://tectonic-typesetting.github.io/en-US/)
             + [ReX - typesetting mathematics](https://github.com/ReTeX/ReX)
+            + Extending the Literate Programming Tool Tango
+                + [Markdown-based Literate programming in Rust, integrated with Cargo](https://github.com/pnkfelix/tango)
+                    + [Demonstration crate for the tango literate programming tool](https://github.com/pnkfelix/tango-demo/)
+                + [md sample for literate programming in Rust with tango](https://github.com/pnkfelix/mon-artist/blob/a3388c11e8b1910cc4eb4c31bd1540a46851618b/src/lit/src/format.md)
+                    + [Increasing Rust’s Reach](https://blog.rust-lang.org/2017/06/27/Increasing-Rusts-Reach.html)
 
     + *GC in Rust*
         + [GC and Rust Part 0: Garbage Collection Background](http://blog.pnkfx.org/blog/2015/10/27/gc-and-rust-part-0-how-does-gc-work/)
