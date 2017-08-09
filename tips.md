@@ -1134,3 +1134,36 @@
     + [fdupes – A Comamndline Tool to Find and Delete Duplicate Files in Linux](http://www.tecmint.com/fdupes-find-and-delete-duplicate-files-in-linux/)
     + [Is there a difference between using pmount and mount?](https://superuser.com/questions/273956/is-there-a-difference-between-using-pmount-and-mount)
     + [How To Quickly Generate A Large File On The Command Line (With Linux)](http://www.skorks.com/2010/03/how-to-quickly-generate-a-large-file-on-the-command-line-with-linux/)
+    + [How to check programatically if the Ethernet cable is plugged in?](https://unix.stackexchange.com/questions/163503/how-to-check-programatically-if-the-ethernet-cable-is-plugged-in)
+    tl;dr
+    ```sh
+    for i in $( ls /sys/class/net ); do echo $i; done
+    dummy0
+    enx00044b5acf64
+    ip6tnl0
+    lo
+    rmnetctl
+    sit0
+    tunl0
+    wlan0
+
+    for i in $( ls /sys/class/net ); do echo -n $i: ; cat /sys/class/net/$i/carrier; done
+    dummy0:cat: /sys/class/net/dummy0/carrier: Invalid argument
+    enx00044b5acf64:1
+    ip6tnl0:cat: /sys/class/net/ip6tnl0/carrier: Invalid argument
+    lo:1
+    rmnetctl:cat: /sys/class/net/rmnetctl/carrier: Invalid argument
+    sit0:cat: /sys/class/net/sit0/carrier: Invalid argument
+    tunl0:cat: /sys/class/net/tunl0/carrier: Invalid argument
+    wlan0:1
+
+    for i in $( ls /sys/class/net ); do echo -n $i: ; cat /sys/class/net/$i/operstate; done
+    dummy0:down
+    enx00044b5acf64:up
+    ip6tnl0:down
+    lo:unknown
+    rmnetctl:down
+    sit0:down
+    tunl0:down
+    wlan0:unknown
+    ```
