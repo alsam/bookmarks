@@ -425,7 +425,6 @@
         + [Racer progress update Dec 29, 2015](http://phildawes.net/blog/2015/12/29/racer-update-6/) 
 
         + [A bunch of lints to catch common mistakes and improve your Rust code](https://github.com/Manishearth/rust-clippy)
-            + [rust-clippy Failed to build with rustc 1.21.0-nightly (126321e2e 2017-07-28)](https://github.com/rust-lang-nursery/rust-clippy/issues/1910)
 
         + [Convert string slice to int in rust](http://stackoverflow.com/questions/26919609/convert-string-slice-to-int-in-rust)
         + [Learning to 'try!' things in Rust](http://www.jonathanturner.org/2015/11/learning-to-try-things-in-rust.html)
