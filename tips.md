@@ -1,5 +1,136 @@
 # useful tips
 
++ Linux distribution tips
+
+    + Gentoo tips
+        + [Gentoo Cheat Sheet](https://wiki.gentoo.org/wiki/Gentoo_Cheat_Sheet)
+    
+    + Arch Linux tips
+        + first installation
+            tl;dr
+            don't forget to add UEFI partition at 1st installation `boot/UEFI`
+            + [Установка ArchLinux в режиме UEFI + systemd-boot + XFCE4 Часть первая](https://www.youtube.com/watch?v=pUBpGjybH6Q)
+            + [Установка ArchLinux в режиме UEFI + systemd-boot + XFCE4 Часть вторая](https://www.youtube.com/watch?v=LisOqIrgba0)
+            + [Установка ArchLinux в режиме UEFI + systemd-boot + XFCE4 Часть третья: Настройка XFCE](https://www.youtube.com/watch?v=jjNOcfdB-Ng)
+        + Arch Linux survival tips
+            + while booting type `e` (stands for edit)
+            + add `systemd.unit = resque.target` in `linux` boot menu
+            + set correct time to avoid https certificate problems
+            ```sh
+            ntpdate ntp3.stratum2.ru
+            ```
+        + [Arch Linux Installation guide](https://wiki.archlinux.org/index.php/installation_guide)
+            + [Installing Arch Linux on a USB key](https://wiki.archlinux.org/index.php/Installing_Arch_Linux_on_a_USB_key)
+        + [Arch Linux Set timezone](https://wiki.archlinux.org/index.php?title=Time&redirect=no#Time_zone)
+        + [Arch Linux SSH keys](https://wiki.archlinux.org/index.php/SSH_keys)
+        + [Arch Linux AUR](https://wiki.archlinux.org/index.php/Arch_User_Repository)
+        + [How to install Yaourt on Arch Linux](http://www.ostechnix.com/install-yaourt-arch-linux/)
+        + [Ignore A Package From Being Upgraded In Arch Linux](https://www.ostechnix.com/safely-ignore-package-upgraded-arch-linux/)
+        tl;dr
+        ```sh
+         Pacman won't upgrade packages listed in IgnorePkg and members of IgnoreGroup
+         #IgnorePkg   =
+         IgnorePkg   = linux linux-headers linux-firmware linux-lts gcc gcc-libs gcc-fortran nvidia cuda virtualbox-host-modules-arch
+         IgnoreGroup =
+        ```
+        tl;dr downgrade to gcc-6.3.1 from gcc-7.1.1
+        ```sh
+        sudo vim /etc/pacman.conf
+        pacman -U /var/cache/pacman/pkg/gcc-6.3.1-2-x86_64.pkg.tar.xz /var/cache/pacman/pkg/gcc-libs-6.3.1-2-x86_64.pkg.tar.xz /var/cache/pacman/pkg/gcc-fortran-6.3.1-2-x86_64.pkg.tar.xz
+        ```
+        ```sh
+        pacman -S grub
+        pacman -S vim gvim
+        pacman -S os-prober
+        pacman -S bash-completion
+        pacman -S gnome build-base base-devel scons python-pip python2-pip python-yaml qt5 wayland gdm python2 python mc gdb cgdb
+        pacman -S chromium 
+        pacman -S konsole
+        pacman -S git
+        pacman -S extra/keychain
+        pacman -S openssh
+        pacman -S gconf
+        pacman -S hunspell-en
+        pacman -S rsync
+        pacman -S extra/emacs
+        pacman -S texlive
+        pacman -S texlive-bin
+        pacman -S texlive-core
+        pacman -S extra/texlive-fontsextra
+        pacman -S texlive-most
+        pacman -S texlive-lang
+        pacman -S pandoc
+        pacman -S qt extra/qt5-declarative
+        pacman -S community/netactview
+        pacman -S community/cairo-dock
+        pacman -S community/cairo-dock-plug-ins
+        pacman -S extra/clang
+        pacman -S extra/kdegraphics-okular
+        pacman -S the_silver_searcher
+
+        systemctl enable gdm
+        systemctl start gdm
+        systemctl enable wicd
+        systemctl start wicd
+
+        sudo pip install gdbgui --upgrade
+        ```
+        + [gdbgui review](https://tproger.ru/articles/gdbgui-for-browser/)
+        + [gdb-дуэль — списки, деревья и хэш таблицы против командной строки](https://habrahabr.ru/post/328180/)
+            + [Various tools to improve the gdb experience](https://github.com/vuvova/gdb-tools)
+        + [Slack Desktop (Beta) for Linux](https://aur.archlinux.org/packages/slack-desktop/)
+        + [The Rust toolchain installer](https://aur.archlinux.org/packages/rustup/)
+        + [[SOLVED] Graphics / Nvidia / Opengl not working as expected](https://bbs.archlinux.org/viewtopic.php?id=213895)
+
+        + [One or more PGP signatures could not be verified!](https://bbs.archlinux.org/viewtopic.php?id=191954)
+            + `TL;DR` `gpg --recv-key <KEYID>`
+
+        + [Solve Kernel Panic on Arch Linux](https://www.unixmen.com/solve-arch-linux-kernel-panic/)
+            + [`Kernel Panic - Failed to execute /init`](https://www.linux.org.ru/forum/desktop/11626721)
+            + TL;DR
+            ```sh
+            boot from flash
+            mount /dev/sdb2 /mnt
+            arch-chroot /mnt /bin/bash
+            pacman -U /var/cache/pacman/pkg/linux-4.8..
+            pacman -S base
+            grub-mkconfig  -o /boot/grub/grub.cfg
+            mkinitcpio -k /boot/vmlinuz-linux -g /boot/initramfs-linux.img
+            ```
+        + Rescue from `Reboot and Select proper Boot device or insert Boot Media...`
+            + tl;dr
+            ```sh
+            boot from flash
+            mount /dev/sda2 /mnt
+            mount /dev/sda1 /mnt/boot/EFI # this is very important
+            mount /dev/sda3 /mnt/home
+            mount -t proc none /mnt/proc
+            mount -o bind /dev /mnt/dev
+            ln /sys /mnt/sys
+            or
+            mount -t sysfs sys /mnt/sys
+            arch-chroot /mnt /bin/bash
+            grub-install
+            ```
+
+        + [Arch vs. Manjaro](https://www.slant.co/versus/2690/2706/~arch_vs_manjaro)
+
+        + [mount dev, proc, sys in a chroot environment?](https://superuser.com/questions/165116/mount-dev-proc-sys-in-a-chroot-environment)
+
+    + [Arch Linux vs Nix OS](https://www.slant.co/versus/2690/11676/~arch_vs_nix-os)
+        + [Switching to Nixos from Arch Linux](https://ramsdenj.com/2017/06/19/switching-to-nixos-from-arch-linux.html)
+
+    + RHEL
+        + [Software Collections for Scientific Linux CERN 6](http://linux.web.cern.ch/linux/scl/)
+        + [Software Collections for Scientific Linux CERN 6 : RPMS](http://linuxsoft.cern.ch/cern/scl/slc6X/x86_64/RPMS/)
+
+    + Ubuntu
+        + [How to list all installed packages](https://askubuntu.com/questions/17823/how-to-list-all-installed-packages)
+        tl;dr
+        ```sh
+        apt list --installed
+        ```
+
 + [OOP cheatsheet](https://tproger.ru/translations/oop-principles-cheatsheet/)
     + tl;dr
         + use with inheritance
@@ -492,128 +623,6 @@
     + [How to shutdown Linux using C++ or Qt without call to “system()”?](http://stackoverflow.com/questions/28812514/how-to-shutdown-linux-using-c-or-qt-without-call-to-system/28812629)
         + [Core utility library for all LXQt components http://lxqt.org](https://github.com/lxde/liblxqt/blob/master/lxqtpower/lxqtpowerproviders.cpp)
 
-    + Gentoo tips
-        + [Gentoo Cheat Sheet](https://wiki.gentoo.org/wiki/Gentoo_Cheat_Sheet)
-    
-    + Arch Linux tips
-        + Arch Linux survival tips
-            + while booting type `e` (stands for edit)
-            + add `systemd.unit = resque.target` in `linux` boot menu
-            + set correct time to avoid https certificate problems
-            ```sh
-            ntpdate ntp3.stratum2.ru
-            ```
-        + [Arch Linux Installation guide](https://wiki.archlinux.org/index.php/installation_guide)
-            + [Installing Arch Linux on a USB key](https://wiki.archlinux.org/index.php/Installing_Arch_Linux_on_a_USB_key)
-        + [Arch Linux Set timezone](https://wiki.archlinux.org/index.php?title=Time&redirect=no#Time_zone)
-        + [Arch Linux SSH keys](https://wiki.archlinux.org/index.php/SSH_keys)
-        + [Arch Linux AUR](https://wiki.archlinux.org/index.php/Arch_User_Repository)
-        + [How to install Yaourt on Arch Linux](http://www.ostechnix.com/install-yaourt-arch-linux/)
-        + [Ignore A Package From Being Upgraded In Arch Linux](https://www.ostechnix.com/safely-ignore-package-upgraded-arch-linux/)
-        tl;dr
-        ```sh
-         Pacman won't upgrade packages listed in IgnorePkg and members of IgnoreGroup
-         #IgnorePkg   =
-         IgnorePkg   = linux linux-headers linux-firmware linux-lts gcc gcc-libs gcc-fortran nvidia cuda virtualbox-host-modules-arch
-         IgnoreGroup =
-        ```
-        tl;dr downgrade to gcc-6.3.1 from gcc-7.1.1
-        ```sh
-        sudo vim /etc/pacman.conf
-        pacman -U /var/cache/pacman/pkg/gcc-6.3.1-2-x86_64.pkg.tar.xz /var/cache/pacman/pkg/gcc-libs-6.3.1-2-x86_64.pkg.tar.xz /var/cache/pacman/pkg/gcc-fortran-6.3.1-2-x86_64.pkg.tar.xz
-        ```
-        ```sh
-        pacman -S grub
-        pacman -S vim gvim
-        pacman -S os-prober
-        pacman -S bash-completion
-        pacman -S gnome build-base base-devel scons python-pip python2-pip python-yaml qt5 wayland gdm python2 python mc gdb cgdb
-        pacman -S chromium 
-        pacman -S konsole
-        pacman -S git
-        pacman -S extra/keychain
-        pacman -S openssh
-        pacman -S gconf
-        pacman -S hunspell-en
-        pacman -S rsync
-        pacman -S extra/emacs
-        pacman -S texlive
-        pacman -S texlive-bin
-        pacman -S texlive-core
-        pacman -S extra/texlive-fontsextra
-        pacman -S texlive-most
-        pacman -S texlive-lang
-        pacman -S pandoc
-        pacman -S qt extra/qt5-declarative
-        pacman -S community/netactview
-        pacman -S community/cairo-dock
-        pacman -S community/cairo-dock-plug-ins
-        pacman -S extra/clang
-        pacman -S extra/kdegraphics-okular
-        pacman -S the_silver_searcher
-
-        systemctl enable gdm
-        systemctl start gdm
-        systemctl enable wicd
-        systemctl start wicd
-
-        sudo pip install gdbgui --upgrade
-        ```
-        + [gdbgui review](https://tproger.ru/articles/gdbgui-for-browser/)
-        + [gdb-дуэль — списки, деревья и хэш таблицы против командной строки](https://habrahabr.ru/post/328180/)
-            + [Various tools to improve the gdb experience](https://github.com/vuvova/gdb-tools)
-        + [Slack Desktop (Beta) for Linux](https://aur.archlinux.org/packages/slack-desktop/)
-        + [The Rust toolchain installer](https://aur.archlinux.org/packages/rustup/)
-        + [[SOLVED] Graphics / Nvidia / Opengl not working as expected](https://bbs.archlinux.org/viewtopic.php?id=213895)
-
-        + [One or more PGP signatures could not be verified!](https://bbs.archlinux.org/viewtopic.php?id=191954)
-            + `TL;DR` `gpg --recv-key <KEYID>`
-
-        + [Solve Kernel Panic on Arch Linux](https://www.unixmen.com/solve-arch-linux-kernel-panic/)
-            + [`Kernel Panic - Failed to execute /init`](https://www.linux.org.ru/forum/desktop/11626721)
-            + TL;DR
-            ```sh
-            boot from flash
-            mount /dev/sdb2 /mnt
-            arch-chroot /mnt /bin/bash
-            pacman -U /var/cache/pacman/pkg/linux-4.8..
-            pacman -S base
-            grub-mkconfig  -o /boot/grub/grub.cfg
-            mkinitcpio -k /boot/vmlinuz-linux -g /boot/initramfs-linux.img
-            ```
-        + Rescue from `Reboot and Select proper Boot device or insert Boot Media...`
-            + tl;dr
-            ```sh
-            boot from flash
-            mount /dev/sda2 /mnt
-            mount /dev/sda1 /mnt/boot/EFI # this is very important
-            mount /dev/sda3 /mnt/home
-            mount -t proc none /mnt/proc
-            mount -o bind /dev /mnt/dev
-            ln /sys /mnt/sys
-            or
-            mount -t sysfs sys /mnt/sys
-            arch-chroot /mnt /bin/bash
-            grub-install
-            ```
-
-        + [Arch vs. Manjaro](https://www.slant.co/versus/2690/2706/~arch_vs_manjaro)
-
-        + [mount dev, proc, sys in a chroot environment?](https://superuser.com/questions/165116/mount-dev-proc-sys-in-a-chroot-environment)
-
-    + [Arch Linux vs Nix OS](https://www.slant.co/versus/2690/11676/~arch_vs_nix-os)
-        + [Switching to Nixos from Arch Linux](https://ramsdenj.com/2017/06/19/switching-to-nixos-from-arch-linux.html)
-
-    + RHEL
-        + [Software Collections for Scientific Linux CERN 6](http://linux.web.cern.ch/linux/scl/)
-        + [Software Collections for Scientific Linux CERN 6 : RPMS](http://linuxsoft.cern.ch/cern/scl/slc6X/x86_64/RPMS/)
-
-    + Ubuntu
-        + [How to list all installed packages](https://askubuntu.com/questions/17823/how-to-list-all-installed-packages)
-        tl;dr
-        ```sh
-        apt list --installed
-        ```
 
 + profilers
     + [gperftools: Fast, multi-threaded malloc() and nifty performance analysis tools](https://code.google.com/p/gperftools/?redir=1)
