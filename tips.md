@@ -12,6 +12,12 @@
             + [Установка ArchLinux в режиме UEFI + systemd-boot + XFCE4 Часть первая](https://www.youtube.com/watch?v=pUBpGjybH6Q)
             + [Установка ArchLinux в режиме UEFI + systemd-boot + XFCE4 Часть вторая](https://www.youtube.com/watch?v=LisOqIrgba0)
             + [Установка ArchLinux в режиме UEFI + systemd-boot + XFCE4 Часть третья: Настройка XFCE](https://www.youtube.com/watch?v=jjNOcfdB-Ng)
+                + [WARNING **: Couldn't connect to accessibility bus](https://bbs.archlinux.org/viewtopic.php?id=228894)
+                tl;dr
+                ```
+                export NO_AT_BRIDGE=1
+                ```
+            + [install-yaourt-arch-linux](https://www.ostechnix.com/install-yaourt-arch-linux/)
         + Arch Linux survival tips
             + while booting type `e` (stands for edit)
             + add `systemd.unit = resque.target` in `linux` boot menu
