@@ -113,6 +113,7 @@
                 + [Problem installing Brother printer DCP-T700W](https://forum.antergos.com/topic/5795/problem-installing-brother-printer-dcp-t700w)
                 + [CUPS Network printer adds, but won't print..](https://bbs.archlinux.org/viewtopic.php?id=92011)
                 + [Brother T500W Driver Install Tool](http://support.brother.com/g/b/downloadhowto.aspx?c=as_ot&lang=en&prod=dcpt500w_all&os=128&dlid=dlf006893_000&flang=4&type3=625)
+                + [Brother printers: how to install them in Ubuntu and Linux Mint](https://sites.google.com/site/easylinuxtipsproject/15)
                 + [ [SOLVED] Brother wireless printer can't work](https://bbs.archlinux.org/viewtopic.php?id=104778)
                 + [ Cups and "waiting for printer to become available"](https://bbs.archlinux.org/viewtopic.php?id=121944)
                 + [CUPS - Waiting for printer to become available. - usb](https://artodeto.bazzline.net/archives/663-CUPS-Waiting-for-printer-to-become-available.-usb.html)
