@@ -88,6 +88,12 @@
             yes | sudo pacman -S firefox
         ```
 
+        + [Numlock/Capslock indicator](https://aur.archlinux.org/packages/xfce4-kbdleds-pl)
+        tl;dr
+        ```sh
+        yaourt -S aur/xfce4-kbdleds-plugin-git
+        ```
+
         + Printer (Brother DCPT500W)
             + tl;dr
             ```sh
