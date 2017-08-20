@@ -81,6 +81,13 @@
 
         sudo pip install gdbgui --upgrade
         ```
+        + [Pacman option to assume “yes” to every question?](https://unix.stackexchange.com/questions/52277/pacman-option-to-assume-yes-to-every-question)
+        tl;dr
+        ```sh
+            yaourt --noconfirm -S ...
+            yes | sudo pacman -S firefox
+        ```
+
         + Printer (Brother DCPT500W)
             + tl;dr
             ```sh
