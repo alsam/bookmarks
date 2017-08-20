@@ -21,6 +21,8 @@
         pacman -S texlive-langcyrillic
         yaourt -S ttf-computer-modern-fonts
         yaourt -S ttf-cm-unicode
+        yaourt -S ttf-pt-fonts
+            to fix arch linux Invalid fontname `PT Sans'
         ```
         + [Problems with Cyrillic fonts in XeTeX](http://tex.stackexchange.com/questions/209614/problems-with-cyrillic-fonts-in-xetex)
     + [Show equation number only once in align environment](https://tex.stackexchange.com/questions/17528/show-equation-number-only-once-in-align-environment)
