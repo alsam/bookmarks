@@ -168,9 +168,18 @@
     
                 * add to `.bashrc`
                 ```sh
-                # for ArrayFire
-                export AF_PATH=$HOME/work/arrayfire-3
-                export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:$AF_PATH/lib
+                # used to be for ArrayFire
+                #export AF_PATH=$HOME/work/arrayfire-3
+                #export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:$AF_PATH/lib
+                # now
+
+                # for openblas-provider
+                # see [OpenBLAS: Detecting CPU failed during build](https://github.com/JuliaLang/julia/issues/394)
+                # symptome: error: ‘SGEMM_DEFAULT_UNROLL_M’ undeclared
+                export CARGO_FEATURE_SYSTEM_OPENBLAS=1
+                
+                # for arrayfire-rust
+                export AF_PATH=/usr
                 ```
                 
                 * use *ArrayFire*
