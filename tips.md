@@ -1132,6 +1132,9 @@
     ...
     ```
 
++ tmux
+    + [Краткая шпаргалка по tmux](https://habrahabr.ru/post/126996/)
+
 + Qt / QML
     + [How do I place dynamic content into a QML component](http://stackoverflow.com/questions/21864809/how-do-i-place-dynamic-content-into-a-qml-component)
     + [Accessing Members of a QML Object Type from C++](http://doc.qt.io/qt-5/qtqml-cppintegration-interactqmlfromcpp.html)
