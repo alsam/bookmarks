@@ -42,6 +42,7 @@
         + [Are we web yet?](http://www.arewewebyet.org/)
         + [dead link : Are we concurrent yet?](http://areweconcurrentyet.com/)
         + [Are we numeric yet?](https://www.reddit.com/r/rust/comments/4drr2c/are_we_numeric_yet/)
+        + [Are We Stdlib Yet?](https://www.reddit.com/r/rust/comments/5oqjnn/are_we_stdlib_yet/)
         + [Are we game yet?](http://arewegameyet.com/)
         + [Are we learning yet?](http://www.arewelearningyet.com/)
             + [Are we yet?](https://wiki.mozilla.org/Areweyet) 
@@ -217,6 +218,10 @@
 
     + [Rust в 2016 году](http://habrahabr.ru/post/274757/)
         + [My thoughts on Rust in 2016](http://www.ncameron.org/blog/my-thoughts-on-rust-in-2016/)
+
+    + [On Rust goals in 2018 and beyond](https://users.rust-lang.org/t/on-rust-goals-in-2018-and-beyond/12336/27)
+        tl;dr
+        rust sucks for numerics
 
     + [Setting vision for 2017 cycle](https://internals.rust-lang.org/t/setting-our-vision-for-the-2017-cycle/3958/156)
         + [Rust's 2017 roadmap](https://blog.rust-lang.org/2017/02/06/roadmap.html)
