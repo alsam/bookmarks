@@ -205,5 +205,7 @@
 
 + Vector Drawing Editors
     + [asymptote](http://asymptote.sf.net)
+        + [Fill a triangle in space using asymptote](https://tex.stackexchange.com/questions/149480/fill-a-triangle-in-space-using-asymptote)
+        + [Asymptote: Drawing](https://artofproblemsolving.com/wiki/index.php?title=Asymptote:_Drawing)
     + [Inkscape](https://inkscape.org)
     + [GLE - for drawing logical gates / electrical diagrams](http://glx.sourceforge.net/downloads/downloads.html)
