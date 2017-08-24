@@ -219,10 +219,6 @@
     + [Rust в 2016 году](http://habrahabr.ru/post/274757/)
         + [My thoughts on Rust in 2016](http://www.ncameron.org/blog/my-thoughts-on-rust-in-2016/)
 
-    + [On Rust goals in 2018 and beyond](https://users.rust-lang.org/t/on-rust-goals-in-2018-and-beyond/12336/27)
-        tl;dr
-        rust sucks for numerics
-
     + [Setting vision for 2017 cycle](https://internals.rust-lang.org/t/setting-our-vision-for-the-2017-cycle/3958/156)
         + [Rust's 2017 roadmap](https://blog.rust-lang.org/2017/02/06/roadmap.html)
         + [Associated type constructors (a form of higher-kinded polymorphism)](https://github.com/rust-lang/rfcs/pull/1598)
@@ -230,6 +226,10 @@
         + [Roadmap 2017 request - needs of HPC](https://internals.rust-lang.org/t/roadmap-2017-request-needs-of-hpc/4276)
         + [Language ergonomic/learnability improvements](https://github.com/rust-lang/rust-roadmap/issues/17)
         + [Rust Objectives Observation](https://users.rust-lang.org/t/rust-objectives-observation/10348/40)
+
+    + [On Rust goals in 2018 and beyond](https://users.rust-lang.org/t/on-rust-goals-in-2018-and-beyond/12336/27)
+        tl;dr
+        rust sucks for numerics
 
     + [IDE для Rust](http://rustycrate.ru/%D1%80%D1%83%D0%BA%D0%BE%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%B0/2015/12/04/ide-for-rust.html)
         + [Are we (I)DE yet?](http://areweideyet.com/)
@@ -277,6 +277,7 @@
         + [crossbeam - Support for parallelism and low-level concurrency in Rust](https://github.com/aturon/crossbeam)
 
     + [Pros and cons: Rust vs. C++](https://plus.google.com/+nialldouglas/posts/AXFJRSM8u2t)
+        + [Rust: A Scala Engineer's Perspective](https://beachape.com/blog/2017/05/24/rust-from-scala/)
         + [Rust and the Blub Paradox](http://www.jonathanturner.org/2016/01/rust-and-blub-paradox.html)
              + [You can't spell trust without Rust](https://cdn.rawgit.com/Gankro/thesis/master/thesis.pdf)
              + [*twitter* You can't spell trust without Rust](https://twitter.com/rustlang/status/689823725219377152)
