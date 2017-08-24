@@ -162,3 +162,5 @@ Julia Groups
     + [JuliaGPU](https://github.com/JuliaGPU)
 
 + [Should I use Chapel or Julia for my next project?](https://www.dursi.ca/post/julia-vs-chapel.html)
+
++ [Хочу все знать. Язык Julia](https://geekbrains.ru/posts/julia_lang)
