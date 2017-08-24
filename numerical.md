@@ -47,6 +47,7 @@
         + [Tapkee an efficient dimension reduction library](http://tapkee.lisitsyn.me/)
 
 + BEM - **B**oundary **E**lement **L**ibrary
+    + [Curated list of Hierarchical Matrices (H-Matrices) libraries](https://github.com/gchavez2/awesome-hierarchical-matrices)
     + [BEM++ is an open-source Galerkin boundary element library that handles Laplace, Helmholtz and Maxwell problems on bounded and unbounded domains](http://www.bempp.org/)
         + [BEM++ github repo](https://github.com/bempp/bempp)
             + [BEM++ fork](https://github.com/UCL/bempp)
