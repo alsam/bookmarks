@@ -120,6 +120,7 @@
             + [Google’s DeepMind Is Now Open Sourcing Sonnet](http://imgworkz.com/digital-marketing/artificial-intelligence/googles-deepmind-now-open-sourcing-sonnet/)
         + [How to train a neural network to code by itself ?](https://becominghuman.ai/how-to-train-a-neural-network-to-code-by-itself-a432e8a120df)
             + [Generate C code with Tensorflow](https://github.com/thibo73800/deep_generation/tree/master/c_code)
+        + [Deep Recurrent Q-Network](https://gist.github.com/awjuliani/35d2ab3409fc818011b6519f0f1629df)
         + [Open source software library for numerical computation using data flow graphs](https://github.com/tensorflow/tensorflow)
         + [A deep Q learning demonstration using Google Tensorflow](https://github.com/nivwusquorum/tensorflow-deepq)
         + [Simplified interface for TensorFlow (mimicking Scikit Learn)](https://github.com/tensorflow/skflow)
