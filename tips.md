@@ -721,7 +721,7 @@
 
 + C++
     + [Modern C++ for fun and profit](https://chariotsolutions.com/wp-content/uploads/2016/04/Modern-C-for-Fun-and-Profit-ETE.pdf)
-        + [free C++ books](http://freecomputerbooks.com/langCppBooks.html
+        + [free C++ books](http://freecomputerbooks.com/langCppBooks.html)
     + C++ and multithreading
         + [lucid and terse multithread intro](http://www.bogotobogo.com/cplusplus/multithreaded.php)
         + [Multithreading in C++11/14 – Part 1](http://www.loic-yvonnet.com/articles/multithreading-in-cpp14-part-1/)
