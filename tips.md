@@ -107,7 +107,6 @@
                 192.168.1.106	BRW48E2448DA308.local
             lpstat -t
             device for DCPT500W: socket://192.168.1.106
-            ```
             lpr -P DCPT500W /usr/share/cups/data/testprint
             ```
                 + [Multilib](https://wiki.archlinux.org/index.php/multilib)
