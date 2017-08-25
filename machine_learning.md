@@ -108,6 +108,9 @@
             sudo pip uninstall /tmp/tensorflow_pkg/tensorflow-1.0.0rc1-cp36-cp36m-linux_x86_64.whl
             sudo pip install /tmp/tensorflow_avx2_pkg/tensorflow-1.0.0rc1-cp36-cp36m-linux_x86_64.whl
             ```
+            + [CUDA 9RC + cuDNN7](https://github.com/tensorflow/tensorflow/issues/12474)
+                + [Upgrade to CuDNN 7 and CUDA 9](Upgrade to CuDNN 7 and CUDA 9)
+                + [compilation error](https://github.com/tensorflow/tensorflow/issues/12406)
             + [How to find which version of TensorFlow is installed in my system?](http://stackoverflow.com/questions/38549253/how-to-find-which-version-of-tensorflow-is-installed-in-my-system)
             tl;dr
             ```sh
