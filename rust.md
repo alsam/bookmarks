@@ -785,6 +785,9 @@
                 + [Announcing Cargo Deb](https://www.reddit.com/r/rust/comments/4ofiyr/announcing_cargo_deb/)
             + [cargo-arch - generate Arch Linux packages from information in Cargo.toml](https://github.com/wdv4758h/cargo-arch/)
 
+    + Rust robotics
+        + [rust-robotics-libraries](https://gist.github.com/ClintLiddick/2966203a425ac5fb70a3d6eb0022f675)
+
     + Run Rust code on your NVIDIA GPU
         + [Rust nvptx](https://github.com/japaric/nvptx)
         + [NVPTX backend metabug](https://github.com/rust-lang/rust/issues/38789)
