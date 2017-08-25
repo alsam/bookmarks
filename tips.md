@@ -109,6 +109,7 @@
             device for DCPT500W: socket://192.168.1.106
             lpr -P DCPT500W /usr/share/cups/data/testprint
             ```
+
                 + [Multilib](https://wiki.archlinux.org/index.php/multilib)
                 + [Problem installing Brother printer DCP-T700W](https://forum.antergos.com/topic/5795/problem-installing-brother-printer-dcp-t700w)
                 + [CUPS Network printer adds, but won't print..](https://bbs.archlinux.org/viewtopic.php?id=92011)
