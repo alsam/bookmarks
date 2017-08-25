@@ -218,6 +218,14 @@
         + Git remote access
             + [s there a way to skip password typing when using https:// on GitHub?](Is there a way to skip password typing when using https:// on GitHub?)
             + [How to use git with gnome-keyring integration](https://stackoverflow.com/questions/13385690/how-to-use-git-with-gnome-keyring-integration)
+                + tl;dr
+                ```sh
+                $ sudo pacman -S libgnome-keyring
+                $ pushd /usr/share/git/credential/gnome-keyring
+                $ sudo make
+                $ popd
+                $ git config --global credential.helper /usr/share/git/credential/gnome-keyring/git-credential-gnome-keyring
+                ```
             + [Git на сервере - Создание открытого SSH-ключа](https://git-scm.com/book/ru/v1/Git-%D0%BD%D0%B0-%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80%D0%B5-%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D0%BE%D0%B3%D0%BE-SSH-%D0%BA%D0%BB%D1%8E%D1%87%D0%B0)
             + [Как настроить подключение к удаленному Git репозиторию](https://ru.stackoverflow.com/questions/468812/%D0%9A%D0%B0%D0%BA-%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B8%D1%82%D1%8C-%D0%BF%D0%BE%D0%B4%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BA-%D1%83%D0%B4%D0%B0%D0%BB%D0%B5%D0%BD%D0%BD%D0%BE%D0%BC%D1%83-git-%D1%80%D0%B5%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D1%8E)
         + [Git и Github. Простые рецепты](http://habrahabr.ru/post/273897/)
