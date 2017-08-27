@@ -384,6 +384,8 @@
                 ```sh
                 yaourt -S libtinfo
                 yaourt -S libtinfo5
+                :YcmGenerateConfig
+                :YcmRestartServer
                 ```
         + [Demystifying multi file searches in `vim` and the command line](https://seesparkbox.com/foundry/demystifying_multi_file_searches_in_vim_and_the_command_line)
         + [Use VIM as your RUST IDE](https://github.com/ivanceras/rust-vim-setup)
