@@ -180,4 +180,6 @@
 
 + [3D](https://github.com/alsam/bookmarks/blob/master/3D.md)
 
++ [Industrial robotics: planning & locomotion & computer vision]((https://github.com/alsam/bookmarks/blob/master/industrial_robotics.md)
+
 + [Blogs](https://github.com/alsam/bookmarks/blob/master/blogs.md)
