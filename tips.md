@@ -728,6 +728,12 @@
 + Docker
     + [Поняв Docker](https://habrahabr.ru/post/277699/)
     + [Образы и контейнеры Docker в картинках](http://habrahabr.ru/post/272145/)
+    + [Configure and troubleshoot the Docker daemon](https://docs.docker.com/engine/admin/)
+    + [Starting Docker as Daemon on Ubuntu](https://stackoverflow.com/questions/26137834/starting-docker-as-daemon-on-ubuntu)
+      + tl;dr
+      ```sh
+      sudo service docker restart
+      ```
 
 + Jenkins
     + [Jenkins - Running a single job in master as well as slave](https://stackoverflow.com/questions/9214501/jenkins-running-a-single-job-in-master-as-well-as-slave)
