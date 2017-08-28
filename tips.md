@@ -735,6 +735,11 @@
       sudo service docker restart
       ```
 
++ CLion
+    + [Debugging in CLion](https://blog.jetbrains.com/clion/2015/05/debug-clion/)
+    + [How to enable debugging for CLion](https://stackoverflow.com/questions/42509757/how-to-enable-debugging-for-clion)
+    + [Commands available during CGDB mode](http://cgdb.sourceforge.net/docs/cgdb-no-split.html)
+
 + Jenkins
     + [Jenkins - Running a single job in master as well as slave](https://stackoverflow.com/questions/9214501/jenkins-running-a-single-job-in-master-as-well-as-slave)
     + [Hudson: Copy artifact from master to slave fails](https://stackoverflow.com/questions/5830334/hudson-copy-artifact-from-master-to-slave-fails)
