@@ -387,6 +387,8 @@
                 :YcmGenerateConfig
                 :YcmRestartServer
                 ```
+            + [Ubuntu : fatal error: pyconfig.h: No such file or directory # include <pyconfig.h>](https://github.com/Valloric/YouCompleteMe/issues/2219)
+
         + [Demystifying multi file searches in `vim` and the command line](https://seesparkbox.com/foundry/demystifying_multi_file_searches_in_vim_and_the_command_line)
         + [Use VIM as your RUST IDE](https://github.com/ivanceras/rust-vim-setup)
         + [How to install NERDTree with Vundle?](https://vi.stackexchange.com/questions/5335/how-to-install-nerdtree-with-vundle)
