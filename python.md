@@ -62,3 +62,6 @@
     use `0o22` instead of `022`.
 
     + [Python3: Invalid Syntax](http://stackoverflow.com/questions/12519554/python3-invalid-syntax)
+
++ [Seamless operability between C++11 and Python](https://github.com/pybind/pybind11)
+    + [pybind11 : First steps](http://pybind11.readthedocs.io/en/stable/basics.html)
