@@ -391,6 +391,7 @@
               + tl;dr
               ```sh
               sudo apt install python3-dev
+              python3 install.py --clang-completer --racer-completer
               ```
 
         + [Demystifying multi file searches in `vim` and the command line](https://seesparkbox.com/foundry/demystifying_multi_file_searches_in_vim_and_the_command_line)
