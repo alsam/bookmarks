@@ -909,6 +909,32 @@
             + [Unpacking Tuples in C++14](http://aherrmann.github.io/programming/2016/02/28/unpacking-tuples-in-cpp14/)
             + [Fun with Lambdas: C++14 Style (part 3)](http://cpptruths.blogspot.ru/2014/08/fun-with-lambdas-c14-style-part-3.html)
 
+        + [how to get only keys of values from map](https://stackoverflow.com/questions/39555726/stdmapstring-string-to-string-first-values)
+            + [boost::adaptors::map_keys](https://greek0.net/boost-range/boost-adaptors-map_keys.html)
+
+        ```c++
+        #include <boost/range/adaptor/map.hpp>
+        #include <boost/range/algorithm/copy.hpp>
+        #include <boost/assign.hpp>
+        #include <boost/algorithm/string/join.hpp>
+        #include <algorithm>
+        #include <iostream>
+        #include <map>
+        #include <vector>
+        
+        int main()
+        {
+            std::map<std::string, std::string> m;
+            m["hello"] = "world";
+            m["goodbye"] = "now";
+        
+            std::vector<std::string> o;
+        //    boost::copy(m | boost::adaptors::map_keys, std::back_inserter(o));
+            boost::copy(m | boost::adaptors::map_values, std::back_inserter(o));
+            std::cout << boost::algorithm::join(o, ", ") << std::endl;
+        }
+        ```
+
         + cheat-sheet for callbacks in C++
             + [Callback functions in c++](http://stackoverflow.com/questions/2298242/callback-functions-in-c)
         + [Using std::make_unique with custom deleter on a derived class?](http://stackoverflow.com/questions/37514101/using-stdmake-unique-with-custom-deleter-on-a-derived-class)
