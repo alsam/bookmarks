@@ -788,6 +788,8 @@
     + Rust robotics
         + [rust-robotics-libraries](https://gist.github.com/ClintLiddick/2966203a425ac5fb70a3d6eb0022f675)
 
+    + [Graham scan from Algorithms in a Nutshell in Rust](https://codereview.stackexchange.com/questions/141809/graham-scan-from-algorithms-in-a-nutshell-in-rust)
+
     + Run Rust code on your NVIDIA GPU
         + [Rust nvptx](https://github.com/japaric/nvptx)
         + [NVPTX backend metabug](https://github.com/rust-lang/rust/issues/38789)
