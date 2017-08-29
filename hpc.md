@@ -1,6 +1,8 @@
 # HPC (High Performance Computing) bookmarks
 
 + CFD
+    + [CFD Notes by Hiroaki Nishikawa](http://www.cfdnotes.com/)
+        + [CFD codes in f90](http://www.cfdbooks.com/cfdcodes.html)
     + [Tim Warburton's github repositories](https://github.com/tcew?tab=repositories)
         + [Nodal Discontinuous Galerkin](https://github.com/tcew/nodal-dg)
     + [Hybrid and Easy Discontinuous Galerkin Environment](https://mathema.tician.de/software/hedge/)
