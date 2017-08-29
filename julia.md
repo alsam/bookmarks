@@ -14,6 +14,7 @@
 
     + Julia Groups  
         + [Julia Arbitrary Precision](https://github.com/JuliaArbTypes)
+            + [Much faster than BigFloat at precisions up to 3,500 bits (1050 digits)](https://github.com/JuliaArbTypes/ArbFloats.jl)
         + [JuliaGPU - GPU Computing for Julia](https://github.com/JuliaGPU)
         + [Julia Statistics - Statistics and Machine Learning made easy in Julia](https://github.com/JuliaStats)
         + [JuliaPlots - Data visualization in Julia using Plots.jl](https://github.com/JuliaPlots)
