@@ -103,6 +103,7 @@
             sudo systemctl start org.cups.cupsd.service
             sudo systemctl enable org.cups.cupsd.service
             sudo pacman -S multilib/lib32-glibc
+            nmap -sn 192.168.1.0/24
             avahi-resolve-host-name -a 192.168.1.106
                 192.168.1.106	BRW48E2448DA308.local
             lpstat -t
