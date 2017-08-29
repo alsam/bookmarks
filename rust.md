@@ -109,6 +109,7 @@
         + [An extensible HPC-Framework for CUDA, OpenCL and native CPU](https://github.com/lychee-eng/parenchyma)
         + [Request for some numerics related features](https://users.rust-lang.org/t/request-for-some-numerics-related-features/3530/6)
             + [(former Unum)Create RUST posit arithmetic library based on 21 February 2017 Posit Arithmetic by John L. Gustafson - Beating Floating Point at its Own Game](https://users.rust-lang.org/t/create-rust-posit-arithmetic-library-based-on-21-february-2017-posit-arithmetic-by-john-l-gustafson-beating-floating-point-at-its-own-game/10077/3)
+                + [A Rust implementation of the posit number system](https://github.com/japaric/posit#posit)
             + [Pre-RFC: Dealing with broken floating point](https://internals.rust-lang.org/t/pre-rfc-dealing-with-broken-floating-point/2673/22)
             + [John Gustafson presents: Beyond Floating Point – Next Generation Computer Arithmetic](http://insidehpc.com/2017/02/john-gustafson-presents-beyond-floating-point-next-generation-computer-arithmetic/)
         + [A linear algebra library in Rust designed for machine learning](https://github.com/AtheMathmo/rulinalg)
