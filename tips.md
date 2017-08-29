@@ -343,6 +343,11 @@
 
     + vim tips
         :set ff=unix
+        + [Vim - open new tab in buffer](https://stackoverflow.com/questions/26073226/vim-open-new-tab-in-buffer)
+          + tl;dr
+          ```sh
+          :Te
+          ```
         + [From Vim to Emacs+Evil chaotic migration guide](http://juanjoalvarez.net/es/)
         + [The Modern Vim Config with Pathogen](http://tammersaleh.com/posts/the-modern-vim-config-with-pathogen/)
             + [vim-pathogen](https://github.com/tpope/vim-pathogen)
