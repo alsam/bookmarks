@@ -766,8 +766,22 @@
     + [How do I create a custom file system in C?](https://www.quora.com/How-do-I-create-a-custom-file-system-in-C)
 
 + C++
+    + [C++17 features list](http://www.bfilipek.com/2017/01/cpp17features.html)
+
+    + [Trending C++ github repositories](https://github.com/trending/c++)
+
+    + [The C++ Standards Library for Concurrency and Parallelism http://stellar-group.org/libraries/hpx](https://github.com/STEllAR-GROUP/hpx)
+        + [HPX (High Performance ParalleX) is a general purpose C++ runtime system for parallel and distributed applications of any scale](http://stellar-group.org/libraries/hpx)
+        + [HPX — рантайм-система для параллельных и распределенных вычислений](https://corehard.by/2016/02/15/conf2016-hpx/)
+
     + [Modern C++ for fun and profit](https://chariotsolutions.com/wp-content/uploads/2016/04/Modern-C-for-Fun-and-Profit-ETE.pdf)
         + [free C++ books](http://freecomputerbooks.com/langCppBooks.html)
+
+    + [using extern template (C++11)](https://stackoverflow.com/questions/8130602/using-extern-template-c11)
+        + tl;dr
+            + use case in [Flexible Collision Library](https://github.com/flexible-collision-library/fcl)
+            + don't confuse with [export templates](https://stackoverflow.com/questions/5416872/using-export-keyword-with-templates)
+
     + [C++ samples](http://www.cppsamples.com/)
         + [Подборка ресурсов с примерами кода на разных языках](https://tproger.ru/digest/learn-everything-by-examples/)
     + C++ and multithreading
