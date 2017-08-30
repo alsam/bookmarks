@@ -275,6 +275,8 @@
             + [How to Squash Multiple Commits Into One with Git](https://forum.freecodecamp.com/t/how-to-squash-multiple-commits-into-one-with-git/13231)
             + [Squash my last X commits together using Git](https://stackoverflow.com/questions/5189560/squash-my-last-x-commits-together-using-git)
 
+        + [git rebase vs. merge](https://tyvik.ru/blog/49)
+
         + git rebase memo
         ```sh
         git rebase origin/master
