@@ -745,10 +745,18 @@
     + [Образы и контейнеры Docker в картинках](http://habrahabr.ru/post/272145/)
     + [Configure and troubleshoot the Docker daemon](https://docs.docker.com/engine/admin/)
     + [Starting Docker as Daemon on Ubuntu](https://stackoverflow.com/questions/26137834/starting-docker-as-daemon-on-ubuntu)
-      + tl;dr
-      ```sh
-      sudo service docker restart
-      ```
+        + tl;dr
+        ```sh
+        sudo service docker restart
+        ```
+    + [add-apt-repository: command not found in Docker installation on Ubuntu](https://github.com/threatstream/mhn/issues/284)
+        + tl;dr docker command to add g++-7 to ubuntu16.04
+        ```sh
+        apt-get install -y software-properties-common python-software-properties && \
+        add-apt-repository ppa:ubuntu-toolchain-r/test && \
+        apt-get -qq update && \
+        apt-get install -y -qq gcc-7 g++-7 gfortran-7 && \
+        ```
 
 + CLion
     + [Debugging in CLion](https://blog.jetbrains.com/clion/2015/05/debug-clion/)
