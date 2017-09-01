@@ -750,7 +750,7 @@
         sudo service docker restart
         ```
     + [add-apt-repository: command not found in Docker installation on Ubuntu](https://github.com/threatstream/mhn/issues/284)
-        + tl;dr docker command to add g++-7 to ubuntu16.04
+        + tl;dr docker command to add g++-7 to ubuntu16.04 docker image
         ```sh
         apt-get install -y software-properties-common python-software-properties && \
         add-apt-repository ppa:ubuntu-toolchain-r/test && \
@@ -1034,6 +1034,7 @@
                 ```
 
         + [non-trivial designated initializers not supported](https://stackoverflow.com/questions/31215971/non-trivial-designated-initializers-not-supported)
+        + [No matching function std::forward with lambdas](https://stackoverflow.com/questions/42044116/no-matching-function-stdforward-with-lambdas)
 
     + REST API
         + [REST APIs in C++](http://lordjeb.com/category/c-2/)
