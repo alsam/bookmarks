@@ -777,6 +777,8 @@
 
 + C++
     + [C++17 features list](http://www.bfilipek.com/2017/01/cpp17features.html)
+        + [C++17 in details: Standard Library Utilities](http://www.bfilipek.com/2017/09/cpp17-details-utils.html)
+        + [C++17 in details: Parallel Algorithms](http://www.bfilipek.com/2017/08/cpp17-details-parallel.html)
 
     + [Trending C++ github repositories](https://github.com/trending/c++)
 
