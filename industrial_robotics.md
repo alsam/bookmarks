@@ -10,6 +10,7 @@
         + [Download](https://ocw.mit.edu/courses/mechanical-engineering/2-12-introduction-to-robotics-fall-2005/download-course-materials/)
         + [Chapter 4: Planar Kinematics](https://ocw.mit.edu/courses/mechanical-engineering/2-12-introduction-to-robotics-fall-2005/lecture-notes/chapter4.pdf)
     + [A Mathematical Introduction to Robotic Manipulation](http://www.cds.caltech.edu/~murray/books/MLS/pdf/mls94-complete.pdf)
+    + [DISTANCE-BASED FORMULATIONS FOR THE POSITION ANALYSIS OF KINEMATIC CHAINS](http://www.tdx.cat/bitstream/handle/10803/83516/TNRL1de1.pdf)
 
 + robot camera calibration
     + [High-Precision Calibration Approaches to Robot Vision Systems](https://tams.informatik.uni-hamburg.de/paper/2009/Fangwu_Shu_Dissertation_SUB.pdf)
@@ -34,12 +35,12 @@ Inspection Systems](http://www.mdpi.com/1424-8220/13/12/16565/pdf)
               * [CMake](http://www.cmake.org) (version 2.8.7 or higher)
               * [Assimp](http://assimp.org)
               * [FCL](https://github.com/flexible-collision-library/fcl)
-              
+
               OMPL.app's build system will attempt to automatically download and build
               Assimp and FCL if not already installed.
-              
+
               The following dependencies are optional:
-              
+
               * [PyQt](http://www.riverbankcomputing.co.uk/software/pyqt/download5) (for GUI)
               * [PyOpenGL](http://pyopengl.sourceforge.net/) (for GUI)
               * [Py++](https://bitbucket.org/ompl/ompl/src/tip/doc/markdown/installPyPlusPlus.md) (needed to generate Python bindings)
