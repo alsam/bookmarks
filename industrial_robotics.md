@@ -5,6 +5,11 @@
       + abbrevs.
       + **TCP** - **T**ool **C**entral **P**oint
     + [Lectures on Robotic Planning and Kinematics](http://motion.me.ucsb.edu/book-lrpk/)
+    + MIT Introduction to Robotics
+        + [Lecture Notes](https://ocw.mit.edu/courses/mechanical-engineering/2-12-introduction-to-robotics-fall-2005/lecture-notes/)
+        + [Download](https://ocw.mit.edu/courses/mechanical-engineering/2-12-introduction-to-robotics-fall-2005/download-course-materials/)
+        + [Chapter 4: Planar Kinematics](https://ocw.mit.edu/courses/mechanical-engineering/2-12-introduction-to-robotics-fall-2005/lecture-notes/chapter4.pdf)
+    + [A Mathematical Introduction to Robotic Manipulation](http://www.cds.caltech.edu/~murray/books/MLS/pdf/mls94-complete.pdf)
 
 + robot camera calibration
     + [High-Precision Calibration Approaches to Robot Vision Systems](https://tams.informatik.uni-hamburg.de/paper/2009/Fangwu_Shu_Dissertation_SUB.pdf)
@@ -61,3 +66,6 @@ Inspection Systems](http://www.mdpi.com/1424-8220/13/12/16565/pdf)
 
 + Point Cloud Library
     https://github.com/PointCloudLibrary/pcl
+
++ GA for robotics
+    + [Geometric Algebra for Modeling in Robot Physics](http://www.beck-shop.de/fachbuch/leseprobe/9781848829282_Excerpt_002.pdf)
