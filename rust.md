@@ -326,6 +326,7 @@
         + [Contributing to Rust](http://www.ncameron.org/rust.html)
         + [Interview with Mozilla’s Aaron Turon](http://www.pl-enthusiast.net/2015/06/09/interview-with-mozillas-aaron-turon/)
         + [julia vs. rust](http://vschart.com/compare/julia/vs/rust)
+        + [Rust library for opening and working with dynamic link libraries](https://github.com/szymonwieloch/rust-dlopen)
         + [Higher kinded polymorphism #324](https://github.com/rust-lang/rfcs/issues/324)
             + [Higher-kinded types #1185 ](https://github.com/rust-lang/rfcs/issues/1185#issuecomment-117812357)
                 + [implement higher-order unification for type constructor inference](https://issues.scala-lang.org/browse/SI-2712)
@@ -460,6 +461,7 @@
         + [Closures don’t move Copy types by default?](https://internals.rust-lang.org/t/closures-dont-move-copy-types-by-default/5179/6)
 
     + Selected RFCs
+        + [RFC 1598: generic associated types](https://github.com/rust-lang/rfcs/blob/a7cd91048eea3d7ae83bec20446e62bad0c45381/text/1598-generic_associated_types.md)
         + [RFC 1210: impl specialization](https://github.com/rust-lang/rfcs/blob/master/text/1210-impl-specialization.md)
             + [Implement RFC 1210: impl specialization #30652](https://github.com/rust-lang/rust/pull/30652)
             + [Specialize to reuse](https://aturon.github.io/blog/2015/09/18/reuse/)
@@ -595,6 +597,8 @@
 
     + Ideas, RFCs, that are not in the language yet
         + HKT
+            + [RFC 1598: generic associated types](https://github.com/rust-lang/rfcs/blob/a7cd91048eea3d7ae83bec20446e62bad0c45381/text/1598-generic_associated_types.md)
+                + [Tracking issue for generic associated types](https://github.com/rust-lang/rust/issues/44265)
             + [What Are Sum, Product, and Pi Types?](https://www.reddit.com/r/rust/comments/5xkmnh/what_are_sum_product_and_pi_types/)
             + [Rust/Haskell: Higher-Kinded Types (HKT)](https://gist.github.com/CMCDragonkai/a5638f50c87d49f815b8)
                 + [Higher-kinded type trait](https://gist.github.com/14427/af90a21b917d2892eace)
