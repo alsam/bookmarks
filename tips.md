@@ -794,6 +794,8 @@
             + use case in [Flexible Collision Library](https://github.com/flexible-collision-library/fcl)
             + don't confuse with [export templates](https://stackoverflow.com/questions/5416872/using-export-keyword-with-templates)
 
+    + [Is pass-by-value a reasonable default in C++11?](https://stackoverflow.com/questions/7592630/is-pass-by-value-a-reasonable-default-in-c11/7592741#7592741)
+
     + [C++ samples](http://www.cppsamples.com/)
         + [Подборка ресурсов с примерами кода на разных языках](https://tproger.ru/digest/learn-everything-by-examples/)
     + C++ and multithreading
