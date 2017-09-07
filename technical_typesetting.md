@@ -25,6 +25,27 @@
             to fix arch linux Invalid fontname `PT Sans'
         ```
         + [Problems with Cyrillic fonts in XeTeX](http://tex.stackexchange.com/questions/209614/problems-with-cyrillic-fonts-in-xetex)
+            + Ubuntu
+                ```sh
+                sudo apt install fonts-cmu
+                sudo apt-get install --no-install-recommends xindy-rules po4a texlive-lang-cyrillic texlive-xetex texlive-latex-recommended texlive-latex-extra texlive-fonts-extra latex-xcolor pgf bzr texlive-fonts-recommended ttf-linux-libertine
+                ```
+            + test file `test_cyrillic.tex`
+            ```latex
+            \documentclass{article}
+            \usepackage{fontspec}
+            \setmainfont{CMU Serif}  
+            \begin{document}
+            \section{Свои проекты и вклады}
+            \emph{Докладчик}Доклад <<С++ без new и delete>>.
+            \end{document}
+            ```
+            + test cyrillic letters
+            ```sh
+            xelatex test_cyrillic.tex
+            pandoc --latex-engine=xelatex -V mainfont="Linux Libertine O" unsorted.md -o unsorted.pd
+            pandoc --latex-engine=xelatex -V mainfont="PT Sans" unsorted.md -o unsorted1.pdf
+            ```
     + [Show equation number only once in align environment](https://tex.stackexchange.com/questions/17528/show-equation-number-only-once-in-align-environment)
       tl;dr
       ```latex
