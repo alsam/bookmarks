@@ -200,6 +200,7 @@
         make check
         chpl -o hello examples/hello.chpl
         ```
-
++ [Eigen 3.2.92 : Bug 1221: disable gcc 6 warning: ignoring attributes on template argument](https://bitbucket.org/eigen/eigen/commits/ad10b2383e48)
+    + [Eigen disable GCC diagnostic ignored "-Wignored-attributes" has already merged](https://github.com/RLovelett/eigen/blob/master/Eigen/src/Core/util/DisableStupidWarnings.h)
 
 
