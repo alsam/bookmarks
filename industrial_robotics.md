@@ -48,6 +48,9 @@ Inspection Systems](http://www.mdpi.com/1424-8220/13/12/16565/pdf)
               * [Doxygen](http://www.doxygen.org) (needed to create a local copy of the documentation at
                 http://ompl.kavrakilab.org)
               * [Eigen](http://eigen.tuxfamily.org) (needed for an informed sampling technique to improve the optimization of path length and for the Vector Field RRT planner)
+        + [roscppOverviewCallbacks and Spinning](http://wiki.ros.org/roscpp/Overview/Callbacks%20and%20Spinning)
+            + [Significance of ros::spinOnce()](https://answers.ros.org/question/11887/significance-of-rosspinonce/)
+            + [What is spinOnce() used for in ROS?](https://www.quora.com/What-is-spinOnce-used-for-in-ROS)
 
     + ROS web
         + [Web based supervisory system for ROS](https://github.com/EESC-LabRoM/rosweb)
