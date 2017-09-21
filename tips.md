@@ -820,6 +820,30 @@
     + [C++ samples](http://www.cppsamples.com/)
         + [Подборка ресурсов с примерами кода на разных языках](https://tproger.ru/digest/learn-everything-by-examples/)
     + C++ and multithreading
+        + [Top 20 C++ multithreading mistakes and how to avoid them](http://www.acodersjourney.com/2017/08/top-20-cplusplus-multithreading-mistakes/)
+        tl;dr
+            1. Not using `join()` to wait for background threads before terminating an application.
+            2. Trying to `join()` a thread that has been previously detached.
+            3. Not realizing that `std::thread::join()` blocks the calling thread.
+            4. Thinking that thread function arguments are pass by reference by default.
+                tl;dr use `std::ref()` for passing by reference.
+            5. Not protecting shared data or shared resources with a critical section (eg. mutex).
+            6. Forgetting to release locks after a critical section.
+            7. Not keeping critical sections as compact and small as possible.
+            8. Not acquiring multiple locks in the same order.
+            9. Trying to acquire a `std::mutex` twice.
+            10. Using mutexes when `std::atomic` types will suffice.
+            11. Creating and Destroying a lot of threads directly when using a thread pool is available.
+            12. Not handling exceptions in background threads.
+            13. Using threads to simulate Asyn jobs when `std::async` will do.
+            14. Not using `std::launch::async` if asynchronicity is desired.
+            15. Calling `.get()` on a `std::future` in a time sensitive code path.
+            16. Not realizing that an exception thrown inside an async task is propagated when `std::future::get()` is invoked.
+            17. Using `std::async` when you need granular control over thread execution.
+            18. Creating many more "Runnable" threads than available cores.
+            19. Using `volatile` keyword for synchronization.
+            20. Using a Lock Free architecture unless absolutely needed
+
         + [lucid and terse multithread intro](http://www.bogotobogo.com/cplusplus/multithreaded.php)
         + [Multithreading in C++11/14 – Part 1](http://www.loic-yvonnet.com/articles/multithreading-in-cpp14-part-1/)
         + [Multithreading in C++11/14 – Part 2](http://www.loic-yvonnet.com/articles/multithreading-in-cpp14-part-2/)
