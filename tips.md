@@ -19,12 +19,33 @@
                 ```
             + [install-yaourt-arch-linux](https://www.ostechnix.com/install-yaourt-arch-linux/)
         + Arch Linux survival tips
-            + while booting type `e` (stands for edit)
-            + add `systemd.unit = resque.target` in `linux` boot menu
-            + set correct time to avoid https certificate problems
-            ```sh
-            ntpdate ntp3.stratum2.ru
-            ```
+            + surviving after systemd-boot crash
+                + [systemd-boot](https://wiki.archlinux.org/index.php/systemd-boot)
+                + [Installing Arch Linux : systemd-boot (reinstall)](http://www.adonespitogo.com/articles/arch-linux-EFI-installation/page-2.html)
+                tl;dr
+                ```sh
+                boot from flash
+                mkfs.fat -F32 /dev/sda1 # where EFI is to be reinstalled
+                mount /dev/sda2 /mnt
+                mount /dev/sda1 /mnt/boot
+                #mount /dev/sdb1 /mnt/home
+                arch-chroot /mnt /bin/bash
+                bootctl install
+                vim /boot/loader/entries/arch.conf:
+
+                title Arch Linux
+                linux /vmlinuz-linux
+                initrd  /initramfs-linux.img
+                options root=/dev/sda2 rw
+                vim /etc/fstab # for changed UUID of /dev/sda1
+                ```
+            + GRUB tips
+                + while booting type `e` (stands for edit)
+                + add `systemd.unit = resque.target` in `linux` boot menu
+                + set correct time to avoid https certificate problems
+                ```sh
+                ntpdate ntp3.stratum2.ru
+                ```
         + [Arch Linux Installation guide](https://wiki.archlinux.org/index.php/installation_guide)
             + [Installing Arch Linux on a USB key](https://wiki.archlinux.org/index.php/Installing_Arch_Linux_on_a_USB_key)
         + [Arch Linux Set timezone](https://wiki.archlinux.org/index.php?title=Time&redirect=no#Time_zone)
