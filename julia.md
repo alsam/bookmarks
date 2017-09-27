@@ -31,6 +31,7 @@
             + OffsetArrays
                 + [github repo for OffsetArrays](https://github.com/alsam/OffsetArrays.jl)
                 + [Tag OffsetArrays v0.1.0 (retry) #5417](https://github.com/JuliaLang/METADATA.jl/pull/5417)
+                + [Performance of OffsetArrays](https://github.com/JuliaArrays/OffsetArrays.jl/issues/28)
         + [Generalizing AbstractArrays: opportunities and challenges](http://julialang.org/blog/2016/03/arrays-iteration)
         + [RFC: Give AbstractArrays smart and performant indexing behaviors for free #10525](https://github.com/JuliaLang/julia/pull/10525)
         + [room for performance improvement for SubArray #5117](https://github.com/JuliaLang/julia/issues/5117)
