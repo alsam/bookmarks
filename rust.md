@@ -461,7 +461,10 @@
         + [Closures don’t move Copy types by default?](https://internals.rust-lang.org/t/closures-dont-move-copy-types-by-default/5179/6)
 
     + Selected RFCs
-        + [RFC 1598: generic associated types](https://github.com/rust-lang/rfcs/blob/a7cd91048eea3d7ae83bec20446e62bad0c45381/text/1598-generic_associated_types.md)
+        + [RFC 1598: generic associated types](https://github.com/rust-lang/rfcs/blob/master/text/1598-generic_associated_types.md)
+            + [Tracking issue for generic associated types (GAT)](https://github.com/rust-lang/rust/issues/44265)
+            + [Generic associated types RFC was merged!](https://www.reddit.com/r/rust/comments/6xkqdl/generic_associated_types_rfc_was_merged/)
+            + [Generic associated types (AKA ACT, AKA HKT) RFC merged!](https://www.reddit.com/r/rust/comments/6yt9vd/generic_associated_types_aka_act_aka_hkt_rfc/)
         + [RFC 1210: impl specialization](https://github.com/rust-lang/rfcs/blob/master/text/1210-impl-specialization.md)
             + [Implement RFC 1210: impl specialization #30652](https://github.com/rust-lang/rust/pull/30652)
             + [Specialize to reuse](https://aturon.github.io/blog/2015/09/18/reuse/)
