@@ -465,6 +465,17 @@
             + [Tracking issue for generic associated types (GAT)](https://github.com/rust-lang/rust/issues/44265)
             + [Generic associated types RFC was merged!](https://www.reddit.com/r/rust/comments/6xkqdl/generic_associated_types_rfc_was_merged/)
             + [Generic associated types (AKA ACT, AKA HKT) RFC merged!](https://www.reddit.com/r/rust/comments/6yt9vd/generic_associated_types_aka_act_aka_hkt_rfc/)
+        + [RFC 2000: const generics](https://github.com/rust-lang/rfcs/blob/master/text/2000-const-generics.md)
+            + [Tracking issue for const generics (RFC 2000)](https://github.com/rust-lang/rust/issues/44580)
+            tl;dr
+            generic-array defines a new trait `ArrayLength<T>` and a `struct GenericArray<T, N: ArrayLength<T>>`,
+            which let the above be implemented as:
+            ```rust
+            struct Foo<N: ArrayLength<i32>> {
+            	data: GenericArray<i32, N>
+            }
+            ```
+            + [generic-array : in anticipation of *const generics*](https://crates.io/crates/generic-array/)
         + [RFC 1210: impl specialization](https://github.com/rust-lang/rfcs/blob/master/text/1210-impl-specialization.md)
             + [Implement RFC 1210: impl specialization #30652](https://github.com/rust-lang/rust/pull/30652)
             + [Specialize to reuse](https://aturon.github.io/blog/2015/09/18/reuse/)
@@ -691,7 +702,7 @@
 
     + [A library for differential-geometric calculations](https://crates.io/crates/differential-geometry/)
         + [A Rust crate for differential-geometric calculations](https://github.com/fizyk20/differential-geometry)
-        + [Differential geometry in Rust](http://ebvalaim.mydevil.net/en/2015/12/18/differential-geometry-in-rust/)
+        + [Differential geometry in Rust](https://ebvalaim.pl/en/2015/12/18/differential-geometry-in-rust/)
             + [Possible bug in trait bounds evaluation #30262](https://github.com/rust-lang/rust/issues/30262)
 
     + [A native-rust implementation of an Effect monad, inspired by PureScript's EFF Monad](https://crates.io/crates/effect-monad/)
