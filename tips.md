@@ -1207,6 +1207,9 @@
     ```sh
     ls -lrt | grep ^- | awk 'END{print $NF}'
     ```
++ Build Systems
+    + [What are the best open-source build systems for C/C++?](https://www.slant.co/topics/4263/~open-source-build-systems-for-c-c)
+        + [Meson](https://www.slant.co/topics/4263/viewpoints/14/~open-source-build-systems-for-c-c~meson)
 
 
 + Text search-and-replace (grep-like tools)
