@@ -25,10 +25,18 @@
 
     + [Algebraic-Brill-Noether-Theory](https://github.com/AndreaBarbon/Algebraic-Brill-Noether-Theory)
 
-    + HoTT
-        + [15-819 Homotopy Type Theory](https://www.cs.cmu.edu/~rwh/courses/hott/)
-        + [The HoTT Book](http://homotopytypetheory.org/book/)
-        + [Гомотопическая теория типов](https://ru.wikipedia.org/wiki/%D0%93%D0%BE%D0%BC%D0%BE%D1%82%D0%BE%D0%BF%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F_%D1%82%D0%B8%D0%BF%D0%BE%D0%B2)
+    + Univalent Mathematics + HoTT
+        + HoTT
+            + [15-819 Homotopy Type Theory](https://www.cs.cmu.edu/~rwh/courses/hott/)
+            + [The HoTT Book](http://homotopytypetheory.org/book/)
+            + [Гомотопическая теория типов](https://ru.wikipedia.org/wiki/%D0%93%D0%BE%D0%BC%D0%BE%D1%82%D0%BE%D0%BF%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F_%D1%82%D0%B8%D0%BF%D0%BE%D0%B2)
+        + [Univalent Mathematics](https://github.com/UniMath)
+            + [Vladimir Voevodsky : github](https://github.com/vladimirias)
+                + [Development of the univalent foundations of mathematics in Coq](https://github.com/vladimirias/Foundations/)
+                + [Univalent Foundations of Mathematics](http://www.math.ias.edu/~vladimir/Site3/Univalent_Foundations.html)
+            + [Vladimir Voevodsky : IAS (Institute for Advanced Studies)](http://www.math.ias.edu/vladimir/)
+                + [Vladimir Voevodsky, "Univalent Foundations of Mathematics"](https://www.youtube.com/watch?v=GGyKR4BhUGw&feature=youtu.be)
+                + [Univalent Foundations Talk by Vladimir Voevodsky from Institute for Advanced Study in Princeton, NJ](https://www.math.ias.edu/vladimir/sites/math.ias.edu.vladimir/files/2011_UPenn.pdf)
 
     + [10 крупнейших математических достижений последних лет](http://habrahabr.ru/post/269811/)
       + [Mathematician claims breakthrough in complexity theory](http://news.sciencemag.org/math/2015/11/mathematician-claims-breakthrough-complexity-theory)
