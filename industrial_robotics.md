@@ -67,12 +67,27 @@ Inspection Systems](http://www.mdpi.com/1424-8220/13/12/16565/pdf)
         + [robot web tools is a collection of open-source modules and tools for building web-based robot apps](http://robotwebtools.org/)
 
 + rust
-    + https://tessel.io/
-    + https://www.slideshare.net/AndyGrove1/rust-is-for-robots
-    + https://users.rust-lang.org/t/rust-for-embedded-development-where-we-are-and-whats-missing/10861
-    + https://github.com/robotrs/rust-wpilib
-        https://kylestach1678.github.io/2017/01/03/rust-for-robotics-part-0-introduction.html
-    + https://crates.io/crates/wpilib-hal
+    + ROS
+        + [Awesome Rust for Robotics](http://robotics.rs/)
+        + [Urdf-viz: URDF file viewer](http://ros-users.122217.n3.nabble.com/Discourse-ros-org-ROS-Projects-Urdf-viz-URDF-file-viewer-td4025049.html)
+            tl;dr links to
+                + [kinematics](https://github.com/OTL/k)
+                + [urdf loader](https://github.com/OTL/urdf-rs)
+                + [visualizer](https://github.com/OTL/urdf-viz)
+                + [rrt](https://github.com/OTL/rrt)
+                + [OTL repositories](https://github.com/OTL?tab=repositories_
+            in Rust
+        + [adnanademovic repositories](https://github.com/adnanademovic?tab=repositories)
+            + [Pure Rust implementation of a ROS client library](https://github.com/adnanademovic/rosrust)
+            + [A pure Rust implementation of xml-rpc](https://github.com/adnanademovic/xml-rpc-rs)
+            + [Serde ROSMSG](https://github.com/adnanademovic/serde_rosmsg)
+    + Backup
+        + https://tessel.io/
+        + https://www.slideshare.net/AndyGrove1/rust-is-for-robots
+        + https://users.rust-lang.org/t/rust-for-embedded-development-where-we-are-and-whats-missing/10861
+        + https://github.com/robotrs/rust-wpilib
+            https://kylestach1678.github.io/2017/01/03/rust-for-robotics-part-0-introduction.html
+        + https://crates.io/crates/wpilib-hal
 
 + Point Cloud Library
     https://github.com/PointCloudLibrary/pcl
