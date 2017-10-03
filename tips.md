@@ -803,6 +803,8 @@
 
     + [Trending C++ github repositories](https://github.com/trending/c++)
 
+    + [Optimized C++ book](http://www.guntheroth.com/)
+
     + [The C++ Standards Library for Concurrency and Parallelism http://stellar-group.org/libraries/hpx](https://github.com/STEllAR-GROUP/hpx)
         + [HPX (High Performance ParalleX) is a general purpose C++ runtime system for parallel and distributed applications of any scale](http://stellar-group.org/libraries/hpx)
         + [HPX — рантайм-система для параллельных и распределенных вычислений](https://corehard.by/2016/02/15/conf2016-hpx/)
