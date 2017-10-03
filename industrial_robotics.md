@@ -75,7 +75,7 @@ Inspection Systems](http://www.mdpi.com/1424-8220/13/12/16565/pdf)
                 + [urdf loader](https://github.com/OTL/urdf-rs)
                 + [visualizer](https://github.com/OTL/urdf-viz)
                 + [rrt](https://github.com/OTL/rrt)
-                + [OTL repositories](https://github.com/OTL?tab=repositories_
+                + [OTL repositories](https://github.com/OTL?tab=repositories)
             in Rust
         + [adnanademovic repositories](https://github.com/adnanademovic?tab=repositories)
             + [Pure Rust implementation of a ROS client library](https://github.com/adnanademovic/rosrust)

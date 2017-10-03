@@ -813,3 +813,19 @@
         + [Utilize GPU computational capabilities](https://github.com/lychee-eng/miro/issues/5)
         + [PTX support, take 2](https://github.com/rust-lang/rust/pull/38559)
         + [Tracking issue for the "ptx-kernel" ABI](https://github.com/rust-lang/rust/issues/38788)
+
+    + ROS stands for **R**obot **O**perating **S**ystem
+        + [Awesome Rust for Robotics](http://robotics.rs/)
+        + [Urdf-viz: URDF file viewer](http://ros-users.122217.n3.nabble.com/Discourse-ros-org-ROS-Projects-Urdf-viz-URDF-file-viewer-td4025049.html)
+            tl;dr links to
+                + [kinematics](https://github.com/OTL/k)
+                + [urdf loader](https://github.com/OTL/urdf-rs)
+                + [visualizer](https://github.com/OTL/urdf-viz)
+                + [rrt](https://github.com/OTL/rrt)
+                + [OTL repositories](https://github.com/OTL?tab=repositories)
+            in Rust
+        + [adnanademovic repositories](https://github.com/adnanademovic?tab=repositories)
+            + [Pure Rust implementation of a ROS client library](https://github.com/adnanademovic/rosrust)
+            + [A pure Rust implementation of xml-rpc](https://github.com/adnanademovic/xml-rpc-rs)
+            + [Serde ROSMSG](https://github.com/adnanademovic/serde_rosmsg)
+
