@@ -81,6 +81,11 @@ Inspection Systems](http://www.mdpi.com/1424-8220/13/12/16565/pdf)
             + [Pure Rust implementation of a ROS client library](https://github.com/adnanademovic/rosrust)
             + [A pure Rust implementation of xml-rpc](https://github.com/adnanademovic/xml-rpc-rs)
             + [Serde ROSMSG](https://github.com/adnanademovic/serde_rosmsg)
+    + Haptics
+        + [Haptics Group Research: Surface Texture Perception](https://alexburka.com/penn/proton.php)
+            + [video explaining haptic prototype](https://alexburka.com/penn/proton/icra_video.mp4)
+            + [durka repositories](https://github.com/durka?tab=repositories)
+                + [A rust **cool** library for indicating progress in command line applications to users](https://github.com/mitsuhiko/indicatif)
     + Backup
         + https://tessel.io/
         + https://www.slideshare.net/AndyGrove1/rust-is-for-robots
@@ -94,3 +99,7 @@ Inspection Systems](http://www.mdpi.com/1424-8220/13/12/16565/pdf)
 
 + GA for robotics
     + [Geometric Algebra for Modeling in Robot Physics](http://www.beck-shop.de/fachbuch/leseprobe/9781848829282_Excerpt_002.pdf)
+
++ Misc
+    + [JoelBurdick list for robotics](http://robotics.caltech.edu/wiki/index.php/JoelBurdick)
+    + [Работа с SLAM в ROS на Raspberry Pi 3 на примере hector_slam](https://se7en.ws/rabota-s-slam-v-ros-na-raspberry-pi-3-na-primere-hector_slam/)
