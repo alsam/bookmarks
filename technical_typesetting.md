@@ -108,6 +108,17 @@
     + [TeX for Gmail](http://alexeev.org/gmailtex.html)
 
 + Creating diagrams
+    + diagrams using Rust
+        + [SvgBobRus is an ascii to svg converter](https://github.com/ivanceras/svgbobrus)
+        tl;dr
+        ```sh
+        cargo install svgbob_cli
+        svgbob < examples/long.bob > long.svg
+        svgbob -o long.svg < examples/long.bob
+        svgbob examples/long.bob > long.svg
+        ```
+    + [ASCII Flow Draw](http://stable.ascii-flow.appspot.com/#Draw)
+
     + [Creating documents with embedded diagrams](https://byorgey.wordpress.com/2012/08/28/creating-documents-with-embedded-diagrams/)
         + [diagrams](http://projects.haskell.org/diagrams/)
             + [project haskell diagrams blog](http://projects.haskell.org/diagrams/blog/index.html)

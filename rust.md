@@ -802,9 +802,6 @@
                 + [Announcing Cargo Deb](https://www.reddit.com/r/rust/comments/4ofiyr/announcing_cargo_deb/)
             + [cargo-arch - generate Arch Linux packages from information in Cargo.toml](https://github.com/wdv4758h/cargo-arch/)
 
-    + Rust robotics
-        + [rust-robotics-libraries](https://gist.github.com/ClintLiddick/2966203a425ac5fb70a3d6eb0022f675)
-
     + [Graham scan from Algorithms in a Nutshell in Rust](https://codereview.stackexchange.com/questions/141809/graham-scan-from-algorithms-in-a-nutshell-in-rust)
 
     + Run Rust code on your NVIDIA GPU
@@ -814,18 +811,31 @@
         + [PTX support, take 2](https://github.com/rust-lang/rust/pull/38559)
         + [Tracking issue for the "ptx-kernel" ABI](https://github.com/rust-lang/rust/issues/38788)
 
-    + ROS stands for **R**obot **O**perating **S**ystem
-        + [Awesome Rust for Robotics](http://robotics.rs/)
-        + [Urdf-viz: URDF file viewer](http://ros-users.122217.n3.nabble.com/Discourse-ros-org-ROS-Projects-Urdf-viz-URDF-file-viewer-td4025049.html)
-            tl;dr links to
-                + [kinematics](https://github.com/OTL/k)
-                + [urdf loader](https://github.com/OTL/urdf-rs)
-                + [visualizer](https://github.com/OTL/urdf-viz)
-                + [rrt](https://github.com/OTL/rrt)
-                + [OTL repositories](https://github.com/OTL?tab=repositories)
-            in Rust
-        + [adnanademovic repositories](https://github.com/adnanademovic?tab=repositories)
-            + [Pure Rust implementation of a ROS client library](https://github.com/adnanademovic/rosrust)
-            + [A pure Rust implementation of xml-rpc](https://github.com/adnanademovic/xml-rpc-rs)
-            + [Serde ROSMSG](https://github.com/adnanademovic/serde_rosmsg)
+    + diagrams using Rust
+        + [SvgBobRus is an ascii to svg converter](https://github.com/ivanceras/svgbobrus)
+        tl;dr
+        ```sh
+        cargo install svgbob_cli
+        svgbob < examples/long.bob > long.svg
+        svgbob -o long.svg < examples/long.bob
+        svgbob examples/long.bob > long.svg
+        ```
+
+    + Rust robotics
+        + [rust-robotics-libraries](https://gist.github.com/ClintLiddick/2966203a425ac5fb70a3d6eb0022f675)
+
+        + ROS stands for **R**obot **O**perating **S**ystem
+            + [Awesome Rust for Robotics](http://robotics.rs/)
+            + [Urdf-viz: URDF file viewer](http://ros-users.122217.n3.nabble.com/Discourse-ros-org-ROS-Projects-Urdf-viz-URDF-file-viewer-td4025049.html)
+                tl;dr links to
+                    + [kinematics](https://github.com/OTL/k)
+                    + [urdf loader](https://github.com/OTL/urdf-rs)
+                    + [visualizer](https://github.com/OTL/urdf-viz)
+                    + [rrt](https://github.com/OTL/rrt)
+                    + [OTL repositories](https://github.com/OTL?tab=repositories)
+                in Rust
+            + [adnanademovic repositories](https://github.com/adnanademovic?tab=repositories)
+                + [Pure Rust implementation of a ROS client library](https://github.com/adnanademovic/rosrust)
+                + [A pure Rust implementation of xml-rpc](https://github.com/adnanademovic/xml-rpc-rs)
+                + [Serde ROSMSG](https://github.com/adnanademovic/serde_rosmsg)
 
