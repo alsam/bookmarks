@@ -117,8 +117,8 @@ Inspection Systems](http://www.mdpi.com/1424-8220/13/12/16565/pdf)
         + [Build error: GCC-5 fail on "-fno-plt" flag](https://www.reddit.com/r/archlinux/comments/6nxxre/build_error_gcc5_fail_on_fnoplt_flag/)
 
     ```sh
-    yaourt -S aur/ros-kinetic-ros-core --noconfirm
-    yaourt -S aur/ros-kinetic-ros-desktop --noconfirm
+    yaourt -S aur/ros-kinetic-core --noconfirm
+    yaourt -S aur/ros-kinetic-desktop --noconfirm
     yaourt -S aur/ros-kinetic-moveit-core --noconfirm
     yaourt -S aur/ros-kinetic-moveit --noconfirm
     ```
