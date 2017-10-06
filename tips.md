@@ -259,6 +259,9 @@
         + [git returns http error 407 from proxy after CONNECT](http://stackoverflow.com/questions/24907140/git-returns-http-error-407-from-proxy-after-connect)
         + [Git Basics - Tagging](https://git-scm.com/book/en/v2/Git-Basics-Tagging)
         + [Git delete a remote/local branch or tag](https://matoski.com/article/git-delete-remote-branch-tag/)
+
+        + [How to change your commit messages in Git?](https://gist.github.com/nepsilon/156387acf9e1e72d48fa35c4fabef0b4)
+
         + [How to: Delete a remote Git tag](https://nathanhoad.net/how-to-delete-a-remote-git-tag)
             + delete tag
           ```sh
