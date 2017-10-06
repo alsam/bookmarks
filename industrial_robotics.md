@@ -119,6 +119,7 @@ Inspection Systems](http://www.mdpi.com/1424-8220/13/12/16565/pdf)
     ```sh
     yaourt -S aur/ros-kinetic-core --noconfirm
     yaourt -S aur/ros-kinetic-desktop --noconfirm
+    yaourt -S aur/ros-kinetic-desktop-full --noconfirm
     yaourt -S aur/ros-kinetic-moveit-core --noconfirm
     yaourt -S aur/ros-kinetic-moveit --noconfirm
     ```
