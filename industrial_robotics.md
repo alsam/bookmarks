@@ -77,6 +77,42 @@ Inspection Systems](http://www.mdpi.com/1424-8220/13/12/16565/pdf)
         + [Web Applications for Robots using rosbridge](https://cs.brown.edu/research/pubs/theses/masters/2012/lee.pdf)
         + [robot web tools is a collection of open-source modules and tools for building web-based robot apps](http://robotwebtools.org/)
 
++ building ROS with moveIt on arch linux
+    + install octomap
+    ```
+    yaourt -S aur/octomap
+    in PKGBUILD change pkgversion from 1.7.0 to 1.8.1
+    fix sha256
+    ```
+    + install fcl with octomap support
+    ```sh
+    yaourt -S aur/fcl
+    in PKGBUILD change pkgversion from 0.4.0 to 0.5.0
+    fix sha256
+    check less /usr/include/fcl/config.h has octomap support with octomap version > 1.8.0
+    ```
+        + [issue: Dependencies on fcl->octomap](https://github.com/ros-planning/moveit_core/issues/299)
+        + [fcl 0.5 release with octomap 1.8 support](https://github.com/flexible-collision-library/fcl/issues/137)
+    + install `yaourt -S aur/ros-kinetic-opencv3`
+    ```sh
+    export CC=/usr/bin/gcc-5
+    export CXX=/usr/bin/g++-5
+
+    diff -u /etc/makepkg.conf.ORIG /etc/makepkg.conf 
+    --- /etc/makepkg.conf.ORIG	2017-07-04 12:29:42.000000000 +0300
+    +++ /etc/makepkg.conf	2017-10-06 01:19:20.550612564 +0300
+    @@ -37,8 +37,8 @@
+     # -march (or -mcpu) builds exclusively for an architecture
+     # -mtune optimizes for an architecture, but builds for whole processor family
+     CPPFLAGS="-D_FORTIFY_SOURCE=2"
+    -CFLAGS="-march=x86-64 -mtune=generic -O2 -pipe -fstack-protector-strong -fno-plt"
+    -CXXFLAGS="-march=x86-64 -mtune=generic -O2 -pipe -fstack-protector-strong -fno-plt"
+    +CFLAGS="-march=x86-64 -mtune=generic -O2 -pipe -fstack-protector-strong"
+    +CXXFLAGS="-march=x86-64 -mtune=generic -O2 -pipe -fstack-protector-strong"
+    ```
+        + i.e. remove `-fno-plt` for `CFLAGS`, `CXXFLAGS` in `/etc/makepkg.conf` temporary
+        + [ AUR Issues, Discussion & PKGBUILD Requests» gcc: error: unrecognized command line option ‘-fno-plt’](https://bbs.archlinux.org/viewtopic.php?id=228332)
+        + [Build error: GCC-5 fail on "-fno-plt" flag](https://www.reddit.com/r/archlinux/comments/6nxxre/build_error_gcc5_fail_on_fnoplt_flag/)
 + rust
     + ROS
         + [Awesome Rust for Robotics](http://robotics.rs/)
