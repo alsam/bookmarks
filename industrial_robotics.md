@@ -91,6 +91,7 @@ Inspection Systems](http://www.mdpi.com/1424-8220/13/12/16565/pdf)
     fix sha256
     check less /usr/include/fcl/config.h has octomap support with octomap version > 1.8.0
     ```
+        + [C++11 error on ROS buildfarm for kinetic](https://github.com/ros-planning/geometric_shapes/issues/49)
         + [issue: Dependencies on fcl->octomap](https://github.com/ros-planning/moveit_core/issues/299)
         + [fcl 0.5 release with octomap 1.8 support](https://github.com/flexible-collision-library/fcl/issues/137)
     + install `yaourt -S aur/ros-kinetic-opencv3`
@@ -113,6 +114,14 @@ Inspection Systems](http://www.mdpi.com/1424-8220/13/12/16565/pdf)
         + i.e. remove `-fno-plt` for `CFLAGS`, `CXXFLAGS` in `/etc/makepkg.conf` temporary
         + [ AUR Issues, Discussion & PKGBUILD Requests» gcc: error: unrecognized command line option ‘-fno-plt’](https://bbs.archlinux.org/viewtopic.php?id=228332)
         + [Build error: GCC-5 fail on "-fno-plt" flag](https://www.reddit.com/r/archlinux/comments/6nxxre/build_error_gcc5_fail_on_fnoplt_flag/)
+
+    ```sh
+    yaourt -S aur/ros-kinetic-ros-core --noconfirm
+    yaourt -S aur/ros-kinetic-ros-desktop --noconfirm
+    yaourt -S aur/ros-kinetic-moveit-core --noconfirm
+    yaourt -S aur/ros-kinetic-moveit --noconfirm
+    ```
+
 + rust
     + ROS
         + [Awesome Rust for Robotics](http://robotics.rs/)
