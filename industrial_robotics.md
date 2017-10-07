@@ -124,6 +124,9 @@ Inspection Systems](http://www.mdpi.com/1424-8220/13/12/16565/pdf)
     yaourt -S aur/ros-kinetic-moveit --noconfirm
     ```
 
+    + [rosdep install fails on Archlinux](https://github.com/ros-infrastructure/rosdep/issues/395)
+        + [ROS Kinetic Installing from source](http://wiki.ros.org/kinetic/Installation/Source)
+
 + rust
     + ROS
         + [Awesome Rust for Robotics](http://robotics.rs/)
