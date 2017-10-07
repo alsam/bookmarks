@@ -126,6 +126,7 @@ Inspection Systems](http://www.mdpi.com/1424-8220/13/12/16565/pdf)
 
     + [rosdep install fails on Archlinux](https://github.com/ros-infrastructure/rosdep/issues/395)
         + [ROS Kinetic Installing from source](http://wiki.ros.org/kinetic/Installation/Source)
+        + [Ros Build System code gists](https://codegists.com/code/ros-build-system/)
 
 + rust
     + ROS
