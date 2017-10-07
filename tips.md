@@ -1215,6 +1215,7 @@
 + Build Systems
     + [What are the best open-source build systems for C/C++?](https://www.slant.co/topics/4263/~open-source-build-systems-for-c-c)
         + [Meson](https://www.slant.co/topics/4263/viewpoints/14/~open-source-build-systems-for-c-c~meson)
+            + [Investigate using Meson build system alongside CMake](https://musescore.org/en/node/120116)
             + [Can you glob source code with meson?](https://stackoverflow.com/questions/34441673/can-you-glob-source-code-with-meson)
 
 
