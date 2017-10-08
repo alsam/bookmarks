@@ -127,6 +127,24 @@ Inspection Systems](http://www.mdpi.com/1424-8220/13/12/16565/pdf)
     + [rosdep install fails on Archlinux](https://github.com/ros-infrastructure/rosdep/issues/395)
         + [ROS Kinetic Installing from source](http://wiki.ros.org/kinetic/Installation/Source)
             + [Catkin fails on osx 10.9, can't find '__main__' module in empy-3.1-py2.7.egg/em.pyc ; on arch linux fails as well](https://answers.ros.org/question/100741/catkin-fails-on-osx-109-cant-find-__main__-module-in-empy-31-py27eggempyc/)
+            tl;dr a confusion between pyhon packages `em` and `empy`
+            ```sh
+            sudo pip uninstall em
+            sudo pip install empy
+            rosinstall_generator desktop --rosdistro kinetic --deps --wet-only --tar > kinetic-desktop-wet.rosinstall
+            rosinstall_generator industrial_core --rosdistro kinetic --deps --wet-only --tar >> kinetic-desktop-wet.rosinstall
+            wstool update -j 4 -t src
+            rosdep install --from-paths src --ignore-src --rosdistro kinetic -y
+            ...
+              Could not find a package configuration file provided by "console_bridge"
+            ...
+            ```
+                + [ROS `console_bridge`](http://wiki.ros.org/console_bridge)
+            ```sh
+            Poco was not found
+            sudo apt-get install libpoco-dev
+            sudo apt-get install libpocofoundation9v5-dbg
+            ```
         + [Ros Build System code gists](https://codegists.com/code/ros-build-system/)
 
 + rust
