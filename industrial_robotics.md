@@ -134,7 +134,8 @@ Inspection Systems](http://www.mdpi.com/1424-8220/13/12/16565/pdf)
             rosinstall_generator desktop --rosdistro kinetic --deps --wet-only --tar > kinetic-desktop-wet.rosinstall
             rosinstall_generator industrial_core --rosdistro kinetic --deps --wet-only --tar >> kinetic-desktop-wet.rosinstall
             wstool update -j 4 -t src
-            rosdep install --from-paths src --ignore-src --rosdistro kinetic -y
+            #rosdep install --from-paths src --ignore-src --rosdistro kinetic -y
+            ./src/catkin/bin/catkin_make_isolated --install -DCMAKE_BUILD_TYPE=Debug --make-args VERBOSE=1
             ...
               Could not find a package configuration file provided by "console_bridge"
             ...
