@@ -145,6 +145,7 @@ Inspection Systems](http://www.mdpi.com/1424-8220/13/12/16565/pdf)
             Poco was not found
             sudo apt-get install libpoco-dev
             sudo apt-get install libpocofoundation9v5-dbg
+            with Arch Linux many annoying errors; quick-n-dirty fixes to link.txt add -lPocoNet -lPocoUtil
             ```
             + `opencv3` build: see above on `yaourt -S aur/ros-kinetic-opencv3` and in `opencv3/cmake/OpenCVPCHSupport.cmake`
             ```cmake
@@ -157,6 +158,11 @@ Inspection Systems](http://www.mdpi.com/1424-8220/13/12/16565/pdf)
             cstdlib:75:25: fatal error: stdlib.h: No such file or directory
              #include_next <stdlib.h>
             ```
+            + [No module named defusedxml.xmlrpc](https://answers.ros.org/question/260377/no-module-named-defusedxmlxmlrpc/)
+              + when executing command `roslaunch ...`
+              ```sh
+              sudo apt-get install python-defusedxml
+              ```
         + [Ros Build System code gists](https://codegists.com/code/ros-build-system/)
 
 + rust
