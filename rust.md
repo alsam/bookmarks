@@ -460,34 +460,6 @@
 
         + [Closures don’t move Copy types by default?](https://internals.rust-lang.org/t/closures-dont-move-copy-types-by-default/5179/6)
 
-    + Selected RFCs
-        + [RFC 1598: generic associated types](https://github.com/rust-lang/rfcs/blob/master/text/1598-generic_associated_types.md)
-            + [Tracking issue for generic associated types (GAT)](https://github.com/rust-lang/rust/issues/44265)
-            + [Generic associated types RFC was merged!](https://www.reddit.com/r/rust/comments/6xkqdl/generic_associated_types_rfc_was_merged/)
-            + [Generic associated types (AKA ACT, AKA HKT) RFC merged!](https://www.reddit.com/r/rust/comments/6yt9vd/generic_associated_types_aka_act_aka_hkt_rfc/)
-        + [RFC 2000: const generics](https://github.com/rust-lang/rfcs/blob/master/text/2000-const-generics.md)
-            + [Tracking issue for const generics (RFC 2000)](https://github.com/rust-lang/rust/issues/44580)
-            + [generic-array : in anticipation of **const generics**](https://crates.io/crates/generic-array/)
-            tl;dr
-            generic-array defines a new trait `ArrayLength<T>` and a `struct GenericArray<T, N: ArrayLength<T>>`,
-            which let the above be implemented as:
-            ```rust
-            struct Foo<N: ArrayLength<i32>> {
-            	data: GenericArray<i32, N>
-            }
-            ```
-        + [RFC 1210: impl specialization](https://github.com/rust-lang/rfcs/blob/master/text/1210-impl-specialization.md)
-            + [Implement RFC 1210: impl specialization #30652](https://github.com/rust-lang/rust/pull/30652)
-            + [Specialize to reuse](https://aturon.github.io/blog/2015/09/18/reuse/)
-            + [Shipping specialization: a story of soundness](https://internals.rust-lang.org/t/shipping-specialization-a-story-of-soundness/5507/13)
-                + [Shipping specialization: a story of soundness](http://aturon.github.io/blog/2017/07/08/lifetime-dispatch/)
-
-            + [Specialization/Inheritance](https://internals.rust-lang.org/t/specialization-inheritance/3030)
-            + [Specialization Tree](https://users.rust-lang.org/t/specialization-tree/11863)
-            + [Conditional Trait Implementations](https://users.rust-lang.org/t/conditional-trait-implementations/11850/4)
-                + [Rust: Conditional Trait Implementation](https://stackoverflow.com/questions/45113763/rust-conditional-trait-implementation)
-        + [RFC 1422: pub_restricted](https://github.com/rust-lang/rfcs/blob/master/text/1422-pub-restricted.md)
-
     + Misc.
         + [Dual numbers in Rust](https://github.com/potan/dual.rs)
 
@@ -611,8 +583,6 @@
 
     + Ideas, RFCs, that are not in the language yet
         + HKT
-            + [RFC 1598: generic associated types](https://github.com/rust-lang/rfcs/blob/a7cd91048eea3d7ae83bec20446e62bad0c45381/text/1598-generic_associated_types.md)
-                + [Tracking issue for generic associated types](https://github.com/rust-lang/rust/issues/44265)
             + [What Are Sum, Product, and Pi Types?](https://www.reddit.com/r/rust/comments/5xkmnh/what_are_sum_product_and_pi_types/)
             + [Rust/Haskell: Higher-Kinded Types (HKT)](https://gist.github.com/CMCDragonkai/a5638f50c87d49f815b8)
                 + [Higher-kinded type trait](https://gist.github.com/14427/af90a21b917d2892eace)
@@ -838,4 +808,32 @@
                 + [Pure Rust implementation of a ROS client library](https://github.com/adnanademovic/rosrust)
                 + [A pure Rust implementation of xml-rpc](https://github.com/adnanademovic/xml-rpc-rs)
                 + [Serde ROSMSG](https://github.com/adnanademovic/serde_rosmsg)
+
+    + WIP : Selected RFCs
+        + [RFC 1598: generic associated types](https://github.com/rust-lang/rfcs/blob/master/text/1598-generic_associated_types.md)
+            + [Tracking issue for generic associated types (GAT)](https://github.com/rust-lang/rust/issues/44265)
+            + [Generic associated types RFC was merged!](https://www.reddit.com/r/rust/comments/6xkqdl/generic_associated_types_rfc_was_merged/)
+            + [Generic associated types (AKA ACT, AKA HKT) RFC merged!](https://www.reddit.com/r/rust/comments/6yt9vd/generic_associated_types_aka_act_aka_hkt_rfc/)
+        + [RFC 2000: const generics](https://github.com/rust-lang/rfcs/blob/master/text/2000-const-generics.md)
+            + [Tracking issue for const generics (RFC 2000)](https://github.com/rust-lang/rust/issues/44580)
+            + [generic-array : in anticipation of **const generics**](https://crates.io/crates/generic-array/)
+            tl;dr
+            generic-array defines a new trait `ArrayLength<T>` and a `struct GenericArray<T, N: ArrayLength<T>>`,
+            which let the above be implemented as:
+            ```rust
+            struct Foo<N: ArrayLength<i32>> {
+            	data: GenericArray<i32, N>
+            }
+            ```
+        + [RFC 1210: impl specialization](https://github.com/rust-lang/rfcs/blob/master/text/1210-impl-specialization.md)
+            + [Implement RFC 1210: impl specialization #30652](https://github.com/rust-lang/rust/pull/30652)
+            + [Specialize to reuse](https://aturon.github.io/blog/2015/09/18/reuse/)
+            + [Shipping specialization: a story of soundness](https://internals.rust-lang.org/t/shipping-specialization-a-story-of-soundness/5507/13)
+                + [Shipping specialization: a story of soundness](http://aturon.github.io/blog/2017/07/08/lifetime-dispatch/)
+
+            + [Specialization/Inheritance](https://internals.rust-lang.org/t/specialization-inheritance/3030)
+            + [Specialization Tree](https://users.rust-lang.org/t/specialization-tree/11863)
+            + [Conditional Trait Implementations](https://users.rust-lang.org/t/conditional-trait-implementations/11850/4)
+                + [Rust: Conditional Trait Implementation](https://stackoverflow.com/questions/45113763/rust-conditional-trait-implementation)
+        + [RFC 1422: pub_restricted](https://github.com/rust-lang/rfcs/blob/master/text/1422-pub-restricted.md)
 
