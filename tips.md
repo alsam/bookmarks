@@ -370,6 +370,10 @@
 
     + vim tips
         :set ff=unix
+        + [Understanding Vim’s Jump List](https://medium.com/breathe-publication/understanding-vims-jump-list-7e1bfc72cdf0)
+        + [Что вам стоит знать, если вы начали изучение Vim](https://proglib.io/p/vim-what-i-wish-i-knew/)
+        + [Vim’s absolute, relative and hybrid line numbers](https://jeffkreeftmeijer.com/vim-number/)
+            + [How to turn off Vim relativenumber setting?](https://stackoverflow.com/questions/32306604/how-to-turn-off-vim-relativenumber-setting)
         + [Vim - open new tab in buffer](https://stackoverflow.com/questions/26073226/vim-open-new-tab-in-buffer)
           + tl;dr
           ```sh
