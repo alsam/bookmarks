@@ -27,7 +27,10 @@ Inspection Systems](http://www.mdpi.com/1424-8220/13/12/16565/pdf)
 + ROS
     + [The Robot Operating System (ROS)](http://www.ros.org/)
         + [ROS wiki](http://wiki.ros.org/)
-        + [ROS intro](http://www.uio.no/studier/emner/matnat/ifi/INF3480/v17/timeplan/lecturenotes/inf3480---ros---spring-2017---simplified.pdf
+        + [ROS intro](http://www.uio.no/studier/emner/matnat/ifi/INF3480/v17/timeplan/lecturenotes/inf3480---ros---spring-2017---simplified.pdf)
+        + [Programming for Robotics (ROS) Course 1](https://www.youtube.com/watch?v=0BxVPCInS3M)
+            + [Programming for Robotics - ROS](http://www.rsl.ethz.ch/education-students/lectures/ros.html)
+                + [Programming for Robotics - ROS - lecture 1](https://www.ethz.ch/content/dam/ethz/special-interest/mavt/robotics-n-intelligent-systems/rsl-dam/ROS2017/lecture1.pdf)
         + [Messages and Topics: Communicating between nodes](https://github.com/fp-robotics/myp_ros/wiki/Messages-and-Topics:-Communicating-between-nodes)
             + [ROS simple_message](http://wiki.ros.org/simple_message)
                 + [industrial::typed_message::TypedMessage Class Reference](http://docs.ros.org/jade/api/simple_message/html/classindustrial_1_1typed__message_1_1TypedMessage.html)
