@@ -42,6 +42,8 @@
             + [Cubical Type Theory](https://github.com/mortberg/cubicaltt)
                 + [Cubical Type Theory: lectures](https://github.com/mortberg/cubicaltt/tree/master/lectures)
             + [What is the most transparent, rigorous definition of the Univalence Axiom?](https://mathoverflow.net/questions/210498/what-is-the-most-transparent-rigorous-definition-of-the-univalence-axiom)
+            + [Lambda Jam 2014 - Gershom Bazerman - Homotopy Type Theory: What's the Big Idea](https://www.youtube.com/watch?v=OupcXmLER7I)
+                + [Foundations of Mathematics and Homotopy Theory](https://www.youtube.com/watch?v=kkKTW-Q0qkc)
 
     + [10 крупнейших математических достижений последних лет](http://habrahabr.ru/post/269811/)
       + [Mathematician claims breakthrough in complexity theory](http://news.sciencemag.org/math/2015/11/mathematician-claims-breakthrough-complexity-theory)
