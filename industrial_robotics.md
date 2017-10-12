@@ -217,6 +217,12 @@ Inspection Systems](http://www.mdpi.com/1424-8220/13/12/16565/pdf)
 + GA for robotics
     + [Geometric Algebra for Modeling in Robot Physics](http://www.beck-shop.de/fachbuch/leseprobe/9781848829282_Excerpt_002.pdf)
 
++ [Artificial Intelligence for Robotics by Georgia Institute of Technology Georgia Tech](https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373)
+    + [intro to Artificial Intelligence for Robotics](https://www.class-central.com/mooc/319/udacity-artificial-intelligence-for-robotics#)
+    + [A python cheat sheet containing the basics needed for the course Artificial Intelligence for Robotics](https://github.com/ethz-asl/ai_for_robotics)
+    + [Solution to the programming assignments in Artificial Intelligence For Robotics by Udacity](https://github.com/biodunalfet/Artificial-Intelligence-For-Robotics)
+
 + Misc
     + [JoelBurdick list for robotics](http://robotics.caltech.edu/wiki/index.php/JoelBurdick)
     + [Работа с SLAM в ROS на Raspberry Pi 3 на примере hector_slam](https://se7en.ws/rabota-s-slam-v-ros-na-raspberry-pi-3-na-primere-hector_slam/)
+
