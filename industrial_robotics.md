@@ -55,6 +55,8 @@ Inspection Systems](http://www.mdpi.com/1424-8220/13/12/16565/pdf)
     + Planning
         + [MoveIt! motion planning](http://moveit.ros.org/)
         + [The Open Motion Planning Library](http://ompl.kavrakilab.org/)
+        + [The MoveIt! Motion Planning Framework](https://github.com/ros-planning/moveit)
+            + [ROS Planning](https://github.com/ros-planning)
 
           OMPL.app has the following required dependencies:
 
@@ -140,6 +142,7 @@ Inspection Systems](http://www.mdpi.com/1424-8220/13/12/16565/pdf)
             sudo pip install empy
             rosinstall_generator desktop --rosdistro kinetic --deps --wet-only --tar > kinetic-desktop-wet.rosinstall
             rosinstall_generator industrial_core --rosdistro kinetic --deps --wet-only --tar >> kinetic-desktop-wet.rosinstall
+            wstool init -j8 src kinetic-desktop-full-wet.rosinstall
             wstool update -j 4 -t src
             #rosdep install --from-paths src --ignore-src --rosdistro kinetic -y
             ./src/catkin/bin/catkin_make_isolated --install -DCMAKE_BUILD_TYPE=Debug --make-args VERBOSE=1
@@ -165,6 +168,14 @@ Inspection Systems](http://www.mdpi.com/1424-8220/13/12/16565/pdf)
             cstdlib:75:25: fatal error: stdlib.h: No such file or directory
              #include_next <stdlib.h>
             ```
+            + [ROS package collada_parser: dae.h not found](https://answers.ros.org/question/136881/package-collada_parser-daeh-not-found/)
+            + [get perception_pcl building on kinetic](https://github.com/ros-perception/perception_pcl/issues/119)
+            + [kinetic-devel does not build on 16.04](https://github.com/ros-planning/navigation/issues/456)
+            + [cmake error, poco was not found, Raspberry Pi, ROS Indigo](https://answers.ros.org/question/204532/cmake-error-poco-was-not-found-raspberry-pi-ros-indigo/)
+            + sip: Unable to find file "QtCore/QtCoremod.sip"
+                + [sip: Unable to find file "QtCore/QtCoremod.sip"](https://github.com/wbsoft/python-poppler-qt5/issues/17)
+                + [Problem during compilation of ROS INDIGO on ARM/Ubuntu trusty from source](https://answers.ros.org/question/187851/problem-during-compilation-of-ros-indigo-on-armubuntu-trusty-from-source/)
+                + [trying to install ROS from source on UBUNTU 13.10](https://answers.ros.org/question/98016/trying-to-install-ros-from-source-on-ubuntu-1310/)
             + [No module named defusedxml.xmlrpc](https://answers.ros.org/question/260377/no-module-named-defusedxmlxmlrpc/)
               + when executing command `roslaunch ...`
               ```sh
