@@ -79,6 +79,13 @@ Inspection Systems](http://www.mdpi.com/1424-8220/13/12/16565/pdf)
               * [Eigen](http://eigen.tuxfamily.org) (needed for an informed sampling technique to improve the optimization of path length and for the Vector Field RRT planner)
 
 
+    + ROS transport level protocol
+        + [convenient cross-reference](http://code.metager.de/source/xref/ros/comm/clients/cpp/roscpp/include/ros/transport/)
+        + [github repository for transport level protocol](https://github.com/strawlab/ros_comm/tree/master/clients/cpp/roscpp/include/ros/transport)
+        + TCP backup
+            + [Chapter 2. The Transport Layer: TCP, UDP, and SCTP](https://notes.shichao.io/unp/ch2/)
+                + [Chapter 4. Elementary TCP Sockets](https://notes.shichao.io/unp/ch4/)
+
     + ROS web
         + [Web based supervisory system for ROS](https://github.com/EESC-LabRoM/rosweb)
         + [Rosbridge provides a JSON API to ROS functionality for non-ROS programs. There are a variety of front ends that interface with rosbridge, including a WebSocket server for web browsers to interact with.](http://wiki.ros.org/rosbridge_suite)
@@ -225,4 +232,5 @@ Inspection Systems](http://www.mdpi.com/1424-8220/13/12/16565/pdf)
 + Misc
     + [JoelBurdick list for robotics](http://robotics.caltech.edu/wiki/index.php/JoelBurdick)
     + [Работа с SLAM в ROS на Raspberry Pi 3 на примере hector_slam](https://se7en.ws/rabota-s-slam-v-ros-na-raspberry-pi-3-na-primere-hector_slam/)
+
 
