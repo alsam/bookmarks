@@ -230,6 +230,13 @@ Inspection Systems](http://www.mdpi.com/1424-8220/13/12/16565/pdf)
     + [A python cheat sheet containing the basics needed for the course Artificial Intelligence for Robotics](https://github.com/ethz-asl/ai_for_robotics)
     + [Solution to the programming assignments in Artificial Intelligence For Robotics by Udacity](https://github.com/biodunalfet/Artificial-Intelligence-For-Robotics)
 
++ Protocols verification
+    + [Design and Validation of Computer Protocols](http://spinroot.com/gerard/popd.html)
+    + [Specifying Systems: The TLA+ Language and Tools for Hardware and Software Engineers](http://lamport.azurewebsites.net/tla/book.html#download)
+    + [Yet another explicit state model checker](https://github.com/Smattr/rumur)
+    + [SPIN An explicit state model checker](http://www.cs.cmu.edu/~emc/15-398/lectures/SPIN-LTL.pdf)
+
+
 + Misc
     + [JoelBurdick list for robotics](http://robotics.caltech.edu/wiki/index.php/JoelBurdick)
     + [Работа с SLAM в ROS на Raspberry Pi 3 на примере hector_slam](https://se7en.ws/rabota-s-slam-v-ros-na-raspberry-pi-3-na-primere-hector_slam/)
