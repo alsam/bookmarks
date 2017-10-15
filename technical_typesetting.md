@@ -117,6 +117,7 @@
         svgbob -o long.svg < examples/long.bob
         svgbob examples/long.bob > long.svg
         ```
+            + [How do I convert an SVG to a PDF on Linux](https://superuser.com/questions/381125/how-do-i-convert-an-svg-to-a-pdf-on-linux)
     + [ASCII Flow Draw](http://stable.ascii-flow.appspot.com/#Draw)
 
     + [Creating documents with embedded diagrams](https://byorgey.wordpress.com/2012/08/28/creating-documents-with-embedded-diagrams/)

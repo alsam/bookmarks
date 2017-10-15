@@ -82,6 +82,7 @@ Inspection Systems](http://www.mdpi.com/1424-8220/13/12/16565/pdf)
     + ROS transport level protocol
         + [convenient cross-reference](http://code.metager.de/source/xref/ros/comm/clients/cpp/roscpp/include/ros/transport/)
         + [github repository for transport level protocol](https://github.com/strawlab/ros_comm/tree/master/clients/cpp/roscpp/include/ros/transport)
+        + [Robot Communication Protocol from JBC](http://www.jbctools.com/pdf/robot_communication_protocol.pdf)
         + TCP backup
             + [Chapter 2. The Transport Layer: TCP, UDP, and SCTP](https://notes.shichao.io/unp/ch2/)
                 + [Chapter 4. Elementary TCP Sockets](https://notes.shichao.io/unp/ch4/)
