@@ -119,12 +119,27 @@
             sudo pip install /tmp/tensorflow_pkg/tensorflow-1.3.0-cp36-cp36m-linux_x86_64.whl
             ```
             + [CUDA 9RC + cuDNN7](https://github.com/tensorflow/tensorflow/issues/12474)
-                + [Upgrade to CuDNN 7 and CUDA 9](Upgrade to CuDNN 7 and CUDA 9)
+                + [Upgrade to CuDNN 7 and CUDA 9](https://github.com/tensorflow/tensorflow/issues/12052)
                 + [compilation error](https://github.com/tensorflow/tensorflow/issues/12406)
             + [How to find which version of TensorFlow is installed in my system?](http://stackoverflow.com/questions/38549253/how-to-find-which-version-of-tensorflow-is-installed-in-my-system)
             tl;dr
             ```sh
             python -c 'import tensorflow as tf; print(tf.__version__)'
+            ```
+            + [Getting Started r0.12](https://www.tensorflow.org/versions/r0.12/get_started/os_setup)
+            ```python
+            $ python
+            ...
+            >>> import tensorflow as tf
+            >>> hello = tf.constant('Hello, TensorFlow!')
+            >>> sess = tf.Session()
+            >>> print(sess.run(hello))
+            Hello, TensorFlow!
+            >>> a = tf.constant(10)
+            >>> b = tf.constant(32)
+            >>> print(sess.run(a + b))
+            42
+            >>>
             ```
             + [gpu-accelerated-applications-tensorflow-installation](http://www.nvidia.com/object/gpu-accelerated-applications-tensorflow-installation.html)
             + [How to compile Tensorflow with SSE4.2 and AVX instructions?](http://stackoverflow.com/questions/41293077/how-to-compile-tensorflow-with-sse4-2-and-avx-instructions)
