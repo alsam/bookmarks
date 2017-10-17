@@ -86,6 +86,9 @@ Inspection Systems](http://www.mdpi.com/1424-8220/13/12/16565/pdf)
         + TCP backup
             + [Chapter 2. The Transport Layer: TCP, UDP, and SCTP](https://notes.shichao.io/unp/ch2/)
                 + [Chapter 4. Elementary TCP Sockets](https://notes.shichao.io/unp/ch4/)
+            + [«Boost.Asio C++ Network Programming». Глава 4: Клиент и Сервер](https://habrahabr.ru/post/195794/)
+            + [Boost.Asio C++ Network Programming examples](http://www.boost.org/doc/libs/1_65_1/doc/html/boost_asio/examples/cpp11_examples.html)
+            + [SOCKETS - SERVER & CLIENT C++ - 2017](http://www.bogotobogo.com/cplusplus/sockets_server_client.php#block_vs_non_blocking)
 
     + ROS web
         + [Web based supervisory system for ROS](https://github.com/EESC-LabRoM/rosweb)
