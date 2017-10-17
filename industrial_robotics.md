@@ -144,6 +144,10 @@ Inspection Systems](http://www.mdpi.com/1424-8220/13/12/16565/pdf)
     yaourt -S aur/ros-kinetic-moveit --noconfirm
     ```
 
+    + [Snapcraft builds for ROS](https://docs.snapcraft.io/build-snaps/ros)
+        + [Install snapd on Arch Linux](https://docs.snapcraft.io/core/install-arch-linux)
+        + [Install snapd on Ubuntu](https://docs.snapcraft.io/core/install-ubuntu)
+
     + [rosdep install fails on Archlinux](https://github.com/ros-infrastructure/rosdep/issues/395)
         + [ROS Kinetic Installing from source](http://wiki.ros.org/kinetic/Installation/Source)
             + [Catkin fails on osx 10.9, can't find '__main__' module in empy-3.1-py2.7.egg/em.pyc ; on arch linux fails as well](https://answers.ros.org/question/100741/catkin-fails-on-osx-109-cant-find-__main__-module-in-empy-31-py27eggempyc/)
