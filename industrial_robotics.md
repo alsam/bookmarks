@@ -247,5 +247,9 @@ Inspection Systems](http://www.mdpi.com/1424-8220/13/12/16565/pdf)
 + Misc
     + [JoelBurdick list for robotics](http://robotics.caltech.edu/wiki/index.php/JoelBurdick)
     + [Работа с SLAM в ROS на Raspberry Pi 3 на примере hector_slam](https://se7en.ws/rabota-s-slam-v-ros-na-raspberry-pi-3-na-primere-hector_slam/)
+    + [OpenRAVE provides an environment for testing, developing, and deploying motion planning algorithms in real-world robotics application](http://openrave.org/)
+    + [YARP stands for Yet Another Robot Platform](http://www.yarp.it/)
+        + [CUDADeviceDriver.cpp](http://www.yarp.it/CUDADeviceDriver_8cpp.html)
+        + [yarp-wholebodyinterface](https://github.com/robotology/yarp-wholebodyinterface/tree/master/app/robots)
 
 
