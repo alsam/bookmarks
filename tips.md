@@ -827,6 +827,9 @@
     + [Is pass-by-value a reasonable default in C++11?](https://stackoverflow.com/questions/7592630/is-pass-by-value-a-reasonable-default-in-c11/7592741#7592741)
 
     + [C++ samples](http://www.cppsamples.com/)
+        + [Introduction To valarray](http://cppisland.com/?p=518)
+            + [C++ valarray vs. vector](https://stackoverflow.com/questions/1602451/c-valarray-vs-vector)
+        + [Atomic Basics](http://cppisland.com/?p=436)
         + [Подборка ресурсов с примерами кода на разных языках](https://tproger.ru/digest/learn-everything-by-examples/)
 
     + enum to string in modern C++11 / C++14 and future C++17 / C++20
