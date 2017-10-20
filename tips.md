@@ -414,6 +414,10 @@
         Open up Vim and start installation with :PluginInstall
         ```
         + YouComplete
+            tl;dr
+            ```sh
+            ~/.vim/bundle/YouCompleteMe$ ./install.sh --clang-completer --racer-completer
+            ```
             + [libtinfo.so.* missing in Arch Linux](https://github.com/Valloric/YouCompleteMe/issues/778)
             + ["ycmd server SHUTDOWN" error on Arch Linux](https://github.com/Valloric/YouCompleteMe/issues/2579#issuecomment-288315182)
                 + tl;dr
