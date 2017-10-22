@@ -94,6 +94,7 @@
 + [High performance tensor library in Nim](https://andre-ratsimbazafy.com/high-performance-tensor-library-in-nim/#how-controlling-overhead)
     + [Why Rust fails hard at scientific computing](https://www.reddit.com/r/rust/comments/76olo3/why_rust_fails_hard_at_scientific_computing/)
         + [Why Rust fails hard at scientific computing](https://internals.rust-lang.org/t/why-rust-fails-hard-at-scientific-computing/6065)
+            + [technicalities: interactive scientific computing #2 of 2, goldilocks languages](https://graydon2.dreamwidth.org/189377.html)
 
 + nim links
     + [A matrix library https://unicredit.github.io/neo/](https://github.com/unicredit/neo)
