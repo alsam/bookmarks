@@ -29,3 +29,18 @@
     + [Talk:YourLanguageSucks](https://wiki.theory.org/Talk:YourLanguageSucks)
     + [2015.03.14: The death of optimizing compilers](https://blog.cr.yp.to/20150314-optimizing.html)
     + [The death of optimizing compilers](https://cr.yp.to/talks/2015.04.16/slides-djb-20150416-a4.pdf)
+
+
++ [10 Common Software Architectural Patterns in a nutshell](https://medium.com/towards-data-science/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013)
+  tl;dr
+      1. Layered pattern
+      2. Client-server pattern
+      3. Master-slave pattern
+      4. Pipe-filter pattern
+      5. Broker pattern
+      6. Peer-to-peer pattern
+      7. Event-bus pattern
+      8. Model-view-controller pattern
+      9. Blackboard pattern
+      10. Interpreter pattern
+
