@@ -100,6 +100,8 @@
     + [A matrix library https://unicredit.github.io/neo/](https://github.com/unicredit/neo)
     + [A fast, ergonomic and portable tensor library with a deep learning focus](https://github.com/mratsim/Arraymancer)
         + [Arraymancer - A n-dimensional tensor (ndarray) library](https://mratsim.github.io/Arraymancer/)
+    + [A curated list of awesome Nim frameworks, libraries and software](https://github.com/VPashkov/awesome-nim)
+        + [Find the nim package](http://nimism.co/)
     + tl;dr
     ```sh
     nimble refresh
