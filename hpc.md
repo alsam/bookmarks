@@ -102,6 +102,8 @@
         + [Arraymancer - A n-dimensional tensor (ndarray) library](https://mratsim.github.io/Arraymancer/)
     + [A curated list of awesome Nim frameworks, libraries and software](https://github.com/VPashkov/awesome-nim)
         + [Find the nim package](http://nimism.co/)
+    + [Quantum EXpressions lattice field theory framework](https://github.com/jcosborn/qex)
+        + [QEX: a framework for lattice field theories](https://arxiv.org/abs/1612.02750)
     + tl;dr
     ```sh
     nimble refresh
