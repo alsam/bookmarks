@@ -837,3 +837,7 @@
                 + [Rust: Conditional Trait Implementation](https://stackoverflow.com/questions/45113763/rust-conditional-trait-implementation)
         + [RFC 1422: pub_restricted](https://github.com/rust-lang/rfcs/blob/master/text/1422-pub-restricted.md)
 
+    + misc
+        + [Prior work on Krylov subspace methods?](https://users.rust-lang.org/t/prior-work-on-krylov-subspace-methods/13261/3)
+        + [Herb Sutter: “Metaclasses: Thoughts on generative C++”](https://internals.rust-lang.org/t/herb-sutter-metaclasses-thoughts-on-generative-c/5647)
+        + [[x-post] How do I integrate Rust into other projects?](https://users.rust-lang.org/t/x-post-how-do-i-integrate-rust-into-other-projects/13507
