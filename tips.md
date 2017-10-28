@@ -109,11 +109,15 @@
             yes | sudo pacman -S firefox
         ```
 
-        + [Numlock/Capslock indicator](https://aur.archlinux.org/packages/xfce4-kbdleds-pl)
-        tl;dr
-        ```sh
-        yaourt -S aur/xfce4-kbdleds-plugin-git
-        ```
+        + xfce4
+            + [Numlock/Capslock indicator](https://aur.archlinux.org/packages/xfce4-kbdleds-pl)
+            tl;dr
+            ```sh
+            yaourt -S aur/xfce4-kbdleds-plugin-git
+            ```
+
+            + [xfce nm-applet missing : how to display network manager icon on xfce panel](https://askubuntu.com/questions/517467/how-to-display-network-manager-icon-on-xfce-panel/572117)
+            tl;dr tinker with nm-applet -> `dbus-launch nm-applet`
 
         + Printer (Brother DCPT500W)
             + tl;dr
