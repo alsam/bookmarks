@@ -1060,6 +1060,10 @@
               ```c++
               std::unique_ptr<T, D> ptr{new T{}, d};
               ```
+
+        + [std::unique_ptr for class data member ABI (Pimpl idiom)](https://stackoverflow.com/questions/30072094/stdunique-ptr-for-class-data-member-abi-pimpl-idiom)
+            + [Move constructor involving const unique_ptr](https://stackoverflow.com/questions/29194304/move-constructor-involving-const-unique-ptr)
+
         + selected boost tips
             + boost property tree
                 + [boost property tree 5 minutes tutorial](http://www.boost.org/doc/libs/1_61_0/doc/html/property_tree/tutorial.html)
