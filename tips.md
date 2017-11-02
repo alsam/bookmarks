@@ -1064,6 +1064,41 @@
         + [std::unique_ptr for class data member ABI (Pimpl idiom)](https://stackoverflow.com/questions/30072094/stdunique-ptr-for-class-data-member-abi-pimpl-idiom)
             + [Move constructor involving const unique_ptr](https://stackoverflow.com/questions/29194304/move-constructor-involving-const-unique-ptr)
 
+        + [C++ Template specialization for subclasses with abstract base class](https://stackoverflow.com/questions/24936862/c-template-specialization-for-subclasses-with-abstract-base-class)
+            + [c++ template specialization for base class](https://stackoverflow.com/questions/21437730/c-template-specialization-for-base-class)
+            tl;dr look [partial_specialization.cpp](https://github.com/alsam/cpp-samples/blob/master/c%2B%2Bnew-features/partial_specialization.cpp)
+            ```c++
+            template <typename M>
+            struct SetTarget
+            {
+              SetTarget(M* t): target(t) {}
+              M* target;
+            };
+            
+            template <typename M, typename T, bool = std::is_base_of<OperationMessage, T>::value>
+            struct SetId : public SetTarget<M>
+            {
+              SetId(M* t) : SetTarget<M>(t) {}
+              void operator()(T)
+              {
+                std::cout << "SetId with -1\n";
+                SetTarget<M>::target->setId(-1);
+              }
+            };
+            
+            // partial specialization
+            template <typename M, typename T>
+            struct SetId<M, T, true> : SetTarget<M>
+            {
+              SetId(M* t) : SetTarget<M>(t) {}
+              void operator()(T msg)
+              {
+                std::cout << "SetId with msg.getSequence()\n";
+                SetTarget<M>::target->setId(msg.getSequence());
+              }
+            };
+            ```
+
         + selected boost tips
             + boost property tree
                 + [boost property tree 5 minutes tutorial](http://www.boost.org/doc/libs/1_61_0/doc/html/property_tree/tutorial.html)
