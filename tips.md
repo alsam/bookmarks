@@ -1462,3 +1462,5 @@
     tunl0:down
     wlan0:unknown
     ```
+
++ [Maximum length of the textual representation of an IPv6 address?](https://stackoverflow.com/questions/166132/maximum-length-of-the-textual-representation-of-an-ipv6-address)
