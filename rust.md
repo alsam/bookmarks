@@ -837,6 +837,11 @@
                 + [Rust: Conditional Trait Implementation](https://stackoverflow.com/questions/45113763/rust-conditional-trait-implementation)
         + [RFC 1422: pub_restricted](https://github.com/rust-lang/rfcs/blob/master/text/1422-pub-restricted.md)
 
+        + [Upcoming Rust syntax changes #234](https://github.com/dtolnay/syn/issues/234)
+            + [Generic Associated Types Parsing #45904](https://github.com/rust-lang/rust/pull/45904)
+            + [Update AST to hold const generics #227](https://github.com/dtolnay/syn/issues/227)
+                + [Generics refactoring (groundwork for const generics)](https://github.com/rust-lang/rust/pull/45930)
+
     + misc
         + [Prior work on Krylov subspace methods?](https://users.rust-lang.org/t/prior-work-on-krylov-subspace-methods/13261/3)
         + [Herb Sutter: “Metaclasses: Thoughts on generative C++”](https://internals.rust-lang.org/t/herb-sutter-metaclasses-thoughts-on-generative-c/5647)
