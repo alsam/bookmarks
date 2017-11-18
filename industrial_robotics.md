@@ -14,6 +14,19 @@
     + [robotics-315](http://thydzik.com/academic/robotics-315/index.php)
         + [UWA course robotics-315](http://thydzik.com/academic/robotics-315/portfolio/)
 
++ Forward and Inverse Kinematics
+    + [Transformation Matrices Part 1](https://www.youtube.com/watch?v=I7Xvchh0L_4&list=PLB46C8B9857C32201)
+    + [Transformation Matrices Part 2](https://www.youtube.com/watch?v=Vt_pSfVcrhI&index=2&list=PLB46C8B9857C32201)
+    + [Transformation Matrices Part 3](https://www.youtube.com/watch?v=3zeMsf0vcs4&list=PLB46C8B9857C32201&index=3)
+    + [Forward and Inverse Kinematics Part 1](https://www.youtube.com/watch?v=VjsuBT4Npvk)
+    + [Forward and Inverse Kinematics Part 2](https://www.youtube.com/watch?v=3ZcYSKVDlOc)
+    + [Forward and Inverse Kinematics Part 3](https://www.youtube.com/watch?v=llUBbpWVPQE&index=6&list=PLB46C8B9857C32201)
+    + [Velocity, Force and the Jacobian Part 1](https://www.youtube.com/watch?v=g_Nl4iPd1jI&list=PLB46C8B9857C32201&index=7)
+    + [Velocity, Force and the Jacobian Part 2](https://www.youtube.com/watch?v=5DJ10praEZ8&list=PLB46C8B9857C32201&index=8)
+    + [Velocity, Force and the Jacobian Part 3](https://www.youtube.com/watch?v=nT3kms4pbKw&list=PLB46C8B9857C32201&index=9)
+    + [Velocity, Force and the Jacobian Part 4](https://www.youtube.com/watch?v=3CbyOt32nrY&list=PLB46C8B9857C32201&index=10)
+        + [milfordrobotics](https://www.youtube.com/channel/UCD2zDJK8c5Is7StyjWku6zw)
+
 + robot camera calibration
     + [High-Precision Calibration Approaches to Robot Vision Systems](https://tams.informatik.uni-hamburg.de/paper/2009/Fangwu_Shu_Dissertation_SUB.pdf)
 
