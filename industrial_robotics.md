@@ -250,8 +250,7 @@ Inspection Systems](http://www.mdpi.com/1424-8220/13/12/16565/pdf)
             https://kylestach1678.github.io/2017/01/03/rust-for-robotics-part-0-introduction.html
         + https://crates.io/crates/wpilib-hal
 
-+ Point Cloud Library
-    https://github.com/PointCloudLibrary/pcl
++ [Point Cloud Library](https://github.com/PointCloudLibrary/pcl)
 
 + GA for robotics
     + [Geometric Algebra for Modeling in Robot Physics](http://www.beck-shop.de/fachbuch/leseprobe/9781848829282_Excerpt_002.pdf)
@@ -260,6 +259,10 @@ Inspection Systems](http://www.mdpi.com/1424-8220/13/12/16565/pdf)
     + [intro to Artificial Intelligence for Robotics](https://www.class-central.com/mooc/319/udacity-artificial-intelligence-for-robotics#)
     + [A python cheat sheet containing the basics needed for the course Artificial Intelligence for Robotics](https://github.com/ethz-asl/ai_for_robotics)
     + [Solution to the programming assignments in Artificial Intelligence For Robotics by Udacity](https://github.com/biodunalfet/Artificial-Intelligence-For-Robotics)
+
++ [RobOptim is a Modern, Open-Source, C++ Library for Numerical Optimization applied to Robotics](http://roboptim.net/index.html)
+    + [RobOptim](https://github.com/roboptim)
+    + [roboptim-tutorial](https://github.com/roboptim/roboptim-tutorial)
 
 + Protocols verification
     + [Design and Validation of Computer Protocols](http://spinroot.com/gerard/popd.html)
