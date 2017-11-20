@@ -27,6 +27,7 @@
     + [Velocity, Force and the Jacobian Part 4](https://www.youtube.com/watch?v=3CbyOt32nrY&list=PLB46C8B9857C32201&index=10)
         + [milfordrobotics](https://www.youtube.com/channel/UCD2zDJK8c5Is7StyjWku6zw)
         + [ENB339 Introduction to Robotics](https://wiki.qut.edu.au/display/cyphy/ENB339+Introduction+to+Robotics)
+        + [Introduction to Robotics (ENB339) Lecture Notes](https://www.studocu.com/en/document/queensland-university-of-technology/introduction-to-robotics/lecture-notes/lecture-notes-week-9-13/332743/view?auth=0&auth_prem=0&prem_doc=0&new_title=0&has_flashcards=0)
 
 + robot camera calibration
     + [High-Precision Calibration Approaches to Robot Vision Systems](https://tams.informatik.uni-hamburg.de/paper/2009/Fangwu_Shu_Dissertation_SUB.pdf)
