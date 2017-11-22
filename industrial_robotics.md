@@ -281,5 +281,9 @@ Inspection Systems](http://www.mdpi.com/1424-8220/13/12/16565/pdf)
         + [CUDADeviceDriver.cpp](http://www.yarp.it/CUDADeviceDriver_8cpp.html)
         + [yarp-wholebodyinterface](https://github.com/robotology/yarp-wholebodyinterface/tree/master/app/robots)
         + [YARP: Port and connection protocols](http://www.yarp.it/yarp_protocol.html)
+    + [Robotic Humanoid hand](https://discourse.ros.org/t/robotic-humanoid-hand/188)
+    + [ROBOTIS-MANIPULATOR-H](http://wiki.ros.org/ROBOTIS-MANIPULATOR-H)
+        + [robotis_controller](https://github.com/ROBOTIS-GIT/ROBOTIS-Documents/wiki/robotis_controller)
+        + [ROBOTIS Official Github](https://github.com/ROBOTIS-GIT)
 
 
