@@ -124,6 +124,13 @@ Inspection Systems](http://www.mdpi.com/1424-8220/13/12/16565/pdf)
         + [Web Applications for Robots using rosbridge](https://cs.brown.edu/research/pubs/theses/masters/2012/lee.pdf)
         + [robot web tools is a collection of open-source modules and tools for building web-based robot apps](http://robotwebtools.org/)
 
+    + [How to Roslaunch Nodes in Valgrind or GDB](http://wiki.ros.org/roslaunch/Tutorials/Roslaunch%20Nodes%20in%20Valgrind%20or%20GDB)
+    tl;dr
+    ```
+    <node pkg="planning_servers" launch-prefix="xterm -e cgdb --args" name="mainserver" type="mainserver_node"
+    ...
+    ```
+
 + building ROS with moveIt on arch linux
     + install octomap
     ```
