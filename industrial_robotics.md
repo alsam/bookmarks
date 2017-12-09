@@ -115,6 +115,8 @@ Inspection Systems](http://www.mdpi.com/1424-8220/13/12/16565/pdf)
             + [«Boost.Asio C++ Network Programming». Глава 4: Клиент и Сервер](https://habrahabr.ru/post/195794/)
             + [Boost.Asio C++ Network Programming examples](http://www.boost.org/doc/libs/1_65_1/doc/html/boost_asio/examples/cpp11_examples.html)
             + [SOCKETS - SERVER & CLIENT C++ - 2017](http://www.bogotobogo.com/cplusplus/sockets_server_client.php#block_vs_non_blocking)
+            + [Error : “Transport endpoint is already connected”](https://stackoverflow.com/questions/7140438/error-transport-endpoint-is-already-connected)
+                + [Socket program gives “Transport endpoint is already connected” error](https://stackoverflow.com/questions/9873650/socket-program-gives-transport-endpoint-is-already-connected-error)
 
     + ROS web
         + [Web based supervisory system for ROS](https://github.com/EESC-LabRoM/rosweb)
