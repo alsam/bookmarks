@@ -1367,6 +1367,11 @@
     + [How do I place dynamic content into a QML component](http://stackoverflow.com/questions/21864809/how-do-i-place-dynamic-content-into-a-qml-component)
     + [Accessing Members of a QML Object Type from C++](http://doc.qt.io/qt-5/qtqml-cppintegration-interactqmlfromcpp.html)
     + [Qt with Cascades UI Examples Documentation](http://blackberry.github.io/Qt2Cascades-Samples/docs/progressdialog.html)
+    + [How to add include path in Qt Creator?](https://stackoverflow.com/questions/2752352/how-to-add-include-path-in-qt-creator)
+    tl;dr
+    ```sh
+    qmake occQt.pro -r -spec linux-g++-64 CONFIG+=debug INCLUDEPATH+=/usr/local/include/opencascade
+    ```
 
 + Data transfer
     + [So you want to write to a file real fast…](https://blog.plenz.com/2014-04/so-you-want-to-write-to-a-file-real-fast.html)
