@@ -746,6 +746,8 @@
         + [A Formal Verification of Rust's Binary Search Implementation](https://kha.github.io/2016/07/22/formally-verifying-rusts-binary-search.html)
         + [GitHub - Kha/electrolysis: Simple verification of Rust programs via functional purification](https://www.reddit.com/r/rust/comments/4ty6z8/github_khaelectrolysis_simple_verification_of/)
         + [Electrolysis Reference](http://kha.github.io/electrolysis/)
+        + [Status of Rust Code Analyzers](https://users.rust-lang.org/t/status-of-rust-code-analyzers/10106)
+            + [Thesis: Simple Verification of Rust Programs via Functional Purification](https://users.rust-lang.org/t/thesis-simple-verification-of-rust-programs-via-functional-purification/9704)
 
     + C & C++ projects being converted to Rust
         + Physically Based Rendering
