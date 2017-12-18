@@ -26,6 +26,7 @@
     + [Deep Learning: Methods and Applications](http://research.microsoft.com/pubs/209355/DeepLearning-NowPublishing-Vol7-SIG-039.pdf)
     + [The Anatomy of Deep Learning Frameworks](http://www.kdnuggets.com/2017/02/anatomy-deep-learning-frameworks.html)
     + [Getting Started with Deep Learning](http://www.datasciencecentral.com/profiles/blogs/getting-started-with-deep-learning)
+    + [Information Theory of Deep Learning. Naftali Tishby](https://www.youtube.com/watch?v=bLqJHjXihK8&list=PLJOzdkh8T5kqCNV_v1w2tapvtJDZYiohW&index=18)
 
 + Nervana Systems
     + [Nervana](http://www.nervanasys.com/)
