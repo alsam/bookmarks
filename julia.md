@@ -24,6 +24,8 @@
             + [GSoC2015:Community Bonding Period Updates](http://juliaquantum.github.io/news/2015/04/JuliaQuantum-and-GSoC2015)
             + [Julia Libraries for Quantum Science and Technology](https://github.com/JuliaQuantum)
             + [QuDynamics.jl](https://github.com/JuliaQuantum/QuDynamics.jl)
+        + [Julia Homotopy Continuation](https://github.com/JuliaHomotopyContinuation)
+            + [A package for construction of polynomial homotopies](https://github.com/JuliaHomotopyContinuation/Homotopies.jl)
 
     + Translating from Fortran to Julia
         + [Julia equivalent of Fortran common blocks or, even better, Fortran 90 Modules](https://groups.google.com/forum/#!topic/julia-users/-bzuOUTeMX4)
