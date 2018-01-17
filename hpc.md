@@ -34,6 +34,13 @@
     + [facilities to experiment with Discontinuous Petrov Galerkin (DPG) methods](https://github.com/jayggg/DPG)
         + [Research papers of Jay Gopalakrishnan](http://web.pdx.edu/~gjay/research/papers.html)
 
+    + [Free CFD codes](https://www.cfd-online.com/Wiki/Codes)
+        + [Code_Saturne](https://www.code-saturne.org/cms/download/Source-code-access)
+        + [Large-Scale CFD Parallel Computing Dealing with Massive Mesh](https://www.hindawi.com/journals/je/2013/850148/)
+
+    + [Open source tools in technical photorealistic large-scale visualisation](http://www.vtt.fi/inf/julkaisut/muut/2015/VTT-R-04911-15.pdf)
+    + [An Open Source CFD-DEM Perspective](http://web.student.chalmers.se/groups/ofw5/Presentations/ChristophGonivaSlidesOFW5.pdf)
+
     + CFD + GPU
         + [Recent progress and challenges in exploiting graphics processors in computational fluid dynamics: slightly outdated but interesting](http://arxiv.org/pdf/1309.3018.pdf)
             + [Laplace solver running on GPU using CUDA, with CPU version for comparison, slightly outdated](https://github.com/kyleniemeyer/laplace_gpu)
