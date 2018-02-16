@@ -26,6 +26,8 @@
     + Nektar++
         + [Nektar++: An efficient h to p finite element framework](http://www.nektar.info/)
         + [Nektar++: a high-order finite element framework](https://xyloid.org/assets/talks/2014-06-ices.pdf)
+    + Siemens
+        + [Embedded Multicore Building Blocks (EMB²)](https://github.com/siemens/embb)
     + Maxeler
         + [Maxeler Technologies - Maximum Performance Computing](https://github.com/maxeler)
             + [AirfoilDFE - An unstructured mesh finite volume solver on DFE.](https://github.com/maxeler/Airfoil)
@@ -117,3 +119,5 @@
     nimble install neo
     nimble install Arraymancer
     ```
+
++ [parallel-computing resources list](https://github.zhrichard.me/topics/parallel-computing)
