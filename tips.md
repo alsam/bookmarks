@@ -820,6 +820,8 @@
 
     + [Optimized C++ book](http://www.guntheroth.com/)
 
+    + [Лекция 3. Move семантика и Rvalue reference](https://compscicenter.ru/media/slides/cpp_2_2014_spring/2014_02_25_cpp_2_2014_spring.pdf)
+
     + [The C++ Standards Library for Concurrency and Parallelism http://stellar-group.org/libraries/hpx](https://github.com/STEllAR-GROUP/hpx)
         + [HPX (High Performance ParalleX) is a general purpose C++ runtime system for parallel and distributed applications of any scale](http://stellar-group.org/libraries/hpx)
         + [HPX — рантайм-система для параллельных и распределенных вычислений](https://corehard.by/2016/02/15/conf2016-hpx/)
