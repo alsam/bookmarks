@@ -846,6 +846,7 @@
     + enum to string in modern C++11 / C++14 and future C++17 / C++20
         + [enum to string in modern C++11 / C++14 and future C++17 / C++20](https://stackoverflow.com/questions/28828957/enum-to-string-in-modern-c11-c14-and-future-c17-c20)
         + [Enum to string в современном C ++ и будущем C ++ 17 / C ++ 20](http://qaru.site/questions/9861/enum-to-string-in-modern-c-and-future-c17-c20)
+        + [How to perform tuple arithmetic in C++ (c++11/c++17)?](https://stackoverflow.com/questions/47209672/how-to-perform-tuple-arithmetic-in-c-c11-c17)
 
     + C++ and multithreading
         + [Top 20 C++ multithreading mistakes and how to avoid them](http://www.acodersjourney.com/2017/08/top-20-cplusplus-multithreading-mistakes/)
