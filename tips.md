@@ -817,6 +817,8 @@
         + [C++17 in details: Parallel Algorithms](http://www.bfilipek.com/2017/08/cpp17-details-parallel.html)
         + [C++17 **Guaranteed** Copy Elision](https://jonasdevlieghere.com/guaranteed-copy-elision/)
         + [C++17 Fold expressions](http://filipjaniszewski.com/2016/11/24/c17-folding-expression/)
+            + [Reduce: From functional programming to C++17 Fold expressions - Nikos Athanasiou - Meeting C++ 2016](https://www.youtube.com/watch?v=ymNdAkS7Ljc)
+
 
     + [Trending C++ github repositories](https://github.com/trending/c++)
 
