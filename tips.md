@@ -793,6 +793,8 @@
         apt-get -qq update && \
         apt-get install -y -qq gcc-7 g++-7 gfortran-7 && \
         ```
+    + [docker run -> name is already in use by container](https://stackoverflow.com/questions/31697828/docker-run-name-is-already-in-use-by-container)
+        + tl;dr `docker rm $(docker ps -aq --filter name=CONTAINER_NAME)`
 
 + CLion
     + [Debugging in CLion](https://blog.jetbrains.com/clion/2015/05/debug-clion/)
