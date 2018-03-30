@@ -91,7 +91,6 @@
         + [Net2Net: Accelerating Learning via Knowledge Transfer](https://github.com/soumith/net2net.torch)
         + [Training and investigating Residual Nets](http://torch.ch/blog/2016/02/04/resnets.html)
 
-
     + [TensorFlow - Google’s latest machine learning system, open sourced for everyone](http://googleresearch.blogspot.ru/2015/11/tensorflow-googles-latest-machine_9.html)
         + [TensorFlow](http://www.tensorflow.org/)
             + [TensorFlow: A primer](https://blog.metaflow.fr/tensorflow-a-primer-4b3fa0978be3)
@@ -318,6 +317,11 @@
         + [Evaluation of Deep Learning Toolkits](https://github.com/zer0n/deepframeworks/blob/master/README.md)
         + [Deep Learning in Rust: baby steps](https://medium.com/@tedsta/deep-learning-in-rust-7e228107cccc)
         + [Deep Learning in Rust: a walk in the park](https://medium.com/@tedsta/deep-learning-in-rust-a-walk-in-the-park-fed6c87165ea#.4i3ci3o4m)
+
++ `Dlib`
+    + [Dlib C++ Library](http://dlib.net/)
+    + [Dlib Blog](http://blog.dlib.net/)
+    + [A Clean C++11 Deep Learning API](http://blog.dlib.net/2016/06/a-clean-c11-deep-learning-api.html)
 
 + FPGA for AI
     + [quora: FPGAs-useful-in-neural-networks](https://www.quora.com/Artificial-Intelligence-How-are-field-programmable-gate-arrays-FPGAs-useful-in-neural-networks)
