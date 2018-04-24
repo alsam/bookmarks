@@ -1073,6 +1073,10 @@
 
         + [std::unique_ptr for class data member ABI (Pimpl idiom)](https://stackoverflow.com/questions/30072094/stdunique-ptr-for-class-data-member-abi-pimpl-idiom)
             + [Move constructor involving const unique_ptr](https://stackoverflow.com/questions/29194304/move-constructor-involving-const-unique-ptr)
+            + [Why am I getting compile error “use of deleted function 'std::unique_ptr …”](https://stackoverflow.com/questions/39703954/why-am-i-getting-compile-error-use-of-deleted-function-stdunique-ptr/39705668)
+            tl;dr 
+            The chief feature of std::unqiue_ptr is that it cannot be copied. That's by design, and the name tells you as much.
+            take `std::unique_ptr<..> const&` -- no copy is needed.
 
         + [C++ Template specialization for subclasses with abstract base class](https://stackoverflow.com/questions/24936862/c-template-specialization-for-subclasses-with-abstract-base-class)
             + [c++ template specialization for base class](https://stackoverflow.com/questions/21437730/c-template-specialization-for-base-class)
