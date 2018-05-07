@@ -49,6 +49,11 @@
         + [Arch Linux Installation guide](https://wiki.archlinux.org/index.php/installation_guide)
             + [Installing Arch Linux on a USB key](https://wiki.archlinux.org/index.php/Installing_Arch_Linux_on_a_USB_key)
         + [Arch Linux Set timezone](https://wiki.archlinux.org/index.php?title=Time&redirect=no#Time_zone)
+            ```sh
+            timedatectl status
+            timedatectl list-timezones
+            timedatectl set-timezone Zone/SubZone
+            ```
         + [Arch Linux SSH keys](https://wiki.archlinux.org/index.php/SSH_keys)
         + [Arch Linux AUR](https://wiki.archlinux.org/index.php/Arch_User_Repository)
         + [How to install Yaourt on Arch Linux](http://www.ostechnix.com/install-yaourt-arch-linux/)
