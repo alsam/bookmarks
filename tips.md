@@ -355,6 +355,15 @@
 
         + [Малоизвестные Git-команды](https://habrahabr.ru/company/mailru/blog/318508/)
 
+        + [two-factor authentication in your Github account leads to inability to push via HTTPS](https://stackoverflow.com/questions/17659206/git-push-results-in-authentication-failed)
+        tl;dr  
+        ```sh
+        git remote -v
+        git remote remove origin
+        git remote add origin git@github.com:user/repo.git
+        git push --set-upstream origin master
+        ```
+
         + [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 
     + [Pijul - distributed version control system written in Rust](https://pijul.org/manual/)
