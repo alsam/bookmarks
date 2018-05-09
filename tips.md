@@ -357,7 +357,7 @@
 
         + [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 
-    + [Pijul - distributed version control system written in Rust](https://pijul.org/documentation/install/)
+    + [Pijul - distributed version control system written in Rust](https://pijul.org/manual/)
 
 + compile optimization tips (TODO reorganize)
     + [Why doesn't GCC optimize a*a*a*a*a*a to (a*a*a)*(a*a*a)?](http://stackoverflow.com/questions/6430448/why-doesnt-gcc-optimize-aaaaaa-to-aaaaaa)
