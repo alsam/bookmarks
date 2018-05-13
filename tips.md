@@ -523,6 +523,8 @@
                 + [ Render lines via tiles #6733 ](https://github.com/atom/atom/pull/6733#issuecomment-108407945)
                 + [Find remaining performance bottlenecks for large files #6692](https://github.com/atom/atom/issues/6692)
 
+    + [CppCon 2017: Rong Lu "C++ Development with Visual Studio Code"](https://www.youtube.com/watch?v=rFdJ68WbkdQ)
+
     + [Slap is a sublime-like text editor which works inside the terminal.](https://www.slant.co/options/53/~slap-review)
         + [Slap - sublime-like terminal-based text editor](https://github.com/slap-editor/slap)
 
