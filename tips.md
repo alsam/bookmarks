@@ -437,6 +437,12 @@
             ~/.vim/bundle/YouCompleteMe$ ./install.sh --clang-completer --racer-completer
             ```
             + [libtinfo.so.* missing in Arch Linux](https://github.com/Valloric/YouCompleteMe/issues/778)
+            + [supercede: Package Details: ncurses5-compat-libs 6.1-1 ](https://aur.archlinux.org/packages/ncurses5-compat-libs/?comments=all)
+            tl;dr  
+            ```sh
+            gpg --keyserver keys.gnupg.net --recv-keys 702353E0F7E48EDB
+            yaourt -S ncurses5-compat-libs
+            ```
             + ["ycmd server SHUTDOWN" error on Arch Linux](https://github.com/Valloric/YouCompleteMe/issues/2579#issuecomment-288315182)
                 + tl;dr
                 ```sh
