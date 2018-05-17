@@ -178,6 +178,8 @@
 
 + [tegra + ARM links](https://github.com/alsam/bookmarks/blob/master/tegra.md)
 
++ [Qualcomm Snapdragon + Adreno GPU + Hexagon DSP links](https://github.com/alsam/bookmarks/blob/master/snapdragon_and_adreno.md)
+
 + [3D](https://github.com/alsam/bookmarks/blob/master/3D.md)
 
 + [Industrial robotics: planning & locomotion & computer vision](https://github.com/alsam/bookmarks/blob/master/industrial_robotics.md)
