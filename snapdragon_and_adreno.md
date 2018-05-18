@@ -1,5 +1,11 @@
 # snapdragon and adreno tips
 
++ Snapdragon
+    + [Snapdragon 845 Mobile Platform](https://www.qualcomm.com/products/snapdragon-845-mobile-platform)
+    + [](
+
 + Adreno
     + [OpenCL Optimization and Best Practices for Qualcomm Adreno GPUs](https://dl.acm.org/citation.cfm?id=3204935)
     + [Sub-optimal performance on Qualcomm Adreno GPUs](https://github.com/CNugteren/CLBlast/issues/228)
+    + [Getting started with openCL on Adreno420 under linux](https://developer.qualcomm.com/forum/qdn-forums/software/adreno-gpu-sdk/34153)
+    + [Qualcomm Adreno 630](https://www.notebookcheck.net/Qualcomm-Adreno-630-GPU.299832.0.html)
