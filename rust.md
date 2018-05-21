@@ -793,6 +793,16 @@
         svgbob examples/long.bob > long.svg
         ```
 
+    + [Rust and OpenGL from scratch - Setup](http://nercury.github.io/rust/opengl/tutorial/2018/02/08/opengl-in-rust-from-scratch-00-setup.html)
+    + [Rust and OpenGL from scratch - Window](http://nercury.github.io/rust/opengl/tutorial/2018/02/08/opengl-in-rust-from-scratch-01-window.html)
+    + [Rust and OpenGL from scratch - OpenGL Context](http://nercury.github.io/rust/opengl/tutorial/2018/02/09/opengl-in-rust-from-scratch-02-opengl-context.html)
+    + [Rust and OpenGL from scratch - Compiling Shaders](http://nercury.github.io/rust/opengl/tutorial/2018/02/10/opengl-in-rust-from-scratch-03-compiling-shaders.html)
+    + [Rust and OpenGL from scratch - Triangle](http://nercury.github.io/rust/opengl/tutorial/2018/02/11/opengl-in-rust-from-scratch-04-triangle.html)
+    + [Rust and OpenGL from scratch - Colored Triangle](http://nercury.github.io/rust/opengl/tutorial/2018/02/11/opengl-in-rust-from-scratch-05-triangle-colors.html)
+    + [Rust and OpenGL from scratch - GL Generator](http://nercury.github.io/rust/opengl/tutorial/2018/02/12/opengl-in-rust-from-scratch-06-gl-generator.html)
+    + [Rust and OpenGL from scratch - Basic Resources](http://nercury.github.io/rust/opengl/tutorial/2018/02/14/opengl-in-rust-from-scratch-07-basic-resources.html)
+    + [Rust and OpenGL from scratch - Failure](http://nercury.github.io/rust/opengl/tutorial/2018/02/15/opengl-in-rust-from-scratch-08-failure.html)
+ 
     + Rust robotics
         + [rust-robotics-libraries](https://gist.github.com/ClintLiddick/2966203a425ac5fb70a3d6eb0022f675)
 
