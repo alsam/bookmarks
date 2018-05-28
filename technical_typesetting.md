@@ -107,6 +107,33 @@
 
     + [TeX for Gmail](http://alexeev.org/gmailtex.html)
 
++ MacOS X
+    + [Missing fonts from LaTeX](https://forum.affinity.serif.com/index.php?/topic/2483-missing-fonts-from-latex/)
+    tl;dr  
+    ```latex
+    \documentclass[]{article}
+
+    \usepackage{fontspec}
+    \usepackage{polyglossia}
+    \usepackage{unicode-math}
+    \setmainfont{CMU Serif}
+    \setsansfont{CMU Sans Serif}
+    \setmonofont{CMU Typewriter Text}
+    \setmathfont{Latin Modern Math}
+
+    \title{}
+    \author{}
+    \begin{document}
+    Hello, world!
+    Привет, мир!
+    $ a≡b≠Ω♯$
+    $$
+    \int_0^\infty x^2\beta d\alpha \omega
+    $$
+    $$L_{{\Omega ,\nu }}^{\circ }(\nu ,T)={\frac {2{\mathrm {h}}\nu ^{3}}{c^{2}}}{\frac {1}{{\mathrm {e}}^{{{\mathrm {h}}\nu /({\mathrm {k}}T)}}-1}}$$
+    \end{document}
+    ```
+
 + Creating diagrams
     + diagrams using Rust
         + [SvgBobRus is an ascii to svg converter](https://github.com/ivanceras/svgbobrus)
