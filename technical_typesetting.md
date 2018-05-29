@@ -16,6 +16,11 @@
 
 + LaTeX tips
     + [Modern LaTeX typesetting](https://www.olivierverdier.com/posts/2013/07/15/modern-latex/)
+    + Arch Linux Latin Modern & Latin Modern Math 
+        ```sh
+        yaourt -S otf-latin-modern
+        yaourt -S otf-latinmodern-math
+        ```
     + Arch Linux specifics for Cyrillic letters with LaTeX
         ```sh
         pacman -S texlive-langcyrillic
