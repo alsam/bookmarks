@@ -2,7 +2,6 @@
 
 + Snapdragon
     + [Snapdragon 845 Mobile Platform](https://www.qualcomm.com/products/snapdragon-845-mobile-platform)
-    + [](
 
 + Adreno
     + [OpenCL Optimization and Best Practices for Qualcomm Adreno GPUs](https://dl.acm.org/citation.cfm?id=3204935)
