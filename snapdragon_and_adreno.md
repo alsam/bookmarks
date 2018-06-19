@@ -13,6 +13,7 @@
 + Profiling
     + [Capturing OpenCL applications in Snapdragon Profiler](https://www.youtube.com/watch?v=mevcqGF-jhc&feature=youtu.be)
     + [OpenCL Optimization 3 Profiling OpenCL](https://www.youtube.com/watch?v=S-alEZ7IZUQ&t=203s)
+    + [A tool which profiles OpenCL devices to find their peak capacities](https://github.com/krrishnarraj/clpeak)
 
 + Computer Vision
     + [RSTensorFlow: GPU Enabled TensorFlow for Deep Learning on Commodity Android Devices](https://md2k.org/images/papers/methods/p7-alzantot.pdf)
