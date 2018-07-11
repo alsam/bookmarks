@@ -127,7 +127,10 @@
         + [FS#59266 - [lvm2] Dependency failed for File System Check with 2.02.179-1](
 https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B0%5D=&sev%5B0%5D=&pri%5B0%5D=&due%5B0%5D=&reported%5B0%5D=&cat%5B0%5D=&status%5B0%5D=open&percent%5B0%5D=&opened=&dev=&closed=&duedatefrom=&duedateto=&changedfrom=&changedto=&openedfrom=&openedto=&closedfrom=&closedto=)
             tl;dr    
-            downgrade LVM2 to fix the issue
+            downgrade LVM2 to fix the issue    
+            ```sh
+            sudo pacman -U /var/cache/pacman/pkg/lvm2-2.02.177-5-x86_64.pkg.tar.xz
+            ```
  
         + Printer (Brother DCPT500W)
             + tl;dr
