@@ -124,6 +124,11 @@
             + [xfce nm-applet missing : how to display network manager icon on xfce panel](https://askubuntu.com/questions/517467/how-to-display-network-manager-icon-on-xfce-panel/572117)
             tl;dr tinker with nm-applet -> `dbus-launch nm-applet`
 
+        + [FS#59266 - [lvm2] Dependency failed for File System Check with 2.02.179-1](
+https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B0%5D=&sev%5B0%5D=&pri%5B0%5D=&due%5B0%5D=&reported%5B0%5D=&cat%5B0%5D=&status%5B0%5D=open&percent%5B0%5D=&opened=&dev=&closed=&duedatefrom=&duedateto=&changedfrom=&changedto=&openedfrom=&openedto=&closedfrom=&closedto=)
+            tl;dr    
+            downgrade LVM2 to fix the issue
+ 
         + Printer (Brother DCPT500W)
             + tl;dr
             ```sh
