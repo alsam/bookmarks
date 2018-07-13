@@ -8,7 +8,10 @@
     + [Sub-optimal performance on Qualcomm Adreno GPUs](https://github.com/CNugteren/CLBlast/issues/228)
     + [Getting started with openCL on Adreno420 under linux](https://developer.qualcomm.com/forum/qdn-forums/software/adreno-gpu-sdk/34153)
     + [Qualcomm Adreno 630](https://www.notebookcheck.net/Qualcomm-Adreno-630-GPU.299832.0.html)
-    + [open source driver project for adreno GPUs](https://github.com/freedreno/freedreno)
+    + [open source driver project for adreno GPUs](https://github.com/freedreno/freedreno)a
+    + [Run OpenCL program on MOBILE GPU (Qualcomm & ARM)!](https://github.com/supernovaremnant/bazel-android-opencl)
+        + [Compile OpenCL Program for Mobile GPU](https://sorrythenameistaken.blogspot.com/2018/06/compile-opencl-program-for-embedded-gpu.html)
+    + [OpenCL Header/C++_Wrapper/Device Driver for SD820(Adreno 530), SD835(Adreno 540) on Android Phone](https://github.com/supernovaremnant/Android-OpenCL-Driver]
 
 + Profiling
     + [Capturing OpenCL applications in Snapdragon Profiler](https://www.youtube.com/watch?v=mevcqGF-jhc&feature=youtu.be)
