@@ -31,6 +31,7 @@
 + Misc
     + [Build Your First Android App in Kotlin](https://codelabs.developers.google.com/codelabs/build-your-first-android-app-kotlin/index.html#0)
     + [Install and Create OpenCV project on Android Studio](https://www.youtube.com/watch?v=jN9Bv5LHXMk)
+    + [OpenCV in Android Studio](https://stackoverflow.com/questions/27406303/opencv-in-android-studio)
         + [OpenCV on Android](https://opencv.org/platforms/android/)
         + [OpenCV4Android SDK](https://docs.opencv.org/2.4/doc/tutorials/introduction/android_binary_package/O4A_SDK.html)
             + [Добавление библиотеки OpenCV в проект Android Studio](https://habr.com/post/262089/)
