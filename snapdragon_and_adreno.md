@@ -35,4 +35,5 @@
         + [OpenCV on Android](https://opencv.org/platforms/android/)
         + [OpenCV4Android SDK](https://docs.opencv.org/2.4/doc/tutorials/introduction/android_binary_package/O4A_SDK.html)
             + [Добавление библиотеки OpenCV в проект Android Studio](https://habr.com/post/262089/)
+        + [OpenCV For Android NDK](https://github.com/sjfricke/OpenCV-NDK)
     + [Установка android tools (ADB,fastboot, QTADB) на Debian/Ubuntu/Linux Mint](http://linux-notes.org/ustanovka-android-tools-adb-fastboot-qtadb-na-debian-ubuntu-linux-mint/)
