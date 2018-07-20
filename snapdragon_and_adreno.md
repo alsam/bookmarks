@@ -11,6 +11,7 @@
     + [open source driver project for adreno GPUs](https://github.com/freedreno/freedreno)a
     + [Run OpenCL program on MOBILE GPU (Qualcomm & ARM)!](https://github.com/supernovaremnant/bazel-android-opencl)
         + [Compile OpenCL Program for Mobile GPU](https://sorrythenameistaken.blogspot.com/2018/06/compile-opencl-program-for-embedded-gpu.html)
+            + [how to add `libOpenCL.so` to your project](https://github.com/googlesamples/android-ndk/blob/master/hello-libs/app/src/main/cpp/CMakeLists.txt)
     + [OpenCL Header/C++_Wrapper/Device Driver for SD820 Adreno 530, SD835 Adreno 540 on Android Phone](https://github.com/supernovaremnant/Android-OpenCL-Driver)
     + [How to Build & Use OpenCL on Android Studio](https://www.slideshare.net/noritsuna/how-to-build-use-opencl-on-android-studio)
 
@@ -35,6 +36,8 @@
         + [OpenCV on Android](https://opencv.org/platforms/android/)
         + [OpenCV4Android SDK](https://docs.opencv.org/2.4/doc/tutorials/introduction/android_binary_package/O4A_SDK.html)
             + [Добавление библиотеки OpenCV в проект Android Studio](https://habr.com/post/262089/)
+        + [An Android Studio project which has a module that contains OpenCV SDK files ported and configured to use CMake](https://github.com/ahasbini/Android-OpenCV)
+            + [Question: Native compilation failed](https://github.com/ahasbini/Android-OpenCV/issues/4)
         + [OpenCV For Android NDK](https://github.com/sjfricke/OpenCV-NDK)
             + [Link STL library with Gradle CMake project](https://stackoverflow.com/questions/46106064/link-stl-library-with-gradle-cmake-project)    
             tl;dr
