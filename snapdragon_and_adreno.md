@@ -28,7 +28,7 @@
 + **A**ndroid **O**pen **S**ource **P**roject
     + [Downloading the Android Source](https://source.android.com/setup/build/downloading)
 
-+ Misc
++ Android Studio tips
     + [Build Your First Android App in Kotlin](https://codelabs.developers.google.com/codelabs/build-your-first-android-app-kotlin/index.html#0)
     + [Install and Create OpenCV project on Android Studio](https://www.youtube.com/watch?v=jN9Bv5LHXMk)
     + [OpenCV in Android Studio](https://stackoverflow.com/questions/27406303/opencv-in-android-studio)
@@ -36,4 +36,17 @@
         + [OpenCV4Android SDK](https://docs.opencv.org/2.4/doc/tutorials/introduction/android_binary_package/O4A_SDK.html)
             + [Добавление библиотеки OpenCV в проект Android Studio](https://habr.com/post/262089/)
         + [OpenCV For Android NDK](https://github.com/sjfricke/OpenCV-NDK)
+            + [Link STL library with Gradle CMake project](https://stackoverflow.com/questions/46106064/link-stl-library-with-gradle-cmake-project)    
+            tl;dr
+            for OpenCV for Android SDK use only deprecated `gnustl` that has only limited c++11 support, `c++` with c++17 support is incompatible    
+            ```sh
+            externalNativeBuild {
+                cmake {
+                    //arguments '-DANDROID_STL=c++_shared'
+                    arguments '-DANDROID_STL=gnustl_static'
+                    cppFlags "-fexceptions -frtti -std=c++11"
+                }
+            }
+            ```
+            + [C++ Runtime Libraries for Android](https://developer.android.com/ndk/guides/cpp-support)
     + [Установка android tools (ADB,fastboot, QTADB) на Debian/Ubuntu/Linux Mint](http://linux-notes.org/ustanovka-android-tools-adb-fastboot-qtadb-na-debian-ubuntu-linux-mint/)
