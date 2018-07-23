@@ -8,12 +8,15 @@
     + [Sub-optimal performance on Qualcomm Adreno GPUs](https://github.com/CNugteren/CLBlast/issues/228)
     + [Getting started with openCL on Adreno420 under linux](https://developer.qualcomm.com/forum/qdn-forums/software/adreno-gpu-sdk/34153)
     + [Qualcomm Adreno 630](https://www.notebookcheck.net/Qualcomm-Adreno-630-GPU.299832.0.html)
-    + [open source driver project for adreno GPUs](https://github.com/freedreno/freedreno)a
+    + [open source driver project for adreno GPUs](https://github.com/freedreno/freedreno)
     + [Run OpenCL program on MOBILE GPU (Qualcomm & ARM)!](https://github.com/supernovaremnant/bazel-android-opencl)
         + [Compile OpenCL Program for Mobile GPU](https://sorrythenameistaken.blogspot.com/2018/06/compile-opencl-program-for-embedded-gpu.html)
             + [how to add `libOpenCL.so` to your project](https://github.com/googlesamples/android-ndk/blob/master/hello-libs/app/src/main/cpp/CMakeLists.txt)
     + [OpenCL Header/C++_Wrapper/Device Driver for SD820 Adreno 530, SD835 Adreno 540 on Android Phone](https://github.com/supernovaremnant/Android-OpenCL-Driver)
     + [How to Build & Use OpenCL on Android Studio](https://www.slideshare.net/noritsuna/how-to-build-use-opencl-on-android-studio)
+    + [Setting Up OpenCL for OpenCV on Android, the full story](https://gist.github.com/iago-suarez/13c82b416ce6b07a93b5b6eee6bd29f3)
+    + [Use OpenCL in Android camera preview based CV application](https://docs.opencv.org/trunk/d7/dbd/tutorial_android_ocl_intro.html)
+        + [OpenCV-OpenCL-Android-Test-Drive](https://github.com/jingjieli/OpenCV-OpenCL-Android-Test-Drive)
 
     + troubleshooting
         + [clGetDeviceInfo and clGetPlatformInfo fails in OpenCL with error code -30 (CL_INVALID_VALUE)](https://stackoverflow.com/questions/29290806/clgetdeviceinfo-and-clgetplatforminfo-fails-in-opencl-with-error-code-30-cl-in)
