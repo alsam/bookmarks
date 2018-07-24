@@ -42,6 +42,7 @@
         + [An Android Studio project which has a module that contains OpenCV SDK files ported and configured to use CMake](https://github.com/ahasbini/Android-OpenCV)
             + [Question: Native compilation failed](https://github.com/ahasbini/Android-OpenCV/issues/4)
         + [OpenCV For Android NDK](https://github.com/sjfricke/OpenCV-NDK)
+            + [Error: package android.hardware.camera2 does not exist OpenCV](https://stackoverflow.com/questions/36204781/error-package-android-hardware-camera2-does-not-exist-opencv)
             + [Link STL library with Gradle CMake project](https://stackoverflow.com/questions/46106064/link-stl-library-with-gradle-cmake-project)    
             tl;dr
             for OpenCV for Android SDK use only deprecated `gnustl` that has only limited c++11 support, `c++` with c++17 support is incompatible    
