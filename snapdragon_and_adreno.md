@@ -18,6 +18,8 @@
     + [Use OpenCL in Android camera preview based CV application](https://docs.opencv.org/trunk/d7/dbd/tutorial_android_ocl_intro.html)
         + [OpenCV-OpenCL-Android-Test-Drive](https://github.com/jingjieli/OpenCV-OpenCL-Android-Test-Drive)
 
+    + [An experimental study of the Snapdragon 820 using an object detection algorithm](http://www.cs.man.ac.uk/~nobren/files/NunoNobre_TasterProjectReport.pdf)
+
     + troubleshooting
         + [clGetDeviceInfo and clGetPlatformInfo fails in OpenCL with error code -30 (CL_INVALID_VALUE)](https://stackoverflow.com/questions/29290806/clgetdeviceinfo-and-clgetplatforminfo-fails-in-opencl-with-error-code-30-cl-in)
 
