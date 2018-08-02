@@ -544,6 +544,8 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
 
     + [Xi-editor - a modern editor with a backend written in Rust.](https://github.com/google/xi-editor)
 
+    + [juCi++: a lightweight, platform independent C++-IDE with support for C++11, C++14 and C++17 features depending on libclang version.](https://gitlab.com/cppit/jucipp)
+
 + [Technical typesetting](https://github.com/alsam/bookmarks/blob/master/technical_typesetting.md)
 
 + [ZeroMQ \zero-em-queue\, \ØMQ\:](http://zeromq.org/)
