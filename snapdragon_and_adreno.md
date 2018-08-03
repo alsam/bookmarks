@@ -34,6 +34,9 @@
 + **A**ndroid **O**pen **S**ource **P**roject
     + [Downloading the Android Source](https://source.android.com/setup/build/downloading)
 
++ Snapdragon Profiler troubleshooting
+    + `brew cask install android-platform-tools`
+
 + Android Studio tips
     + [Build Your First Android App in Kotlin](https://codelabs.developers.google.com/codelabs/build-your-first-android-app-kotlin/index.html#0)
     + [Install and Create OpenCV project on Android Studio](https://www.youtube.com/watch?v=jN9Bv5LHXMk)
