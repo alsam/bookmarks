@@ -62,3 +62,5 @@
             ```
             + [C++ Runtime Libraries for Android](https://developer.android.com/ndk/guides/cpp-support)
     + [Установка android tools (ADB,fastboot, QTADB) на Debian/Ubuntu/Linux Mint](http://linux-notes.org/ustanovka-android-tools-adb-fastboot-qtadb-na-debian-ubuntu-linux-mint/)
+
+    + [android-ndk archives](https://github.com/android-ndk/ndk/wiki)
