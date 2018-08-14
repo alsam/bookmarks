@@ -64,3 +64,10 @@
     + [Установка android tools (ADB,fastboot, QTADB) на Debian/Ubuntu/Linux Mint](http://linux-notes.org/ustanovka-android-tools-adb-fastboot-qtadb-na-debian-ubuntu-linux-mint/)
 
     + [android-ndk archives](https://github.com/android-ndk/ndk/wiki)
+    + [Insufficient permissions for device in Android Studio Workspace](https://stackoverflow.com/questions/28704636/insufficient-permissions-for-device-in-android-studio-workspace-running-in-opens)
+    tl;dr    
+    ```sh
+    adb kill-server
+    sudo adb start-server
+    sudo adb devices
+    ```
