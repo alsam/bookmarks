@@ -71,3 +71,9 @@
     sudo adb start-server
     sudo adb devices
     ```
+
+    + [ffplay has gone missing](https://discourse.brew.sh/t/ffplay-has-gone-missing/426)
+    tl;dr    
+    ```sh
+    brew install ffmpeg --with-sdl2 to install ffplay
+    ```
