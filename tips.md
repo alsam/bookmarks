@@ -1302,6 +1302,10 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
 
         + [К тридцатилетию первого C++ компилятора: ищем ошибки в Cfront](http://www.viva64.com/ru/b/0355/)
 
+        + [Is C++21 the Next Standard?](https://stackoverflow.com/questions/38789652/is-c21-the-next-standard/38789876)
+            + [jucipp A lightweight & cross-platform IDE supporting the most recent C++ standards](https://gitlab.com/cppit/jucipp)
+            + [Filament is a physically based rendering engine for Android, Windows, Linux and macOS](https://github.com/google/filament)
+
 + Test-driven development
     + [Test-driven development and unit testing with examples in C++](http://alexott.net/en/cpp/CppTestingIntro.html)
     + Google Unit Test
