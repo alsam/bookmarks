@@ -61,6 +61,13 @@
             }
             ```
             + [C++ Runtime Libraries for Android](https://developer.android.com/ndk/guides/cpp-support)
+            + [How to build executable ARM64-V8 program with OpenCL and fastcv for running on Android?](https://stackoverflow.com/questions/42313892/how-to-build-executable-arm64-v8-program-with-opencl-and-fastcv-for-running-on-a)
+                + [https://stackoverflow.com/questions/43632700/clang-and-fuse-ld-gold-results-in-many-unused-option-warnings](https://stackoverflow.com/questions/43632700/clang-and-fuse-ld-gold-results-in-many-unused-option-warnings)
+                tl;dr    
+                ```cmake
+                set(CMAKE_EXE_LINKER_FLAGS "${CMAKE_EXE_LINKER_FLAGS} -fuse-ld=gold")
+                ```
+
     + [Установка android tools (ADB,fastboot, QTADB) на Debian/Ubuntu/Linux Mint](http://linux-notes.org/ustanovka-android-tools-adb-fastboot-qtadb-na-debian-ubuntu-linux-mint/)
 
     + [android-ndk archives](https://github.com/android-ndk/ndk/wiki)
