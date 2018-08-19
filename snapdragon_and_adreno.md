@@ -66,7 +66,15 @@
                 tl;dr    
                 ```cmake
                 set(CMAKE_EXE_LINKER_FLAGS "${CMAKE_EXE_LINKER_FLAGS} -fuse-ld=gold")
-                ```
+
+            + [undefined reference to `clCreateCommandQueueWithProperties'](https://github.com/fireice-uk/xmr-stak-amd/issues/40)
+            tl;dr howto fix    
+            ````c++
+            #define CL_HPP_MINIMUM_OPENCL_VERSION 100
+            #define CL_HPP_TARGET_OPENCL_VERSION  120
+            
+            #include <CL/cl2.hpp>
+            ```
 
     + [Установка android tools (ADB,fastboot, QTADB) на Debian/Ubuntu/Linux Mint](http://linux-notes.org/ustanovka-android-tools-adb-fastboot-qtadb-na-debian-ubuntu-linux-mint/)
 
