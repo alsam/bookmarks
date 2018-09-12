@@ -218,6 +218,7 @@
             + [Зоопарк архитектур нейронных сетей. Часть 2](https://habrahabr.ru/company/wunderfund/blog/313906/)
 
     + misc.
+        + [Surprise! Neurons are Now More Complex than We Thought!!](https://medium.com/intuitionmachine/neurons-are-more-complex-than-what-we-have-imagined-b3dd00a1dcd3)
         + [Innovations of AlphaGo](https://deepmind.com/blog/innovations-alphago/)
         + [Deep Learning links](http://deeplearning.net/software_links/)
         + [VK:  Библиотеки реализующие алгоритмы Deep Learning Nikolay Sergievsky](https://vk.com/topic-44016343_29211791)
