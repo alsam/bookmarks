@@ -72,6 +72,14 @@
 + [Как SpaceX использует GPU для обсчёта ракетных двигателей](http://habrahabr.ru/post/256081/)
     + [Rockets Shake And Rattle, So SpaceX Rolls Homegrown CFD](http://www.nextplatform.com/2015/03/27/rockets-shake-and-rattle-so-spacex-rolls-homegrown-cfd/)
 
++ OpenCL
+    + [The State of OpenCL for Scientific Computing in 2018](https://mathema.tician.de/the-state-of-opencl-for-scientific-computing-in-2018/)
+    + [OpenCL: History & Future](http://www.fz-juelich.de/SharedDocs/Downloads/IAS/JSC/EN/slides/opencl/opencl-10-history-future.pdf?__blob=publicationFile)
+    + SYCL - C++ Single-source Heterogeneous Programming for OpenCL
+        + [Khronos SYCL](https://www.khronos.org/sycl/)
+        + [An open-source implementation of OpenCL SYCL from Khronos Group](https://github.com/triSYCL/triSYCL)
+        + [Implementation of the SYCL specification.](https://github.com/ProGTX/sycl-gtx)
+
 + OpenMP
     + [Ждали, ждали и дождались! OpenMP 4.0](http://habrahabr.ru/company/intel/blog/204668/)
 
