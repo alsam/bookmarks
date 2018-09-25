@@ -75,6 +75,9 @@
 + OpenCL
     + [The State of OpenCL for Scientific Computing in 2018](https://mathema.tician.de/the-state-of-opencl-for-scientific-computing-in-2018/)
     + [OpenCL: History & Future](http://www.fz-juelich.de/SharedDocs/Downloads/IAS/JSC/EN/slides/opencl/opencl-10-history-future.pdf?__blob=publicationFile)
+    + [Tuned OpenCL BLAS](https://github.com/CNugteren/CLBlast)
+        + [CLBlast:ATunedBLASLibrary forFasterDeepLearning](https://cnugteren.github.io/downloads/CLBlast_GTC.pdf)
+    + [OpenCL vloadn](https://www.khronos.org/registry/OpenCL/sdk/1.0/docs/man/xhtml/vloadn.html)
     + SYCL - C++ Single-source Heterogeneous Programming for OpenCL
         + [Khronos SYCL](https://www.khronos.org/sycl/)
         + [An open-source implementation of OpenCL SYCL from Khronos Group](https://github.com/triSYCL/triSYCL)
