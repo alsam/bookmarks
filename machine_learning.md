@@ -104,6 +104,8 @@
             + [TensorFlow Tutorial: 10 minutes Practical TensorFlow lesson for quick learners](http://cv-tricks.com/artificial-intelligence/deep-learning/deep-learning-frameworks/tensorflow-tutorial/)
             + [Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow/)
             + [TensorFlow white paper](http://download.tensorflow.org/paper/whitepaper2015.pdf)
+
+        + [Tensorflow 2.0](https://www.youtube.com/watch?v=WTNH0tcscqo)
         + [Setup_TensorFlow.md](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/Setup_TensorFlow.md)
             + [TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples)
             ```sh
