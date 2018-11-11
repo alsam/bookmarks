@@ -376,7 +376,11 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
 
     + [Pijul - distributed version control system written in Rust](https://pijul.org/manual/)
 
-+ compile optimization tips (TODO reorganize)
++ **gcc** unsorted question (TODO reorganize)
+    + list gcc's pre-defined macros    
+        ```sh
+        gcc -x c /dev/null -dM -E
+        ```
     + [Why doesn't GCC optimize a*a*a*a*a*a to (a*a*a)*(a*a*a)?](http://stackoverflow.com/questions/6430448/why-doesnt-gcc-optimize-aaaaaa-to-aaaaaa)
 
 + Editors
@@ -854,6 +858,8 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
         + [Simplify code with 'if constexpr' in C++17](https://www.bfilipek.com/2018/03/ifconstexpr.html)
         + [C++17 Fold expressions](http://filipjaniszewski.com/2016/11/24/c17-folding-expression/)
             + [Reduce: From functional programming to C++17 Fold expressions - Nikos Athanasiou - Meeting C++ 2016](https://www.youtube.com/watch?v=ymNdAkS7Ljc)
+        + [simplify C++](https://arne-mertz.de/category/cpp/modern-cpp/)
+            + [`std::make_shared` vs. the Normal `std::shared_ptr` Constructor](https://arne-mertz.de/2018/09/make_shared-vs-the-normal-shared_ptr-constructor/)
 
 
     + [Trending C++ github repositories](https://github.com/trending/c++)
