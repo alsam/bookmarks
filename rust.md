@@ -643,6 +643,7 @@
     + [Unable to create a polymorphic type because the trait cannot be made into an object](https://stackoverflow.com/questions/39412626/unable-to-create-a-polymorphic-type-because-the-trait-cannot-be-made-into-an-obj)
 
     + [Add LaTeX support to Rustdoc](https://github.com/rust-lang/rust/issues/34261)
+        + [rustdoc-katex-demo](https://crates.io/crates/rustdoc-katex-demo)
         + [Add Mathjax (KaTeX?) Support to Rustdoc #16300 ](https://github.com/rust-lang/rust/issues/16300)
         + [Add mathematics support to rustdoc #17390](https://github.com/rust-lang/rust/pull/17390#issuecomment-61195381)
         + [Rustdoc: reStructuredText vs Markdown](https://internals.rust-lang.org/t/rustdoc-restructuredtext-vs-markdown/356/63)
