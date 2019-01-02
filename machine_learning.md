@@ -224,6 +224,7 @@
             + [Зоопарк архитектур нейронных сетей. Часть 2](https://habrahabr.ru/company/wunderfund/blog/313906/)
 
     + misc.
+        + [Is Deep Learning Approaching a Wall?](https://medium.com/mit-initiative-on-the-digital-economy/is-deep-learning-approaching-a-wall-d80394874939?fbclid=IwAR2WjAc4TQwYMnKY0ke7b7u-p2_zkeRrmnXOe3h8Wp3DmQZoCv1rXMq1yzI)
         + [Introducing the Facebook Field Guide to Machine Learning video series](https://research.fb.com/the-facebook-field-guide-to-machine-learning-video-series/)
         + [Surprise! Neurons are Now More Complex than We Thought!!](https://medium.com/intuitionmachine/neurons-are-more-complex-than-what-we-have-imagined-b3dd00a1dcd3)
         + [Innovations of AlphaGo](https://deepmind.com/blog/innovations-alphago/)
