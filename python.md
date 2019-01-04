@@ -78,6 +78,8 @@
         + [numpy max vs amax vs maximum](https://stackoverflow.com/questions/33569668/numpy-max-vs-amax-vs-maximum)
 
     + [Python3: Invalid Syntax](http://stackoverflow.com/questions/12519554/python3-invalid-syntax)
+    + [In practice, what are the main uses for the new “yield from” syntax in Python 3.3?](https://stackoverflow.com/questions/9708902/in-practice-what-are-the-main-uses-for-the-new-yield-from-syntax-in-python-3)
+    + [What does the “yield” keyword do?](https://stackoverflow.com/questions/231767/what-does-the-yield-keyword-do)
 
 + [Seamless operability between C++11 and Python](https://github.com/pybind/pybind11)
     + [pybind11 : First steps](http://pybind11.readthedocs.io/en/stable/basics.html)
