@@ -60,6 +60,22 @@
 + Selected StackOverflow Python questions
     + [Invalid Token when using Octal numbers](http://stackoverflow.com/questions/1837874/invalid-token-when-using-octal-numbers)
     use `0o22` instead of `022`.
+    + [How to unzip a list of tuples into individual lists?](https://stackoverflow.com/questions/12974474/how-to-unzip-a-list-of-tuples-into-individual-lists/12974504)
+    + [Transpose/Unzip Function (inverse of zip)](https://stackoverflow.com/questions/19339/transpose-unzip-function-inverse-of-zip)
+    + [How do I use Python's itertools.groupby()?](https://stackoverflow.com/questions/773/how-do-i-use-pythons-itertools-groupby)
+    + [The order of nested list comprehension and nested generator expression in python](https://stackoverflow.com/questions/26759339/the-order-of-nested-list-comprehension-and-nested-generator-expression-in-python)
+    + [list comprehension vs. lambda + filter](https://stackoverflow.com/questions/3013449/list-comprehension-vs-lambda-filter)
+    + [How to split a sequence according to a predicate?](https://stackoverflow.com/questions/8793772/how-to-split-a-sequence-according-to-a-predicate)
+    + numpy linear algebra stack overflow questions and other numpy questions
+        + [How can I project a 3D point onto a 3D line?](https://gamedev.stackexchange.com/questions/72528/how-can-i-project-a-3d-point-onto-a-3d-line)
+        + [Shortest distance between a point and a line in 3 d space](https://stackoverflow.com/questions/50727961/shortest-distance-between-a-point-and-a-line-in-3-d-space)
+        + [Distance between point and a line (from two points)](https://stackoverflow.com/questions/39840030/distance-between-point-and-a-line-from-two-points)
+        + [How to compute angle using NumPy?](https://stackoverflow.com/questions/52080614/how-to-compute-angle-using-numpy)
+        + [Finding the closest point to a list of points](https://codereview.stackexchange.com/questions/28207/finding-the-closest-point-to-a-list-of-points)
+        + [Convert numpy array to tuple](https://stackoverflow.com/questions/10016352/convert-numpy-array-to-tuple)
+        + [ValueError: setting an array element with a sequence](https://stackoverflow.com/questions/4674473/valueerror-setting-an-array-element-with-a-sequence)
+        + [How to zip two 1d numpy array to 2d numpy array](https://stackoverflow.com/questions/44409084/how-to-zip-two-1d-numpy-array-to-2d-numpy-array)
+        + [numpy max vs amax vs maximum](https://stackoverflow.com/questions/33569668/numpy-max-vs-amax-vs-maximum)
 
     + [Python3: Invalid Syntax](http://stackoverflow.com/questions/12519554/python3-invalid-syntax)
 
