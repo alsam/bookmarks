@@ -67,6 +67,13 @@
       \end{split}
       \end{align}
       ```
+    + [Description list with aligned descriptions](https://tex.stackexchange.com/questions/67720/description-list-with-aligned-descriptions)
+    + [Inline code and short verb with minted](https://tex.stackexchange.com/questions/45756/inline-code-and-short-verb-with-minted)
+    + [Positioning of Figures](https://www.overleaf.com/learn/latex/Positioning_of_Figures)
+    + [How to center a specific caption?](https://tex.stackexchange.com/questions/95207/how-to-center-a-specific-caption)
+    + [Caption on the side of a figure](https://tex.stackexchange.com/questions/29143/caption-on-the-side-of-a-figure)
+        + [Minted and floatrow incompatible](https://tex.stackexchange.com/questions/378563/minted-and-floatrow-incompatible)
+          tl;drfloatrow conflicts with minted
     + [What are the main differences between Texmaker and TeXstudio?](http://tex.stackexchange.com/questions/208219/what-are-the-main-differences-between-texmaker-and-texstudio)
         + [LaTeX Editors/IDEs](http://tex.stackexchange.com/questions/339/latex-editors-ides)
     + [buildtexlive](https://github.com/elkrejzi/system-management/blob/master/buildscripts/buildtexlive#L52)
