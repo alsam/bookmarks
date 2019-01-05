@@ -74,6 +74,9 @@
     + [Caption on the side of a figure](https://tex.stackexchange.com/questions/29143/caption-on-the-side-of-a-figure)
         + [Minted and floatrow incompatible](https://tex.stackexchange.com/questions/378563/minted-and-floatrow-incompatible)
           tl;drfloatrow conflicts with minted
+    + [LaTeX forum ⇒ Graphics, Figures & Tables ⇒ Subfigures with caption on side](https://latex.org/forum/viewtopic.php?t=21220)
+    + [How to put two minipages side-by-side, which use 100 % of the text width?](https://tex.stackexchange.com/questions/114520/how-to-put-two-minipages-side-by-side-which-use-100-of-the-text-width)
+    + [itemize, removing natural indent](https://tex.stackexchange.com/questions/91124/itemize-removing-natural-indent/91128)
     + [What are the main differences between Texmaker and TeXstudio?](http://tex.stackexchange.com/questions/208219/what-are-the-main-differences-between-texmaker-and-texstudio)
         + [LaTeX Editors/IDEs](http://tex.stackexchange.com/questions/339/latex-editors-ides)
     + [buildtexlive](https://github.com/elkrejzi/system-management/blob/master/buildscripts/buildtexlive#L52)
