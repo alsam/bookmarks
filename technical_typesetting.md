@@ -82,6 +82,16 @@
         ```latex
         \setbeamertemplate{caption}[numbered]
         ```
+    + [Beamer : remove the number page of the first slide](https://tex.stackexchange.com/questions/373945/beamer-remove-the-number-page-of-the-first-slide?noredirect=1&lq=1)
+        tl;dr    
+        ```latex
+        {
+        \setbeamertemplate{footline}{}
+        \begin{frame}
+        \titlepage
+        \end{frame}
+        }
+        ```
     + [What are the main differences between Texmaker and TeXstudio?](http://tex.stackexchange.com/questions/208219/what-are-the-main-differences-between-texmaker-and-texstudio)
         + [LaTeX Editors/IDEs](http://tex.stackexchange.com/questions/339/latex-editors-ides)
     + [buildtexlive](https://github.com/elkrejzi/system-management/blob/master/buildscripts/buildtexlive#L52)
