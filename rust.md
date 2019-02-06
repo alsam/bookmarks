@@ -831,6 +831,7 @@
         + [RFC 2000: const generics](https://github.com/rust-lang/rfcs/blob/master/text/2000-const-generics.md)
             + [Tracking issue for const generics (RFC 2000)](https://github.com/rust-lang/rust/issues/44580)
                 + [WIP The Genesis of Generic Germination](https://github.com/rust-lang/rust/pull/53645)
+                    + [Add const generics to the AST](https://github.com/rust-lang/rust/pull/58191)
             + [generic-array : in anticipation of **const generics**](https://crates.io/crates/generic-array/)
             tl;dr
             generic-array defines a new trait `ArrayLength<T>` and a `struct GenericArray<T, N: ArrayLength<T>>`,
