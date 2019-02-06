@@ -9,6 +9,9 @@
     + [Quantum Techniques for Stochastic Mechanics](http://arxiv.org/abs/1209.3632)
     + [Markov Chain Monte Carlo sampling - intro to QMC](https://galeascience.wordpress.com/2016/04/27/markov-chain-monte-carlo-sampling/)
 
++ Geometrics Algebra
+    + [Geometric Algebra for Electrical Engineers](http://peeterjoot.com/writing/geometric-algebra-for-electrical-engineers/?fbclid=IwAR0Ycp-OhsErQ9ZGFVIccOZLHhfteWLgk-n_hgCn3O9j0QASMp_ctnBrrx8)
+
 + misc
     + [A way to study entanglement entropy between multi-body systems](http://phys.org/news/2015-12-entanglement-entropy-multi-body.html)
     + [Physicists investigate unusual form of quantum mechanics](http://phys.org/news/2015-12-physicists-unusual-quantum-mechanics.html)
