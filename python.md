@@ -83,3 +83,5 @@
 
 + [Seamless operability between C++11 and Python](https://github.com/pybind/pybind11)
     + [pybind11 : First steps](http://pybind11.readthedocs.io/en/stable/basics.html)
+
++ [improve-your-python-understanding-unit-testing](https://jeffknupp.com/blog/2013/12/09/improve-your-python-understanding-unit-testing/)
