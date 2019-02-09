@@ -850,6 +850,12 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
     + [How do I create a custom file system in C?](https://www.quora.com/How-do-I-create-a-custom-file-system-in-C)
 
 + C++
+    + CppCon
+        + [C++ Atomics, From Basic to Advanced by Fedor Pikus](https://github.com/CppCon/CppCon2017/tree/master/Presentations/C%2B%2B%20Atomics%2C%20From%20Basic%20to%20Advanced)
+        + [Building C++ Modules by Boris Kolpackov](https://github.com/CppCon/CppCon2017/tree/master/Presentations/Building%20C%2B%2B%20Modules)
+        + [Concurrency, Parallelism and Coroutines - Anthony Williams](https://github.com/CppCon/CppCon2017/blob/master/Presentations/Concurrency%2C%20Parallelism%20and%20Coroutines/Concurrency%2C%20Parallelism%20and%20Coroutines%20-%20Anthony%20Williams%20-%20CppCon%202017.pdf)
+        + [CUDA Kernels with C++ by Michael Gopshtein](https://github.com/CppCon/CppCon2018/blob/master/Presentations/cuda_kernels_with_cpp/cuda_kernels_with_cpp__michael_gopshtein__cppcon_2018.pdf)
+
     + [C++17 features list](http://www.bfilipek.com/2017/01/cpp17features.html)
         + [C++17 in details: Standard Library Utilities](http://www.bfilipek.com/2017/09/cpp17-details-utils.html)
         + [C++17 in details: Parallel Algorithms](http://www.bfilipek.com/2017/08/cpp17-details-parallel.html)
