@@ -40,6 +40,7 @@
 
 + [Spectra - C++ Library For Large Scale Eigenvalue Problems](http://yixuan.cos.name/spectra/)
     + [A header-only C++ library for large scale eigenvalue problems](https://github.com/yixuan/spectra)
+        + [Spectra C++ Library For Large Scale Eigenvalue Problems](https://spectralib.org/)
     + [Spectra Performance](http://yixuan.cos.name/spectra/performance.html)
 
 + Dimension Reduction
