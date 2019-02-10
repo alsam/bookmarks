@@ -88,6 +88,8 @@
         + [Implementation of the SYCL specification.](https://github.com/ProGTX/sycl-gtx)
             + [Building a brain with SYCL and modern C++](https://www.semanticscholar.org/paper/Building-a-brain-with-SYCL-and-modern-C%2B%2B-Smithe-Potter/01cd48cda17008640076323b8ea10ac59a8b6509)
 
++ [How To Set The CPU Affinity Of A Running Process In Linux](https://www.youtube.com/watch?v=9VJRsBmmY-4&feature=youtu.be)
+
 + OpenMP
     + [Ждали, ждали и дождались! OpenMP 4.0](http://habrahabr.ru/company/intel/blog/204668/)
 
