@@ -94,7 +94,11 @@
             + [laplace-3d.jl](https://github.com/IntelLabs/ParallelAccelerator.jl/blob/master/examples/laplace-3d/laplace-3d.jl)
         + [The 3rd annual JuliaCon 2016 (MIT) | Introduction to Writing High Performance Julia | Arch D. Robison](https://www.youtube.com/watch?v=szE4txAD8mk&list=PLP8iPy9hna6SQPwZUDtAM59-wPzCPyD_S&index=25)
 
+    + [DiffEqFlux.jl – A Julia Library for Neural Differential Equations](https://julialang.org/blog/2019/01/fluxdiffeq)
+        + [Relax! Flux is the ML library that doesn't make you tensor https://fluxml.ai/](https://github.com/FluxML/Flux.jl)
+
     + Misc.
+        + [A Comparison Between Differential Equation Solver Suites In MATLAB, R, Julia, Python, C, Mathematica, Maple, and Fortran](http://www.stochasticlifestyle.com/comparison-differential-equation-solver-suites-matlab-r-julia-python-c-fortran/)
         + [Monadic parsers library with inheritance support](https://github.com/potan/parsers.jl)
             + [Наследование комбинаторных парсеров на Julia](http://habrahabr.ru/post/241632/)
         + [Algebraic Data Type and Pattern Matching for Julia](https://github.com/potan/adt.jl)
