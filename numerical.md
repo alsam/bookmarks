@@ -187,6 +187,11 @@
             + [Julia Implementation of Unums - (seems more mature)](https://github.com/REX-Computing/unumjl)
             + [Experimental Unums](https://github.com/simonbyrne/UnumX.jl)
 
+        + [PosIt(new Unum) in C, C++]
+            + [SoftPosit](https://gitlab.com/cerlane/SoftPosit)
+                + [Berkeley SoftFloat](http://www.jhauser.us/arithmetic/SoftFloat.html)
+            + [Universal Number Arithmetic in C++](https://github.com/stillwater-sc/universal)
+
 + Automatic Fortran to C++ conversion
     + [Automatic Fortran to C++ conversion with FABLE](https://scfbm.biomedcentral.com/articles/10.1186/1751-0473-7-5)
 
