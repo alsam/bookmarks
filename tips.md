@@ -856,6 +856,8 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
         + [Concurrency, Parallelism and Coroutines - Anthony Williams](https://github.com/CppCon/CppCon2017/blob/master/Presentations/Concurrency%2C%20Parallelism%20and%20Coroutines/Concurrency%2C%20Parallelism%20and%20Coroutines%20-%20Anthony%20Williams%20-%20CppCon%202017.pdf)
         + [CUDA Kernels with C++ by Michael Gopshtein](https://github.com/CppCon/CppCon2018/blob/master/Presentations/cuda_kernels_with_cpp/cuda_kernels_with_cpp__michael_gopshtein__cppcon_2018.pdf)
 
+    + [C++11 async tutorial](https://solarianprogrammer.com/2012/10/17/cpp-11-async-tutorial/)
+
     + [C++17 features list](http://www.bfilipek.com/2017/01/cpp17features.html)
         + [C++17 in details: Standard Library Utilities](http://www.bfilipek.com/2017/09/cpp17-details-utils.html)
         + [C++17 in details: Parallel Algorithms](http://www.bfilipek.com/2017/08/cpp17-details-parallel.html)
