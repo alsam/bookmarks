@@ -225,6 +225,9 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
         apt list --installed
         ```
 
+    + misc
+        + [8 Best Linux Console File Managers](https://www.tecmint.com/linux-terminal-file-managers/?fbclid=IwAR1j9PzVEJ2TvP0ze0cLKfeB_bBq9ISECNqsPsPSbVyScJO-po-2jY4Q1i0)
+
 + [OOP cheatsheet](https://tproger.ru/translations/oop-principles-cheatsheet/)
     + tl;dr
         + use with inheritance
@@ -234,7 +237,7 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
         + DRY - don't repeat yourself
 
     + SOLID OOP
-        + [S.O.L.I.D: The First 5 Principles of Object Oriented Desig](https://scotch.io/bar-talk/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
+        + [S.O.L.I.D: The First 5 Principles of Object Oriented Design](https://scotch.io/bar-talk/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
 
 + Backup + Restore of the system
     + [Howto: Backup and restore your system!](https://ubuntuforums.org/showthread.php?t=35087)
