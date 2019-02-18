@@ -34,6 +34,7 @@
     + [Понимание конфликтов банков разделяемой (shared) памяти в NVIDIA CUDA](http://habrahabr.ru/post/100363/)
     + [Vulkan: The next Khronos graphics API… that is not OpenGL](http://anki3d.org/vulkan-the-next-khronos-graphics-api-that-is-not-opengl/)
     + [AMD supported project: HIP : Convert CUDA to Portable C++ Code](https://github.com/ROCm-Developer-Tools/HIP)
+        + [Examples for HIP](https://github.com/ROCm-Developer-Tools/HIP-Examples)
 
 + DSLs targeting GPU
     + [CARP: Correct and Efficient Accelerator Programming](http://carp.doc.ic.ac.uk/external/news.php)
