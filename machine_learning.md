@@ -69,6 +69,7 @@
             + [Brandon Rohrer videos on ML](https://www.youtube.com/channel/UCsBKTrp45lTfHa_p49I2AEQ)
                 + [How convolutional neural networks work, in depth](https://www.youtube.com/watch?v=JB8T_zN7ZC0&feature=youtu.be&list=UUsBKTrp45lTfHa_p49I2AEQ)
                 + [How do Convolutional Neural Networks work? Data Science and Robots Blog](https://brohrer.github.io/how_convolutional_neural_networks_work.html)
+                + [A Beginner's Guide to Convolutional Neural Networks](https://skymind.ai/wiki/convolutional-network)
         + [Calculus on Computational Graphs: Backpropagation](http://colah.github.io/posts/2015-08-Backprop/index.html)
             + [Stalingrad Home Page](http://www.bcl.hamilton.ie/~qobi/stalingrad/)
                 + [dysvunctional-language](https://github.com/axch/dysvunctional-language)
