@@ -409,3 +409,6 @@
         + Courses
             + [The Neuronal Basis of Consciousness Course: A Free Online Course from Caltech](http://www.openculture.com/the-neuronal-basis-of-consciousness-course-a-free-online-course-from-caltech)
                 + [The Neuronal Basis of Consciousness Course - CNS/Bi/Psy 120](https://www.youtube.com/playlist?list=PL1DBCFC32CF6945EE)
+
+        + Misc
+            + [Top 20 Machine Learning Interview Questions & Answers](https://www.janbasktraining.com/blog/machine-learning-interview-questions/)
