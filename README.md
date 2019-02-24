@@ -28,72 +28,9 @@
             + [Rocket Microarchitectural Implementation of RISC-V ISA](https://github.com/ucb-bar/rocket)
             + [Rocket uncore: L2 cache, etc.](https://github.com/ucb-bar/uncore)
 
-+ CUDA and friends related surveys, papers
-    + [A Survey of CPU-GPU Heterogeneous Computing Techniques](https://www.academia.edu/12355899/A_Survey_of_CPU-GPU_Heterogeneous_Computing_Techniques)
-    + [Гибридная реализация алгоритма MST с использованием CPU и GPU](http://habrahabr.ru/post/253031/)
-    + [Понимание конфликтов банков разделяемой (shared) памяти в NVIDIA CUDA](http://habrahabr.ru/post/100363/)
-    + [Vulkan: The next Khronos graphics API… that is not OpenGL](http://anki3d.org/vulkan-the-next-khronos-graphics-api-that-is-not-opengl/)
-    + [AMD supported project: HIP : Convert CUDA to Portable C++ Code](https://github.com/ROCm-Developer-Tools/HIP)
-        + [Examples for HIP](https://github.com/ROCm-Developer-Tools/HIP-Examples)
++ [CUDA and friends related surveys, papers](https://github.com/alsam/bookmarks/blob/master/hpc.md#CUDA and friends related surveys, papers)
 
-+ DSLs targeting GPU
-    + [CARP: Correct and Efficient Accelerator Programming](http://carp.doc.ic.ac.uk/external/news.php)
-        + [CARP dessimination](http://carp.doc.ic.ac.uk/external/dissemination.php)
-            + [A taste of CARP: benchmark analysis, language design and kernel verification](http://www.cs.bris.ac.uk/Research/Micro/UKMAC2012/UKMAC12_Kravets_ARM.pdf)
-        + PENCIL: a C99-based intermediate language for compute & optimization
-            + [PENCIL summary in one slide: poster](http://carp.doc.ic.ac.uk/external/publications/posters/HiPEAC2013.pdf)
-            + [PENCIL: A Platform-Neutral Language for Accelerator Programming](http://www.many-core.group.cam.ac.uk/ukmac2014/UKMAC2014_04_Grevendonk.pdf)
-            + [PENCIL support in pet and PPCG](http://www.researchgate.net/profile/Sven_Verdoolaege/publication/273911354_PENCIL_support_in_pet_and_PPCG/links/551031d20cf27d62b913cc0b.pdf)
-        + see also PPCG (below)
-
-    + [Framework for performance-portable parallel computations on unstructured meshes](https://github.com/OP2/PyOP2)
-        + [OP2: Developing an open-source framework for the execution of unstructured grid applications](http://www.oerc.ox.ac.uk/projects/op2)
-        + [Optimising Unstructured Mesh Computational Fluid Dynamics Applications on Multicores via Machine Learning and Code Transformation](http://www.doc.ic.ac.uk/teaching/distinguished-projects/2012/r.rusitoru.pdf)
-        + [Compiler Optimizations for Industrial Unstructured Mesh CFD Applications on GPUs](https://www.oerc.ox.ac.uk/sites/default/files/uploads/profile-pages/Gihan/op2-lcpc.pdf)
-    + [Copperhead Data Parallel Python](https://copperhead.github.io/)
-        + [github CU copperhead](https://github.com/copperhead)
-    + [Delite](https://github.com/stanford-ppl/Delite)
-    + [Scalan](https://github.com/scalan)
-        + [Scalan Community Edition](https://github.com/scalan/scalan-ce)
-    + [Generating Performance Portable Code using Rewrite Rules: From High-level Functional Expressions to High-Performance OpenCL Code](http://homepages.inf.ed.ac.uk/slindley/papers/array-gpu-draft-february2015.pdf)
-    + [Performance Comparison of GPU, DSP and FPGA implementations of image processing and computer vision algorithms in embedded systems, Fykse, Egil](http://brage.bibsys.no/xmlui/handle/11250/256108)
-
-    + ROSE compiler + Mint for C-to-CUDA code generation
-        + [ROSE compiler github](https://github.com/rose-compiler)
-        + MINT 
-            + [ROSE project MINT](https://github.com/rose-compiler/rose/tree/master/projects/mint)
-            + [MINT google project](https://sites.google.com/site/mintmodel/)
-                + [Mint: Realizing CUDA performance in 3D Stencil Methods with Annotated C: claims 78% of handwritten CUDA performance](http://cseweb.ucsd.edu/groups/hpcl/scg/papers/2011/mint-unat-ics11.pdf)
-                + [MINT PhD thesis](http://cseweb.ucsd.edu/groups/hpcl/scg/papers/2012/DidemUnat_thesis.pdf)
-
-    + Nested Data Parallelism, Haskell, and friends
-        + [Nested Data Parallelism on GPU](http://people.cs.uchicago.edu/~jhr/papers/2012/icfp-gpu.pdf)
-        + [Compiling a high-level language for GPUs: (via language support for architectures and compilers)](http://hgpu.org/?p=7809)
-        + [NOVA: A Functional Language for Data Parallelism](https://research.nvidia.com/sites/default/files/publications/nvr-2013-002_0.pdf)
-        + [CuNesl: Compiling Nested Data-Parallel Languages for ... ](http://moss.csc.ncsu.edu/~mueller/ftp/pub/mueller/papers/icpp12.pdf)
-        + [A Haskell EDSL for Nested Data-parallel Design-space ... ](http://www.cse.chalmers.se/edu/course/pfp/exploration-draft-Obsidian.pdf)
-        + [Functional programming for nested data parallelism on GPUs](https://wiki.aalto.fi/download/attachments/70779066/T-106.5840_2012_Halme.pdf?version=1&modificationDate=1357205607000)
-        + [Platform-Specific Optimization and Mapping of Stencil Codes through Refinement](https://graphics.cg.uni-saarland.de/2014/platform-specific-optimization-and-mapping-of-stencil-codes-through-refinement/)
-        + [High-Performance Domain-Specific Languages for GPU Computing](https://anydsl.github.io/images/anydsl.pdf)
-        + [Monoids and their efficiency in practice](http://myhaskelljournal.com/monoids-and-their-efficiency-in-practice/)
-
-    + CUDA kernels generation using C++ expression templates technique
-        + CU++ -- an interesting approach
-            + [CU++, An Object Oriented Tool for CFD Applications: GTC 2012](http://on-demand.gputechconf.com/gtc/2012/presentations/S0264-CU++-An-Object-Oriented-Framework-for-CFD-CFD-Apps.pdf)
-            + [CU++(ET) / UGC- CUDA With C++ Expression Templates with the Unified GPU-CPU Compiler](http://w3.uwyo.edu/~dchandar/CU++.html)
-            + [A Hybrid Multi-GPU/CPU Computational Framework](http://scientific-sims.com/cfdlab/Dimitri_Mavriplis/HOME/NEW_PAPERS/Chandar.2013-2855.pdf)
-        + VexCL is a C++ vector expression template library for OpenCL/CUDA
-            + [VexCL is a C++ vector expression template library for OpenCL/CUDA](https://github.com/ddemidov/vexcl)
-            + [Generating OpenCL/CUDA source code from C++ expressions in VexCL](https://isocpp.org/blog/2015/01/generating-opencl-cuda-source-code-from-c-expressions-in-vexcl)
-
-    + AnyDSL - A Framework for Rapid Development of Domain-Specific Libraries; thorin (The Higher-ORder INtermediate representation) / impala (An imperative and functional programming language)
-        + [A Framework for Rapid Development of Domain-Specific Libraries](http://anydsl.github.io/)
-            + [AnyDSL Build Instructions](https://github.com/AnyDSL/anydsl/wiki/Build-Instructions) 
-            + [Shallow Embedding of DSLs via Online Partial Evaluation.(Best Paper Award)](http://compilers.cs.uni-saarland.de/papers/gpce15.pdf)
-        + [thorin - The Higher-ORder INtermediate representation](https://github.com/AnyDSL/thorin)
-        + [impala - An imperative and functional programming language](https://github.com/AnyDSL/impala)
-        + [A DSL for Stencil Codes](https://github.com/AnyDSL/stincilla)
-        + [AnyDSL ports from http://benchmarksgame.alioth.debian.org](https://github.com/AnyDSL/benchmarks-impala)
++ [DSLs targeting GPU](https://github.com/alsam/bookmarks/blob/master/hpc.md#DSLs targeting GPU)
 
 + Polyhedral papers intro & focused to GPU code generation
     + [Polyhedral Compilation](http://polyhedral.info/)
