@@ -88,6 +88,10 @@
         + [Implementation of the SYCL specification.](https://github.com/ProGTX/sycl-gtx)
             + [Building a brain with SYCL and modern C++](https://www.semanticscholar.org/paper/Building-a-brain-with-SYCL-and-modern-C%2B%2B-Smithe-Potter/01cd48cda17008640076323b8ea10ac59a8b6509)
 
++ HCC is an Open Source, Optimizing C++ Compiler for Heterogeneous Compute currently for the ROCm GPU Computing Platform
+    + [wiki for HCC](https://github.com/RadeonOpenCompute/hcc/wiki)
+    + [github HCC repository](https://github.com/RadeonOpenCompute/hcc)
+
 + [How To Set The CPU Affinity Of A Running Process In Linux](https://www.youtube.com/watch?v=9VJRsBmmY-4&feature=youtu.be)
 
 + OpenMP
