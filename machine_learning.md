@@ -126,11 +126,17 @@
                     + [no such package '@local_config_cuda//cuda'](https://github.com/tensorflow/tensorflow/issues/11859)
             ```sh
             bazel build --subcommands -c opt --copt=-mavx --copt=-mavx2 --copt=-mfma --copt=-mfpmath=both    --config=cuda //tensorflow/tools/pip_package:build_pip_package
-            sudo pip install wheel
+            sudo pip3 install wheel
             bazel-bin/tensorflow/tools/pip_package/build_pip_package /tmp/tensorflow_pkg
-            sudo pip uninstall tensorflow
-            sudo pip install /tmp/tensorflow_pkg/tensorflow-1.3.0-cp36-cp36m-linux_x86_64.whl
+            sudo pip3 uninstall tensorflow
+            sudo pip3 install /tmp/tensorflow_pkg/tensorflow-1.12.0-cp37-cp37m-linux_x86_64.whl
             ```
+            + [How do I install TensorFlow's tensorboard?](https://stackoverflow.com/questions/33634008/how-do-i-install-tensorflows-tensorboard)
+            tl;dr
+            ```python
+            >>> import tensorflow as tf
+            Limited tf.compat.v2.summary API due to missing TensorBoard installation
+            ```            
             + [CUDA 9RC + cuDNN7](https://github.com/tensorflow/tensorflow/issues/12474)
                 + [Upgrade to CuDNN 7 and CUDA 9](https://github.com/tensorflow/tensorflow/issues/12052)
                 + [compilation error](https://github.com/tensorflow/tensorflow/issues/12406)
