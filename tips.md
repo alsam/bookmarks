@@ -872,6 +872,7 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
         + [C++17 in details: Standard Library Utilities](http://www.bfilipek.com/2017/09/cpp17-details-utils.html)
         + [C++17 in details: Parallel Algorithms](http://www.bfilipek.com/2017/08/cpp17-details-parallel.html)
         + [Value Categories in C++17](https://medium.com/@barryrevzin/value-categories-in-c-17-f56ae54bccbe)
+            + [Категории выражений в C++](https://m.habr.com/ru/post/441742/)
             + [C++17 **Guaranteed** Copy Elision](https://jonasdevlieghere.com/guaranteed-copy-elision/)
         + [Simplify code with 'if constexpr' in C++17](https://www.bfilipek.com/2018/03/ifconstexpr.html)
         + [C++17 Fold expressions](http://filipjaniszewski.com/2016/11/24/c17-folding-expression/)
@@ -879,6 +880,8 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
         + [simplify C++](https://arne-mertz.de/category/cpp/modern-cpp/)
             + [`std::make_shared` vs. the Normal `std::shared_ptr` Constructor](https://arne-mertz.de/2018/09/make_shared-vs-the-normal-shared_ptr-constructor/)
 
+        + [Stanford C++ Style Guide](http://stanford.edu/class/archive/cs/cs106b/cs106b.1158/styleguide.shtml
+            + [Stanford C++ Style Guide](https://tproger.ru/translations/stanford-cpp-style-guide/amp/)
 
     + [Trending C++ github repositories](https://github.com/trending/c++)
 
