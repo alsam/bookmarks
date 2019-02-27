@@ -1238,7 +1238,7 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
         + [What is a good open source C++11 web/HTTP server library for building an application server ?](https://www.reddit.com/r/cpp/comments/2rjbrd/what_is_a_good_open_source_c11_webhttp_server/)
     + XML, HTML and network libraries in C++
         + [A Cheat Sheet for HTTP Libraries in C++](http://kukuruku.co/hub/cpp/a-cheat-sheet-for-http-libraries-in-c)
-            + [Boost aiso docs](http://theboostcpplibraries.com/boost.asio-network-programming)
+            + [Boost asio docs](http://theboostcpplibraries.com/boost.asio-network-programming)
         + [Benchmark. Analyzing and Testing Current HTML Parsers TL;DR HTML5Ever is written in Rust:) MyHTML is the fastest; Gumbo is produced by Google](https://lexborisov.github.io/benchmark-html-persers/)
         + [Parsing HTML with C++: Revisited](http://blog.laplante.io/2014/11/parsing-html-c-revisited/)
         + [Getting directory listing over http](http://stackoverflow.com/questions/4496182/getting-directory-listing-over-http)
@@ -1451,6 +1451,15 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
     ```sh
     qmake occQt.pro -r -spec linux-g++-64 CONFIG+=debug INCLUDEPATH+=/usr/local/include/opencascade
     ```
++ TCP backup
+    + [Chapter 2. The Transport Layer: TCP, UDP, and SCTP](https://notes.shichao.io/unp/ch2/)
+        + [Chapter 4. Elementary TCP Sockets](https://notes.shichao.io/unp/ch4/)
+    + [«Boost.Asio C++ Network Programming». Глава 4: Клиент и Сервер](https://habrahabr.ru/post/195794/)
+    + [Boost.Asio C++ Network Programming examples](http://www.boost.org/doc/libs/1_65_1/doc/html/boost_asio/examples/cpp11_examples.html)
+    + [SOCKETS - SERVER & CLIENT C++ - 2017](http://www.bogotobogo.com/cplusplus/sockets_server_client.php#block_vs_non_blocking)
+    + [Error : “Transport endpoint is already connected”](https://stackoverflow.com/questions/7140438/error-transport-endpoint-is-already-connected)
+        + [Socket program gives “Transport endpoint is already connected” error](https://stackoverflow.com/questions/9873650/socket-program-gives-transport-endpoint-is-already-connected-error)
+        + [Reconnecting with connect() on restarted server returns -Transport endpoint is already connected](https://stackoverflow.com/questions/16910973/reconnecting-with-connect-on-restarted-server-returns-transport-endpoint-is-a)
 
 + Data transfer
     + [So you want to write to a file real fast…](https://blog.plenz.com/2014-04/so-you-want-to-write-to-a-file-real-fast.html)
@@ -1546,5 +1555,4 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
     tunl0:down
     wlan0:unknown
     ```
-
 + [Maximum length of the textual representation of an IPv6 address?](https://stackoverflow.com/questions/166132/maximum-length-of-the-textual-representation-of-an-ipv6-address)
