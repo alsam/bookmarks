@@ -22,7 +22,7 @@
     + [Supervised Sequence Labelling with Recurrent Neural Networks](http://www6.in.tum.de/Main/Publications/Graves2008c.pdf)
     + [Alex Graves](http://www.cs.toronto.edu/~graves/)
 
-+ [BoltzmannMachines](https://www.cs.toronto.edu/~hinton/csc321/readings/boltz321.pdf)
++ [Boltzmann Machines](https://www.cs.toronto.edu/~hinton/csc321/readings/boltz321.pdf)
 
 + Deep Learning
     + [Deep Learning: Methods and Applications](http://research.microsoft.com/pubs/209355/DeepLearning-NowPublishing-Vol7-SIG-039.pdf)
