@@ -1091,7 +1091,6 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
             + [What is the easiest way to print a variadic parameter pack using std::ostream?](http://stackoverflow.com/questions/27375089/what-is-the-easiest-way-to-print-a-variadic-parameter-pack-using-stdostream)
             + [Composing Continuations](https://functionalcpp.wordpress.com/)
             + [Unpacking Tuples in C++14](http://aherrmann.github.io/programming/2016/02/28/unpacking-tuples-in-cpp14/)
-            + [Fun with Lambdas: C++14 Style (part 3)](http://cpptruths.blogspot.ru/2014/08/fun-with-lambdas-c14-style-part-3.html)
 
         + [how to get only keys of values from map](https://stackoverflow.com/questions/39555726/stdmapstring-string-to-string-first-values)
             + [boost::adaptors::map_keys](https://greek0.net/boost-range/boost-adaptors-map_keys.html)
