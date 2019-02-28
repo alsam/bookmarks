@@ -42,6 +42,7 @@
         + [Are we web yet?](http://www.arewewebyet.org/)
         + [dead link : Are we concurrent yet?](http://areweconcurrentyet.com/)
         + [Are we numeric yet?](https://www.reddit.com/r/rust/comments/4drr2c/are_we_numeric_yet/)
+            + [Scientific computing: a Rust adventure [Part 0 - Vectors] ](https://www.lpalmieri.com/posts/2019-02-23-scientific-computing-a-rust-adventure-part-0-vectors/)
         + [Are We Stdlib Yet?](https://www.reddit.com/r/rust/comments/5oqjnn/are_we_stdlib_yet/)
         + [Are we game yet?](http://arewegameyet.com/)
         + [Are we learning yet?](http://www.arewelearningyet.com/)
@@ -104,7 +105,8 @@
             + [Loop unrolling on request](https://internals.rust-lang.org/t/loop-unrolling-on-request/3091/3)
 
     + Linear Algebra + Numerics
-        + [a list of linear algebra librariesfor Rust](https://libraries.io/search?keywords=matrix&languages=Rust)
+        + [Scientific computing: a Rust adventure [Part 0 - Vectors] ](https://www.lpalmieri.com/posts/2019-02-23-scientific-computing-a-rust-adventure-part-0-vectors/)
+        + [a list of linear algebra libraries for Rust](https://libraries.io/search?keywords=matrix&languages=Rust)
         + [Numerics & math foundation](https://users.rust-lang.org/t/numerics-math-foundation/7247)
         + [An extensible HPC-Framework for CUDA, OpenCL and native CPU](https://github.com/lychee-eng/parenchyma)
         + [Request for some numerics related features](https://users.rust-lang.org/t/request-for-some-numerics-related-features/3530/6)
