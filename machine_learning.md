@@ -178,6 +178,8 @@
         + [Обзор примера применения обучения с подкреплением с использованием TensorFlow](http://habrahabr.ru/post/274597/)
         + [gvnn: Neural Network Library for Geometric Computer Vision](http://128.84.21.199/abs/1607.07405)
 
+        + [tensorflow_vs_torch](https://www.slant.co/versus/14689/14691/~tensorflow_vs_torch)
+
     + [Google open-sources natural language understanding tools](http://www.kurzweilai.net/google-open-sources-natural-language-understanding-tools)
         + [Announcing SyntaxNet: The World’s Most Accurate Parser Goes Open Source ](http://googleresearch.blogspot.ru/2016/05/announcing-syntaxnet-worlds-most.html)
         + [SyntaxNet: Neural Models of Syntax](https://github.com/tensorflow/models/tree/master/syntaxnet)
