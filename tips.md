@@ -1353,6 +1353,7 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
     ls -lrt | grep ^- | awk 'END{print $NF}'
     ```
 + Build Systems
+    + [CMake cannot find GoogleTest required library in Ubuntu](https://stackoverflow.com/questions/24295876/cmake-cannot-find-googletest-required-library-in-ubuntu)
     + [What are the best open-source build systems for C/C++?](https://www.slant.co/topics/4263/~open-source-build-systems-for-c-c)
         + [Meson](https://www.slant.co/topics/4263/viewpoints/14/~open-source-build-systems-for-c-c~meson)
             + [Investigate using Meson build system alongside CMake](https://musescore.org/en/node/120116)
