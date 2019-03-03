@@ -194,6 +194,8 @@
 
     + [Keras - language modeling](http://benjaminbolte.com/blog/2016/keras-language-modeling.html)
 
+    + [A Brief History of Computer Vision (and Convolutional Neural Networks)](https://hackernoon.com/a-brief-history-of-computer-vision-and-convolutional-neural-networks-8fe8aacc79f3?fbclid=IwAR3tNirqYcSCqqK4p19oFKqjzrlbfm3wKKWx00sAcpjUEsM_J-GuIng6LqU)
+
     + Convolutional Neural Networks
         + [A Beginner's Guide To Understanding Convolutional Neural Networks](https://adeshpande3.github.io/A-Beginner's-Guide-To-Understanding-Convolutional-Neural-Networks/)
         + [A Beginner's Guide To Understanding Convolutional Neural Networks Part 2](https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner's-Guide-To-Understanding-Convolutional-Neural-Networks-Part-2/)
