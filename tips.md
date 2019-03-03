@@ -1359,6 +1359,7 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
             + [Investigate using Meson build system alongside CMake](https://musescore.org/en/node/120116)
             + [Can you glob source code with meson?](https://stackoverflow.com/questions/34441673/can-you-glob-source-code-with-meson)
 
++ [Getting started with Google Test (GTest) on Ubuntu](https://www.eriksmistad.no/getting-started-with-google-test-on-ubuntu/)
 
 + Text search-and-replace (grep-like tools)
     + [Grep все, что можно](https://habrahabr.ru/post/316414/)
