@@ -1232,6 +1232,7 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
         + [non-trivial designated initializers not supported](https://stackoverflow.com/questions/31215971/non-trivial-designated-initializers-not-supported)
         + [No matching function std::forward with lambdas](https://stackoverflow.com/questions/42044116/no-matching-function-stdforward-with-lambdas)
         + [Lambda expressions as class template parameters](https://stackoverflow.com/questions/5849059/lambda-expressions-as-class-template-parameters)
+        + [Can I use std::vector as a template parameter or does it need to be std::vector<T>?](https://stackoverflow.com/questions/16925041/can-i-use-stdvector-as-a-template-parameter-or-does-it-need-to-be-stdvector)
 
     + REST API
         + [REST APIs in C++](http://lordjeb.com/category/c-2/)
