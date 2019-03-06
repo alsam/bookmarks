@@ -1236,6 +1236,7 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
         + [Can I use std::vector as a template parameter or does it need to be std::vector<T>?](https://stackoverflow.com/questions/16925041/can-i-use-stdvector-as-a-template-parameter-or-does-it-need-to-be-stdvector)
 
         + [Hash Functions for C++ Unordered Containers](https://marknelson.us/posts/2011/09/03/hash-functions-for-c-unordered-containers.html)
+            + [About size_t and ptrdiff_t](https://www.viva64.com/en/a/0050/)
 
     + REST API
         + [REST APIs in C++](http://lordjeb.com/category/c-2/)
