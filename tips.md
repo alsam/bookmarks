@@ -1235,6 +1235,8 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
         + [Lambda expressions as class template parameters](https://stackoverflow.com/questions/5849059/lambda-expressions-as-class-template-parameters)
         + [Can I use std::vector as a template parameter or does it need to be std::vector<T>?](https://stackoverflow.com/questions/16925041/can-i-use-stdvector-as-a-template-parameter-or-does-it-need-to-be-stdvector)
 
+        + [Hash Functions for C++ Unordered Containers](https://marknelson.us/posts/2011/09/03/hash-functions-for-c-unordered-containers.html)
+
     + REST API
         + [REST APIs in C++](http://lordjeb.com/category/c-2/)
         + [What is a good open source C++11 web/HTTP server library for building an application server ?](https://www.reddit.com/r/cpp/comments/2rjbrd/what_is_a_good_open_source_c11_webhttp_server/)
