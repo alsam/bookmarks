@@ -888,6 +888,8 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
 
     + [Optimized C++ book](http://www.guntheroth.com/)
 
+    + [C++17 High Performance](https://github.com/PacktPublishing/Cpp-High-Performance)
+
     + Valery Lesin. C++ In-Depth, 2014
         + [Лекция 3. Move семантика и Rvalue reference](https://compscicenter.ru/media/slides/cpp_2_2014_spring/2014_02_25_cpp_2_2014_spring.pdf)
 
