@@ -112,6 +112,7 @@
             + [TensorFlow white paper](http://download.tensorflow.org/paper/whitepaper2015.pdf)
 
         + [Tensorflow 2.0](https://www.youtube.com/watch?v=WTNH0tcscqo)
+            + [Google launches TensorFlow 2.0 alpha with fewer APIs](https://venturebeat.com/2019/03/06/google-launches-tensorflow-2-0-alpha-with-fewer-apis/?fbclid=IwAR2unUTm0k133kS3zB09o75II6IHXJMo27KxP__spDxoFDET7PGEwc8g-zw)
         + [Distributed TensorFlow training (Google I/O '18)](https://www.youtube.com/watch?v=bRMGoPqsn20)
         + [Setup_TensorFlow.md](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/Setup_TensorFlow.md)
             + [TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples)
