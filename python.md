@@ -88,3 +88,5 @@
 
 + [improve-your-python-understanding-unit-testing](https://jeffknupp.com/blog/2013/12/09/improve-your-python-understanding-unit-testing/)
     + [What is the best way to compare floats for almost-equality in Python](https://stackoverflow.com/questions/5595425/what-is-the-best-way-to-compare-floats-for-almost-equality-in-python)
+
++ [Object Oriented Programming(OOP) in Python Full Tutorial - 2019](https://youtu.be/6vV190q9vxA)
