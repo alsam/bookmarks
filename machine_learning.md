@@ -203,6 +203,11 @@
         + [The 9 Deep Learning Papers You Need To Know About (Understanding CNNs Part 3)](https://adeshpande3.github.io/adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html)
         + [Что такое свёрточная нейронная сеть](https://habrahabr.ru/post/309508/)
 
+    + Reinforcement Learning
+        + [Reinforcement Learning: a comprehensive introduction [Part 0]](https://www.lpalmieri.com/posts/rl-introduction-00/)
+        + [Reinforcement Learning: a comprehensive introduction [Part 1]](https://www.lpalmieri.com/posts/rl-introduction-01/)
+        + [Reinforcement Learning: a comprehensive introduction [Part 2]](https://www.lpalmieri.com/posts/rl-introduction-02/)
+
     + RNN et. al
         + [Optimizing RNN performance : Part I: Investigating performance of GPU BLAS Libraries](http://svail.github.io/)
         + [MemN2N for language modeling](https://github.com/facebook/MemNN/tree/master/MemN2N-lang-model)
