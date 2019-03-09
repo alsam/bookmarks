@@ -3,6 +3,8 @@
 + [CFD](https://github.com/alsam/bookmarks/blob/master/hpc.md#CFD)
 
 + BLAS + LAPACK (OpenBLAS + FLAME + ATLAS + MAGMA + KBLAS) and friends
+    + [C++ tensors with broadcasting and lazy computing](https://github.com/QuantStack/xtensor)
+        + [xtensor](http://quantstack.net/xtensor)
     + [Benchmarking Single- and Multi-Core BLAS Implementations and GPUs for use with R](http://cran.r-project.org/web/packages/gcbd/vignettes/gcbd.pdf)
     + [OpenBLAS: An optimized BLAS library](http://www.openblas.net/)
         + [OpenBLAS github](https://github.com/xianyi/OpenBLAS)
