@@ -5,6 +5,7 @@
 + BLAS + LAPACK (OpenBLAS + FLAME + ATLAS + MAGMA + KBLAS) and friends
     + [C++ tensors with broadcasting and lazy computing](https://github.com/QuantStack/xtensor)
         + [xtensor](http://quantstack.net/xtensor)
+        + [The x template library](https://github.com/QuantStack/xtl)
     + [Benchmarking Single- and Multi-Core BLAS Implementations and GPUs for use with R](http://cran.r-project.org/web/packages/gcbd/vignettes/gcbd.pdf)
     + [OpenBLAS: An optimized BLAS library](http://www.openblas.net/)
         + [OpenBLAS github](https://github.com/xianyi/OpenBLAS)
