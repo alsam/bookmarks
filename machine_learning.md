@@ -370,6 +370,12 @@
         + [augmented-rnns github](https://github.com/distillpub/post--augmented-rnns)
         + [The Wild Week in AI](https://www.getrevue.co/profile/wildml/issues/the-wild-week-in-ai-25-wavenet-text-to-speech-breakthrough-intel-movidius-augmented-rnn-tutorial-sarm-paper-withdrawn-29927)
     + [20+ hottest research papers on Computer Vision, Machine Learning](http://www.kdnuggets.com/2016/01/iccv-2015-21-hottest-papers.html)
+    + Whetstone
+        + [Spiking Software Streamlines AI on Neural Networks](https://www.machinedesign.com/cad/spiking-software-streamlines-ai-neural-networks)
+            + [Getting Started for Whetstone](https://github.com/SNL-NERL/Whetstone/blob/master/docs/getting_started.md)
+            + [Whetstone](https://github.com/SNL-NERL/Whetstone)
+            + [Whetstone: A Method for Training Deep Artificial Neural Networks for Binary Communication](https://arxiv.org/abs/1810.11521)
+                
 
 + Brain simulators
     + [Neocortical Simulator: An extensible neural simulator for heterogeneous clusters](https://github.com/BrainComputationLab/ncs)
