@@ -1,5 +1,6 @@
 # rust language bookmarks
 + Rust links
+    + [Rust 2019 Roadmap](https://github.com/steveklabnik/rfcs/blob/2019-roadmap/text/0000-roadmap-2019.md)
     + [Rust deployment](http://blog.jfo.click/how-rust-do/)
     + [Why Rust?](http://www.oreilly.com/programming/free/files/why-rust.pdf)
     + [The Rust Book](https://doc.rust-lang.org/stable/book/)
