@@ -38,7 +38,7 @@
 
     + [Free CFD codes](https://www.cfd-online.com/Wiki/Codes)
         + [Code_Saturne](https://www.code-saturne.org/cms/download/Source-code-access)
-        + [Large-Scale CFD Parallel Computing Dealing with Massive Mesh](https://www.hindawi.com/journals/je/2013/850148/)
+        + [Large-Scale CFD Parallel Computing Dealing with Massive Mesh](https://www.hindawi.com/journals/je/2013/850148/)016c0bd28b2435d468ce3cd1771426de9f264af6
 
     + [Open source tools in technical photorealistic large-scale visualisation](http://www.vtt.fi/inf/julkaisut/muut/2015/VTT-R-04911-15.pdf)
     + [An Open Source CFD-DEM Perspective](http://web.student.chalmers.se/groups/ofw5/Presentations/ChristophGonivaSlidesOFW5.pdf)
@@ -213,6 +213,8 @@
             + [technicalities: interactive scientific computing #2 of 2, goldilocks languages](https://graydon2.dreamwidth.org/189377.html)
 
 + nim links
+    + [Laser - Primitives for high performance computing](https://github.com/numforge/laser)
+
     + [A matrix library https://unicredit.github.io/neo/](https://github.com/unicredit/neo)
     + [A fast, ergonomic and portable tensor library with a deep learning focus](https://github.com/mratsim/Arraymancer)
         + [Arraymancer - A n-dimensional tensor (ndarray) library](https://mratsim.github.io/Arraymancer/)
