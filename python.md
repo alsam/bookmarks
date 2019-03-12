@@ -92,3 +92,5 @@
 + [Object Oriented Programming(OOP) in Python Full Tutorial - 2019](https://youtu.be/6vV190q9vxA)
 
 + [Python Image Processing Tutorial (Using OpenCV)](https://likegeeks.com/python-image-processing/)
+
++ [An A-Z of useful Python tricks](https://morioh.com/p/9ef4ff8ac752/an-a-z-of-useful-python-tricks)
