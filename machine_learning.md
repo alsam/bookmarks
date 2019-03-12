@@ -436,3 +436,4 @@
 
         + Misc
             + [Top 20 Machine Learning Interview Questions & Answers](https://www.janbasktraining.com/blog/machine-learning-interview-questions/)
+            + [Archlinux PKGBUILDs for Data Science, Machine Learning, Deep Learning, NLP and Computer Vision](https://github.com/mratsim/Arch-Data-Science)
