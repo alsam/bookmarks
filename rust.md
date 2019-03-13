@@ -873,3 +873,4 @@
         + [Rust новости #5 (январь 2019)](https://m.habr.com/ru/post/439354/)
 
         + [triangle mesh data structure including basic operations](https://github.com/asny/tri-mesh)
+        + [The fastest and safest AV1 encoder. in Rust](https://github.com/xiph/rav1e)
