@@ -903,6 +903,7 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
 
     + [Modern C++ for fun and profit](https://chariotsolutions.com/wp-content/uploads/2016/04/Modern-C-for-Fun-and-Profit-ETE.pdf)
         + [free C++ books](http://freecomputerbooks.com/langCppBooks.html)
+        + [MODERN C++ FOR C PROGRAMMERS: PART 4](https://ds9a.nl/articles/posts/cpp-4/)
 
     + [using extern template (C++11)](https://stackoverflow.com/questions/8130602/using-extern-template-c11)
         + tl;dr
@@ -1146,40 +1147,45 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
             The chief feature of std::unqiue_ptr is that it cannot be copied. That's by design, and the name tells you as much.
             take `std::unique_ptr<..> const&` -- no copy is needed.
 
-        + [C++ Template specialization for subclasses with abstract base class](https://stackoverflow.com/questions/24936862/c-template-specialization-for-subclasses-with-abstract-base-class)
-            + [c++ template specialization for base class](https://stackoverflow.com/questions/21437730/c-template-specialization-for-base-class)
-            tl;dr look [partial_specialization.cpp](https://github.com/alsam/cpp-samples/blob/master/c%2B%2Bnew-features/partial_specialization.cpp)
-            ```c++
-            template <typename M>
-            struct SetTarget
-            {
-              SetTarget(M* t): target(t) {}
-              M* target;
-            };
-            
-            template <typename M, typename T, bool = std::is_base_of<OperationMessage, T>::value>
-            struct SetId : public SetTarget<M>
-            {
-              SetId(M* t) : SetTarget<M>(t) {}
-              void operator()(T)
-              {
-                std::cout << "SetId with -1\n";
-                SetTarget<M>::target->setId(-1);
-              }
-            };
-            
-            // partial specialization
-            template <typename M, typename T>
-            struct SetId<M, T, true> : SetTarget<M>
-            {
-              SetId(M* t) : SetTarget<M>(t) {}
-              void operator()(T msg)
-              {
-                std::cout << "SetId with msg.getSequence()\n";
-                SetTarget<M>::target->setId(msg.getSequence());
-              }
-            };
-            ```
+        + Some tips on iterators
+            + [Common Knowledge: Output Iterator Adapters](http://www.drdobbs.com/common-knowledge-output-iterator-adapter/184401483)
+            + [A smart iterator for inserting into a sorted container in C++](https://www.fluentcpp.com/2017/03/17/smart-iterators-for-inserting-into-sorted-container/)
+        + C++ specialization
+            + [Function Templates Partial Specialization in C++](https://www.fluentcpp.com/2017/08/15/function-templates-partial-specialization-cpp/)
+            + [C++ Template specialization for subclasses with abstract base class](https://stackoverflow.com/questions/24936862/c-template-specialization-for-subclasses-with-abstract-base-class)
+                + [c++ template specialization for base class](https://stackoverflow.com/questions/21437730/c-template-specialization-for-base-class)
+                tl;dr look [partial_specialization.cpp](https://github.com/alsam/cpp-samples/blob/master/c%2B%2Bnew-features/partial_specialization.cpp)
+                ```c++
+                template <typename M>
+                struct SetTarget
+                {
+                  SetTarget(M* t): target(t) {}
+                  M* target;
+                };
+                
+                template <typename M, typename T, bool = std::is_base_of<OperationMessage, T>::value>
+                struct SetId : public SetTarget<M>
+                {
+                  SetId(M* t) : SetTarget<M>(t) {}
+                  void operator()(T)
+                  {
+                    std::cout << "SetId with -1\n";
+                    SetTarget<M>::target->setId(-1);
+                  }
+                };
+                
+                // partial specialization
+                template <typename M, typename T>
+                struct SetId<M, T, true> : SetTarget<M>
+                {
+                  SetId(M* t) : SetTarget<M>(t) {}
+                  void operator()(T msg)
+                  {
+                    std::cout << "SetId with msg.getSequence()\n";
+                    SetTarget<M>::target->setId(msg.getSequence());
+                  }
+                };
+                ```
 
         + selected boost tips
             + boost property tree
