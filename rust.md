@@ -648,6 +648,7 @@
     + [Add LaTeX support to Rustdoc](https://github.com/rust-lang/rust/issues/34261)
         + [rustdoc-katex-demo](https://crates.io/crates/rustdoc-katex-demo)
             + [KaTeX for documentation](https://github.com/rust-ndarray/ndarray/issues/598)
+                + [Struct hmmm::HMM](https://docs.rs/hmmm/0.1.1/hmmm/struct.HMM.html)
         + [Add Mathjax (KaTeX?) Support to Rustdoc #16300 ](https://github.com/rust-lang/rust/issues/16300)
         + [Add mathematics support to rustdoc #17390](https://github.com/rust-lang/rust/pull/17390#issuecomment-61195381)
         + [Rustdoc: reStructuredText vs Markdown](https://internals.rust-lang.org/t/rustdoc-restructuredtext-vs-markdown/356/63)
