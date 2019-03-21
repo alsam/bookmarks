@@ -42,6 +42,8 @@
 
     + [Open source tools in technical photorealistic large-scale visualisation](http://www.vtt.fi/inf/julkaisut/muut/2015/VTT-R-04911-15.pdf)
     + [An Open Source CFD-DEM Perspective](http://web.student.chalmers.se/groups/ofw5/Presentations/ChristophGonivaSlidesOFW5.pdf)
+    + [3D, block structured, explicit/implicit, Navier-Stokes solver](https://github.com/mnucci32/aither)
+        + [An evaluation of the Eigen linear algebra library for use in the aither CFD solver](https://github.com/mnucci32/eigenVsAither)
 
     + CFD + GPU
         + [Recent progress and challenges in exploiting graphics processors in computational fluid dynamics: slightly outdated but interesting](http://arxiv.org/pdf/1309.3018.pdf)
