@@ -295,5 +295,6 @@ Inspection Systems](http://www.mdpi.com/1424-8220/13/12/16565/pdf)
     + [ROBOTIS-MANIPULATOR-H](http://wiki.ros.org/ROBOTIS-MANIPULATOR-H)
         + [robotis_controller](https://github.com/ROBOTIS-GIT/ROBOTIS-Documents/wiki/robotis_controller)
         + [ROBOTIS Official Github](https://github.com/ROBOTIS-GIT)
+    + [Plucker Coordinates for Lines in the Space∗](http://web.cs.iastate.edu/~cs577/handouts/plucker-coordinates.pdf)
 
 
