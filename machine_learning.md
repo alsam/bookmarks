@@ -438,4 +438,6 @@
         + Misc
             + [Top 20 Machine Learning Interview Questions & Answers](https://www.janbasktraining.com/blog/machine-learning-interview-questions/)
             + [TensorFlow or Keras? Which one should I learn?](https://medium.com/implodinggradients/tensorflow-or-keras-which-one-should-i-learn-5dd7fa3f9ca0)
+            + [Xception: компактная глубокая нейронная сеть](https://itnan.ru/post.php?c=1&p=347564)
+                + [Transfer learning with Xception architecture in Keras](https://github.com/hokmund/xception-transfer-learning)
             + [Archlinux PKGBUILDs for Data Science, Machine Learning, Deep Learning, NLP and Computer Vision](https://github.com/mratsim/Arch-Data-Science)
