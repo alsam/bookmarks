@@ -36,6 +36,8 @@
         + [Elemental.jl](https://github.com/JuliaParallel/Elemental.jl)
     + [Recommendations for a usable, fast C++ matrix library?](https://scicomp.stackexchange.com/questions/351/recommendations-for-a-usable-fast-c-matrix-library)
 
+    + [The Tensor Algebra Compiler (taco) computes sparse tensor expressions on CPUs and GPUs](https://github.com/tensor-compiler/taco)
+        + [A fast and versatile library for linear and tensor algebra](http://tensor-compiler.org/)
 
 + SIMD
     + [The C++ scientist](http://jmabille.github.io/)
