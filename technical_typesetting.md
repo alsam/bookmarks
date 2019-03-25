@@ -15,6 +15,8 @@
     + [How to migrate a Confluence space to a Markdown Wiki](http://blog.deveo.com/confluence-to-markdown-wiki-migration/)
 
 + LaTeX tips
+    + [Can people actually keep up with note-taking in Mathematics lectures with LaTeX?](https://www.quora.com/Can-people-actually-keep-up-with-note-taking-in-Mathematics-lectures-with-LaTeX/answer/Gilles-Castel-1)
+        + [Как я пишу конспекты по математике на LaTeX в Vim](https://habr.com/ru/post/445066/)
     + [Modern LaTeX typesetting](https://www.olivierverdier.com/posts/2013/07/15/modern-latex/)
     + Arch Linux Latin Modern & Latin Modern Math 
         ```sh
@@ -262,7 +264,7 @@
 
             + an example of customized tree rendering
             ```lhs
-            > text' (timer_name, func_name) = ((text ( timer_name ++ "\n\n")) # fc blue # fontSize (local 0.4)) === ((text ( func_name )) # fc green # italic # bold)
+            > text' (timer_name, func_name) = ((text ( timer_name ++ "\n\n")) # fc blue # fontSize (local 0.4)) === ((text ( func_name )) # fc green # italic # bold)Shared/Common/Src/CuttingLine/
             > mybox' (timer_name, func_name) = let wid = fromIntegral(length func_name)*0.3 in (text' (timer_name, func_name)) <> roundedRect wid 2 0.1 # fc gold
             > exampleSymmTree =
             >   renderTree mybox'
