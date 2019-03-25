@@ -876,3 +876,4 @@
 
         + [triangle mesh data structure including basic operations](https://github.com/asny/tri-mesh)
         + [The fastest and safest AV1 encoder. in Rust](https://github.com/xiph/rav1e)
+        + [Is there a time I should use C++ instead of Rust?](https://www.quora.com/Is-there-a-time-I-should-use-C-instead-of-Rust)
