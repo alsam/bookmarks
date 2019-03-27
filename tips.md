@@ -1149,6 +1149,13 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
             The chief feature of std::unqiue_ptr is that it cannot be copied. That's by design, and the name tells you as much.
             take `std::unique_ptr<..> const&` -- no copy is needed.
 
+        + `std::call_once()`
+            + [std::call_once, std::once_flag](https://riptutorial.com/cplusplus/example/30171/std--call-once--std--once-flag)
+            + [std::call_once vs std::mutex for thread-safe initialization](https://stackoverflow.com/questions/26985370/stdcall-once-vs-stdmutex-for-thread-safe-initialization)
+            + [Why is this pointer needed when calling std::call_once()?](https://stackoverflow.com/questions/23197333/why-is-this-pointer-needed-when-calling-stdcall-once)
+            + [std::call_once safe for non atomic variables?](https://stackoverflow.com/questions/48221492/stdcall-once-safe-for-non-atomic-variables)
+            + [Is std::call_once a blocking call?](https://stackoverflow.com/questions/43054677/is-stdcall-once-a-blocking-call)
+
         + Some tips on iterators
             + [Common Knowledge: Output Iterator Adapters](http://www.drdobbs.com/common-knowledge-output-iterator-adapter/184401483)
             + [A smart iterator for inserting into a sorted container in C++](https://www.fluentcpp.com/2017/03/17/smart-iterators-for-inserting-into-sorted-container/)
