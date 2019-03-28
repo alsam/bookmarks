@@ -886,6 +886,7 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
         + [simplify C++](https://arne-mertz.de/category/cpp/modern-cpp/)
             + [`std::make_shared` vs. the Normal `std::shared_ptr` Constructor](https://arne-mertz.de/2018/09/make_shared-vs-the-normal-shared_ptr-constructor/)
             + [Как устроен shared_ptr](http://artemy-kolesnikov.blogspot.com/2014/11/sharedptr.html?m=1)
+            + [Как устроен weak_ptr](http://artemy-kolesnikov.blogspot.com/2014/11/weakptr.html?m=1)
         + [Top 10 dumb mistakes to avoid with C++ 11 smart pointers](https://www.acodersjourney.com/top-10-dumb-mistakes-avoid-c-11-smart-pointers/)
 
         + [Stanford C++ Style Guide](http://stanford.edu/class/archive/cs/cs106b/cs106b.1158/styleguide.shtml
