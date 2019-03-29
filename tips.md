@@ -1493,6 +1493,8 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
         + [Socket program gives “Transport endpoint is already connected” error](https://stackoverflow.com/questions/9873650/socket-program-gives-transport-endpoint-is-already-connected-error)
         + [Reconnecting with connect() on restarted server returns -Transport endpoint is already connected](https://stackoverflow.com/questions/16910973/reconnecting-with-connect-on-restarted-server-returns-transport-endpoint-is-a)
 
++ [WHY MILLISECONDS MATTER : REST vs. gRPC](https://www.yonego.com/nl/why-milliseconds-matter/#gref)
+
 + Data transfer
     + [So you want to write to a file real fast…](https://blog.plenz.com/2014-04/so-you-want-to-write-to-a-file-real-fast.html)
         + tl;dr
