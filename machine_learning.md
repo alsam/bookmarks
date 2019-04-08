@@ -203,6 +203,7 @@
             + [CS231n: Convolutional Neural Networks for Visual Recognition: Spring 2019](http://vision.stanford.edu/teaching/cs231n/)
             + [Slides for CS231n circa 2017](http://cs231n.stanford.edu/slides/2017/)
             + [github for CS231n](https://github.com/cs231n)
+            + [Stanford Computer Vision youtube videos](https://www.youtube.com/playlist?list=PLf7L7Kg8_FNxHATtLwDceyh72QQL9pvpQ)
 
     + Convolutional Neural Networks
         + [A Beginner's Guide To Understanding Convolutional Neural Networks](https://adeshpande3.github.io/A-Beginner's-Guide-To-Understanding-Convolutional-Neural-Networks/)
