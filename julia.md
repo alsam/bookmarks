@@ -54,6 +54,10 @@
         + [Julia package for function approximation](https://github.com/ApproxFun/ApproxFun.jl)
         + [Julia package for solving singular integral equations and Riemann–Hilbert problems](https://github.com/ApproxFun/SingularIntegralEquations.jl)
 
+    + Computer Vision
+        + [The OpenCV (C++) interface for Julia](https://github.com/maxruby/OpenCV.jl)
+        + [Julia packages for image processing](https://github.com/JuliaImages)
+
     + Graphics
         + [Powerful convenience for Julia visualizations and data analysis http://docs.juliaplots.org](https://github.com/JuliaPlots/Plots.jl)
         + Gadfly
