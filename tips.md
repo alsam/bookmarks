@@ -1084,6 +1084,11 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
                 String(const char *p); // initialize sobject with string p
             };
             ```
+        + [C++ convert from 1 char to string?](https://stackoverflow.com/questions/17201590/c-convert-from-1-char-to-string)
+            + tl;dr
+            ```c++
+            char c = 42; std::cout << string(1, c) << std::endl;
+            ```
         + [How to automatically convert strongly typed enum into int?](http://stackoverflow.com/questions/8357240/how-to-automatically-convert-strongly-typed-enum-into-int)
 
         + [Can a C++ lambda constructor argument capture the constructed variable?](http://stackoverflow.com/questions/29738655/can-a-c-lambda-constructor-argument-capture-the-constructed-variable)
@@ -1593,3 +1598,4 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
 + [Maximum length of the textual representation of an IPv6 address?](https://stackoverflow.com/questions/166132/maximum-length-of-the-textual-representation-of-an-ipv6-address)
 
 + [Apache Thrift vs Protocol Buffers detailed comparison as of 2019](https://www.slant.co/versus/9125/9127/~apache-thrift_vs_protocol-buffers)
+    + [Apache Thrift Language Support](https://thrift.apache.org/docs/Languages)

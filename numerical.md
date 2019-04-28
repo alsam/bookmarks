@@ -39,6 +39,8 @@
     + [The Tensor Algebra Compiler (taco) computes sparse tensor expressions on CPUs and GPUs](https://github.com/tensor-compiler/taco)
         + [A fast and versatile library for linear and tensor algebra](http://tensor-compiler.org/)
 
++ [The Amazing Performance of C++17 Parallel Algorithms, is it Possible?](https://www.bfilipek.com/2018/11/parallel-alg-perf.html?m=1)
+
 + SIMD
     + [The C++ scientist](http://jmabille.github.io/)
 
