@@ -46,6 +46,8 @@
     + cheat sheets
         + [Cheat Sheets for AI, Neural Networks, Machine Learning, Deep Learning & Big Data](https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-678c51b4b463)
 
+    + [Regularization techniques for Neural Networks](https://towardsdatascience.com/regularization-techniques-for-neural-networks-e55f295f2866)
+
     + Обзор материалов по машинному обучению
         + [Обзор материалов по машинному обучению (13 — 20 февраля 2017 года)](https://habrahabr.ru/post/322188/)
         + [Обзор материалов по машинному обучению № 2 (21 — 27 февраля 2017 года)](https://habrahabr.ru/post/322660/)
