@@ -74,6 +74,9 @@
 + [Как SpaceX использует GPU для обсчёта ракетных двигателей](http://habrahabr.ru/post/256081/)
     + [Rockets Shake And Rattle, So SpaceX Rolls Homegrown CFD](http://www.nextplatform.com/2015/03/27/rockets-shake-and-rattle-so-spacex-rolls-homegrown-cfd/)
 
++ CUDA rehab
+    + [Course on CUDA Programming on NVIDIA GPUs, July 22-26, 2019](https://people.maths.ox.ac.uk/gilesm/cuda/)
+
 + OpenCL
     + [The State of OpenCL for Scientific Computing in 2018](https://mathema.tician.de/the-state-of-opencl-for-scientific-computing-in-2018/)
     + [OpenCL: History & Future](http://www.fz-juelich.de/SharedDocs/Downloads/IAS/JSC/EN/slides/opencl/opencl-10-history-future.pdf?__blob=publicationFile)
