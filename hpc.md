@@ -76,6 +76,8 @@
 
 + CUDA rehab
     + [Course on CUDA Programming on NVIDIA GPUs, July 22-26, 2019](https://people.maths.ox.ac.uk/gilesm/cuda/)
+        + [Lecture 3: control flow and synchronisation: Warp divergence](https://people.maths.ox.ac.uk/gilesm/cuda/lecs/lec3-2x2.pdf)
+            + [Is branch divergence really so bad?](https://stackoverflow.com/questions/17223640/is-branch-divergence-really-so-bad)
 
 + OpenCL
     + [The State of OpenCL for Scientific Computing in 2018](https://mathema.tician.de/the-state-of-opencl-for-scientific-computing-in-2018/)
