@@ -1,6 +1,9 @@
 # tegra tips
 
-+ Jetson TX1
++ Jetson TX1 & TX2 & Xavier
+    + [Jetson Easy: easy installer for NVidia Jetson](https://www.rnext.it/project/jetson-easy/)
+        + [Jetson Easy setup configurator](https://github.com/rbonghi/jetson_easy)
+        + [Basic scripts and function to improve the performance in your NVIDIA Jetson](https://github.com/rbonghi/jetson_stats)
     + [Some Jetson Web Links](https://devtalk.nvidia.com/default/topic/793798/embedded-systems/some-jetson-web-links/)
     + [machine arch files for Jetson TX1 (Quad-core ARMCortex-A57 MPCore Processor)](http://yocto.yoctoproject.narkive.com/OOuKNJVm/machine-arch-files-for-jetson-tx1-quad-core-armcortex-a57-mpcore-processor)
     + [Yocto layer for the NVidia Tegra Jetson TK1 board](https://github.com/watatuki/meta-jetson-tk1)
