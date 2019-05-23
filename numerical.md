@@ -82,6 +82,8 @@
     + [HPX — рантайм-система для параллельных и распределенных вычислений](https://corehard.by/2016/02/15/conf2016-hpx/)
 
 +  Automatic Differentiation: mostly Julia, C++, Haskell. Scala as well
+    + [automatic-differentiation](http://rodrigo.ebrmx.com/github_/topics/automatic-differentiation)
+        + [Tensors and differentiable operations (like TensorFlow) in Rust https://docs.rs/autograd/](http://rodrigo.ebrmx.com/github_/raskr/rust-autograd)
     + [JuliaDiff Differentiation tools in Julia](http://www.juliadiff.org/)
         + [ForwardDiff.jl github](https://github.com/JuliaDiff/ForwardDiff.jl)
             + [JSoC 2015 project: Automatic Differentiation in Julia with ForwardDiff.jl](http://julialang.org/blog/2015/10/auto-diff-in-julia/)
