@@ -79,6 +79,7 @@
         + [Lecture 3: control flow and synchronisation: Warp divergence](https://people.maths.ox.ac.uk/gilesm/cuda/lecs/lec3-2x2.pdf)
             + [Is branch divergence really so bad?](https://stackoverflow.com/questions/17223640/is-branch-divergence-really-so-bad)
         + [Maximizing Unified Memory Performance in CUDA](https://devblogs.nvidia.com/maximizing-unified-memory-performance-cuda/)
+        + [CUDA OPTIMIZATION TIPS, TRICKS AND TECHNIQUES Stephen Jones, GTC 2017](http://on-demand.gputechconf.com/gtc/2017/presentation/s7122-stephen-jones-cuda-optimization-tips-tricks-and-techniques.pdf)
 
 + OpenCL
     + [The State of OpenCL for Scientific Computing in 2018](https://mathema.tician.de/the-state-of-opencl-for-scientific-computing-in-2018/)
