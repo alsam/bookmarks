@@ -4,7 +4,7 @@
     + [The Neophyte's Guide to Scala](http://danielwestheide.com/scala/neophytes.html)
     + [Scala Tour](https://github.com/dcapwell/scala-tour)
       + [Scala Tour: Functor](https://github.com/dcapwell/scala-tour/blob/master/Functor.md)
-      + [Scala Tour: Applicative Functor](https://github.com/dcapwell/scala-tour/blob/master/Applicative\ Functor.md)
+      + [Scala Tour: Applicative Functor](https://github.com/dcapwell/scala-tour/blob/master/Applicative%20Functor.md)
     + [Applicative ramblings in Scala](http://patterngazer.blogspot.ru/2012/02/hello-again.html)
     + [Introduction to Category Theory in Scala](https://hseeberger.wordpress.com/2010/11/25/introduction-to-category-theory-in-scala/)
       + [Physics, Topology, Logic and Computation: A Rosetta Stone](http://math.ucr.edu/home/baez/rosetta.pdf)
