@@ -200,6 +200,7 @@
 
     + Computer Vision
         + [A Brief History of Computer Vision (and Convolutional Neural Networks)](https://hackernoon.com/a-brief-history-of-computer-vision-and-convolutional-neural-networks-8fe8aacc79f3?fbclid=IwAR3tNirqYcSCqqK4p19oFKqjzrlbfm3wKKWx00sAcpjUEsM_J-GuIng6LqU)
+            + [A Basic Introduction to Separable Convolutions](https://towardsdatascience.com/a-basic-introduction-to-separable-convolutions-b99ec3102728)
 
         + Stanford Course: CS231n: Convolutional Neural Networks for Visual Recognition
             + [CS231n: Convolutional Neural Networks for Visual Recognition: Spring 2019](http://vision.stanford.edu/teaching/cs231n/)
