@@ -213,6 +213,8 @@
         + [A Beginner's Guide To Understanding Convolutional Neural Networks Part 2](https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner's-Guide-To-Understanding-Convolutional-Neural-Networks-Part-2/)
         + [The 9 Deep Learning Papers You Need To Know About (Understanding CNNs Part 3)](https://adeshpande3.github.io/adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html)
         + [Что такое свёрточная нейронная сеть](https://habrahabr.ru/post/309508/)
+        + [Convolutional Neural Networks cheatsheet](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks)
+            + [CS230 Deep Learning](https://cs230.stanford.edu/)
 
     + Reinforcement Learning
         + [Reinforcement Learning: a comprehensive introduction [Part 0]](https://www.lpalmieri.com/posts/rl-introduction-00/)
