@@ -889,7 +889,7 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
             + [Как устроен weak_ptr](http://artemy-kolesnikov.blogspot.com/2014/11/weakptr.html?m=1)
         + [Top 10 dumb mistakes to avoid with C++ 11 smart pointers](https://www.acodersjourney.com/top-10-dumb-mistakes-avoid-c-11-smart-pointers/)
 
-        + [Stanford C++ Style Guide](http://stanford.edu/class/archive/cs/cs106b/cs106b.1158/styleguide.shtml
+        + [Stanford C++ Style Guide](http://stanford.edu/class/archive/cs/cs106b/cs106b.1158/styleguide.shtml)
             + [Stanford C++ Style Guide](https://tproger.ru/translations/stanford-cpp-style-guide/amp/)
 
     + [Trending C++ github repositories](https://github.com/trending/c++)
