@@ -80,6 +80,7 @@
             + [Is branch divergence really so bad?](https://stackoverflow.com/questions/17223640/is-branch-divergence-really-so-bad)
         + [Maximizing Unified Memory Performance in CUDA](https://devblogs.nvidia.com/maximizing-unified-memory-performance-cuda/)
         + [CUDA OPTIMIZATION TIPS, TRICKS AND TECHNIQUES Stephen Jones, GTC 2017](http://on-demand.gputechconf.com/gtc/2017/presentation/s7122-stephen-jones-cuda-optimization-tips-tricks-and-techniques.pdf)
+        + [Small tips of optimizing CUDA programs](https://nanxiao.me/en/small-tips-of-optimizing-cuda-programs/)
 
 + OpenCL
     + [The State of OpenCL for Scientific Computing in 2018](https://mathema.tician.de/the-state-of-opencl-for-scientific-computing-in-2018/)
