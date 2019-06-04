@@ -824,7 +824,11 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
     + [LFS root](http://www.linuxfromscratch.org/)
     + [Beyond Linux® From Scratch (systemd edition)](http://www.linuxfromscratch.org/blfs/view/systemd/)
 
-+ Docker
++ Docker+Kubernetes
+    + [Основы Kubernetes](https://habr.com/ru/post/258443/)
+        + [How to install Kubernetes on Ubuntu 18.04 Bionic Beaver Linux](https://linuxconfig.org/how-to-install-kubernetes-on-ubuntu-18-04-bionic-beaver-linux)
+            + [Install and Set Up kubectl](https://kubernetes.io/docs/tasks/tools/install-kubectl/)
+
     + [Поняв Docker](https://habrahabr.ru/post/277699/)
     + [Образы и контейнеры Docker в картинках](http://habrahabr.ru/post/272145/)
     + [Configure and troubleshoot the Docker daemon](https://docs.docker.com/engine/admin/)
