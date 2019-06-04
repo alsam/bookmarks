@@ -27,6 +27,7 @@
         ```
         + [Conda activate not working?](https://stackoverflow.com/questions/47246350/conda-activate-not-working/47249905#47249905)
         + [Install Python dependency packages from requirements.txt using conda](https://gist.github.com/luiscape/19d2d73a8c7b59411a2fb73a697f5ed4)
+    + [How to install Kubernetes on Ubuntu 18.04 Bionic Beaver Linux](https://linuxconfig.org/how-to-install-kubernetes-on-ubuntu-18-04-bionic-beaver-linux)
 
 
 + cython links
