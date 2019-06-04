@@ -16,6 +16,18 @@
         + [symbol loopkup error: libgobject-2.0.so.0:undefined symbol: g_bytes_unref](http://stackoverflow.com/questions/14911046/symbol-loopkup-error-libgobject-2-0-so-0undefined-symbol-g-bytes-unref)
     + [Anaconda Accelerate Fast Python for GPUs and multi-core with NumbaPro and MKL Optimizations](https://store.continuum.io/cshop/accelerate/)
         + [Thread: Non-standard python](http://ubuntuforums.org/showthread.php?t=2263955)
+    + miniconda
+        tl;dr    
+        ```sh
+        wget https://repo.continuum.io/miniconda/Miniconda3-latest-Linux-x86_64.sh -O ~/miniconda.sh
+        bash ~/miniconda.sh -b -p ~/miniconda 
+        rm ~/miniconda.sh
+        echo "PATH=$PATH:$HOME/miniconda/bin" >> .bashrc
+        echo ". ~/miniconda/etc/profile.d/conda.sh" >> ~/.bash_profile
+        ```
+        + [Conda activate not working?](https://stackoverflow.com/questions/47246350/conda-activate-not-working/47249905#47249905)
+        + [Install Python dependency packages from requirements.txt using conda](https://gist.github.com/luiscape/19d2d73a8c7b59411a2fb73a697f5ed4)
+
 
 + cython links
     + [Cython code for the Computer Language Benchmark Game](https://github.com/cython/cython-shootout)
