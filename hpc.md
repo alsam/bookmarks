@@ -75,6 +75,12 @@
     + [Rockets Shake And Rattle, So SpaceX Rolls Homegrown CFD](http://www.nextplatform.com/2015/03/27/rockets-shake-and-rattle-so-spacex-rolls-homegrown-cfd/)
 
 + CUDA rehab
+    + [CS344 : CUDA Programming in C](https://classroom.udacity.com/courses/cs344)
+    + [UD281 : High Performance Computing](https://classroom.udacity.com/courses/ud281)
+        + [Parallel Computer Architecture and Programming (CMU 15-418/618)](http://15418.courses.cs.cmu.edu/spring2016/)
+        + [Parallel Computer Architecture and Programming (CMU 15-418/618)](https://github.com/cmu15418)
+            + [CMU 15418 Assignment 1: Analyzing Program Performance on a Multi-Core CPU](https://github.com/cmu15418/assignment1)
+            + [Assignment 1: Analyzing Program Performance on a Multi-Core CPU](http://15418.courses.cs.cmu.edu/spring2016/article/3)
     + [Course on CUDA Programming on NVIDIA GPUs, July 22-26, 2019](https://people.maths.ox.ac.uk/gilesm/cuda/)
         + [Lecture 3: control flow and synchronisation: Warp divergence](https://people.maths.ox.ac.uk/gilesm/cuda/lecs/lec3-2x2.pdf)
             + [Is branch divergence really so bad?](https://stackoverflow.com/questions/17223640/is-branch-divergence-really-so-bad)
