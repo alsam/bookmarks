@@ -87,6 +87,10 @@
         + [Maximizing Unified Memory Performance in CUDA](https://devblogs.nvidia.com/maximizing-unified-memory-performance-cuda/)
         + [CUDA OPTIMIZATION TIPS, TRICKS AND TECHNIQUES Stephen Jones, GTC 2017](http://on-demand.gputechconf.com/gtc/2017/presentation/s7122-stephen-jones-cuda-optimization-tips-tricks-and-techniques.pdf)
         + [Small tips of optimizing CUDA programs](https://nanxiao.me/en/small-tips-of-optimizing-cuda-programs/)
+        + [Error using __ldg in cuda kernel at compile time](https://stackoverflow.com/questions/24069524/error-using-ldg-in-cuda-kernel-at-compile-time)
+        tl;dr```sh
+        nvcc -arch=sm_35 ...
+        ```
 
 + OpenCL
     + [The State of OpenCL for Scientific Computing in 2018](https://mathema.tician.de/the-state-of-opencl-for-scientific-computing-in-2018/)
