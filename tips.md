@@ -43,7 +43,7 @@
             + GRUB tips
                 + while booting type `e` (stands for edit)
                 + add `systemd.unit = resque.target` in `linux` boot menu
-                + set correct time to avoid https certificate problems
+                + set correct time to avoid https certificate problemshttps://habr.com/ru/company/yandex/blog/438864/
                 ```sh
                 ntpdate ntp3.stratum2.ru
                 ```
@@ -866,6 +866,7 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
     + [How do I create a custom file system in C?](https://www.quora.com/How-do-I-create-a-custom-file-system-in-C)
 
 + C++
+    + [Feature freeze C++20. Coroutines, Modules и прочее](https://habr.com/ru/company/yandex/blog/438864/)
     + CppCon
         + [C++ Atomics, From Basic to Advanced by Fedor Pikus](https://github.com/CppCon/CppCon2017/tree/master/Presentations/C%2B%2B%20Atomics%2C%20From%20Basic%20to%20Advanced)
         + [Building C++ Modules by Boris Kolpackov](https://github.com/CppCon/CppCon2017/tree/master/Presentations/Building%20C%2B%2B%20Modules)
