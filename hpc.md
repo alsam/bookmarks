@@ -87,6 +87,7 @@
             + [Is branch divergence really so bad?](https://stackoverflow.com/questions/17223640/is-branch-divergence-really-so-bad)
         + [Maximizing Unified Memory Performance in CUDA](https://devblogs.nvidia.com/maximizing-unified-memory-performance-cuda/)
         + [CUDA OPTIMIZATION TIPS, TRICKS AND TECHNIQUES Stephen Jones, GTC 2017](http://on-demand.gputechconf.com/gtc/2017/presentation/s7122-stephen-jones-cuda-optimization-tips-tricks-and-techniques.pdf)
+        + [HIGH THROUGHPUT WITH GPUS](https://indico.cern.ch/event/764011/contributions/3214768/attachments/1755004/2845106/RAPID_workshop_20181119.pdf)
         + [Small tips of optimizing CUDA programs](https://nanxiao.me/en/small-tips-of-optimizing-cuda-programs/)
         + [Error using __ldg in cuda kernel at compile time](https://stackoverflow.com/questions/24069524/error-using-ldg-in-cuda-kernel-at-compile-time)
         tl;dr    
