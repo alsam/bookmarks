@@ -129,7 +129,9 @@
 + [OCCA (Open Concurrent Compute Abstraction)](http://libocca.org/)
     + [github repository for OCCA](https://github.com/libocca/occa)
 
++ [LCSE - Linked Cluster Series Expansions -  a framework for high-temperature series expansions](http://comp-phys.org/lcse/)
 + [VLI is a llibrary for high but fixed (128 to 512-bit) arithmetic and symbolic polinomials computations](http://comp-phys.org/vli/)
+    + [Series Expansion Methods for Quantum Lattice Models](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/123831/eth-50186-02.pdf)
 
 + CPU, GPU & DRAM Architecture Simulators
     + [GPGPU-Sim](http://www.gpgpu-sim.org/)
