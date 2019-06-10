@@ -842,6 +842,7 @@
                         + [Refactor generic parameter encoder functions](https://github.com/rust-lang/rust/pull/58581)
                         + [Add const generics to ty (and transitive dependencies)](https://github.com/rust-lang/rust/pull/58583)
                             + [Add const generics to infer (and transitive dependencies)](https://github.com/rust-lang/rust/pull/59008)
+                            + [typeck: Fix const generic in repeat param ICE](https://github.com/rust-lang/rust/pull/61698)
             + [generic-array : in anticipation of **const generics**](https://crates.io/crates/generic-array/)
             tl;dr
             generic-array defines a new trait `ArrayLength<T>` and a `struct GenericArray<T, N: ArrayLength<T>>`,
