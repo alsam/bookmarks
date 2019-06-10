@@ -81,6 +81,7 @@
         + [Parallel Computer Architecture and Programming (CMU 15-418/618)](https://github.com/cmu15418)
             + [CMU 15418 Assignment 1: Analyzing Program Performance on a Multi-Core CPU](https://github.com/cmu15418/assignment1)
             + [Assignment 1: Analyzing Program Performance on a Multi-Core CPU](http://15418.courses.cs.cmu.edu/spring2016/article/3)
+            + [Assignment 2: A Simple CUDA Renderer](http://15418.courses.cs.cmu.edu/spring2017/article/4)
     + [Course on CUDA Programming on NVIDIA GPUs, July 22-26, 2019](https://people.maths.ox.ac.uk/gilesm/cuda/)
         + [Lecture 3: control flow and synchronisation: Warp divergence](https://people.maths.ox.ac.uk/gilesm/cuda/lecs/lec3-2x2.pdf)
             + [Is branch divergence really so bad?](https://stackoverflow.com/questions/17223640/is-branch-divergence-really-so-bad)
@@ -88,7 +89,8 @@
         + [CUDA OPTIMIZATION TIPS, TRICKS AND TECHNIQUES Stephen Jones, GTC 2017](http://on-demand.gputechconf.com/gtc/2017/presentation/s7122-stephen-jones-cuda-optimization-tips-tricks-and-techniques.pdf)
         + [Small tips of optimizing CUDA programs](https://nanxiao.me/en/small-tips-of-optimizing-cuda-programs/)
         + [Error using __ldg in cuda kernel at compile time](https://stackoverflow.com/questions/24069524/error-using-ldg-in-cuda-kernel-at-compile-time)
-        tl;dr```sh
+        tl;dr    
+        ```sh
         nvcc -arch=sm_35 ...
         ```
 
