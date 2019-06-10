@@ -124,6 +124,8 @@
 + [OCCA (Open Concurrent Compute Abstraction)](http://libocca.org/)
     + [github repository for OCCA](https://github.com/libocca/occa)
 
++ [VLI is a llibrary for high but fixed (128 to 512-bit) arithmetic and symbolic polinomials computations](http://comp-phys.org/vli/)
+
 + CPU, GPU & DRAM Architecture Simulators
     + [GPGPU-Sim](http://www.gpgpu-sim.org/)
     + [Integrated gem5 + GPGPU-Sim Simulator](http://cpu-gpu-sim.ece.wisc.edu/)
