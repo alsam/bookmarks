@@ -124,6 +124,7 @@
     + [Ждали, ждали и дождались! OpenMP 4.0](http://habrahabr.ru/company/intel/blog/204668/)
     + [Parallelization of a prefix sum (Openmp)](https://stackoverflow.com/questions/35821844/parallelization-of-a-prefix-sum-openmp)
         + [Parallel Prefix Sum (Scan) with CUDA](http://www.eecs.umich.edu/courses/eecs570/hw/parprefix.pdf)
+        + [Parallel prefixsum algorithm in fastflow](https://github.com/pinkgopher/prefixsum)
 
 + OpenACC
     + [IPMACC is a framework for translating/executing OpenACC for C API to/over CUDA or OpenCL runtime](https://github.com/lashgar/ipmacc)
