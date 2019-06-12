@@ -125,6 +125,7 @@
     + [Parallelization of a prefix sum (Openmp)](https://stackoverflow.com/questions/35821844/parallelization-of-a-prefix-sum-openmp)
         + [Parallel Prefix Sum (Scan) with CUDA](http://www.eecs.umich.edu/courses/eecs570/hw/parprefix.pdf)
         + [Parallel prefixsum algorithm in fastflow](https://github.com/pinkgopher/prefixsum)
+        + [GPU prefix scan](https://github.com/mark-poscablo/gpu-prefix-sum/blob/master/scan_standalone/scan.cu)
 
 + OpenACC
     + [IPMACC is a framework for translating/executing OpenACC for C API to/over CUDA or OpenCL runtime](https://github.com/lashgar/ipmacc)
