@@ -40,6 +40,7 @@ Inspection Systems](http://www.mdpi.com/1424-8220/13/12/16565/pdf)
     + [Accurate Robotic 3D Vision](http://universallogic.com/wp-content/uploads/2016/04/20110721-Acurate-Robotic-3D-Vision-Webinar.pdf)
 
 + ROS
+    + [Introduction to the Robot Operating System (ROS) Middleware - Mike Anderson, The PTR Group, Inc.](https://www.youtube.com/watch?v=yWtGUk3PBms)
     + [The Robot Operating System (ROS)](http://www.ros.org/)
         + [ROS wiki](http://wiki.ros.org/)
         + [ROS intro](http://www.uio.no/studier/emner/matnat/ifi/INF3480/v17/timeplan/lecturenotes/inf3480---ros---spring-2017---simplified.pdf)
