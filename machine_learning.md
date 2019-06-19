@@ -431,6 +431,7 @@
 
         + Books
             + Deep Learning books
+                + [**Mathematics for Machine Learning** by Garrett Thomas __terse, precise, and concise__](https://gwthomas.github.io/docs/math4ml.pdf)
                 + [MIT Deep Learning Book in PDF format](https://github.com/HFTrader/DeepLearningBook)
                 + [An Algebraic Perspective on Deep Learning](http://helper.ipam.ucla.edu/publications/gss2012/gss2012_10605.pdf)
                 + [The Neural Ring: Using Algebraic Geometry to Analyze Neural Codes](http://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1057&context=mathstudent)
