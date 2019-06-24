@@ -13,7 +13,7 @@
         + [Roe, HLL, HLLC, Burgers Scheme; 1D, 2D, 3D; Euler Equation, (~Maxwell), (~MHD), ADM Solver in OpenCL](https://github.com/thenumbernine/HydrodynamicsGPU)
     + [Implementing the discontinuous Galerkin method in CUDA](https://github.com/martyfuhry/DGCUDA)
         + [Marty Fuhry's Homepage](http://www.martyfuhry.blogspot.co.uk/p/another-page.html)
-            + [Master's Thesis: An Implementation of the Discontinuous Galerkin Method on Graphics Processing Units, defended May, 2013](https://www.dropbox.com/s/w205x0ppyc15ylt/Fuhry_Martin.pdf)
+            + [Master's Thesis: An Implementation of the Discontinuous Galerkin Method on Graphics Processing Units, defended May, 2013](https://uwspace.uwaterloo.ca/bitstream/handle/10012/7523/Fuhry_Martin.pdf?sequence=1)
     + [SU2](http://su2.stanford.edu/)
         + [github repo for SU2](https://github.com/su2code/SU2)
     + [HiFiLES: High Fidelity Large Eddy Simulation](https://hifiles.stanford.edu/)
