@@ -39,6 +39,20 @@ Inspection Systems](http://www.mdpi.com/1424-8220/13/12/16565/pdf)
 
     + [Accurate Robotic 3D Vision](http://universallogic.com/wp-content/uploads/2016/04/20110721-Acurate-Robotic-3D-Vision-Webinar.pdf)
 
++ ROS2
+    + [Building ROS 2 on Linux](https://index.ros.org/doc/ros2/Installation/Dashing/Linux-Development-Setup/#get-ros-2-code)
+    + [Ros_2 on Arch Linux](https://wiki.archlinux.org/index.php/ROS#Ros_2)
+        ````sh    
+        $ cd ~/ros2_ws/src/ros2/rviz/
+        $ git remote add racko https://github.com/racko/rviz.git
+        $ git fetch racko added_cmake_project_type fix_fallthrough fix_wrong_yaml_cpp
+        $ git cherry-pick racko/added_cmake_project_type racko/fix_fallthrough racko/fix_wrong_yaml_cpp
+        ...
+        sudo python3 -m pip install empy setuptools nose vcstool pep8 pydocstyle pyflakes flake8 mock coverage
+        sudo pip3 install lark-parser
+        ```
+    + [ROS2 Fails to build qt_gui_cpp](https://github.com/ros2/ros2/issues/623)
+
 + ROS
     + [Introduction to the Robot Operating System (ROS) Middleware - Mike Anderson, The PTR Group, Inc.](https://www.youtube.com/watch?v=yWtGUk3PBms)
     + [The Robot Operating System (ROS)](http://www.ros.org/)
