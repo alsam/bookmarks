@@ -9,6 +9,8 @@
     + [What are possible methods to solve compressible Euler equations](http://scicomp.stackexchange.com/questions/283/what-are-possible-methods-to-solve-compressible-euler-equations/305#305 What are possible methods to solve compressible Euler equations)
     + [I do like CFD, VOL.1, Second Edition](http://www.cfdbooks.com/cfdbooks.html)
     + [Free CFD Codes](http://www.cfdbooks.com/cfdcodes.html)
+    + Lattice Boltzmann codes
+        + [A lattice Boltzmann code for complex fluids](https://github.com/ludwig-cf/ludwig)
     + [Hydrodynamics in OpenCL](http://christopheremoore.net/hydrodynamics-cl/)
         + [Roe, HLL, HLLC, Burgers Scheme; 1D, 2D, 3D; Euler Equation, (~Maxwell), (~MHD), ADM Solver in OpenCL](https://github.com/thenumbernine/HydrodynamicsGPU)
     + [Implementing the discontinuous Galerkin method in CUDA](https://github.com/martyfuhry/DGCUDA)
