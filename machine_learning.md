@@ -376,7 +376,11 @@
     + [quora: FPGAs-useful-in-neural-networks](https://www.quora.com/Artificial-Intelligence-How-are-field-programmable-gate-arrays-FPGAs-useful-in-neural-networks)
         + [Recurrent Neural Networks Hardware Implementation on FPGA](https://arxiv.org/abs/1511.05552v1)
 
-+ bleeding rnn
++ bleeding rnn+yolo
+    + **Y**ou **O**nly **L**ook **O**nce -- **YOLO**
+        + [YOLO: Real-Time Object Detection](https://pjreddie.com/darknet/yolo/)
+            + [a paper: You Only Look Once:Unified, Real-Time Object Detection](https://arxiv.org/pdf/1506.02640v5.pdf)
+            + [YOLOv3: An Incremental Improvement](YOLO: Real-Time Object Detection)
     + [Neural language notes](https://github.com/dykang/neurallanguage-notes)
     + [neural-network-papers](https://libraries.io/github/robertsdionne/neural-network-papers)
     + [Awesome Recurrent Neural Networks](https://github.com/kjw0612/awesome-rnn)
