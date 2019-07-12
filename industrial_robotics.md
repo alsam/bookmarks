@@ -39,7 +39,7 @@ Inspection Systems](http://www.mdpi.com/1424-8220/13/12/16565/pdf)
 
     + [Accurate Robotic 3D Vision](http://universallogic.com/wp-content/uploads/2016/04/20110721-Acurate-Robotic-3D-Vision-Webinar.pdf)
 
-+ ROS2
++ ROS2 + ROS
     + [Building ROS 2 on Linux](https://index.ros.org/doc/ros2/Installation/Dashing/Linux-Development-Setup/#get-ros-2-code)
     + [Ros_2 on Arch Linux](https://wiki.archlinux.org/index.php/ROS#Ros_2)
         ````sh    
@@ -53,7 +53,13 @@ Inspection Systems](http://www.mdpi.com/1424-8220/13/12/16565/pdf)
         ```
     + [ROS2 Fails to build qt_gui_cpp](https://github.com/ros2/ros2/issues/623)
 
-+ ROS
+    + ROS Digest
+        + [ROS 2 vs. ROS 1 : Which One Is Better For Me?](http://www.theconstructsim.com/infographic-ros-1-vs-ros-2-one-better-2/)
+        + [On not using ROS for your robotics startup?](http://www.theconstructsim.com/not-using-ros-robotics-product/)
+        + [What is moveit_ros? All about Movelt! ROS](http://www.theconstructsim.com/ros-movelt/)
+        + [How to Start with Self-Driving Cars Using ROS](http://www.theconstructsim.com/start-self-driving-cars-using-ros/)
+        + [How To Become a Robotics Developer](http://www.theconstructsim.com/become-robotics-developer/)
+
     + [Introduction to the Robot Operating System (ROS) Middleware - Mike Anderson, The PTR Group, Inc.](https://www.youtube.com/watch?v=yWtGUk3PBms)
     + [The Robot Operating System (ROS)](http://www.ros.org/)
         + [ROS wiki](http://wiki.ros.org/)
