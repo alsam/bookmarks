@@ -55,6 +55,10 @@ Inspection Systems](http://www.mdpi.com/1424-8220/13/12/16565/pdf)
         ```
     + [ROS2 Fails to build qt_gui_cpp](https://github.com/ros2/ros2/issues/623)
 
+    + ROS2 tutorials
+        + [Create a ROS 2 package (C++)](http://docs.erlerobotics.com/robot_operating_system/ros2/tutorials/tutorial_5)
+        + [How to launch a ROS2 node](http://www.theconstructsim.com/ros2-5-mins-001-launch-ros2-node/)
+
     + ROS Digest
         + [ROS 2 vs. ROS 1 : Which One Is Better For Me?](http://www.theconstructsim.com/infographic-ros-1-vs-ros-2-one-better-2/)
         + [On not using ROS for your robotics startup?](http://www.theconstructsim.com/not-using-ros-robotics-product/)
