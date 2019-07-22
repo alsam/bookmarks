@@ -14,6 +14,7 @@
     + [BLIS (flame)](https://code.google.com/p/blis/)
         + [github repo for BLIS](https://github.com/flame/blis)
         + [github repo for FLAME](https://github.com/flame/libflame)
+    + [**M**atrix **T**emplate **L**ibrary 4](http://new.simunova.com/en/mtl4/)
     + [GEMM: From Pure C to SSE Optimized Micro Kernels](http://apfel.mathematik.uni-ulm.de/~lehn/sghpc/gemm/index.html)
         [ulmBLAS: parent of the above link](https://github.com/michael-lehn/ulmBLAS)
     + [GEMV kernel](http://math-atlas.sourceforge.net/devel/atlas_contrib/node46.html)
