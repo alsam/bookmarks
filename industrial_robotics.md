@@ -59,6 +59,11 @@ Inspection Systems](http://www.mdpi.com/1424-8220/13/12/16565/pdf)
         + [Create a ROS 2 package (C++)](http://docs.erlerobotics.com/robot_operating_system/ros2/tutorials/tutorial_5)
         + [How to launch a ROS2 node](http://www.theconstructsim.com/ros2-5-mins-001-launch-ros2-node/)
 
+    + [OpenAI Gym+ROS+Gazebo: обучение автономного робота в домашних условиях. Часть 1](https://habr.com/ru/post/441218/)
+        + [Rapid Autonomous Complex-Environment Competing Ackermann-steering Robot](https://github.com/mit-racecar/)
+        + [A lightweight simulator of the MIT Racecar](https://github.com/mit-racecar/racecar_simulator)
+        + [Reinforcement Learning with OpenAI Gym and Gazebo Environment](https://github.com/karray/neuroracer)
+
     + ROS Digest
         + [ROS 2 vs. ROS 1 : Which One Is Better For Me?](http://www.theconstructsim.com/infographic-ros-1-vs-ros-2-one-better-2/)
         + [On not using ROS for your robotics startup?](http://www.theconstructsim.com/not-using-ros-robotics-product/)
