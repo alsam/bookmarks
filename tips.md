@@ -229,6 +229,8 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
     + misc
         + [8 Best Linux Console File Managers](https://www.tecmint.com/linux-terminal-file-managers/?fbclid=IwAR1j9PzVEJ2TvP0ze0cLKfeB_bBq9ISECNqsPsPSbVyScJO-po-2jY4Q1i0)
 
++ [C++ Best Practices](https://lefticus.gitbooks.io/cpp-best-practices/content/02-Use_the_Tools_Available.html)
+
 + [free modern C++ book: Discovering Modern C++](https://github.com/stoneyang-cs/cpp_book/blob/master/Discovering%20Modern%20C%2B%2B%20-%20Peter%20Gottschling.pdf)
 
 + [OOP cheatsheet](https://tproger.ru/translations/oop-principles-cheatsheet/)
