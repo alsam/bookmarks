@@ -104,3 +104,4 @@
         + [Introduction to algebraic topology](http://www.math.columbia.edu/~khovanov/algtop2013/)
             + [Algebraic Topology Beyond the Basics:Any Texts Bridging The Gap?](https://mathoverflow.net/questions/18041/algebraic-topology-beyond-the-basicsany-texts-bridging-the-gap)
         + [Reading list for basic differential geometry?](https://mathoverflow.net/questions/395/reading-list-for-basic-differential-geometry)
+        + [Algebra, Topology, Differential Calculus, and Optimization Theory for Computer Science and Machine Learning](http://www.cis.upenn.edu/~jean/gbooks/geomath.html)
