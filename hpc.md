@@ -76,7 +76,8 @@
 + [Как SpaceX использует GPU для обсчёта ракетных двигателей](http://habrahabr.ru/post/256081/)
     + [Rockets Shake And Rattle, So SpaceX Rolls Homegrown CFD](http://www.nextplatform.com/2015/03/27/rockets-shake-and-rattle-so-spacex-rolls-homegrown-cfd/)
 
-+ CUDA rehab
++ CUDA rehab & NVidia docs
+    + [Documentation of NVIDIA chip/hardware interfaces](https://github.com/NVIDIA/open-gpu-doc)
     + [CS344 : CUDA Programming in C](https://classroom.udacity.com/courses/cs344)
     + [UD281 : High Performance Computing](https://classroom.udacity.com/courses/ud281)
         + [Parallel Computer Architecture and Programming (CMU 15-418/618)](http://15418.courses.cs.cmu.edu/spring2016/)
