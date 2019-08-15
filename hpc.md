@@ -65,9 +65,10 @@
         + [Programming Models - Languages and tools for developing multi-scale applicatins.](http://www.exmatex.org/prog-models.html)
         + [Terra is a new low-level system programming language that is designed to interoperate seamlessly with the Lua programming language](http://terralang.org/)
 
-+ CP2K
-    + [Mirror of official svn repository at sourceforge. Synced every 5 minutes.](https://github.com/cp2k/cp2k)
-    + [Accelerated Sparse Matrix Multiplication for Quantum Chemistry with CP2K on Hyprid Supercomputers](https://www.youtube.com/watch?v=5wppMHxF_Js)
++ [List of quantum chemistry and solid-state physics software](https://en.wikipedia.org/wiki/List_of_quantum_chemistry_and_solid-state_physics_software)
+    + CP2K
+        + [Mirror of official svn repository at sourceforge. Synced every 5 minutes.](https://github.com/cp2k/cp2k)
+        + [Accelerated Sparse Matrix Multiplication for Quantum Chemistry with CP2K on Hyprid Supercomputers](https://www.youtube.com/watch?v=5wppMHxF_Js)
 
 + [Evaluation of C, Go, and Rust in the HPC environment](https://news.ycombinator.com/item?id=9477014)
 
