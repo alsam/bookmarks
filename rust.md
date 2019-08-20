@@ -347,9 +347,6 @@
             + [Создаём REST-сервис на Rust. Часть 4: переходим к REST API](http://habrahabr.ru/post/268617/)
             + [Создаём REST-сервис на Rust. Часть 5: обработчики, рефакторинг, и макросы](http://habrahabr.ru/post/269903/)
             + [Rust в деталях: пишем масштабируемый чат с нуля, часть 1](http://habrahabr.ru/post/268609/)
-            + [Пишем свой упрощенный OpenGL на Rust — часть 1 (рисуем линию)](http://habrahabr.ru/post/261629/)
-            + [Пишем свой упрощенный OpenGL на Rust — часть 2 (проволочный рендер)](http://habrahabr.ru/post/261739/)
-            + [Пишем свой упрощенный OpenGL на Rust — часть 3 (растеризатор)](http://habrahabr.ru/post/262235/)
 
         + [Good Practices for Writing Rust Libraries](https://pascalhertleif.de/artikel/good-practices-for-writing-rust-libraries/)
 
@@ -799,15 +796,24 @@
         svgbob examples/long.bob > long.svg
         ```
 
-    + [Rust and OpenGL from scratch - Setup](http://nercury.github.io/rust/opengl/tutorial/2018/02/08/opengl-in-rust-from-scratch-00-setup.html)
-    + [Rust and OpenGL from scratch - Window](http://nercury.github.io/rust/opengl/tutorial/2018/02/08/opengl-in-rust-from-scratch-01-window.html)
-    + [Rust and OpenGL from scratch - OpenGL Context](http://nercury.github.io/rust/opengl/tutorial/2018/02/09/opengl-in-rust-from-scratch-02-opengl-context.html)
-    + [Rust and OpenGL from scratch - Compiling Shaders](http://nercury.github.io/rust/opengl/tutorial/2018/02/10/opengl-in-rust-from-scratch-03-compiling-shaders.html)
-    + [Rust and OpenGL from scratch - Triangle](http://nercury.github.io/rust/opengl/tutorial/2018/02/11/opengl-in-rust-from-scratch-04-triangle.html)
-    + [Rust and OpenGL from scratch - Colored Triangle](http://nercury.github.io/rust/opengl/tutorial/2018/02/11/opengl-in-rust-from-scratch-05-triangle-colors.html)
-    + [Rust and OpenGL from scratch - GL Generator](http://nercury.github.io/rust/opengl/tutorial/2018/02/12/opengl-in-rust-from-scratch-06-gl-generator.html)
-    + [Rust and OpenGL from scratch - Basic Resources](http://nercury.github.io/rust/opengl/tutorial/2018/02/14/opengl-in-rust-from-scratch-07-basic-resources.html)
-    + [Rust and OpenGL from scratch - Failure](http://nercury.github.io/rust/opengl/tutorial/2018/02/15/opengl-in-rust-from-scratch-08-failure.html)
+    + Graphics in Rust
+
+        + [A Guide to Rust Graphics Libraries](https://wiki.alopex.li/AGuideToRustGraphicsLibraries2019)
+            + [winit - Cross-platform window creation and management in Rust](https://crates.io/crates/winit)
+        + Rust and OpenGL from scratch
+            + [Rust and OpenGL from scratch - Setup](http://nercury.github.io/rust/opengl/tutorial/2018/02/08/opengl-in-rust-from-scratch-00-setup.html)
+            + [Rust and OpenGL from scratch - Window](http://nercury.github.io/rust/opengl/tutorial/2018/02/08/opengl-in-rust-from-scratch-01-window.html)
+            + [Rust and OpenGL from scratch - OpenGL Context](http://nercury.github.io/rust/opengl/tutorial/2018/02/09/opengl-in-rust-from-scratch-02-opengl-context.html)
+            + [Rust and OpenGL from scratch - Compiling Shaders](http://nercury.github.io/rust/opengl/tutorial/2018/02/10/opengl-in-rust-from-scratch-03-compiling-shaders.html)
+            + [Rust and OpenGL from scratch - Triangle](http://nercury.github.io/rust/opengl/tutorial/2018/02/11/opengl-in-rust-from-scratch-04-triangle.html)
+            + [Rust and OpenGL from scratch - Colored Triangle](http://nercury.github.io/rust/opengl/tutorial/2018/02/11/opengl-in-rust-from-scratch-05-triangle-colors.html)
+            + [Rust and OpenGL from scratch - GL Generator](http://nercury.github.io/rust/opengl/tutorial/2018/02/12/opengl-in-rust-from-scratch-06-gl-generator.html)
+            + [Rust and OpenGL from scratch - Basic Resources](http://nercury.github.io/rust/opengl/tutorial/2018/02/14/opengl-in-rust-from-scratch-07-basic-resources.html)
+            + [Rust and OpenGL from scratch - Failure](http://nercury.github.io/rust/opengl/tutorial/2018/02/15/opengl-in-rust-from-scratch-08-failure.html)
+            + [Пишем свой упрощенный OpenGL на Rust — часть 1 (рисуем линию)](http://habrahabr.ru/post/261629/)
+            + [Пишем свой упрощенный OpenGL на Rust — часть 2 (проволочный рендер)](http://habrahabr.ru/post/261739/)
+            + [Пишем свой упрощенный OpenGL на Rust — часть 3 (растеризатор)](http://habrahabr.ru/post/262235/)
+
  
     + Rust robotics
         + [rust-robotics-libraries](https://gist.github.com/ClintLiddick/2966203a425ac5fb70a3d6eb0022f675)
