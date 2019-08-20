@@ -125,4 +125,7 @@
 
 + [Industrial robotics: planning & locomotion & computer vision](https://github.com/alsam/bookmarks/blob/master/industrial_robotics.md)
 
++ [**IoT** -- **I**nternet **o**f **T**hings](https://github.com/alsam/bookmarks/blob/master/iot.md)
+
 + [Blogs](https://github.com/alsam/bookmarks/blob/master/blogs.md)
+
