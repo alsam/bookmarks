@@ -143,6 +143,11 @@
 + [VLI is a llibrary for high but fixed (128 to 512-bit) arithmetic and symbolic polinomials computations](http://comp-phys.org/vli/)
     + [Series Expansion Methods for Quantum Lattice Models](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/123831/eth-50186-02.pdf)
 
++ ARM Neon
+    + [Coding for ARM NEON: How to start?](https://stackoverflow.com/questions/28547697/coding-for-arm-neon-how-to-start)
+    + [SIMD Assembly Tutorial:ARM NEON](https://people.xiph.org/~tterribe/daala/neon_tutorial.pdf)
+    + [ARM NEON скининг](https://habr.com/en/post/153015/)
+
 + CPU, GPU & DRAM Architecture Simulators
     + [GPGPU-Sim](http://www.gpgpu-sim.org/)
     + [Integrated gem5 + GPGPU-Sim Simulator](http://cpu-gpu-sim.ece.wisc.edu/)
