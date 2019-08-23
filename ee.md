@@ -8,5 +8,7 @@
         + [Fast, interactive Julia/GTK+ plots (+Smith charts +Gtk widget +Cairo-only images)](https://github.com/ma-laforge/InspectDR.jl)
             + [InspectDR](https://sites.google.com/site/malaforgeweb/plotting/inspectdr)
 
++ [S-Parameters](http://www.antenna-theory.com/definitions/sparameters.php)
+
 + [Algorithms from circuit theory to predict connectivity in heterogeneous landscapes](https://github.com/Circuitscape/Circuitscape.jl)
     + [Circuitscape borrows algorithms from electronic circuit theory to predict connectivity in heterogeneous landscapes](https://circuitscape.org/)
