@@ -127,5 +127,7 @@
 
 + [**IoT** -- **I**nternet **o**f **T**hings](https://github.com/alsam/bookmarks/blob/master/iot.md)
 
++ [**EE** -- **E**lectrical **E**ngineering](https://github.com/alsam/bookmarks/blob/master/ee.md)
+
 + [Blogs](https://github.com/alsam/bookmarks/blob/master/blogs.md)
 
