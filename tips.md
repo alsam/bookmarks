@@ -1410,6 +1410,7 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
     ls -lrt | grep ^- | awk 'END{print $NF}'
     ```
 + Build Systems
+    + [CMake cheat sheet](https://ps-group.github.io/cxx/cmake_cheatsheet)
     + [CMake cannot find GoogleTest required library in Ubuntu](https://stackoverflow.com/questions/24295876/cmake-cannot-find-googletest-required-library-in-ubuntu)
     + [CMake by Example](https://mirkokiefer.com/cmake-by-example-f95eb47d45b1)
     + [What are the best open-source build systems for C/C++?](https://www.slant.co/topics/4263/~open-source-build-systems-for-c-c)
