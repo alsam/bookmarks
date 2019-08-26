@@ -1503,15 +1503,6 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
 + tmux
     + [Краткая шпаргалка по tmux](https://habrahabr.ru/post/126996/)
 
-+ Qt / QML
-    + [How do I place dynamic content into a QML component](http://stackoverflow.com/questions/21864809/how-do-i-place-dynamic-content-into-a-qml-component)
-    + [Accessing Members of a QML Object Type from C++](http://doc.qt.io/qt-5/qtqml-cppintegration-interactqmlfromcpp.html)
-    + [Qt with Cascades UI Examples Documentation](http://blackberry.github.io/Qt2Cascades-Samples/docs/progressdialog.html)
-    + [How to add include path in Qt Creator?](https://stackoverflow.com/questions/2752352/how-to-add-include-path-in-qt-creator)
-    tl;dr
-    ```sh
-    qmake occQt.pro -r -spec linux-g++-64 CONFIG+=debug INCLUDEPATH+=/usr/local/include/opencascade
-    ```
 + TCP backup
     + [Chapter 2. The Transport Layer: TCP, UDP, and SCTP](https://notes.shichao.io/unp/ch2/)
         + [Chapter 4. Elementary TCP Sockets](https://notes.shichao.io/unp/ch4/)
