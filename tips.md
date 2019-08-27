@@ -1047,6 +1047,7 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
         }
         ```
     + [What Every C++ Developer Should Know to (Correctly) Define Global Constants](https://www.fluentcpp.com/2019/07/23/how-to-define-a-global-constant-in-cpp/)
+    + [Why const Doesn't Make C Code Faster](https://theartofmachinery.com/2019/08/12/c_const_isnt_for_performance.html)
     + [Impossibly fast delegate in C++11](http://codereview.stackexchange.com/questions/14730/impossibly-fast-delegate-in-c11)
     + [Разработка → RAII + С++ variadic templates = win](https://habrahabr.ru/post/172817/)
     + [Perfect forwarding and universal references in C++](http://eli.thegreenplace.net/2014/perfect-forwarding-and-universal-references-in-c/)
