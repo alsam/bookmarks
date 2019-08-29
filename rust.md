@@ -324,6 +324,14 @@
 
     + [unicode chars for idents](http://www.reddit.com/r/rust/comments/2pvksp/filename_with_dots_or_unicode_chars_not_working/)
 
+    + Rust numerical
+        + [Special functions for Rust by binding to the Cephes library](https://crates.io/crates/special-fun/)
+        + [Library of well known algorithms for numerical root finding](https://crates.io/crates/roots/)
+        + [Polsim - a case study for small-scale scientific computing in Rust](https://tinkering.xyz/polsim/)
+            + [Simulate the polarization of a laser beam](https://github.com/zmitchell/polarization)
+            + [A command line utility for doing polarization simulations](https://github.com/zmitchell/polsim)
+
+
     + Misc
         + [Implementing Finite Automata (Part 1)](https://apanatshka.github.io/compsci/2016/10/03/implementing-finite-automata-part-1/)
         + [Contributing to Rust](http://www.ncameron.org/rust.html)
@@ -503,10 +511,6 @@
                 }
             }
             ```
-
-        + [Special functions for Rust by binding to the Cephes library](https://crates.io/crates/special-fun/)
-
-        + [Library of well known algorithms for numerical root finding](https://crates.io/crates/roots/)
 
         + [Rustdoc: reStructuredText vs Markdown: On The Potential Inadequacy of Markdown](https://internals.rust-lang.org/t/rustdoc-restructuredtext-vs-markdown/356/71)
 
