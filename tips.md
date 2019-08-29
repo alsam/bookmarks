@@ -1517,6 +1517,16 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
         + [Starter UDP Server And Client in C++](https://prglb.ru/4evp2)
         + [Creating a TCP Server in C++ [Linux / Code Blocks]](https://www.youtube.com/watch?v=cNdlrbZSkyQ)
 
++ [VPP](https://wiki.fd.io/view/VPP)
+    + [VPP/What is VPP? The VPP platform is an extensible framework that provides out-of-the-box production quality switch/router functionality](https://wiki.fd.io/view/VPP/What_is_VPP%3F)
+    + [VPP/Pulling, Building, Running, Hacking and Pushing VPP Code](_Hacking_and_Pushing_VPP_Code)
+    ```tl;dr
+    git clone https://USERNAME@gerrit.fd.io/r/a/vpp
+    ```
+    + [Building FD.io VPP 18.10 on Ubuntu 18.04 LTS with Mellanox DPDK PMD without OFED](http://www.jimmdenton.com/vpp-1810-mellanox/)
+    + [VPP/Installing VPP binaries from packages](https://wiki.fd.io/view/VPP/Installing_VPP_binaries_from_packages)
+    + [Arch Linux in the Arch User Repository (AUR)](https://aur.archlinux.org/packages/vpp/)
+
 + [WHY MILLISECONDS MATTER : REST vs. gRPC](https://www.yonego.com/nl/why-milliseconds-matter/#gref)
 
 + Data transfer
