@@ -890,6 +890,7 @@
         + [The fastest and safest AV1 encoder. in Rust](https://github.com/xiph/rav1e)
         + [Is there a time I should use C++ instead of Rust?](https://www.quora.com/Is-there-a-time-I-should-use-C-instead-of-Rust)
         + [Speedy Desktop Apps With GTK and Rust](https://nora.codes/tutorial/speedy-desktop-apps-with-gtk-and-rust/)
+            + [nora codes](https://nora.codes/)
         + [Nannou Update - Vulkan, LASERs and more!](https://nannou.cc/posts/nannou_v0.9)
         + [Visual Embedded Rust Programming with Visual Studio Code](https://medium.com/@ly.lee/visual-embedded-rust-programming-with-visual-studio-code-1bc1262e398c)
 
