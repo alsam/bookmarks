@@ -1517,6 +1517,9 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
         + [Starter UDP Server And Client in C++](https://prglb.ru/4evp2)
         + [Creating a TCP Server in C++ [Linux / Code Blocks]](https://www.youtube.com/watch?v=cNdlrbZSkyQ)
 
++ [The Illustrated TLS Connection Every byte of a TLS connection explained and reproduced](https://tls.ulfheim.net/)
+    + [The Illustrated TLS Connection: Every byte explained](https://github.com/syncsynchalt/illustrated-tls)
+
 + [VPP](https://wiki.fd.io/view/VPP)
     + [VPP/What is VPP? The VPP platform is an extensible framework that provides out-of-the-box production quality switch/router functionality](https://wiki.fd.io/view/VPP/What_is_VPP%3F)
     + [VPP/Pulling, Building, Running, Hacking and Pushing VPP Code](_Hacking_and_Pushing_VPP_Code)
