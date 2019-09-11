@@ -386,6 +386,21 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
         git push --set-upstream origin master
         ```
 
+        + [git - remote add origin vs remote set-url origin](https://stackoverflow.com/questions/42830557/git-remote-add-origin-vs-remote-set-url-origin/42830632)
+        tl;dr    
+        below is used to a add a new remote:
+        ```sh
+        git remote add origin git@github.com:User/UserRepo.git
+        ```
+        below is used to change the url of an existing remote repository:    
+        ```sh
+        git remote set-url origin git@github.com:User/UserRepo.git
+        ```
+        below will push your code to the master branch of the remote repository defined with origin and -u let you point your current local branch to the remote master branch:    
+        ```sh
+        git push -u origin master
+        ```
+
         + [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 
     + [Pijul - distributed version control system written in Rust](https://pijul.org/manual/)
