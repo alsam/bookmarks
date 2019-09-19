@@ -434,6 +434,7 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
         :set ff=unix
         + [Understanding Vim’s Jump List](https://medium.com/breathe-publication/understanding-vims-jump-list-7e1bfc72cdf0)
         + [Что вам стоит знать, если вы начали изучение Vim](https://proglib.io/p/vim-what-i-wish-i-knew/)
+        + [Minimalist Vim Plugin Manager vim-plug](https://github.com/junegunn/vim-plug)
         + [Vim’s absolute, relative and hybrid line numbers](https://jeffkreeftmeijer.com/vim-number/)
             + [How to turn off Vim relativenumber setting?](https://stackoverflow.com/questions/32306604/how-to-turn-off-vim-relativenumber-setting)
         + [Об удобной навигации и отладке C++ кода в Vim](https://habr.com/en/post/245681/)
