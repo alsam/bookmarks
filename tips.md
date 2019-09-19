@@ -502,6 +502,13 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
               sudo apt install python3-dev
               python3 install.py --clang-completer --racer-completer
               ```
+        + CoC - **C**onquer **o**f **C**ompletion
+            + [Intellisense engine for vim8 & neovim, full language server protocol support as VSCode](https://github.com/neoclide/coc.nvim)
+                + [coc.nvim : read it first](https://www.npmjs.com/package/coc.nvim)
+            + [CoC Language servers : C++](https://github.com/neoclide/coc.nvim/wiki/Language-servers#ccobjective-c)
+                + [C/C++/ObjC language server supporting cross references, hierarchies, completion and semantic highlighting](https://github.com/MaskRay/ccls)
+                    + [ccls : Build](https://github.com/MaskRay/ccls/wiki/Build#system-specific-notes)
+                + [Rust support for coc.nvim](https://github.com/neoclide/coc-rls/)
 
         + [Demystifying multi file searches in `vim` and the command line](https://seesparkbox.com/foundry/demystifying_multi_file_searches_in_vim_and_the_command_line)
         + [Use VIM as your RUST IDE](https://github.com/ivanceras/rust-vim-setup)
