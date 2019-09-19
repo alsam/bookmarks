@@ -505,6 +505,7 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
         + CoC - **C**onquer **o**f **C**ompletion
             + [Intellisense engine for vim8 & neovim, full language server protocol support as VSCode](https://github.com/neoclide/coc.nvim)
                 + [coc.nvim : read it first](https://www.npmjs.com/package/coc.nvim)
+                    + [Floating windows](https://github.com/neoclide/coc.nvim/wiki/F.A.Q#how-to-make-preview-window-shown-aside-with-pum)
             + [CoC Language servers : C++](https://github.com/neoclide/coc.nvim/wiki/Language-servers#ccobjective-c)
                 + [C/C++/ObjC language server supporting cross references, hierarchies, completion and semantic highlighting](https://github.com/MaskRay/ccls)
                     + [ccls : Build](https://github.com/MaskRay/ccls/wiki/Build#system-specific-notes)
