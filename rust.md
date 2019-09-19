@@ -882,6 +882,8 @@
             + [Update AST to hold const generics #227](https://github.com/dtolnay/syn/issues/227)
                 + [Generics refactoring (groundwork for const generics)](https://github.com/rust-lang/rust/pull/45930)
 
+    + [Secure and fast microVMs for serverless computing](https://github.com/firecracker-microvm/firecracker)
+
     + misc
         + [Prior work on Krylov subspace methods?](https://users.rust-lang.org/t/prior-work-on-krylov-subspace-methods/13261/3)
         + [Herb Sutter: “Metaclasses: Thoughts on generative C++”](https://internals.rust-lang.org/t/herb-sutter-metaclasses-thoughts-on-generative-c/5647)

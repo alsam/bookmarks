@@ -845,7 +845,7 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
     + [LFS root](http://www.linuxfromscratch.org/)
     + [Beyond Linux® From Scratch (systemd edition)](http://www.linuxfromscratch.org/blfs/view/systemd/)
 
-+ Docker+Kubernetes
++ Docker+Kubernetes+FireCracker
     + [Основы Kubernetes](https://habr.com/ru/post/258443/)
         + [How to install Kubernetes on Ubuntu 18.04 Bionic Beaver Linux](https://linuxconfig.org/how-to-install-kubernetes-on-ubuntu-18-04-bionic-beaver-linux)
             + [Install and Set Up kubectl](https://kubernetes.io/docs/tasks/tools/install-kubectl/)
@@ -868,6 +868,8 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
         ```
     + [docker run -> name is already in use by container](https://stackoverflow.com/questions/31697828/docker-run-name-is-already-in-use-by-container)
         + tl;dr `docker rm $(docker ps -aq --filter name=CONTAINER_NAME)`
+
+    + [Secure and fast microVMs for serverless computing](https://github.com/firecracker-microvm/firecracker)
 
 + CLion
     + [Debugging in CLion](https://blog.jetbrains.com/clion/2015/05/debug-clion/)
