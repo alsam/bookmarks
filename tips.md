@@ -1611,6 +1611,11 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
     + [lock files: 2.9 Synchronizing Resource Access Across Processes on Unix](http://etutorials.org/Programming/secure+programming/Chapter+2.+Access+Control/2.9+Synchronizing+Resource+Access+Across+Processes+on+Unix/)
 
 + misc
+    + [nm vs “readelf -s”](https://stackoverflow.com/questions/9961473/nm-vs-readelf-s)    
+    tl;dr    
+    ```sh
+    nm -o -D *.so
+    ```
     + [fdupes – A Comamndline Tool to Find and Delete Duplicate Files in Linux](http://www.tecmint.com/fdupes-find-and-delete-duplicate-files-in-linux/)
     + [Is there a difference between using pmount and mount?](https://superuser.com/questions/273956/is-there-a-difference-between-using-pmount-and-mount)
     + [How To Quickly Generate A Large File On The Command Line (With Linux)](http://www.skorks.com/2010/03/how-to-quickly-generate-a-large-file-on-the-command-line-with-linux/)
