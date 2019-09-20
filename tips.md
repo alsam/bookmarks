@@ -270,7 +270,7 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
 + [Fstab doesn't mount with exec](http://askubuntu.com/questions/678857/fstab-doesnt-mount-with-exec)
 
 + Distributed versioning systems
-    + git & github
+    + git & github & gitlab
         + Git remote access
             + [s there a way to skip password typing when using https:// on GitHub?](Is there a way to skip password typing when using https:// on GitHub?)
             + [How to use git with gnome-keyring integration](https://stackoverflow.com/questions/13385690/how-to-use-git-with-gnome-keyring-integration)
@@ -405,6 +405,10 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
         ```
 
         + [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+
+    + gitlab
+        + [Gitlab : Managing Issues](https://docs.gitlab.com/ee/user/project/issues/managing_issues.html)
+        + [GitLab Quick Actions](https://docs.gitlab.com/ee/user/project/quick_actions.html)
 
     + [Pijul - distributed version control system written in Rust](https://pijul.org/manual/)
 
