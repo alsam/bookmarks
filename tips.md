@@ -508,6 +508,7 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
               python3 install.py --clang-completer --racer-completer
               ```
         + CoC - **C**onquer **o**f **C**ompletion
+            + [Install coc.nvim](https://github.com/neoclide/coc.nvim/wiki/Install-coc.nvim)
             + [Intellisense engine for vim8 & neovim, full language server protocol support as VSCode](https://github.com/neoclide/coc.nvim)
                 + [coc.nvim : read it first](https://www.npmjs.com/package/coc.nvim)
                     + [Floating windows](https://github.com/neoclide/coc.nvim/wiki/F.A.Q#how-to-make-preview-window-shown-aside-with-pum)
@@ -515,6 +516,10 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
                 + [C/C++/ObjC language server supporting cross references, hierarchies, completion and semantic highlighting](https://github.com/MaskRay/ccls)
                     + [ccls : Build](https://github.com/MaskRay/ccls/wiki/Build#system-specific-notes)
                 + [Rust support for coc.nvim](https://github.com/neoclide/coc-rls/)
+                + [Guide To Turn Neovim Into A Rust IDE?](https://www.reddit.com/r/rust/comments/adepau/guide_to_turn_neovim_into_a_rust_ide/)
+                    + [useful init for nvim](https://github.com/realcr/my_init_vim/blob/master/init.vim)
+                    + [Why You Should Still Use Neovim](https://codekoalas.com/blog/why-you-should-still-use-neovim)
+                    + [Amp: "a complete text editor for your terminal"](https://www.reddit.com/r/rust/comments/7t6rsq/amp_a_complete_text_editor_for_your_terminal/)
 
         + [Demystifying multi file searches in `vim` and the command line](https://seesparkbox.com/foundry/demystifying_multi_file_searches_in_vim_and_the_command_line)
         + [Use VIM as your RUST IDE](https://github.com/ivanceras/rust-vim-setup)
