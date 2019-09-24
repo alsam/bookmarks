@@ -42,6 +42,22 @@ Inspection Systems](http://www.mdpi.com/1424-8220/13/12/16565/pdf)
 + ROS2 + ROS
     + ROS education
         + [ROS 2 Basics in 5 Days (C++)](http://www.theconstructsim.com/construct-learn-develop-robots-using-ros/robotigniteacademy_learnros/ros-courses-library/ros2-basics-course/)
+        + ROS2 : **R**eal **T**ime **P**ublish **S**ubscribe -- **RTPS** / **D**ata **D**istribution **S**ervice -- **DDS**
+            + [Data Distribution Service](https://wiki2.org/en/Real-Time_Publish-Subscribe_(RTPS)_Protocol)
+            + [DDS Interoperability Wire Protocol May 2019](https://www.omg.org/spec/DDSI-RTPS/2.3)
+            + [Reactive functional programming in distributed embedded systems](https://github.com/Klapeyron/Master_thesis/blob/master/W04_209248_2018_praca_magisterska.pdf)
+                + [**Reactive Extensions for C++**](https://github.com/ReactiveX/RxCpp)
+                    + [ReactiveX Languages](http://reactivex.io/languages.html)
+                        + [**An API for asynchronous programming with observable streams**](http://reactivex.io/)
+            + [eProsima Fast RTPS Documentation](https://eprosima-fast-rtps.readthedocs.io/en/latest/)
+                + [https://github.com/eProsima/Fast-RTPS](https://github.com/eProsima/Fast-RTPS)
+            + [ADLINK IST](https://github.com/ADLINK-IST)
+                + [Vortex OpenSplice Community Edition source repository](https://github.com/ADLINK-IST/opensplice)
+            + Scala
+                + [nuvo DDS API for Scala and Android](https://github.com/nuvo-io/moliere)
+                    + [nuvo-io/moliere-demo](https://github.com/nuvo-io/moliere-demo/tree/master/src/main/scala/dds/demo/vehicle)
+            + Rust rtps imps
+                + [Open implementation of the Real Time Publish Subscribe protocol in Rust](https://github.com/xdds/rtps)
     + [Building ROS 2 on Linux](https://index.ros.org/doc/ros2/Installation/Dashing/Linux-Development-Setup/#get-ros-2-code)
     + [Ros_2 on Arch Linux](https://wiki.archlinux.org/index.php/ROS#Ros_2)
         ````sh    
