@@ -58,6 +58,8 @@ Inspection Systems](http://www.mdpi.com/1424-8220/13/12/16565/pdf)
                     + [nuvo-io/moliere-demo](https://github.com/nuvo-io/moliere-demo/tree/master/src/main/scala/dds/demo/vehicle)
             + Rust rtps imps
                 + [Open implementation of the Real Time Publish Subscribe protocol in Rust](https://github.com/xdds/rtps)
+                + [Implementation of the Real Time Publish Subscribe (RTPS) in Rust](https://github.com/Klapeyron/rtps-rs)
+                + [RTPS IDL to Rust code generator](https://crates.io/crates/rtps-gen)
     + [Building ROS 2 on Linux](https://index.ros.org/doc/ros2/Installation/Dashing/Linux-Development-Setup/#get-ros-2-code)
     + [Ros_2 on Arch Linux](https://wiki.archlinux.org/index.php/ROS#Ros_2)
         ````sh    
