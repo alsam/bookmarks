@@ -109,7 +109,7 @@ Inspection Systems](http://www.mdpi.com/1424-8220/13/12/16565/pdf)
             + [ROS Best Practices from ETHZ](https://github.com/ethz-asl/ros_best_practices/wiki)
                 + [ROS Design Patterns](https://courses.cs.washington.edu/courses/cse466/11au/calendar/ros_cc_2_patterns.pdf)
                 + [ROS Best Practices](http://robohow.eu/_media/meetings/first-integration-workshop/ros-best-practices.pdf)
-                + How to set debug level: from rosconsole](http://wiki.ros.org/rosconsole)
+                + [How to set debug level: from rosconsole](http://wiki.ros.org/rosconsole)
                     + tl;dr
                     ```c++
                     #include <ros/console.h>
