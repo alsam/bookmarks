@@ -511,7 +511,7 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
             + [Install coc.nvim](https://github.com/neoclide/coc.nvim/wiki/Install-coc.nvim)
                 + Ubuntu install issues
                     + [Ubuntu 17 apt-get installs cmdtest instead of yarn](https://github.com/yarnpkg/yarn/issues/3189)
-                    + [How to Install Yarn on Ubuntu 18.04](https://linuxize.com/post/how-to-install-yarn-on-ubuntu-18-04/)
+                    + [How to Install Yarn on Ubuntu 18.04](https://linuxize.com/post/how-to-install-yarn-on-ubuntu-18-04/)    
                     tl;dr    
                     ```sh
                     sudo apt install npm
@@ -522,7 +522,7 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
                     yarn --version
                     1.17.3
                     ```
-                + Fast check after install
+                + Fast check after install    
                 tl;dr    
                 ```
                 :CocInfo
@@ -530,7 +530,8 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
                 :CocInstall coc-json
                 :CocConfig
                 :CocCommand
-                ```
+                ```    
+                tl;dr look into `~/.config/coc`
             + [Intellisense engine for vim8 & neovim, full language server protocol support as VSCode](https://github.com/neoclide/coc.nvim)
                 + [coc.nvim : read it first](https://www.npmjs.com/package/coc.nvim)
                     + [Floating windows](https://github.com/neoclide/coc.nvim/wiki/F.A.Q#how-to-make-preview-window-shown-aside-with-pum)
