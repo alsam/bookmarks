@@ -51,7 +51,15 @@ Inspection Systems](http://www.mdpi.com/1424-8220/13/12/16565/pdf)
                         + [**An API for asynchronous programming with observable streams**](http://reactivex.io/)
             + [eProsima Fast RTPS Documentation](https://eprosima-fast-rtps.readthedocs.io/en/latest/)
                 + [https://github.com/eProsima/Fast-RTPS](https://github.com/eProsima/Fast-RTPS)
-                + [eProsima FASTRTPSGEN is a Java application that generates source code using the data types defined in an IDL file](https://eprosima-fast-rtps.readthedocs.io/en/latest/geninfo.html)
+                + [eProsima FASTRTPSGEN is a Java application that generates source code using the data types defined in an IDL file](https://eprosima-fast-rtps.readthedocs.io/en/latest/geninfo.html)    
+                tl;dr    
+                ```sh
+                sudo add-apt-repository ppa:cwchien/gradle
+                sudo apt update
+                sudo apt upgrade gradle
+                ```
+                + [see Gradle: Could not determine java version from...](https://stackoverflow.com/questions/54358107/gradle-could-not-determine-java-version-from-11-0-2)
+                    + [Maven dependencies are not getting downloaded, proxy issues?](https://stackoverflow.com/questions/38329243/maven-dependencies-are-not-getting-downloaded-proxy-issues)
                 + [A brief introduction to the RTPS protocol](https://eprosima-fast-rtps.readthedocs.io/en/latest/introduction.html)
             + [ADLINK IST](https://github.com/ADLINK-IST)
                 + [Vortex OpenSplice Community Edition source repository](https://github.com/ADLINK-IST/opensplice)
