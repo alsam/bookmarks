@@ -509,6 +509,19 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
               ```
         + CoC - **C**onquer **o**f **C**ompletion
             + [Install coc.nvim](https://github.com/neoclide/coc.nvim/wiki/Install-coc.nvim)
+                + Ubuntu install issues
+                    + [Ubuntu 17 apt-get installs cmdtest instead of yarn](https://github.com/yarnpkg/yarn/issues/3189)
+                    + [How to Install Yarn on Ubuntu 18.04](https://linuxize.com/post/how-to-install-yarn-on-ubuntu-18-04/)
+                    tl;dr    
+                    ```sh
+                    sudo apt install npm
+                    curl -sS https://dl.yarnpkg.com/debian/pubkey.gpg | sudo apt-key add -
+                    echo "deb https://dl.yarnpkg.com/debian/ stable main" | sudo tee /etc/apt/sources.list.d/yarn.list
+                    sudo apt update
+                    sudo apt install yarn
+                    yarn --version
+                    1.17.3
+                    ```
             + [Intellisense engine for vim8 & neovim, full language server protocol support as VSCode](https://github.com/neoclide/coc.nvim)
                 + [coc.nvim : read it first](https://www.npmjs.com/package/coc.nvim)
                     + [Floating windows](https://github.com/neoclide/coc.nvim/wiki/F.A.Q#how-to-make-preview-window-shown-aside-with-pum)
@@ -519,7 +532,7 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
                 + [Guide To Turn Neovim Into A Rust IDE?](https://www.reddit.com/r/rust/comments/adepau/guide_to_turn_neovim_into_a_rust_ide/)
                     + [useful init for nvim](https://github.com/realcr/my_init_vim/blob/master/init.vim)
                     + [Why You Should Still Use Neovim](https://codekoalas.com/blog/why-you-should-still-use-neovim)
-                    + [Amp: "a complete text editor for your terminal"](https://www.reddit.com/r/rust/comments/7t6rsq/amp_a_complete_text_editor_for_your_terminal/)
+                    + [~~Amp: "a complete text editor for your terminal"~~](https://www.reddit.com/r/rust/comments/7t6rsq/amp_a_complete_text_editor_for_your_terminal/)
 
         + [Demystifying multi file searches in `vim` and the command line](https://seesparkbox.com/foundry/demystifying_multi_file_searches_in_vim_and_the_command_line)
         + [Use VIM as your RUST IDE](https://github.com/ivanceras/rust-vim-setup)
