@@ -46,6 +46,8 @@
             + [Scientific computing: a Rust adventure [Part 0 - Vectors] ](https://www.lpalmieri.com/posts/2019-02-23-scientific-computing-a-rust-adventure-part-0-vectors/)
             + [Rust 2019: Beat C++ ?](https://www.reddit.com/r/rust/comments/acjcbp/rust_2019_beat_c/)
                 + [Rust numeric-array](https://crates.io/crates/numeric-array)
+                + [Embedded Rust arithmetic, 2D/3D vector, and statistics library](https://github.com/neobirth/micromath)
+
         + [Are We Stdlib Yet?](https://www.reddit.com/r/rust/comments/5oqjnn/are_we_stdlib_yet/)
         + [Are we game yet?](http://arewegameyet.com/)
         + [Are we learning yet?](http://www.arewelearningyet.com/)
