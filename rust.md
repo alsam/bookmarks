@@ -43,11 +43,6 @@
         + [Are we web yet?](http://www.arewewebyet.org/)
         + [dead link : Are we concurrent yet?](http://areweconcurrentyet.com/)
         + [Are we numeric yet?](https://www.reddit.com/r/rust/comments/4drr2c/are_we_numeric_yet/)
-            + [Scientific computing: a Rust adventure [Part 0 - Vectors] ](https://www.lpalmieri.com/posts/2019-02-23-scientific-computing-a-rust-adventure-part-0-vectors/)
-            + [Rust 2019: Beat C++ ?](https://www.reddit.com/r/rust/comments/acjcbp/rust_2019_beat_c/)
-                + [Rust numeric-array](https://crates.io/crates/numeric-array)
-                + [Embedded Rust arithmetic, 2D/3D vector, and statistics library](https://github.com/neobirth/micromath)
-
         + [Are We Stdlib Yet?](https://www.reddit.com/r/rust/comments/5oqjnn/are_we_stdlib_yet/)
         + [Are we game yet?](http://arewegameyet.com/)
         + [Are we learning yet?](http://www.arewelearningyet.com/)
@@ -111,6 +106,17 @@
 
     + Linear Algebra + Numerics
         + [Scientific computing: a Rust adventure [Part 0 - Vectors] ](https://www.lpalmieri.com/posts/2019-02-23-scientific-computing-a-rust-adventure-part-0-vectors/)
+        + [Scientific computing: a Rust adventure [Part 1 - Zero-cost abstractions] ](https://www.lpalmieri.com/posts/2019-03-12-scientific-computing-a-rust-adventure-part-1-zero-cost-abstractions/)
+        + [Scientific computing: a Rust adventure [Part 2 - Array1] ](https://www.lpalmieri.com/posts/2019-04-07-scientific-computing-a-rust-adventure-part-2-array1/)
+        + [Rust 2019: Beat C++ ?](https://www.reddit.com/r/rust/comments/acjcbp/rust_2019_beat_c/)
+            + [Rust numeric-array](https://crates.io/crates/numeric-array)
+            + [Embedded Rust arithmetic, 2D/3D vector, and statistics library](https://github.com/neobirth/micromath)
+        + [Special functions for Rust by binding to the Cephes library](https://crates.io/crates/special-fun/)
+        + [Library of well known algorithms for numerical root finding](https://crates.io/crates/roots/)
+        + [Polsim - a case study for small-scale scientific computing in Rust](https://tinkering.xyz/polsim/)
+            + [Simulate the polarization of a laser beam](https://github.com/zmitchell/polarization)
+            + [A command line utility for doing polarization simulations](https://github.com/zmitchell/polsim)
+
         + [a list of linear algebra libraries for Rust](https://libraries.io/search?keywords=matrix&languages=Rust)
         + [Numerics & math foundation](https://users.rust-lang.org/t/numerics-math-foundation/7247)
         + [An extensible HPC-Framework for CUDA, OpenCL and native CPU](https://github.com/lychee-eng/parenchyma)
@@ -327,14 +333,6 @@
     + [Thorin/Impala paper: A Graph-Based Higher-Order Intermediate Representation](http://compilers.cs.uni-saarland.de/papers/lkh15_cgo.pdf)
 
     + [unicode chars for idents](http://www.reddit.com/r/rust/comments/2pvksp/filename_with_dots_or_unicode_chars_not_working/)
-
-    + Rust numerical
-        + [Special functions for Rust by binding to the Cephes library](https://crates.io/crates/special-fun/)
-        + [Library of well known algorithms for numerical root finding](https://crates.io/crates/roots/)
-        + [Polsim - a case study for small-scale scientific computing in Rust](https://tinkering.xyz/polsim/)
-            + [Simulate the polarization of a laser beam](https://github.com/zmitchell/polarization)
-            + [A command line utility for doing polarization simulations](https://github.com/zmitchell/polsim)
-
 
     + Misc
         + [Implementing Finite Automata (Part 1)](https://apanatshka.github.io/compsci/2016/10/03/implementing-finite-automata-part-1/)
