@@ -522,6 +522,12 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
                     yarn --version
                     1.17.3
                     ```
+                + Fast check after install
+                tl;dr    
+                ```
+                :CocInfo
+                :CocList diagnostics
+                ```
             + [Intellisense engine for vim8 & neovim, full language server protocol support as VSCode](https://github.com/neoclide/coc.nvim)
                 + [coc.nvim : read it first](https://www.npmjs.com/package/coc.nvim)
                     + [Floating windows](https://github.com/neoclide/coc.nvim/wiki/F.A.Q#how-to-make-preview-window-shown-aside-with-pum)
