@@ -94,6 +94,7 @@
     + [What does the “yield” keyword do?](https://stackoverflow.com/questions/231767/what-does-the-yield-keyword-do)
     + [attrs by Example](http://www.attrs.org/en/stable/examples.html)
     + [Why should you use namedtuple instead of a tuple?](https://pythontips.com/2015/06/06/why-should-you-use-namedtuple-instead-of-a-tuple/)
+    + [Try out walrus operator in Python 3.8](https://medium.com/hultner/try-out-walrus-operator-in-python-3-8-d030ce0ce601)
 
 + [Seamless operability between C++11 and Python](https://github.com/pybind/pybind11)
     + [pybind11 : First steps](http://pybind11.readthedocs.io/en/stable/basics.html)
