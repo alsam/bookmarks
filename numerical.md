@@ -39,6 +39,10 @@
 
     + [The Tensor Algebra Compiler (taco) computes sparse tensor expressions on CPUs and GPUs](https://github.com/tensor-compiler/taco)
         + [A fast and versatile library for linear and tensor algebra](http://tensor-compiler.org/)
+    + [amgcl : C++ library for solving large sparse linear systems with algebraic multigrid method](https://github.com/ddemidov/amgcl)
+        + [amgl docs : AMGCL is a header-only C++ library for solving large sparse linear systems with algebraic multigrid (AMG) method](https://amgcl.readthedocs.io/en/latest/)
+            + [amgl issue : MPI & preconditioner+solver setup](https://github.com/ddemidov/amgcl/issues/107)
+
 
 + [The Amazing Performance of C++17 Parallel Algorithms, is it Possible?](https://www.bfilipek.com/2018/11/parallel-alg-perf.html?m=1)
 
