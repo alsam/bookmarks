@@ -60,6 +60,11 @@ Inspection Systems](http://www.mdpi.com/1424-8220/13/12/16565/pdf)
                 ```
                 + [see Gradle: Could not determine java version from...](https://stackoverflow.com/questions/54358107/gradle-could-not-determine-java-version-from-11-0-2)
                     + [Maven dependencies are not getting downloaded, proxy issues?](https://stackoverflow.com/questions/38329243/maven-dependencies-are-not-getting-downloaded-proxy-issues)
+                    + [Gradle proxy configuration](https://stackoverflow.com/questions/5991194/gradle-proxy-configuration)    
+                    tl;dr    
+                    ```sh
+                    gradle -Dhttp.proxyHost=127.0.0.1 -Dhttp.proxyPort=3128 - Dhttps.proxyHost=127.0.0.1 -Dhttps.proxyPort=3128
+                    ```
                 + [A brief introduction to the RTPS protocol](https://eprosima-fast-rtps.readthedocs.io/en/latest/introduction.html)
             + [ADLINK IST](https://github.com/ADLINK-IST)
                 + [Vortex OpenSplice Community Edition source repository](https://github.com/ADLINK-IST/opensplice)
