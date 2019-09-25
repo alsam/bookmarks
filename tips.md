@@ -527,6 +527,8 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
                 ```
                 :CocInfo
                 :CocList diagnostics
+                :CocInstall coc-json
+                :CocConfig
                 ```
             + [Intellisense engine for vim8 & neovim, full language server protocol support as VSCode](https://github.com/neoclide/coc.nvim)
                 + [coc.nvim : read it first](https://www.npmjs.com/package/coc.nvim)
