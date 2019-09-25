@@ -528,10 +528,12 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
                 :CocInfo
                 :CocList diagnostics
                 :CocInstall coc-json
+                :CocInstall coc-rls
                 :CocConfig
                 :CocCommand
                 ```    
-                tl;dr look into `~/.config/coc`
+                tl;dr look into `~/.config/coc`    
+                `rustup component add rls rust-analysis rust-src`
             + [Intellisense engine for vim8 & neovim, full language server protocol support as VSCode](https://github.com/neoclide/coc.nvim)
                 + [coc.nvim : read it first](https://www.npmjs.com/package/coc.nvim)
                     + [Floating windows](https://github.com/neoclide/coc.nvim/wiki/F.A.Q#how-to-make-preview-window-shown-aside-with-pum)
