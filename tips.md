@@ -538,6 +538,8 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
                 + [Guide To Turn Neovim Into A Rust IDE?](https://www.reddit.com/r/rust/comments/adepau/guide_to_turn_neovim_into_a_rust_ide/)
                     + [useful init for nvim](https://github.com/realcr/my_init_vim/blob/master/init.vim)
                     + [Why You Should Still Use Neovim](https://codekoalas.com/blog/why-you-should-still-use-neovim)
+                        + [ [RFC] Built-in LSP Support](https://github.com/neovim/neovim/pull/10222)
+
                     + [~~Amp: "a complete text editor for your terminal"~~](https://www.reddit.com/r/rust/comments/7t6rsq/amp_a_complete_text_editor_for_your_terminal/)
 
         + [Demystifying multi file searches in `vim` and the command line](https://seesparkbox.com/foundry/demystifying_multi_file_searches_in_vim_and_the_command_line)
