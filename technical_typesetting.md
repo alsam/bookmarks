@@ -23,7 +23,7 @@
         yaourt -S otf-latin-modern
         yaourt -S otf-latinmodern-math
         ```
-    + Arch Linux specifics for Cyrillic letters with LaTeX
+    + Arch Linux specifics for Cyrillic letters with LaTeX    
         ```sh
         pacman -S texlive-langcyrillic
         yaourt -S ttf-computer-modern-fonts
@@ -32,10 +32,26 @@
             to fix arch linux Invalid fontname `PT Sans'
         ```
         + [Problems with Cyrillic fonts in XeTeX](http://tex.stackexchange.com/questions/209614/problems-with-cyrillic-fonts-in-xetex)
-            + Ubuntu
+            + Ubuntu    
                 ```sh
                 sudo apt install fonts-cmu
                 sudo apt-get install --no-install-recommends xindy-rules po4a texlive-lang-cyrillic texlive-xetex texlive-latex-recommended texlive-latex-extra texlive-fonts-extra latex-xcolor pgf bzr texlive-fonts-recommended ttf-linux-libertine
+                ```
+                + [Package algorithm2e on Ubuntu](ttps://tex.stackexchange.com/questions/46276/package-algorithm2e-on-ubuntu)    
+                ```sh    
+                sudo apt-get install texlive-science
+                ```
+
+            + PT Sans, Serif, Mono    
+                + [Install Google Fonts on Ubuntu](https://gist.github.com/lightonphiri/5811226a1fba0b3df3be73ff2d5b351c)    
+                tl;dr    
+                ```
+                download from http://rus.paratype.ru/pt-sans-pt-serif and/or https://fonts.google.com/specimen/Open+Sans
+                cd /usr/share/fonts
+                sudo mkdir googlefonts
+                sudo unzip -d . ~/Downloads/Open_Sans.zip
+                sudo fc-cache -fv
+                fc-match OpenSans
                 ```
             + test file `test_cyrillic.tex`
             ```latex
