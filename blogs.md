@@ -32,6 +32,8 @@
 
 + [Инновационная «Теория интеллекта тысячи мозгов», бросает вызов привычным взглядам](https://medium.com/@sergey_57776/%D0%B8%D0%BD%D0%BD%D0%BE%D0%B2%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%B0%D1%8F-%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F-%D0%B8%D0%BD%D1%82%D0%B5%D0%BB%D0%BB%D0%B5%D0%BA%D1%82%D0%B0-%D1%82%D1%8B%D1%81%D1%8F%D1%87%D0%B8-%D0%BC%D0%BE%D0%B7%D0%B3%D0%BE%D0%B2-%D0%B1%D1%80%D0%BE%D1%81%D0%B0%D0%B5%D1%82-%D0%B2%D1%8B%D0%B7%D0%BE%D0%B2-%D0%BF%D1%80%D0%B8%D0%B2%D1%8B%D1%87%D0%BD%D1%8B%D0%BC-%D0%B2%D0%B7%D0%B3%D0%BB%D1%8F%D0%B4%D0%B0%D0%BC-4e9b06ef9665)
 
++ [Что есть алгебраические типы?](https://proglib.io/p/chto-est-algebraicheskie-tipy-2019-09-15)
+
 + [10 Common Software Architectural Patterns in a nutshell](https://medium.com/towards-data-science/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013)
   tl;dr
       1. Layered pattern
