@@ -37,7 +37,7 @@
                 sudo apt install fonts-cmu
                 sudo apt-get install --no-install-recommends xindy-rules po4a texlive-lang-cyrillic texlive-xetex texlive-latex-recommended texlive-latex-extra texlive-fonts-extra latex-xcolor pgf bzr texlive-fonts-recommended ttf-linux-libertine
                 ```
-                + [Package algorithm2e on Ubuntu](ttps://tex.stackexchange.com/questions/46276/package-algorithm2e-on-ubuntu)    
+                + [Package algorithm2e on Ubuntu](https://tex.stackexchange.com/questions/46276/package-algorithm2e-on-ubuntu)    
                 ```sh    
                 sudo apt-get install texlive-science
                 ```
