@@ -77,6 +77,43 @@
             #include <CL/cl2.hpp>
             ```
 
+    + [How to change clock frequency in Android?](https://stackoverflow.com/questions/4238959/how-to-change-clock-frequency-in-android)    
+    ```sh    
+    Set Governor:
+
+    adb shell echo "userspace" > /sys/devices/system/cpu/cpu0/cpufreq/scaling_governor
+
+    Set Frequency in KHz:
+
+    adb shell su -c "echo "702000" > /sys/devices/system/cpu/cpu0/cpufreq/scaling_setspeed"
+    //min frequency
+    adb shell su -c "echo "384000" > /sys/devices/system/cpu/cpu0/cpufreq/scaling_min_freq"  
+    //MAX frequency
+    adb shell su -c "echo "384000" > /sys/devices/system/cpu/cpu0/cpufreq/scaling_max_freq" 
+
+    Get current CPU Frequency:
+
+    adb shell cat /sys/devices/system/cpu/cpu0/cpufreq/cpuinfo_cur_freq
+
+    Show availables governors:
+
+    adb shell su -c "cat /sys/devices/system/cpu/cpu0/cpufreq/scaling_available_governors"
+
+    Disable service that overwrite cpu online file:
+
+    adb shell su -c "stop mpdecision" 
+
+    It's necessary to do this before enabling or disabling core. mp decision is restarted if the system is restarted.
+
+    Disable core:
+
+    adb shell su -c "echo "0" > /sys/devices/system/cpu/cpu3/online"
+
+    If that doesn't work:
+
+    & chmod 444 /sys/devices/system/cpu/cpu1/online
+    ```
+
     + [Установка android tools (ADB,fastboot, QTADB) на Debian/Ubuntu/Linux Mint](http://linux-notes.org/ustanovka-android-tools-adb-fastboot-qtadb-na-debian-ubuntu-linux-mint/)
 
     + [android-ndk archives](https://github.com/android-ndk/ndk/wiki)
