@@ -113,7 +113,8 @@
 
     & chmod 444 /sys/devices/system/cpu/cpu1/online
     ```
-        + [How to read cpu frequency on android device](https://stackoverflow.com/questions/3021054/how-to-read-cpu-frequency-on-android-device)    
+    
+    + [How to read cpu frequency on android device](https://stackoverflow.com/questions/3021054/how-to-read-cpu-frequency-on-android-device)    
         tl;dr    
         ```sh
         cat /sys/devices/system/cpu/cpu0/cpufreq/stats/time_in_state
