@@ -460,5 +460,7 @@
             + [Xception: компактная глубокая нейронная сеть](https://itnan.ru/post.php?c=1&p=347564)
                 + [Transfer learning with Xception architecture in Keras](https://github.com/hokmund/xception-transfer-learning)
             + [Archlinux PKGBUILDs for Data Science, Machine Learning, Deep Learning, NLP and Computer Vision](https://github.com/mratsim/Arch-Data-Science)
+            + [Find The Most Updated and Free Artificial Intelligence, Machine Learning, Data Science, Deep Learning, Mathematics, Python, R Programming Resources. (Last Update: October 2, 2019)](https://www.marktechpost.com/free-resources/)
+                + [Python code for ArtificialIntelligence: Foundations ofComputational Agents](https://artint.info/AIPython/aipython.pdf)
             + [GitHub Releases Dataset of Six Million Open-Source Methods for Code Search Research](https://syncedreview.com/2019/10/01/github-releases-dataset-of-six-million-open-source-methods-for-code-search-research/)
                 + [CodeSearchNet](https://github.com/github/CodeSearchNet#downloading-data-from-s3)
