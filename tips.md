@@ -436,6 +436,10 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
 
     + vim tips
         :set ff=unix
+        + [How I revamped my Vim setup](https://alex.dzyoba.com/blog/vim-revamp)
+        + [A guide to setting up Vim for JavaScript development](https://freshman.tech/vim-javascript/)
+        + [You Should Be Using Tags In Vim](https://vimways.org/2018/you-should-be-using-tags-in-vim)
+        + [Browsing programs with tags](https://vim.fandom.com/wiki/Browsing_programs_with_tags)
         + [Understanding Vim’s Jump List](https://medium.com/breathe-publication/understanding-vims-jump-list-7e1bfc72cdf0)
         + [Что вам стоит знать, если вы начали изучение Vim](https://proglib.io/p/vim-what-i-wish-i-knew/)
         + [Minimalist Vim Plugin Manager vim-plug](https://github.com/junegunn/vim-plug)
