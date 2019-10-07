@@ -13,6 +13,31 @@
             + [Установка ArchLinux в режиме UEFI + systemd-boot + XFCE4 Часть первая](https://www.youtube.com/watch?v=pUBpGjybH6Q)
             + [Установка ArchLinux в режиме UEFI + systemd-boot + XFCE4 Часть вторая](https://www.youtube.com/watch?v=LisOqIrgba0)
             + [Установка ArchLinux в режиме UEFI + systemd-boot + XFCE4 Часть третья: Настройка XFCE](https://www.youtube.com/watch?v=jjNOcfdB-Ng)
+            tl;dr    
+            ```sh
+            ...
+            [0:52]
+            root@archiso ~ # gdisk /dev/sda
+            GPT fdisk (gdisk) version ...
+            ...
+            [8:00]
+            ...
+            root@archiso ~ # genfstab -U -p /mnt >> /mnt/etc/fstab
+            root@archiso ~ # genfstab -U -p /mnt >> /mnt/etc/fstab
+            root@archiso ~ # arch-chroot /mnt /bin/bash
+            ...
+            [16:14]
+            ...
+            [root@archiso / ]# bootctl --path=/boot install
+            Created "/boot/EFI".
+            Created "/boot/systemd".
+            Created "/boot/BOOT".
+            Created "/boot/loader".
+            Created "/boot/loader/entries".
+            Copied "/usr/lib/systemd/boot/efi/systemd-bootx64.efi" to "/boot/EFI/systemd/systemd-bootx64.efi".
+            Copied "/usr/lib/systemd/boot/efi/systemd-bootx64.efi" to "/boot/EFI/BOOT/BOOTX64.EFI".
+            Created EFI boot entry "Linyx Boot Manager".
+            ```
                 + [WARNING **: Couldn't connect to accessibility bus](https://bbs.archlinux.org/viewtopic.php?id=228894)
                 tl;dr
                 ```
