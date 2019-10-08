@@ -48,6 +48,11 @@
             + [Disk cloning](https://wiki.archlinux.org/index.php/Disk_cloning)
             + [System Tar Restore - Feature-rich Backup Script for Linux](https://linoxide.com/linux-how-to/system-tar-restore-bash-script-linux-backup/)
         + Arch Linux survival tips
+            + [USB flash installation media](https://wiki.archlinux.org/index.php/USB_flash_installation_media    
+                    tl;dr    
+                    ```sh
+                    dd bs=4M if=path/to/archlinux.iso of=/dev/sdx status=progress oflag=sync
+                    ```
             + surviving after systemd-boot crash
                 + [systemd-boot](https://wiki.archlinux.org/index.php/systemd-boot)
                 + [Installing Arch Linux : systemd-boot (reinstall)](http://www.adonespitogo.com/articles/arch-linux-EFI-installation/page-2.html)
