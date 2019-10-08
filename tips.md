@@ -23,7 +23,6 @@
             [8:00]
             ...
             root@archiso ~ # genfstab -U -p /mnt >> /mnt/etc/fstab
-            root@archiso ~ # genfstab -U -p /mnt >> /mnt/etc/fstab
             root@archiso ~ # arch-chroot /mnt /bin/bash
             ...
             [16:14]
@@ -44,6 +43,10 @@
                 export NO_AT_BRIDGE=1
                 ```
             + [install-yaourt-arch-linux](https://www.ostechnix.com/install-yaourt-arch-linux/)
+        + Arch migration
+            + [Migrate installation to new hardware](https://wiki.archlinux.org/index.php/Migrate_installation_to_new_hardware)
+            + [Disk cloning](https://wiki.archlinux.org/index.php/Disk_cloning)
+            + [System Tar Restore - Feature-rich Backup Script for Linux](https://linoxide.com/linux-how-to/system-tar-restore-bash-script-linux-backup/)
         + Arch Linux survival tips
             + surviving after systemd-boot crash
                 + [systemd-boot](https://wiki.archlinux.org/index.php/systemd-boot)
