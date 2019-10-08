@@ -125,6 +125,8 @@
     + [github HCC repository](https://github.com/RadeonOpenCompute/hcc)
     + [Portable Computing Language](http://portablecl.org/)
 
+    + [Radeon Instinct like : Radeon VII](https://www.ixbt.com/3dv/amd-radeon-vii-review.html)
+
 + [How To Set The CPU Affinity Of A Running Process In Linux](https://www.youtube.com/watch?v=9VJRsBmmY-4&feature=youtu.be)
 
 + OpenMP
