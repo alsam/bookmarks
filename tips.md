@@ -15,6 +15,9 @@
             + [Установка ArchLinux в режиме UEFI + systemd-boot + XFCE4 Часть третья: Настройка XFCE](https://www.youtube.com/watch?v=jjNOcfdB-Ng)
             tl;dr    
             ```sh
+            ls /sys/firmware/efi/efivars/
+            ...
+            lsblk
             ...
             [0:52]
             root@archiso ~ # gdisk /dev/sda
