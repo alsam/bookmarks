@@ -38,7 +38,7 @@
             Created "/boot/loader/entries".
             Copied "/usr/lib/systemd/boot/efi/systemd-bootx64.efi" to "/boot/EFI/systemd/systemd-bootx64.efi".
             Copied "/usr/lib/systemd/boot/efi/systemd-bootx64.efi" to "/boot/EFI/BOOT/BOOTX64.EFI".
-            Created EFI boot entry "Linyx Boot Manager".
+            Created EFI boot entry "Linux Boot Manager".
             ```
                 + [WARNING **: Couldn't connect to accessibility bus](https://bbs.archlinux.org/viewtopic.php?id=228894)
                 tl;dr
