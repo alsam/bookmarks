@@ -23,10 +23,22 @@
             root@archiso ~ # gdisk /dev/sda
             GPT fdisk (gdisk) version ...
             ...
+            [3:25]
+            root@archiso ~ # timedatectl set-ntp true
+            nano /etc/pacman.d/mirrorlist
+            ...
+            root@archiso ~ # mount /dev/sdc2 /mnt
+            root@archiso ~ # mkdir -p /mnt/{boot,home}
+            root@archiso ~ # mount /dev/sdc1 /mnt/boot
+            ...
+            root@archiso ~ # pacstrap -i /mnt base base-devel
             [8:00]
             ...
             root@archiso ~ # genfstab -U -p /mnt >> /mnt/etc/fstab
             root@archiso ~ # arch-chroot /mnt /bin/bash
+            [root@archiso / ]# nano /etc/locale.gen
+            [root@archiso / ]# locale-gen
+            [root@archiso / ]# hwclock --systohc --utc 
             ...
             [16:14]
             ...
@@ -46,6 +58,10 @@
                 export NO_AT_BRIDGE=1
                 ```
             + [install-yaourt-arch-linux](https://www.ostechnix.com/install-yaourt-arch-linux/)
+
+            + [ArchLinux Tutorial, Part 1: Basic ArchLinux Installation](https://medium.com/@mudrii/arch-linux-installation-on-hw-with-i3-windows-manager-part-1-5ef9751a0be)
+            + [ArchLinux Tutorial, Part 2: X Window System and I3 Installation](https://medium.com/@mudrii/arch-linux-installation-on-hw-with-i3-windows-manager-part-2-x-window-system-and-i3-installation-86735e55a0a0)
+            + [ArchLinux Tutorial, Part 3: I3 Configuration and Operation](https://medium.com/@mudrii/archlinux-tutorial-part-3-i3-configuration-and-operation-9cd6dc90e524)
         + Arch migration
             + [Migrate installation to new hardware](https://wiki.archlinux.org/index.php/Migrate_installation_to_new_hardware)
             + [Disk cloning](https://wiki.archlinux.org/index.php/Disk_cloning)
