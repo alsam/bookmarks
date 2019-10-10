@@ -1282,6 +1282,19 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
         }
         ```
 
+        + boost.histogram **bare-bone** installation    
+        ```sh
+        https://github.com/boostorg/histogram.git
+        https://github.com/boostorg/mp11.git
+        https://github.com/boostorg/callable_traits.git
+        https://github.com/boostorg/assert.git
+        https://github.com/boostorg/throw_exception.git
+        https://github.com/boostorg/core.git
+        https://github.com/boostorg/config.git
+        https://github.com/boostorg/variant2.git
+
+        ```
+
         + cheat-sheet for callbacks in C++
             + [Callback functions in c++](http://stackoverflow.com/questions/2298242/callback-functions-in-c)
         + [Using std::make_unique with custom deleter on a derived class?](http://stackoverflow.com/questions/37514101/using-stdmake-unique-with-custom-deleter-on-a-derived-class)
