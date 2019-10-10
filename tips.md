@@ -39,7 +39,21 @@
             [root@archiso / ]# nano /etc/locale.gen
             [root@archiso / ]# locale-gen
             [root@archiso / ]# hwclock --systohc --utc 
+            [root@archiso / ]# ln -s /usr/share/zoneinfo/Europe/Moscow /etc/localtime
+            [root@archiso / ]# rm /etc/localtime
+            [root@archiso / ]# ln -s /usr/share/zoneinfo/Europe/Moscow /etc/localtime
+            [root@archiso / ]# nano /etc/vconsole.conf
+            [root@archiso / ]# cat /etc/vconsole.conf 
+            KEYMAP=ru
+            FONT=cyr-sun16
             ...
+            [root@archiso / ]# echo myhostname > /etc/hostname
+            [root@archiso / ]# nano /etc/hosts
+            [root@archiso / ]# pacman -S iw wpa_supplicant dialog wpa_actiond net_tools mc bash_completion networkmanager
+            [root@archiso / ]# systemctl enable NetworkManager
+            [root@archiso / ]# passwd
+            [root@archiso / ]# useradd -m snuppy
+            [root@archiso / ]# passwd snuppy
             [16:14]
             ...
             [root@archiso / ]# bootctl --path=/boot install
@@ -57,6 +71,7 @@
                 ```
                 export NO_AT_BRIDGE=1
                 ```
+            + add to /boot/loader/entries/arch.conf  `sudo blkid -s PARTUUID -o value /dev/sda2`
             + [install-yaourt-arch-linux](https://www.ostechnix.com/install-yaourt-arch-linux/)
 
             + [ArchLinux Tutorial, Part 1: Basic ArchLinux Installation](https://medium.com/@mudrii/arch-linux-installation-on-hw-with-i3-windows-manager-part-1-5ef9751a0be)
