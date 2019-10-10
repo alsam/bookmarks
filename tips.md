@@ -50,10 +50,12 @@
             [root@archiso / ]# echo myhostname > /etc/hostname
             [root@archiso / ]# nano /etc/hosts
             [root@archiso / ]# pacman -S iw wpa_supplicant dialog wpa_actiond net_tools mc bash_completion networkmanager
-            [root@archiso / ]# systemctl enable NetworkManager
+            [root@archiso / ]# systemctl enable NetworkManager.service
             [root@archiso / ]# passwd
             [root@archiso / ]# useradd -m snuppy
             [root@archiso / ]# passwd snuppy
+            [root@archiso / ]# usermod -G audio,games,lp,optical,video,power,scanner,storage,wheel snuppy
+            [root@archiso / ]# nano /etc/sudoers
             [16:14]
             ...
             [root@archiso / ]# bootctl --path=/boot install
@@ -65,8 +67,16 @@
             Copied "/usr/lib/systemd/boot/efi/systemd-bootx64.efi" to "/boot/EFI/systemd/systemd-bootx64.efi".
             Copied "/usr/lib/systemd/boot/efi/systemd-bootx64.efi" to "/boot/EFI/BOOT/BOOTX64.EFI".
             Created EFI boot entry "Linux Boot Manager".
+            [root@archiso / ]# nano /boot/loader/loader.conf
+            ...
+            default arch
+            [root@archiso / ]# nano /boot/loader/entries/arch.conf
+            [root@archiso / ]# bootctl update
+            [root@archiso / ]# bootctl list
+            reboot
             ```
-                + [WARNING **: Couldn't connect to accessibility bus](https://bbs.archlinux.org/viewtopic.php?id=228894)
+
+            + [WARNING **: Couldn't connect to accessibility bus](https://bbs.archlinux.org/viewtopic.php?id=228894)
                 tl;dr
                 ```
                 export NO_AT_BRIDGE=1
