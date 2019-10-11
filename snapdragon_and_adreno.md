@@ -77,6 +77,10 @@
             #include <CL/cl2.hpp>
             ```
 
+    + ARM64 Best Practices
+        + [Best Practice Guide – ARM64, February 2019](http://www.prace-ri.eu/best-practice-guide-arm64/)
+            + [Best Practice Guide - ARM64 . pdf](http://www.prace-ri.eu/IMG/pdf/Best-Practice-Guide-ARM64.pdf)
+
     + [How to change clock frequency in Android?](https://stackoverflow.com/questions/4238959/how-to-change-clock-frequency-in-android)    
     ```sh    
     Set Governor:
