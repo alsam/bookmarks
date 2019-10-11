@@ -82,6 +82,13 @@
                 export NO_AT_BRIDGE=1
                 ```
             + add to /boot/loader/entries/arch.conf  `sudo blkid -s PARTUUID -o value /dev/sda2`
+
+            + [Firmware Bug]: TSC_DEADLINE disabled due to Errata: please ipdate microcode to version: 0x52 (or later)
+                + [Firmware Bug TSC_DEADLINE disabled due to Errata](https://bbs.archlinux.org/viewtopic.php?id=230516)
+                    + [Microcode](https://wiki.archlinux.org/index.php/Microcode#Enabling_early_microcode_loading_in_custom_kernels)
+                        + [Intel-ucode](https://www.archlinux.org/packages/?name=intel-ucode)
+                        + [coreboot: Fast, secure and flexible OpenSource firmware](https://www.coreboot.org)
+
             + [install-yaourt-arch-linux](https://www.ostechnix.com/install-yaourt-arch-linux/)
 
             + [ArchLinux Tutorial, Part 1: Basic ArchLinux Installation](https://medium.com/@mudrii/arch-linux-installation-on-hw-with-i3-windows-manager-part-1-5ef9751a0be)
