@@ -99,7 +99,7 @@
             + [Disk cloning](https://wiki.archlinux.org/index.php/Disk_cloning)
             + [System Tar Restore - Feature-rich Backup Script for Linux](https://linoxide.com/linux-how-to/system-tar-restore-bash-script-linux-backup/)
         + Arch Linux survival tips
-            + [USB flash installation media](https://wiki.archlinux.org/index.php/USB_flash_installation_media    
+            + [USB flash installation media](https://wiki.archlinux.org/index.php/USB_flash_installation_media)    
                     tl;dr    
                     ```sh
                     dd bs=4M if=path/to/archlinux.iso of=/dev/sdx status=progress oflag=sync
