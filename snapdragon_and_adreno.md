@@ -32,6 +32,11 @@
 + Computer Vision
     + [RSTensorFlow: GPU Enabled TensorFlow for Deep Learning on Commodity Android Devices](https://md2k.org/images/papers/methods/p7-alzantot.pdf)
 
++ [Arm NN Software Developer Kit (SDK)](developer.arm.com/ip-products/processors/machine-learning/arm-nn/)
+    + [Arm NN ML software](https://github.com/arm-software/armnn)
+    + [The ARM Computer Vision and Machine Learning library is a set of functions optimised for both ARM CPUs and GPUs using SIMD technologies.](https://github.com/arm-software/ComputeLibrary)
+    + [Kirin980 tech specs](https://consumer.huawei.com/en/campaign/kirin980/)
+
 + **A**ndroid **O**pen **S**ource **P**roject
     + [Downloading the Android Source](https://source.android.com/setup/build/downloading)
 
