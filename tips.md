@@ -715,6 +715,11 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
     + [Xi-editor - a modern editor with a backend written in Rust.](https://github.com/google/xi-editor)
 
     + [juCi++: a lightweight, platform independent C++-IDE with support for C++11, C++14 and C++17 features depending on libclang version.](https://gitlab.com/cppit/jucipp)
+    + [ C++ Ecosystem: Compilers, IDEs, Tools, Testing and More ](https://www.bfilipek.com/2019/10/cppecosystem.html?m=1)    
+        + [and meson, missed from the above review](https://mesonbuild.com/)
+            + [The Meson Build System](https://github.com/mesonbuild/meson)
+            + [List of projects using Meson](https://mesonbuild.com/Users.html)
+                + [HelenOS is a portable microkernel-based multiserver operating system designed and implemented from scratch](http://www.helenos.org/)
 
 + [Technical typesetting](https://github.com/alsam/bookmarks/blob/master/technical_typesetting.md)
 
