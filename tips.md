@@ -713,6 +713,8 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
         + [Slap - sublime-like terminal-based text editor](https://github.com/slap-editor/slap)
 
     + [Xi-editor - a modern editor with a backend written in Rust.](https://github.com/google/xi-editor)
+        + [GTK frontend for the Xi text editor, written in Rust](https://gitlab.gnome.org/World/Tau)    
+        tl;dr `yay -S tau-editor-git`
 
     + [juCi++: a lightweight, platform independent C++-IDE with support for C++11, C++14 and C++17 features depending on libclang version.](https://gitlab.com/cppit/jucipp)
     + [ C++ Ecosystem: Compilers, IDEs, Tools, Testing and More ](https://www.bfilipek.com/2019/10/cppecosystem.html?m=1)    
