@@ -14,3 +14,6 @@
     + [Circuitscape borrows algorithms from electronic circuit theory to predict connectivity in heterogeneous landscapes](https://circuitscape.org/)
 
 + [Coursera VLSI CAD: Logic to Layout (University of Illinois at Urbana-Champaign) (vlsicad)](https://archive.org/details/academictorrents_ec1c86afefda42f4b36c34ae7b235ef0bfd6b9d3)
+
++ Routing
+    + [GeoSteiner Software for Computing Steiner Trees](www.geosteiner.com/)
