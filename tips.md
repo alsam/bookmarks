@@ -714,7 +714,43 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
 
     + [Xi-editor - a modern editor with a backend written in Rust.](https://github.com/google/xi-editor)
         + [GTK frontend for the Xi text editor, written in Rust](https://gitlab.gnome.org/World/Tau)    
-        tl;dr `yay -S tau-editor-git`
+        tl;dr `yay -S tau-editor-git`    
+        ```sh
+        sudo pacman -S flatpak
+        ...
+        flatpak install flathub org.gnome.Tau
+Required runtime for org.gnome.Tau/x86_64/stable (runtime/org.freedesktop.Platform/x86_64/19.08) found in remote flathub
+Do you want to install it? [Y/n]: 
+
+org.gnome.Tau permissions:
+    ipc wayland x11
+
+
+
+        ID                                                       Branch               Remote                Download
+ 1. [✓] org.freedesktop.Platform                                 19.08                flathub               223.6 MB / 237.7 MB
+ 2. [✓] org.freedesktop.Platform.GL.default                      19.08                flathub                90.8 MB / 90.8 MB
+ 3. [✓] org.freedesktop.Platform.GL.nvidia-435-21                1.4                  flathub               103.3 MB / 103.3 MB
+ 4. [✓] org.freedesktop.Platform.Locale                          19.08                flathub               163.7 MB / 318.9 MB
+ 5. [✓] org.freedesktop.Platform.openh264                        19.08                flathub               594.2 kB / 593.4 kB
+ 6. [✓] org.gnome.Tau                                            stable               flathub                 4.6 MB / 4.6 MB
+ 7. [✓] org.gnome.Tau.Locale                                     stable               flathub                45.3 kB / 41.0 kB
+
+        Installation complete.
+flatpak run org.gnome.Tau
+        
+        Note that the directories 
+        
+        '/var/lib/flatpak/exports/share'
+        '/home/spike/.local/share/flatpak/exports/share'
+        
+        are not in the search path set by the XDG_DATA_DIRS environment variable, so
+        applications installed by Flatpak may not appear on your desktop until the
+        session is restarted.
+        
+        Gtk-Message: 23:05:39.139: Failed to load module "canberra-gtk-module"
+        Gtk-Message: 23:05:39.140: Failed to load module "canberra-gtk-module"
+        ```
 
     + [juCi++: a lightweight, platform independent C++-IDE with support for C++11, C++14 and C++17 features depending on libclang version.](https://gitlab.com/cppit/jucipp)
     + [ C++ Ecosystem: Compilers, IDEs, Tools, Testing and More ](https://www.bfilipek.com/2019/10/cppecosystem.html?m=1)    
