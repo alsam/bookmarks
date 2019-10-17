@@ -752,6 +752,9 @@ flatpak run org.gnome.Tau
         Gtk-Message: 23:05:39.140: Failed to load module "canberra-gtk-module"
         ```
 
+    + [Monaco Editor](https://microsoft.github.io/monaco-editor/)
+        + [Monaco Editor repo](https://github.com/Microsoft/monaco-editor)
+
     + [juCi++: a lightweight, platform independent C++-IDE with support for C++11, C++14 and C++17 features depending on libclang version.](https://gitlab.com/cppit/jucipp)
     + [ C++ Ecosystem: Compilers, IDEs, Tools, Testing and More ](https://www.bfilipek.com/2019/10/cppecosystem.html?m=1)    
         + [and meson, missed from the above review](https://mesonbuild.com/)
