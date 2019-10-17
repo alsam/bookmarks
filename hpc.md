@@ -283,3 +283,8 @@
 + [parallel-computing resources list](https://github.zhrichard.me/topics/parallel-computing)
 
 + [Overview of the Efficient Programming Languages (v.3) 2018.4](https://sdevprog.blogspot.com/2018/04/overview-of-efficient-programming.html?m=1)
+
++ YouTube videos on GPU embedded profiling/optimization
+    + [Presentation: Mali Graphics Debugger (GDC 2014)](https://www.youtube.com/watch?v=yv-V9Bl9pO4)
+    + [GPU Compute Optimisation with Hardware Counters](https://www.youtube.com/watch?v=93cWfkyid7k)
+    + [ARM Mali GPU Architecture Overview](https://www.youtube.com/watch?v=mo5zVbCg12I)
