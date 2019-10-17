@@ -744,7 +744,7 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
             Note that the directories 
             
             '/var/lib/flatpak/exports/share'
-            '/home/spike/.local/share/flatpak/exports/share'
+            '$HOME/.local/share/flatpak/exports/share'
             
             are not in the search path set by the XDG_DATA_DIRS environment variable, so
             applications installed by Flatpak may not appear on your desktop until the
