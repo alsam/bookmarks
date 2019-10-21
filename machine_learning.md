@@ -271,6 +271,7 @@
             + [Theano: A Python framework for fast computation of mathematical expressions](http://arxiv.org/abs/1605.02688)
             
         + [What is the intuition behind the concept of capsules in deep learning?](https://www.quora.com/What-is-the-intuition-behind-the-concept-of-capsules-in-deep-learning)
+	+ [A Gentle Introduction to Bayes Theorem for Machine Learning](https://machinelearningmastery.com/bayes-theorem-for-machine-learning/)
 
         + [Which Model to Use for Cortical Spiking Neurons?](http://www.izhikevich.org/publications/whichmod.htm)
         
