@@ -92,7 +92,7 @@
         + [CasADi is a symbolic framework for numeric optimization implementing automatic differentiation in forward and reverse modes on sparse matrix-valued computational graphs](https://github.com/casadi/casadi)
         + [CasADi FAQ](https://github.com/casadi/casadi/wiki/FAQ)
         + [CasADi docs](https://web.casadi.org/docs/)
-        + [tipsandtricks for CasADi](https://github.com/casadi/casadi/wiki/tipsandtricks(
+        + [tipsandtricks for CasADi](https://github.com/casadi/casadi/wiki/tipsandtricks)
     + [automatic-differentiation](http://rodrigo.ebrmx.com/github_/topics/automatic-differentiation)
         + [Tensors and differentiable operations (like TensorFlow) in Rust https://docs.rs/autograd/](http://rodrigo.ebrmx.com/github_/raskr/rust-autograd)
         + [Kotlin𝛁: Differentiable Functional Programming with Algebraic Data Types https://github.com/breandan/kotlingrad](http://rodrigo.ebrmx.com/github_/breandan/kotlingrad)
