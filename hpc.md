@@ -103,6 +103,8 @@
     + [C++11 introduced a standardized memory model. What does it mean? And how is it going to affect C++ programming?](https://stackoverflow.com/questions/6319146/c11-introduced-a-standardized-memory-model-what-does-it-mean-and-how-is-it-g?rq=1)
     + [A Primer on Memory Consistency and Cache Coherence](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.225.9278&rep=rep1&type=pdf)
 
++ [LPC2018 - Open Source GPU compute stack - Not dancing the CUDA dance](https://www.youtube.com/watch?v=d94N2Lu4x9s)
+
 + OpenCL
     + [The State of OpenCL for Scientific Computing in 2018](https://mathema.tician.de/the-state-of-opencl-for-scientific-computing-in-2018/)
     + [OpenCL: History & Future](http://www.fz-juelich.de/SharedDocs/Downloads/IAS/JSC/EN/slides/opencl/opencl-10-history-future.pdf?__blob=publicationFile)
