@@ -98,7 +98,7 @@
                     cd yay
                     makepkg -si
                     ```
-                    + [Pacman wrapper with AUR support : written in **nim**](https://github.com/kitsunyan/pakku)
+                    + [Pacman wrapper with AUR support : written in **nim**](https://github.com/kitsunyan/pakku)    
                     TL;DR    
                     ```sh
                     git clone https://aur.archlinux.org/pakku.git
@@ -115,13 +115,13 @@
             + [System Tar Restore - Feature-rich Backup Script for Linux](https://linoxide.com/linux-how-to/system-tar-restore-bash-script-linux-backup/)
         + Arch Linux survival tips
             + [USB flash installation media](https://wiki.archlinux.org/index.php/USB_flash_installation_media)    
-                    tl;dr    
+                    tl;dr
                     ```sh
                     dd bs=4M if=path/to/archlinux.iso of=/dev/sdx status=progress oflag=sync
                     ```
             + surviving after systemd-boot crash
                 + [systemd-boot](https://wiki.archlinux.org/index.php/systemd-boot)
-                + [Installing Arch Linux : systemd-boot (reinstall)](http://www.adonespitogo.com/articles/arch-linux-EFI-installation/page-2.html)
+                + [Installing Arch Linux : systemd-boot (reinstall)](http://www.adonespitogo.com/articles/arch-linux-EFI-installation/page-2.html)    
                 tl;dr
                 ```sh
                 boot from flash
@@ -157,7 +157,7 @@
         + [Arch Linux SSH keys](https://wiki.archlinux.org/index.php/SSH_keys)
         + [Arch Linux AUR](https://wiki.archlinux.org/index.php/Arch_User_Repository)
         + [How to install Yaourt on Arch Linux](http://www.ostechnix.com/install-yaourt-arch-linux/)
-        + [Ignore A Package From Being Upgraded In Arch Linux](https://www.ostechnix.com/safely-ignore-package-upgraded-arch-linux/)
+        + [Ignore A Package From Being Upgraded In Arch Linux](https://www.ostechnix.com/safely-ignore-package-upgraded-arch-linux/)    
         tl;dr
         ```sh
          Pacman won't upgrade packages listed in IgnorePkg and members of IgnoreGroup
@@ -207,7 +207,7 @@
 
         sudo pip install gdbgui --upgrade
         ```
-        + [Pacman option to assume “yes” to every question?](https://unix.stackexchange.com/questions/52277/pacman-option-to-assume-yes-to-every-question)
+        + [Pacman option to assume “yes” to every question?](https://unix.stackexchange.com/questions/52277/pacman-option-to-assume-yes-to-every-question)    
         tl;dr
         ```sh
             yaourt --noconfirm -S ...
@@ -215,7 +215,7 @@
         ```
 
         + xfce4
-            + [Numlock/Capslock indicator](https://aur.archlinux.org/packages/xfce4-kbdleds-pl)
+            + [Numlock/Capslock indicator](https://aur.archlinux.org/packages/xfce4-kbdleds-pl)    
             tl;dr
             ```sh
             yaourt -S aur/xfce4-kbdleds-plugin-git
@@ -225,14 +225,14 @@
             tl;dr tinker with nm-applet -> `dbus-launch nm-applet`
 
         + [FS#59266 - [lvm2] Dependency failed for File System Check with 2.02.179-1](
-https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B0%5D=&sev%5B0%5D=&pri%5B0%5D=&due%5B0%5D=&reported%5B0%5D=&cat%5B0%5D=&status%5B0%5D=open&percent%5B0%5D=&opened=&dev=&closed=&duedatefrom=&duedateto=&changedfrom=&changedto=&openedfrom=&openedto=&closedfrom=&closedto=)
+https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B0%5D=&sev%5B0%5D=&pri%5B0%5D=&due%5B0%5D=&reported%5B0%5D=&cat%5B0%5D=&status%5B0%5D=open&percent%5B0%5D=&opened=&dev=&closed=&duedatefrom=&duedateto=&changedfrom=&changedto=&openedfrom=&openedto=&closedfrom=&closedto=)    
             tl;dr    
             downgrade LVM2 to fix the issue    
             ```sh
             sudo pacman -U /var/cache/pacman/pkg/lvm2-2.02.177-5-x86_64.pkg.tar.xz
             ```
  
-        + Printer (Brother DCPT500W)
+        + Printer (Brother DCPT500W)    
             + tl;dr
             ```sh
             sudo systemctl start avahi-daemon.service
@@ -257,12 +257,12 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
             + [ [SOLVED] Brother wireless printer can't work](https://bbs.archlinux.org/viewtopic.php?id=104778)
             + [ Cups and "waiting for printer to become available"](https://bbs.archlinux.org/viewtopic.php?id=121944)
             + [CUPS - Waiting for printer to become available. - usb](https://artodeto.bazzline.net/archives/663-CUPS-Waiting-for-printer-to-become-available.-usb.html)
-            + [ [SOLVED] Can't print from chrome, but from command line](https://bbs.archlinux.org/viewtopic.php?id=229038)
+            + [ [SOLVED] Can't print from chrome, but from command line](https://bbs.archlinux.org/viewtopic.php?id=229038)    
                 tl;dr
                 ```sh
                 pacman -S gtk3-print-backends
                 ```
-            + [List of USB ID's](http://www.linux-usb.org/usb.ids)
+            + [List of USB ID's](http://www.linux-usb.org/usb.ids)    
             tl;dr
             ```sh
             04f9  Brother Industries, Ltd
@@ -319,7 +319,7 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
         + [Software Collections for Scientific Linux CERN 6 : RPMS](http://linuxsoft.cern.ch/cern/scl/slc6X/x86_64/RPMS/)
 
     + Ubuntu
-        + [How to list all installed packages](https://askubuntu.com/questions/17823/how-to-list-all-installed-packages)
+        + [How to list all installed packages](https://askubuntu.com/questions/17823/how-to-list-all-installed-packages)    
         tl;dr
         ```sh
         apt list --installed
@@ -460,15 +460,15 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
         ```
 
         + subtree import of the subfolder
-            + [Add subdirectory of remote repo with git-subtree](http://stackoverflow.com/questions/23937436/add-subdirectory-of-remote-repo-with-git-subtree)
-            + tl;dr
+            + [Add subdirectory of remote repo with git-subtree](http://stackoverflow.com/questions/23937436/add-subdirectory-of-remote-repo-with-git-subtree)    
+            tl;dr
             ```sh
             git subtree split -P modules/my_module -b temporary-split-branch
             git subtree add -P prefix-name/  /path-to-repo temporary-split-branch
             ```
 
-        + [Git - Find when a method is removed](http://stackoverflow.com/questions/21110272/git-find-when-a-method-is-removed)
-            + tl;dr
+        + [Git - Find when a method is removed](http://stackoverflow.com/questions/21110272/git-find-when-a-method-is-removed)    
+            tl;dr
             ```sh
             git log -c -S'methodName' /path/to/file.cpp
             ```
@@ -479,7 +479,7 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
 
         + [Малоизвестные Git-команды](https://habrahabr.ru/company/mailru/blog/318508/)
 
-        + [two-factor authentication in your Github account leads to inability to push via HTTPS](https://stackoverflow.com/questions/17659206/git-push-results-in-authentication-failed)
+        + [two-factor authentication in your Github account leads to inability to push via HTTPS](https://stackoverflow.com/questions/17659206/git-push-results-in-authentication-failed)    
         tl;dr  
         ```sh
         git remote -v
@@ -488,7 +488,7 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
         git push --set-upstream origin master
         ```
 
-        + [git - remote add origin vs remote set-url origin](https://stackoverflow.com/questions/42830557/git-remote-add-origin-vs-remote-set-url-origin/42830632)
+        + [git - remote add origin vs remote set-url origin](https://stackoverflow.com/questions/42830557/git-remote-add-origin-vs-remote-set-url-origin/42830632)    
         tl;dr    
         below is used to a add a new remote:
         ```sh
@@ -568,7 +568,7 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
         + [Vim vs. Neovim](https://www.slant.co/versus/42/62/~vim_vs_neovim)
         + [Install Vim 8.0 on on Ubuntu 16.04, Debian, Fedora, CentOS](http://www.ubuntumaniac.com/2016/09/install-vim-80-on-on-ubuntu-1604-debian.html)
         + [Find in files within Vim](http://vim.wikia.com/wiki/Find_in_files_within_Vim)
-        + [Vim: Substitute pattern between braces](https://vi.stackexchange.com/questions/2751/substitute-pattern-between-braces)
+        + [Vim: Substitute pattern between braces](https://vi.stackexchange.com/questions/2751/substitute-pattern-between-braces)    
             tl;dr
             ```sh
             viB:s/word/replacement/gc
@@ -584,13 +584,13 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
         Plugin 'Shougo/neosnippet-snippets'
         Open up Vim and start installation with :PluginInstall
         ```
-        + YouComplete
+        + YouComplete    
             tl;dr
             ```sh
             ~/.vim/bundle/YouCompleteMe$ ./install.sh --clang-completer --racer-completer
             ```
             + [libtinfo.so.* missing in Arch Linux](https://github.com/Valloric/YouCompleteMe/issues/778)
-            + [supercede: Package Details: ncurses5-compat-libs 6.1-1 ](https://aur.archlinux.org/packages/ncurses5-compat-libs/?comments=all)
+            + [supercede: Package Details: ncurses5-compat-libs 6.1-1 ](https://aur.archlinux.org/packages/ncurses5-compat-libs/?comments=all)    
             tl;dr  
             ```sh
             gpg --keyserver keys.gnupg.net --recv-keys 702353E0F7E48EDB
@@ -656,7 +656,7 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
         + [How to install NERDTree with Vundle?](https://vi.stackexchange.com/questions/5335/how-to-install-nerdtree-with-vundle)
 
         + NeoVim specific
-            + [Neovim ArchLinux notes](https://wiki.archlinux.org/index.php/Neovim)
+            + [Neovim ArchLinux notes](https://wiki.archlinux.org/index.php/Neovim)    
             *tl;dr*
             ```sh
             mkdir -p ~/.config/nvim/
@@ -803,7 +803,7 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
         + [`systemds for `upstart` users](https://wiki.ubuntu.com/SystemdForUpstartUsers)
         + `journald`
             + [Logging message workflow with journald](http://www.gabriel.urdhr.fr/2015/04/29/journald-workflow/)
-            + [systemd for Developers III : Logging to the Journal](http://0pointer.de/blog/projects/journal-submit.html)
+            + [systemd for Developers III : Logging to the Journal](http://0pointer.de/blog/projects/journal-submit.html)    
             tl;dr
             ```c
             #include <systemd/sd-journal.h>
@@ -925,14 +925,14 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
         + [[dbus-cplusplus-devel] Proposal: Give objects through dbus-c++](https://sourceforge.net/p/dbus-cplusplus/mailman/message/20200933/)
         + [DBus speed presentation](https://willthompson.co.uk/talks/the-slothful-ways-of-d-bus.pdf)
         + dbus-c++ and g++-7.1
-            + [#18 Invalid template code in Threading class](https://sourceforge.net/p/dbus-cplusplus/patches/18/)
+            + [#18 Invalid template code in Threading class](https://sourceforge.net/p/dbus-cplusplus/patches/18/)    
             + tl;dr
               patch '/usr/include/dbus-c++-1/dbus-c++/dispatcher.h'
         + sdbus - and shutdown
             + [The new sd-bus API of systemd](http://0pointer.net/blog/the-new-sd-bus-api-of-systemd.html)
                 + [Patrick Williams' gists for sdbus](https://gist.github.com/williamspatrick)
             + [systemd-233/src/libsystemd/sd-bus/test-bus-objects.c](https://fossies.org/linux/systemd/src/libsystemd/sd-bus/test-bus-objects.c)
-            + [C++ bindings for systemd dbus APIs](https://github.com/openbmc/sdbusplus)
+            + [C++ bindings for systemd dbus APIs](https://github.com/openbmc/sdbusplus)    
 
             tl;dr poweroff
             ```
@@ -1005,7 +1005,7 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
 
     + WebSockets
         + [ws: a Node.js WebSocket library](https://github.com/websockets/ws#sending-and-receiving-text-data)
-            + [Autobahn test suite reports](http://websockets.github.io/ws/)
+            + [Autobahn test suite reports](http://websockets.github.io/ws/)    
             tl;dr
             ```sh
             npm install -g ws
@@ -1167,12 +1167,12 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
     + C++ and multithreading
         + Memory Model
             + [C++11 introduced a standardized memory model. What does it mean? And how is it going to affect C++ programming?](https://stackoverflow.com/questions/6319146/c11-introduced-a-standardized-memory-model-what-does-it-mean-and-how-is-it-g?rq=1)
-        + [Top 20 C++ multithreading mistakes and how to avoid them](http://www.acodersjourney.com/2017/08/top-20-cplusplus-multithreading-mistakes/)
+        + [Top 20 C++ multithreading mistakes and how to avoid them](http://www.acodersjourney.com/2017/08/top-20-cplusplus-multithreading-mistakes/)    
         tl;dr
             1. Not using `join()` to wait for background threads before terminating an application.
             2. Trying to `join()` a thread that has been previously detached.
             3. Not realizing that `std::thread::join()` blocks the calling thread.
-            4. Thinking that thread function arguments are pass by reference by default.
+            4. Thinking that thread function arguments are pass by reference by default.    
                 tl;dr use `std::ref()` for passing by reference.
             5. Not protecting shared data or shared resources with a critical section (eg. mutex).
             6. Forgetting to release locks after a critical section.
@@ -1287,7 +1287,7 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
         + [What is the usefulness of `enable_shared_from_this`?](https://stackoverflow.com/questions/712279/what-is-the-usefulness-of-enable-shared-from-this)
             + [std::enable_shared_from_this](http://ru.cppreference.com/w/cpp/memory/enable_shared_from_this)
         + [How and why one would use Boost signals2?](http://stackoverflow.com/questions/18663490/how-and-why-one-would-use-boost-signals2)
-            + [Is boost::signals2 overkill for simple applications?](http://stackoverflow.com/questions/22416860/is-boostsignals2-overkill-for-simple-applications?noredirect=1&lq=1)
+            + [Is boost::signals2 overkill for simple applications?](http://stackoverflow.com/questions/22416860/is-boostsignals2-overkill-for-simple-applications?noredirect=1&lq=1)    
             tl;dr almost 100x performance penalty over plain function call
             + [Conversion of Qt Signals to Boost Signals2](http://stackoverflow.com/questions/20562430/conversion-of-qt-signals-to-boost-signals2)
                 + [Messaging and Signaling in C++](https://meetingcpp.com/index.php/br/items/messaging-and-signaling-in-cplusplus.html)
@@ -1405,7 +1405,7 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
 
         + [std::unique_ptr for class data member ABI (Pimpl idiom)](https://stackoverflow.com/questions/30072094/stdunique-ptr-for-class-data-member-abi-pimpl-idiom)
             + [Move constructor involving const unique_ptr](https://stackoverflow.com/questions/29194304/move-constructor-involving-const-unique-ptr)
-            + [Why am I getting compile error “use of deleted function 'std::unique_ptr …”](https://stackoverflow.com/questions/39703954/why-am-i-getting-compile-error-use-of-deleted-function-stdunique-ptr/39705668)
+            + [Why am I getting compile error “use of deleted function 'std::unique_ptr …”](https://stackoverflow.com/questions/39703954/why-am-i-getting-compile-error-use-of-deleted-function-stdunique-ptr/39705668)    
             tl;dr 
             The chief feature of std::unqiue_ptr is that it cannot be copied. That's by design, and the name tells you as much.
             take `std::unique_ptr<..> const&` -- no copy is needed.
@@ -1423,7 +1423,7 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
         + C++ specialization
             + [Function Templates Partial Specialization in C++](https://www.fluentcpp.com/2017/08/15/function-templates-partial-specialization-cpp/)
             + [C++ Template specialization for subclasses with abstract base class](https://stackoverflow.com/questions/24936862/c-template-specialization-for-subclasses-with-abstract-base-class)
-                + [c++ template specialization for base class](https://stackoverflow.com/questions/21437730/c-template-specialization-for-base-class)
+                + [c++ template specialization for base class](https://stackoverflow.com/questions/21437730/c-template-specialization-for-base-class)    
                 tl;dr look [partial_specialization.cpp](https://github.com/alsam/cpp-samples/blob/master/c%2B%2Bnew-features/partial_specialization.cpp)
                 ```c++
                 template <typename M>
@@ -1460,7 +1460,7 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
         + selected boost tips
             + boost property tree
                 + [boost property tree 5 minutes tutorial](http://www.boost.org/doc/libs/1_61_0/doc/html/property_tree/tutorial.html)
-                + [3 ways of getting data from propert tree](http://www.boost.org/doc/libs/1_61_0/doc/html/property_tree/accessing.html)
+                + [3 ways of getting data from propert tree](http://www.boost.org/doc/libs/1_61_0/doc/html/property_tree/accessing.html)    
                 tl;dr
                 ```
                 auto dump_vector = [](std::string const& name, auto const& v)
@@ -1753,8 +1753,9 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
 
 + [VPP](https://wiki.fd.io/view/VPP)
     + [VPP/What is VPP? The VPP platform is an extensible framework that provides out-of-the-box production quality switch/router functionality](https://wiki.fd.io/view/VPP/What_is_VPP%3F)
-    + [VPP/Pulling, Building, Running, Hacking and Pushing VPP Code](_Hacking_and_Pushing_VPP_Code)
-    ```tl;dr
+    + [VPP/Pulling, Building, Running, Hacking and Pushing VPP Code](_Hacking_and_Pushing_VPP_Code)    
+    tl;dr
+    ```
     git clone https://USERNAME@gerrit.fd.io/r/a/vpp
     ```
     + [Building FD.io VPP 18.10 on Ubuntu 18.04 LTS with Mellanox DPDK PMD without OFED](http://www.jimmdenton.com/vpp-1810-mellanox/)
@@ -1828,7 +1829,7 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
     + [fdupes – A Comamndline Tool to Find and Delete Duplicate Files in Linux](http://www.tecmint.com/fdupes-find-and-delete-duplicate-files-in-linux/)
     + [Is there a difference between using pmount and mount?](https://superuser.com/questions/273956/is-there-a-difference-between-using-pmount-and-mount)
     + [How To Quickly Generate A Large File On The Command Line (With Linux)](http://www.skorks.com/2010/03/how-to-quickly-generate-a-large-file-on-the-command-line-with-linux/)
-    + [How to check programatically if the Ethernet cable is plugged in?](https://unix.stackexchange.com/questions/163503/how-to-check-programatically-if-the-ethernet-cable-is-plugged-in)
+    + [How to check programatically if the Ethernet cable is plugged in?](https://unix.stackexchange.com/questions/163503/how-to-check-programatically-if-the-ethernet-cable-is-plugged-in)    
 
     tl;dr
     ```sh
