@@ -151,6 +151,20 @@
 + [VLI is a llibrary for high but fixed (128 to 512-bit) arithmetic and symbolic polinomials computations](http://comp-phys.org/vli/)
     + [Series Expansion Methods for Quantum Lattice Models](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/123831/eth-50186-02.pdf)
 
++ Sandia
+    + [Trilinos is a collection of open-source software libraries, called packages, intended to be used as building blocks for the development of scientific applications.](https://en.wikipedia.org/wiki/Trilinos)
+        + [github repo fo Trilinos](https://github.com/trilinos/Trilinos)    
+        tl;dr
+        ```
+        $ yay -s trilinos
+        3 aur/trilinos 12.14.1-2 (+0 0.00%) 
+            algorithms for the solution of large-scale scientific problems
+        2 aur/mingw-w64-trilinos 12.12.1-1 (+0 0.00%) 
+            Framework for the solution of large-scale, complex multi-physics engineering and scientific problems (mingw-w64)
+        1 aur/trilinos-git 12.12.0.gd3b096f4f1-1 (+1 0.00%) (Out-of-date 2019-06-21) 
+            An effort to develop algorithms and enabling technologies within an object-oriented software framework for the solution of large-scale, complex multi-physics engineering and scientific problems.
+        ```
+
 + ARM Neon
     + [Coding for ARM NEON: How to start?](https://stackoverflow.com/questions/28547697/coding-for-arm-neon-how-to-start)
     + [SIMD Assembly Tutorial:ARM NEON](https://people.xiph.org/~tterribe/daala/neon_tutorial.pdf)
