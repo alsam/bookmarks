@@ -89,7 +89,22 @@
                         + [Intel-ucode](https://www.archlinux.org/packages/?name=intel-ucode)
                         + [coreboot: Fast, secure and flexible OpenSource firmware](https://www.coreboot.org)
 
-            + [install-yaourt-arch-linux](https://www.ostechnix.com/install-yaourt-arch-linux/)
+            + ~[install-yaourt-arch-linux](https://www.ostechnix.com/install-yaourt-arch-linux/)~
+                + [Yaourt is Dead! Use These Alternatives for AUR in Arch Linux](https://itsfoss.com/best-aur-helpers/)
+                    + [Yet another Yogurt - An AUR Helper written in Go ](https://github.com/Jguer/yay)    
+                    TL;DR    
+                    ```sh
+                    git clone https://aur.archlinux.org/yay.git
+                    cd yay
+                    makepkg -si
+                    ```
+                    + [Pacman wrapper with AUR support : written in **nim**](https://github.com/kitsunyan/pakku)
+                    TL;DR    
+                    ```sh
+                    git clone https://aur.archlinux.org/pakku.git
+                    cd pakku
+                    makepkg -si
+                    ```
 
             + [ArchLinux Tutorial, Part 1: Basic ArchLinux Installation](https://medium.com/@mudrii/arch-linux-installation-on-hw-with-i3-windows-manager-part-1-5ef9751a0be)
             + [ArchLinux Tutorial, Part 2: X Window System and I3 Installation](https://medium.com/@mudrii/arch-linux-installation-on-hw-with-i3-windows-manager-part-2-x-window-system-and-i3-installation-86735e55a0a0)
