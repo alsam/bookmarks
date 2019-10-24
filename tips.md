@@ -518,6 +518,10 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
         ```
     + [Why doesn't GCC optimize a*a*a*a*a*a to (a*a*a)*(a*a*a)?](http://stackoverflow.com/questions/6430448/why-doesnt-gcc-optimize-aaaaaa-to-aaaaaa)
 
++ Terminal emulators
+    + [A look at terminal emulators, part 1](https://anarc.at/blog/2018-04-12-terminal-emulators-1/)
+    + [A look at terminal emulators, part 2](https://anarc.at/blog/2018-05-04-terminal-emulators-2/)
+
 + Editors
 
     + [What are the best programming text editors?](http://www.slant.co/topics/12/~programming-text-editors)
