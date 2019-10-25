@@ -296,6 +296,8 @@
     nimble install Arraymancer
     ```
 
+    + [Why is nim and nimble in official repo so outdated?](https://amp.reddit.com/r/archlinux/comments/cdv3xu/why_is_nim_and_nimble_in_official_repo_so_outdated/)
+
 + [parallel-computing resources list](https://github.zhrichard.me/topics/parallel-computing)
 
 + [Overview of the Efficient Programming Languages (v.3) 2018.4](https://sdevprog.blogspot.com/2018/04/overview-of-efficient-programming.html?m=1)
