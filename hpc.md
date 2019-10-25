@@ -281,6 +281,8 @@
 + nim links
     + [Laser - Primitives for high performance computing](https://github.com/numforge/laser)
 
+    + [NimTorch](https://github.com/fragcolor-xyz/nimtorch)
+
     + [A matrix library https://unicredit.github.io/neo/](https://github.com/unicredit/neo)
     + [A fast, ergonomic and portable tensor library with a deep learning focus](https://github.com/mratsim/Arraymancer)
         + [Arraymancer - A n-dimensional tensor (ndarray) library](https://mratsim.github.io/Arraymancer/)
