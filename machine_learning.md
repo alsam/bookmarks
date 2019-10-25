@@ -465,3 +465,7 @@
                 + [Python code for ArtificialIntelligence: Foundations ofComputational Agents](https://artint.info/AIPython/aipython.pdf)
             + [GitHub Releases Dataset of Six Million Open-Source Methods for Code Search Research](https://syncedreview.com/2019/10/01/github-releases-dataset-of-six-million-open-source-methods-for-code-search-research/)
                 + [CodeSearchNet](https://github.com/github/CodeSearchNet#downloading-data-from-s3)
+
++ AMD GPU deeplearning
+    + [Train neural networks using AMD GPU and Keras](https://towardsdatascience.com/train-neural-networks-using-amd-gpus-and-keras-37189c453878)
+    + [AMD GPU support for AI](https://forums.fast.ai/t/hardware-amd-gpu-support/44235)
