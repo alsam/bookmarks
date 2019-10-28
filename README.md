@@ -28,9 +28,9 @@
             + [Rocket Microarchitectural Implementation of RISC-V ISA](https://github.com/ucb-bar/rocket)
             + [Rocket uncore: L2 cache, etc.](https://github.com/ucb-bar/uncore)
 
-+ [CUDA and friends related surveys, papers](https://github.com/alsam/bookmarks/blob/master/hpc.md#CUDA and friends related surveys, papers)
++ [CUDA and friends related surveys, papers](https://github.com/alsam/bookmarks/blob/master/hpc.md#CUDA)
 
-+ [DSLs targeting GPU](https://github.com/alsam/bookmarks/blob/master/hpc.md#DSLs targeting GPU)
++ [DSLs targeting GPU](https://github.com/alsam/bookmarks/blob/master/hpc.md#DSLs)
 
 + Polyhedral papers intro & focused to GPU code generation
     + [Polyhedral Compilation](http://polyhedral.info/)
