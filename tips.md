@@ -111,6 +111,7 @@
             + [ArchLinux Tutorial, Part 3: I3 Configuration and Operation](https://medium.com/@mudrii/archlinux-tutorial-part-3-i3-configuration-and-operation-9cd6dc90e524)
             + [i3 desktop install](https://xakep.ru/2017/03/22/geek-desktop/)
             + [Оконный менеджер i3](https://laurvas.ru/i3/)
+            + [How to Install LightDM Display Manager on Arch Linux](https://linoxide.com/linux-how-to/install-lightdm-arch-linux/)
         + Arch migration
             + [Migrate installation to new hardware](https://wiki.archlinux.org/index.php/Migrate_installation_to_new_hardware)
             + [Disk cloning](https://wiki.archlinux.org/index.php/Disk_cloning)
