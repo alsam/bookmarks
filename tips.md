@@ -111,6 +111,11 @@
             + [ArchLinux Tutorial, Part 3: I3 Configuration and Operation](https://medium.com/@mudrii/archlinux-tutorial-part-3-i3-configuration-and-operation-9cd6dc90e524)
             + [i3 desktop install](https://xakep.ru/2017/03/22/geek-desktop/)
             + [Оконный менеджер i3](https://laurvas.ru/i3/)
+                + [Incorporate nm-applet in i3 window manager](https://unix.stackexchange.com/questions/372606/incorporate-nm-applet-in-i3-window-manager)    
+                tl;dr    
+                ```sh
+                exec --no-startup-id nm-applet --sm-disable
+                ```
             + [How to Install LightDM Display Manager on Arch Linux](https://linoxide.com/linux-how-to/install-lightdm-arch-linux/)
         + ArchLinux network tips
             + [How to install and configure NetworkManager and network-manager-applet on Arch Linux with Gnome3](https://evilshit.wordpress.com/2012/09/15/how-to-make-networkmanager-and-network-manager-applet-work-on-arch-linux-with-gnome3/)    
