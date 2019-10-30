@@ -112,6 +112,23 @@
             + [i3 desktop install](https://xakep.ru/2017/03/22/geek-desktop/)
             + [Оконный менеджер i3](https://laurvas.ru/i3/)
             + [How to Install LightDM Display Manager on Arch Linux](https://linoxide.com/linux-how-to/install-lightdm-arch-linux/)
+        + ArchLinux network tips
+            + [How to install and configure NetworkManager and network-manager-applet on Arch Linux with Gnome3](https://evilshit.wordpress.com/2012/09/15/how-to-make-networkmanager-and-network-manager-applet-work-on-arch-linux-with-gnome3/)    
+            tl;dr    
+            ```sh
+            lspci | grep -i net
+            lsusb
+            ip link
+            sudo pacman -S wpa_supplicant
+            sudo pacman -S wireless_tools
+            sudo pacman -S networkmanager
+            sudo pacman -S network-manager-applet
+            sudo pacman -S gnome-keyring
+            sudo systemctl enable NetworkManager.service
+            sudo systemctl enable wpa_supplicant.service
+            sudo systemctl start wpa_supplicant.service
+            sudo systemctl start NetworkManager.service
+            ```
         + Arch migration
             + [Migrate installation to new hardware](https://wiki.archlinux.org/index.php/Migrate_installation_to_new_hardware)
             + [Disk cloning](https://wiki.archlinux.org/index.php/Disk_cloning)
