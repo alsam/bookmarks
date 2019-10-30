@@ -116,6 +116,16 @@
                 ```sh
                 exec --no-startup-id nm-applet --sm-disable
                 ```
+                + [ [SOLVED] I3 nm-applet issue.](https://bbs.archlinux.org/viewtopic.php?id=204413)    
+                ```sh
+                ...
+
+                xrandr --output LVDS1 --primary
+
+                ...
+
+                exec i3
+                ```
             + [How to Install LightDM Display Manager on Arch Linux](https://linoxide.com/linux-how-to/install-lightdm-arch-linux/)
         + ArchLinux network tips
             + [How to install and configure NetworkManager and network-manager-applet on Arch Linux with Gnome3](https://evilshit.wordpress.com/2012/09/15/how-to-make-networkmanager-and-network-manager-applet-work-on-arch-linux-with-gnome3/)    
