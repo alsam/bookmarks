@@ -524,6 +524,7 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
 + Terminal emulators
     + [A look at terminal emulators, part 1](https://anarc.at/blog/2018-04-12-terminal-emulators-1/)
     + [A look at terminal emulators, part 2](https://anarc.at/blog/2018-05-04-terminal-emulators-2/)
+    + [20 Useful Terminal Emulators for Linux](https://www.tecmint.com/linux-terminal-emulators/)
 
 + Editors
 
@@ -619,6 +620,8 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
               sudo apt install python3-dev
               python3 install.py --clang-completer --racer-completer
               ```
+
+        + [TabNine uses deep learning to help you write code faster.](https://tabnine.com/)
         + CoC - **C**onquer **o**f **C**ompletion
             + [Install coc.nvim](https://github.com/neoclide/coc.nvim/wiki/Install-coc.nvim)
                 + Ubuntu install issues
