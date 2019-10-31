@@ -258,10 +258,10 @@
     + [AnyDSL ports from http://benchmarksgame.alioth.debian.org](https://github.com/AnyDSL/benchmarks-impala)
 
 # parallelforall
-    + [An Efficient Matrix Transpose in CUDA C/C++](http://devblogs.nvidia.com/parallelforall/efficient-matrix-transpose-cuda-cc/)
-    + [BIDMach: Machine Learning at the Limit with GPUs](http://devblogs.nvidia.com/parallelforall/bidmach-machine-learning-limit-gpus/)
-    + [High-Performance Geometric Multi-Grid with GPU Acceleration](https://devblogs.nvidia.com/parallelforall/high-performance-geometric-multi-grid-gpu-acceleration/)
-    + [Inside Pascal: NVIDIA’s Newest Computing Platform](https://devblogs.nvidia.com/parallelforall/inside-pascal/)
++ [An Efficient Matrix Transpose in CUDA C/C++](http://devblogs.nvidia.com/parallelforall/efficient-matrix-transpose-cuda-cc/)
++ [BIDMach: Machine Learning at the Limit with GPUs](http://devblogs.nvidia.com/parallelforall/bidmach-machine-learning-limit-gpus/)
++ [High-Performance Geometric Multi-Grid with GPU Acceleration](https://devblogs.nvidia.com/parallelforall/high-performance-geometric-multi-grid-gpu-acceleration/)
++ [Inside Pascal: NVIDIA’s Newest Computing Platform](https://devblogs.nvidia.com/parallelforall/inside-pascal/)
  
 + [GPU Programming in Functional Languages](http://www.cse.chalmers.se/~joels/writing/GPUFL.pdf)
 
@@ -280,27 +280,27 @@
         + [technicalities: interactive scientific computing #2 of 2, goldilocks languages](https://graydon2.dreamwidth.org/189377.html)
 
 # Nim links
-    + [Laser - Primitives for high performance computing](https://github.com/numforge/laser)
-    
-    + [NimTorch](https://github.com/fragcolor-xyz/nimtorch)
-    
-    + [A matrix library https://unicredit.github.io/neo/](https://github.com/unicredit/neo)
-    + [A fast, ergonomic and portable tensor library with a deep learning focus](https://github.com/mratsim/Arraymancer)
-    + [high performance tensor library in Nim](https://andre-ratsimbazafy.com/high-performance-tensor-library-in-nim/#how-controlling-overhead)
-        + [Arraymancer - A n-dimensional tensor (ndarray) library](https://mratsim.github.io/Arraymancer/)
-    + [A curated list of awesome Nim frameworks, libraries and software](https://github.com/VPashkov/awesome-nim)
-        + [Find the nim package](http://nimism.co/)
-    + [Meta Nim Are we scientists yet?](https://github.com/nim-lang/needed-libraries/issues/77)
-    + [Quantum EXpressions lattice field theory framework](https://github.com/jcosborn/qex)
-        + [QEX: a framework for lattice field theories](https://arxiv.org/abs/1612.02750)
-    + tl;dr
-    ```sh
-    nimble refresh
-    nimble install neo
-    nimble install Arraymancer
-    ```
++ [Laser - Primitives for high performance computing](https://github.com/numforge/laser)
 
-    + [Why is nim and nimble in official repo so outdated?](https://amp.reddit.com/r/archlinux/comments/cdv3xu/why_is_nim_and_nimble_in_official_repo_so_outdated/)
++ [NimTorch](https://github.com/fragcolor-xyz/nimtorch)
+
++ [A matrix library https://unicredit.github.io/neo/](https://github.com/unicredit/neo)
++ [A fast, ergonomic and portable tensor library with a deep learning focus](https://github.com/mratsim/Arraymancer)
++ [high performance tensor library in Nim](https://andre-ratsimbazafy.com/high-performance-tensor-library-in-nim/#how-controlling-overhead)
+    + [Arraymancer - A n-dimensional tensor (ndarray) library](https://mratsim.github.io/Arraymancer/)
++ [A curated list of awesome Nim frameworks, libraries and software](https://github.com/VPashkov/awesome-nim)
+    + [Find the nim package](http://nimism.co/)
++ [Meta Nim Are we scientists yet?](https://github.com/nim-lang/needed-libraries/issues/77)
++ [Quantum EXpressions lattice field theory framework](https://github.com/jcosborn/qex)
+    + [QEX: a framework for lattice field theories](https://arxiv.org/abs/1612.02750)
++ tl;dr
+```sh
+nimble refresh
+nimble install neo
+nimble install Arraymancer
+```
+
++ [Why is nim and nimble in official repo so outdated?](https://amp.reddit.com/r/archlinux/comments/cdv3xu/why_is_nim_and_nimble_in_official_repo_so_outdated/)
 
 + [parallel-computing resources list](https://github.zhrichard.me/topics/parallel-computing)
 
