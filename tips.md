@@ -1157,6 +1157,7 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
             + [Категории выражений в C++](https://m.habr.com/ru/post/441742/)
             + [C++17 **Guaranteed** Copy Elision](https://jonasdevlieghere.com/guaranteed-copy-elision/)
         + [Simplify code with 'if constexpr' in C++17](https://www.bfilipek.com/2018/03/ifconstexpr.html)
+            + [Constexpr if alternative](https://stackoverflow.com/questions/43587405/constexpr-if-alternative)
         + [C++17 Fold expressions](http://filipjaniszewski.com/2016/11/24/c17-folding-expression/)
             + [Reduce: From functional programming to C++17 Fold expressions - Nikos Athanasiou - Meeting C++ 2016](https://www.youtube.com/watch?v=ymNdAkS7Ljc)
         + [simplify C++](https://arne-mertz.de/category/cpp/modern-cpp/)
