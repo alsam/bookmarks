@@ -258,12 +258,11 @@
     + [AnyDSL ports from http://benchmarksgame.alioth.debian.org](https://github.com/AnyDSL/benchmarks-impala)
 
 # parallelforall
-
     + [An Efficient Matrix Transpose in CUDA C/C++](http://devblogs.nvidia.com/parallelforall/efficient-matrix-transpose-cuda-cc/)
     + [BIDMach: Machine Learning at the Limit with GPUs](http://devblogs.nvidia.com/parallelforall/bidmach-machine-learning-limit-gpus/)
     + [High-Performance Geometric Multi-Grid with GPU Acceleration](https://devblogs.nvidia.com/parallelforall/high-performance-geometric-multi-grid-gpu-acceleration/)
     + [Inside Pascal: NVIDIA’s Newest Computing Platform](https://devblogs.nvidia.com/parallelforall/inside-pascal/)
-    
+ 
 + [GPU Programming in Functional Languages](http://www.cse.chalmers.se/~joels/writing/GPUFL.pdf)
 
 + [HIP : Convert CUDA to Portable C++ Code](https://github.com/GPUOpen-ProfessionalCompute-Tools/HIP)
@@ -274,7 +273,7 @@
 + [flexible package manager that supports multiple versions, configurations, platforms, and compilers. https://spack.io](https://github.com/LLNL/spack)
 + [Tutorial: Spack 101](https://spack.readthedocs.io/en/latest/tutorial_sc16.html)
 
-+ [ASA: High Performance Fast Computing Challenge](https://hn.svelte.technology/item/14265751)
++ [NASA: High Performance Fast Computing Challenge](https://hn.svelte.technology/item/14265751)
 
 + [Why Rust fails hard at scientific computing](https://www.reddit.com/r/rust/comments/76olo3/why_rust_fails_hard_at_scientific_computing/)
     + [Why Rust fails hard at scientific computing](https://internals.rust-lang.org/t/why-rust-fails-hard-at-scientific-computing/6065)
