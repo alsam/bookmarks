@@ -28,7 +28,7 @@
             + [Rocket Microarchitectural Implementation of RISC-V ISA](https://github.com/ucb-bar/rocket)
             + [Rocket uncore: L2 cache, etc.](https://github.com/ucb-bar/uncore)
 
-+ [CUDA and friends related surveys, papers](https://github.com/alsam/bookmarks/blob/master/hpc.md#cuda-and-friends)
++ [CUDA and friends related surveys, papers](https://github.com/alsam/bookmarks/blob/master/hpc.md#cuda-and-friends-related-surveys-papers)
 
 + [DSLs targeting GPU](https://github.com/alsam/bookmarks/blob/master/hpc.md#dsls-targeting-gpu)
 
