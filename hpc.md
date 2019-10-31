@@ -257,7 +257,8 @@
     + [A DSL for Stencil Codes](https://github.com/AnyDSL/stincilla)
     + [AnyDSL ports from http://benchmarksgame.alioth.debian.org](https://github.com/AnyDSL/benchmarks-impala)
 
-+ parallelforall
+# parallelforall
+
     + [An Efficient Matrix Transpose in CUDA C/C++](http://devblogs.nvidia.com/parallelforall/efficient-matrix-transpose-cuda-cc/)
     + [BIDMach: Machine Learning at the Limit with GPUs](http://devblogs.nvidia.com/parallelforall/bidmach-machine-learning-limit-gpus/)
     + [High-Performance Geometric Multi-Grid with GPU Acceleration](https://devblogs.nvidia.com/parallelforall/high-performance-geometric-multi-grid-gpu-acceleration/)
@@ -267,40 +268,40 @@
 
 + [HIP : Convert CUDA to Portable C++ Code](https://github.com/GPUOpen-ProfessionalCompute-Tools/HIP)
 
-encil computations
+# Pencil computations
 + [Ускоряем трафаретные вычисления: сборка и запуск YASK на процессорах Intel](https://habrahabr.ru/company/intel/blog/305128/)
 
- flexible package manager that supports multiple versions, configurations, platforms, and compilers. https://spack.io](https://github.com/LLNL/spack)
++ [flexible package manager that supports multiple versions, configurations, platforms, and compilers. https://spack.io](https://github.com/LLNL/spack)
 + [Tutorial: Spack 101](https://spack.readthedocs.io/en/latest/tutorial_sc16.html)
 
-ASA: High Performance Fast Computing Challenge](https://hn.svelte.technology/item/14265751)
++ [ASA: High Performance Fast Computing Challenge](https://hn.svelte.technology/item/14265751)
 
-igh performance tensor library in Nim](https://andre-ratsimbazafy.com/high-performance-tensor-library-in-nim/#how-controlling-overhead)
 + [Why Rust fails hard at scientific computing](https://www.reddit.com/r/rust/comments/76olo3/why_rust_fails_hard_at_scientific_computing/)
     + [Why Rust fails hard at scientific computing](https://internals.rust-lang.org/t/why-rust-fails-hard-at-scientific-computing/6065)
         + [technicalities: interactive scientific computing #2 of 2, goldilocks languages](https://graydon2.dreamwidth.org/189377.html)
 
-m links
-+ [Laser - Primitives for high performance computing](https://github.com/numforge/laser)
+# Nim links
+    + [Laser - Primitives for high performance computing](https://github.com/numforge/laser)
+    
+    + [NimTorch](https://github.com/fragcolor-xyz/nimtorch)
+    
+    + [A matrix library https://unicredit.github.io/neo/](https://github.com/unicredit/neo)
+    + [A fast, ergonomic and portable tensor library with a deep learning focus](https://github.com/mratsim/Arraymancer)
+    + [high performance tensor library in Nim](https://andre-ratsimbazafy.com/high-performance-tensor-library-in-nim/#how-controlling-overhead)
+        + [Arraymancer - A n-dimensional tensor (ndarray) library](https://mratsim.github.io/Arraymancer/)
+    + [A curated list of awesome Nim frameworks, libraries and software](https://github.com/VPashkov/awesome-nim)
+        + [Find the nim package](http://nimism.co/)
+    + [Meta Nim Are we scientists yet?](https://github.com/nim-lang/needed-libraries/issues/77)
+    + [Quantum EXpressions lattice field theory framework](https://github.com/jcosborn/qex)
+        + [QEX: a framework for lattice field theories](https://arxiv.org/abs/1612.02750)
+    + tl;dr
+    ```sh
+    nimble refresh
+    nimble install neo
+    nimble install Arraymancer
+    ```
 
-+ [NimTorch](https://github.com/fragcolor-xyz/nimtorch)
-
-+ [A matrix library https://unicredit.github.io/neo/](https://github.com/unicredit/neo)
-+ [A fast, ergonomic and portable tensor library with a deep learning focus](https://github.com/mratsim/Arraymancer)
-    + [Arraymancer - A n-dimensional tensor (ndarray) library](https://mratsim.github.io/Arraymancer/)
-+ [A curated list of awesome Nim frameworks, libraries and software](https://github.com/VPashkov/awesome-nim)
-    + [Find the nim package](http://nimism.co/)
-+ [Meta Nim Are we scientists yet?](https://github.com/nim-lang/needed-libraries/issues/77)
-+ [Quantum EXpressions lattice field theory framework](https://github.com/jcosborn/qex)
-    + [QEX: a framework for lattice field theories](https://arxiv.org/abs/1612.02750)
-+ tl;dr
-```sh
-nimble refresh
-nimble install neo
-nimble install Arraymancer
-```
-
-+ [Why is nim and nimble in official repo so outdated?](https://amp.reddit.com/r/archlinux/comments/cdv3xu/why_is_nim_and_nimble_in_official_repo_so_outdated/)
+    + [Why is nim and nimble in official repo so outdated?](https://amp.reddit.com/r/archlinux/comments/cdv3xu/why_is_nim_and_nimble_in_official_repo_so_outdated/)
 
 + [parallel-computing resources list](https://github.zhrichard.me/topics/parallel-computing)
 
