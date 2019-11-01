@@ -6,6 +6,7 @@
         + [Gentoo Cheat Sheet](https://wiki.gentoo.org/wiki/Gentoo_Cheat_Sheet)
     
     + Arch Linux tips
+        + [Arch Linux config files](https://github.com/afiskon/archlinux-on-desktop)
         + [Archlinux PKGBUILDs for Data Science, Machine Learning, Deep Learning, NLP and Computer Vision](https://github.com/mratsim/Arch-Data-Science)
         + first installation
             tl;dr
