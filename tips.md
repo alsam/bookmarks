@@ -576,6 +576,7 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
 
     + vim tips
         :set ff=unix
+        + [Vim: Squeezing the Text Editor’s Juice with More Features](http://www.datastuff.tech/programming/vim-squeezing-text-editors-juice-with-more-features/)
         + [How I revamped my Vim setup](https://alex.dzyoba.com/blog/vim-revamp)
         + [Minimalist Vim Plugin Manager](https://github.com/junegunn/vim-plug)
         + [A guide to setting up Vim for JavaScript development](https://freshman.tech/vim-javascript/)
