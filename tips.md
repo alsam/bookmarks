@@ -1915,3 +1915,5 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
 
 + [Apache Thrift vs Protocol Buffers detailed comparison as of 2019](https://www.slant.co/versus/9125/9127/~apache-thrift_vs_protocol-buffers)
     + [Apache Thrift Language Support](https://thrift.apache.org/docs/Languages)
+
++ [Slimjet Browser Review – speed and utility](https://malwarecomplaints.info/slimjet-browser-review-speed-utility/)
