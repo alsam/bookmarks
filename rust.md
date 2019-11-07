@@ -901,5 +901,9 @@
             + [nora codes](https://nora.codes/)
         + [Nannou Update - Vulkan, LASERs and more!](https://nannou.cc/posts/nannou_v0.9)
         + [Visual Embedded Rust Programming with Visual Studio Code](https://medium.com/@ly.lee/visual-embedded-rust-programming-with-visual-studio-code-1bc1262e398c)
-        + [cargo ssl download error behind proxy on windows](https://stackoverflow.com/questions/47221811/cargo-ssl-download-error-behind-proxy-on-windows)
+        + [cargo ssl download error behind proxy on windows](https://stackoverflow.com/questions/47221811/cargo-ssl-download-error-behind-proxy-on-windows)    
+        tl;dr    
+        ```sh
+        git clone --bare https://github.com/rust-lang/crates.io-index.git
+        ```
 

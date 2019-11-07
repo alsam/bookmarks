@@ -254,7 +254,7 @@
             + [Numlock/Capslock indicator](https://aur.archlinux.org/packages/xfce4-kbdleds-pl)    
             tl;dr
             ```sh
-            yaourt -S aur/xfce4-kbdleds-plugin-git
+            yay -S aur/xfce4-kbdleds-plugin-git
             ```
 
             + [xfce nm-applet missing : how to display network manager icon on xfce panel](https://askubuntu.com/questions/517467/how-to-display-network-manager-icon-on-xfce-panel/572117)
@@ -638,13 +638,13 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
             tl;dr  
             ```sh
             gpg --keyserver keys.gnupg.net --recv-keys 702353E0F7E48EDB
-            yaourt -S ncurses5-compat-libs
+            yay -S ncurses5-compat-libs
             ```
             + ["ycmd server SHUTDOWN" error on Arch Linux](https://github.com/Valloric/YouCompleteMe/issues/2579#issuecomment-288315182)
                 + tl;dr
                 ```sh
-                yaourt -S libtinfo
-                yaourt -S libtinfo5
+                yay -S libtinfo
+                yay -S libtinfo5
                 :YcmGenerateConfig
                 :YcmRestartServer
                 ```

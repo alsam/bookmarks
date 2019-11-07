@@ -20,15 +20,15 @@
     + [Modern LaTeX typesetting](https://www.olivierverdier.com/posts/2013/07/15/modern-latex/)
     + Arch Linux Latin Modern & Latin Modern Math 
         ```sh
-        yaourt -S otf-latin-modern
-        yaourt -S otf-latinmodern-math
+        yay -S otf-latin-modern
+        yay -S otf-latinmodern-math
         ```
     + Arch Linux specifics for Cyrillic letters with LaTeX    
         ```sh
         pacman -S texlive-langcyrillic
-        yaourt -S ttf-computer-modern-fonts
-        yaourt -S ttf-cm-unicode
-        yaourt -S ttf-pt-fonts
+        yay -S ttf-computer-modern-fonts
+        yay -S ttf-cm-unicode
+        yay -S ttf-pt-fonts
             to fix arch linux Invalid fontname `PT Sans'
         ```
         + [Problems with Cyrillic fonts in XeTeX](http://tex.stackexchange.com/questions/209614/problems-with-cyrillic-fonts-in-xetex)
