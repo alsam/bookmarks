@@ -560,6 +560,8 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
     + [A look at terminal emulators, part 1](https://anarc.at/blog/2018-04-12-terminal-emulators-1/)
     + [A look at terminal emulators, part 2](https://anarc.at/blog/2018-05-04-terminal-emulators-2/)
     + [20 Useful Terminal Emulators for Linux](https://www.tecmint.com/linux-terminal-emulators/)
+    + [A tiling terminal emulator for Linux using GTK+ 3](https://github.com/gnunn1/tilix)
+        + [Tilix is an advanced GTK3 tiling terminal emulator that follows the Gnome Human Interface Guidelines.](https://gnunn1.github.io/tilix-web/)
 
 + Editors
 
