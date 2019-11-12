@@ -598,6 +598,12 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
         + [Understanding Vim’s Jump List](https://medium.com/breathe-publication/understanding-vims-jump-list-7e1bfc72cdf0)
         + [Что вам стоит знать, если вы начали изучение Vim](https://proglib.io/p/vim-what-i-wish-i-knew/)
         + [Configure coc.nvim for C/C++ Development](https://ianding.io/2019/07/29/configure-coc-nvim-for-c-c++-development/)
+            + [CCLS (C/C++) extension for coc.nvim](https://github.com/Maxattax97/coc-ccls)
+                + [Is this extension in a usable state?](https://github.com/Maxattax97/coc-ccls/issues/1)    
+        ```sh
+        pacman -S nodejs yarn
+        yay -S ccls
+        ```
         + [A guide to modern Web Development with (Neo)vim](https://www.freecodecamp.org/news/a-guide-to-modern-web-development-with-neo-vim-333f7efbf8e2/)
         + [Vim’s absolute, relative and hybrid line numbers](https://jeffkreeftmeijer.com/vim-number/)
             + [How to turn off Vim relativenumber setting?](https://stackoverflow.com/questions/32306604/how-to-turn-off-vim-relativenumber-setting)
