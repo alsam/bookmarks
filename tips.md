@@ -1439,6 +1439,9 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
         https://github.com/boostorg/variant2.git
 
         ```
+            + [Python bindings for the C++14 Boost::Histogram library](https://github.com/scikit-hep/boost-histogram)
+                + [Boost-histogram is a Python package providing Python bindings for Boost.Histogram ](https://boost-histogram.readthedocs.io/en/latest/)
+                + [issues to Boost-histogram](https://github.com/scikit-hep/boost-histogram/issues)
 
         + cheat-sheet for callbacks in C++
             + [Callback functions in c++](http://stackoverflow.com/questions/2298242/callback-functions-in-c)
