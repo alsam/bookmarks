@@ -376,6 +376,10 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
         + [Linux’izing your Windows PC into a dev machine  Part 2#Java and JVM ecosystem](https://cepa.io/2018/02/20/linuxizing-your-windows-pc-part2/#java)
         + [Is it possible to access my Android device through WSL?](https://www.reddit.com/r/bashonubuntuonwindows/comments/9qmrqs/is_it_possible_to_access_my_android_device/)
         + [Windows Subsystem for Linux not recognizing JAVA_HOME Environmental Variable](https://stackoverflow.com/questions/53365643/windows-subsystem-for-linux-not-recognizing-java-home-environmental-variable)
+        + Arch Linux on Windows 10
+            + [Running Arch Linux over Windows 10!](https://www.akitaonrails.com/2018/04/29/running-arch-linux-over-windows-10)
+            + [Install Arch Linux on Windows 10 Hyper-V](https://medium.com/@mudrii/install-arch-linux-on-windows-10-hyper-v-215b2e71c6db)
+            + [Arch Linux on Windows 10](https://hannuhartikainen.fi/blog/arch-wsl/)
 
     + misc
         + [8 Best Linux Console File Managers](https://www.tecmint.com/linux-terminal-file-managers/?fbclid=IwAR1j9PzVEJ2TvP0ze0cLKfeB_bBq9ISECNqsPsPSbVyScJO-po-2jY4Q1i0)
