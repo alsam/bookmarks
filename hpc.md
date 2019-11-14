@@ -144,6 +144,11 @@
     + [IPMACC is a framework for translating/executing OpenACC for C API to/over CUDA or OpenCL runtime](https://github.com/lashgar/ipmacc)
     + [IPMACC – An Open Source OpenACC to CUDA/OpenCL Translator](http://www.techenablement.com/ipmacc-open-source-openacc-cudaopencl-translator/)
 
++ MATOG - GPU Access Auto Tuning
+    + [MATOG Auto-Tuning on GPUs is a tool to automatically optimize performance of NVIDIA CUDA code](https://www.gcc.tu-darmstadt.de/home/proj/matog/)
+    + [MATOG preprint](https://tuprints.ulb.tu-darmstadt.de/6507/)
+    + [MATOG: CUDA Array Access Auto-Tuner](https://github.com/mergian/matog)
+
 + [OCCA (Open Concurrent Compute Abstraction)](http://libocca.org/)
     + [github repository for OCCA](https://github.com/libocca/occa)
 
