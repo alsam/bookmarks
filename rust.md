@@ -279,6 +279,8 @@
         + [Implementing an object factory pattern in Rust using closures](http://keepcalmandlearnrust.com/2016/08/implementing-an-object-factory-pattern-in-rust-using-closures/)
 
     + Rust concurrency
+        + [Comparing parallel Rust and C++](https://parallel-rust-cpp.github.io/)
+            + [Performance comparison of parallel Rust and C++](https://github.com/parallel-rust-cpp/shortcut-comparison)
         + [Concurrent Programming in Rust course EECS 3/495](http://users.eecs.northwestern.edu/~jesse/course/eecs395rust-wi16/)
         + [An Adventure in API Design and Concurrency in Rust](http://damienradtke.com/adventures-in-concurrency-1/)
             + [Concurrency in Rust: vimeo video](https://vimeo.com/144809407)
