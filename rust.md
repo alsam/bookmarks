@@ -109,6 +109,7 @@
         + [Scientific computing: a Rust adventure [Part 1 - Zero-cost abstractions] ](https://www.lpalmieri.com/posts/2019-03-12-scientific-computing-a-rust-adventure-part-1-zero-cost-abstractions/)
         + [Scientific computing: a Rust adventure [Part 2 - Array1] ](https://www.lpalmieri.com/posts/2019-04-07-scientific-computing-a-rust-adventure-part-2-array1/)
         + [Rust 2020: Scientific Rust](https://github.com/willi-kappler/rust_2020)
+            + [A curated list of Rust code and resources that do NOT exist yet, but would be beneficial to the Rust community.](https://github.com/not-yet-awesome-rust/not-yet-awesome-rust)
         + [Rust 2019: Beat C++ ?](https://www.reddit.com/r/rust/comments/acjcbp/rust_2019_beat_c/)
             + [Rust numeric-array](https://crates.io/crates/numeric-array)
             + [Embedded Rust arithmetic, 2D/3D vector, and statistics library](https://github.com/neobirth/micromath)
