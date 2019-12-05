@@ -1,5 +1,7 @@
 # python language bookmarks
 
++ [Hybrid Python/C++ packages, revisited](https://www.benjack.io/2018/02/02/python-cpp-revisited.html)
+
 + virtual environments
     + [Python Virtual Environments](http://docs.python-guide.org/en/latest/dev/virtualenvs/#virtualenvwrapper-ref)
     + [Linux: Install pip Client To Install Python Packages](http://www.cyberciti.biz/faq/debian-ubuntu-centos-rhel-linux-install-pipclient/)
