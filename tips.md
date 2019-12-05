@@ -856,6 +856,7 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
             + [The Meson Build System](https://github.com/mesonbuild/meson)
             + [List of projects using Meson](https://mesonbuild.com/Users.html)
                 + [HelenOS is a portable microkernel-based multiserver operating system designed and implemented from scratch](http://www.helenos.org/)
+    + [Thoughts about Software Development with an eye on the world of modern C++ Programming](https://thoughts-on-cpp.com/)
 
 + [Technical typesetting](https://github.com/alsam/bookmarks/blob/master/technical_typesetting.md)
 
