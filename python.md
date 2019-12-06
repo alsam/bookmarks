@@ -1,6 +1,7 @@
 # python language bookmarks
 
 + [Hybrid Python/C++ packages, revisited](https://www.benjack.io/2018/02/02/python-cpp-revisited.html)
+    + [An example of a hybrid python/C++ package with unit tests](https://github.com/benjaminjack/python_cpp_example)
 
 + virtual environments
     + [Python Virtual Environments](http://docs.python-guide.org/en/latest/dev/virtualenvs/#virtualenvwrapper-ref)
