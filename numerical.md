@@ -59,6 +59,9 @@
     + [A flexible and efficient С++ template library for dimension reduction](https://github.com/lisitsyn/tapkee)
         + [Tapkee an efficient dimension reduction library](http://tapkee.lisitsyn.me/)
 
++ [Wavelet and Multiscale Library](https://wavelet-and-multiscale-library.github.io/)
+    + [The Marburg Software Library is a collection of wavelet based c++ algorithms to solve multivariate partial differential equations.](https://github.com/wavelet-and-multiscale-library/Marburg_Software_Library)
+
 + BEM - **B**oundary **E**lement **L**ibrary
     + [Curated list of Hierarchical Matrices (H-Matrices) libraries](https://github.com/gchavez2/awesome-hierarchical-matrices)
     + [BEM++ is an open-source Galerkin boundary element library that handles Laplace, Helmholtz and Maxwell problems on bounded and unbounded domains](http://www.bempp.org/)
