@@ -3,6 +3,7 @@
 + [Packaging Python Projects](https://packaging.python.org/tutorials/packaging-projects/)
     + [Hybrid Python/C++ packages, revisited](https://www.benjack.io/2018/02/02/python-cpp-revisited.html)
         + [An example of a hybrid python/C++ package with unit tests](https://github.com/benjaminjack/python_cpp_example)
+        + [create python extensions with `pybind11`.](https://smyt.ru/blog/sozdaem-s-python-rasshireniya-s-pomshyu-pybind11/)
 
 + virtual environments
     + [Python Virtual Environments](http://docs.python-guide.org/en/latest/dev/virtualenvs/#virtualenvwrapper-ref)
