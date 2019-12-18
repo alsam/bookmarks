@@ -170,10 +170,14 @@
             An effort to develop algorithms and enabling technologies within an object-oriented software framework for the solution of large-scale, complex multi-physics engineering and scientific problems.
         ```
 
-+ ARM Neon
-    + [Coding for ARM NEON: How to start?](https://stackoverflow.com/questions/28547697/coding-for-arm-neon-how-to-start)
-    + [SIMD Assembly Tutorial:ARM NEON](https://people.xiph.org/~tterribe/daala/neon_tutorial.pdf)
-    + [ARM NEON скининг](https://habr.com/en/post/153015/)
++ ARM
+    + [The ARM Computer Vision and Machine Learning library](https://github.com/ARM-software/ComputeLibrary)
+    + [HPCG for Arm](https://github.com/ARM-software/HPCG_for_Arm)
+        + [Parallelizing HPCG's main kernels](https://community.arm.com/developer/tools-software/hpc/b/hpc-blog/posts/parallelizing-hpcg)
+    + ARM Neon
+        + [Coding for ARM NEON: How to start?](https://stackoverflow.com/questions/28547697/coding-for-arm-neon-how-to-start)
+        + [SIMD Assembly Tutorial:ARM NEON](https://people.xiph.org/~tterribe/daala/neon_tutorial.pdf)
+        + [ARM NEON скининг](https://habr.com/en/post/153015/)
 
 + CPU, GPU & DRAM Architecture Simulators
     + [GPGPU-Sim](http://www.gpgpu-sim.org/)
