@@ -417,6 +417,7 @@
             println!("2 in vec2: {}", vec2.into_iter().any(| x| x == 2));
             ```
         + [Initialize an array with a closure](http://stackoverflow.com/questions/29682881/initialize-an-array-with-a-closure)
+        + [Inheritance, why is bad?](https://users.rust-lang.org/t/inheritance-why-is-bad/35705/49)
         + [*deprecated* OOP inheritance adapted to Rust](https://internals.rust-lang.org/t/oop-inheritance-adapted-to-rust/586)
             + [Usecases for inheritance](https://users.rust-lang.org/t/usecases-for-inheritance/348)
                 + [Rust type system and the Circle-ellipse problem](https://internals.rust-lang.org/t/rust-type-system-and-the-circle-ellipse-problem/3057)
