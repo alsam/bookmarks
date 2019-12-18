@@ -4,6 +4,9 @@
     + [Hybrid Python/C++ packages, revisited](https://www.benjack.io/2018/02/02/python-cpp-revisited.html)
         + [An example of a hybrid python/C++ package with unit tests](https://github.com/benjaminjack/python_cpp_example)
         + [create python extensions with `pybind11`.](https://smyt.ru/blog/sozdaem-s-python-rasshireniya-s-pomshyu-pybind11/)
+        + pybind11 docs & issues
+            + [pybind11 Eigen support](https://pybind11.readthedocs.io/en/stable/advanced/cast/eigen.html#vectors-versus-column-row-matrices)
+            + [Can you support Tensor datatype from Eigen library?](https://github.com/pybind/pybind11/issues/1377)
 
 + virtual environments
     + [Python Virtual Environments](http://docs.python-guide.org/en/latest/dev/virtualenvs/#virtualenvwrapper-ref)
