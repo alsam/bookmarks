@@ -6,6 +6,15 @@
         + [Arraypocalypse Now (0.5 release)](https://github.com/JuliaLang/julia/issues/13157)
     + [Julia HOWTO integrate equations using LaTeX in docs](https://gitter.im/MichaelHatherly/Docile.jl/archives/2015/06/10)
         + [Julia HOWTO insert Unicode symbols](http://julia.readthedocs.org/en/latest/manual/interacting-with-julia/)
+    + Switch to modern Julia
+        + [Difference between Set{Int}() and BitSet()](https://discourse.julialang.org/t/difference-between-set-int-and-bitset/27737)
+        + [Pkg](https://docs.julialang.org/en/v1/stdlib/Pkg/index.html)
+        + [immutable vs struct and type vs mutable struct in Julia](https://stackoverflow.com/questions/46863422/immutable-vs-struct-and-type-vs-mutable-struct-in-julia)
+        + [Pkg Fails to clone git repository on Arch related distros](https://github.com/JuliaLang/Pkg.jl/issues/1013)
+        ```sh
+        git clone https://github.com/JuliaRegistries/General.git ~/.julia/registries/General
+        ```
+
     + [Introducing Julia/Arrays and tuples](https://en.wikibooks.org/wiki/Introducing_Julia/Arrays_and_tuples)
         + [Multidimensional algorithms and iteration](http://julialang.org/blog/2016/02/iteration)
         + [Multi-dimensional arrays with arbitrary upper and lower bounds that can be fixed or flexible](https://github.com/eschnett/FlexibleArrays.jl)
