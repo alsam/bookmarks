@@ -10,10 +10,12 @@
         + [Difference between Set{Int}() and BitSet()](https://discourse.julialang.org/t/difference-between-set-int-and-bitset/27737)
         + [Pkg](https://docs.julialang.org/en/v1/stdlib/Pkg/index.html)
         + [immutable vs struct and type vs mutable struct in Julia](https://stackoverflow.com/questions/46863422/immutable-vs-struct-and-type-vs-mutable-struct-in-julia)
+        + [What is the difference between `using` and `import` in Julia when building a module?](https://stackoverflow.com/questions/27086159/what-is-the-difference-between-using-and-import-in-julia-when-building-a-mod)
         + [Pkg Fails to clone git repository on Arch related distros](https://github.com/JuliaLang/Pkg.jl/issues/1013)
         ```sh
         git clone https://github.com/JuliaRegistries/General.git ~/.julia/registries/General
         ```
+        + [Discussion: Plans for Julia as a general-purpose language?](https://discourse.julialang.org/t/discussion-plans-for-julia-as-a-general-purpose-language/30861/30)
 
     + [Introducing Julia/Arrays and tuples](https://en.wikibooks.org/wiki/Introducing_Julia/Arrays_and_tuples)
         + [Multidimensional algorithms and iteration](http://julialang.org/blog/2016/02/iteration)
@@ -28,6 +30,8 @@
         + [Julia Statistics - Statistics and Machine Learning made easy in Julia](https://github.com/JuliaStats)
         + [JuliaPlots - Data visualization in Julia using Plots.jl](https://github.com/JuliaPlots)
         + [JuliaGraphics](https://github.com/JuliaGraphics)
+            + [Julia and OpenGL](https://www.reddit.com/r/Julia/comments/bfaxmu/example_julia_and_opengl/)
+            + [CImGui](https://github.com/Gnimuc/CImGui.jl)
         + [JuliaQuantum](http://juliaquantum.github.io/)
             + [news](http://juliaquantum.github.io/news/)
             + [GSoC2015:Community Bonding Period Updates](http://juliaquantum.github.io/news/2015/04/JuliaQuantum-and-GSoC2015)
