@@ -809,6 +809,8 @@
 
     + Graphics in Rust
 
+        + [Relm the idiomatic GUI library for Rust](https://relm.antoyo.xyz/getting-started/)
+
         + [A Guide to Rust Graphics Libraries](https://wiki.alopex.li/AGuideToRustGraphicsLibraries2019)
             + [winit - Cross-platform window creation and management in Rust](https://crates.io/crates/winit)
         + Rust and OpenGL from scratch
