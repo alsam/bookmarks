@@ -169,6 +169,7 @@
         1 aur/trilinos-git 12.12.0.gd3b096f4f1-1 (+1 0.00%) (Out-of-date 2019-06-21) 
             An effort to develop algorithms and enabling technologies within an object-oriented software framework for the solution of large-scale, complex multi-physics engineering and scientific problems.
         ```
+        + [Add option to turn off the install of gtest header and lib even if Gtest package is enabled](https://github.com/trilinos/Trilinos/issues/5341)
 
 + ARM
     + [The ARM Computer Vision and Machine Learning library](https://github.com/ARM-software/ComputeLibrary)
