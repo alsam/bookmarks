@@ -115,6 +115,7 @@
         + [Relax! Flux is the ML library that doesn't make you tensor https://fluxml.ai/](https://github.com/FluxML/Flux.jl)
 
     + Misc.
+        + [The Serious Downsides To The Julia Language In 1.0.3](https://towardsdatascience.com/the-serious-downsides-to-the-julia-language-in-1-0-3-e295bc4b4755)
         + [TensorFlow.jl: A Julia Front End to the TensorFlow World (TF Dev Summit '19)](https://www.youtube.com/watch?v=n2MwJ1guGVQ)
         + [A Comparison Between Differential Equation Solver Suites In MATLAB, R, Julia, Python, C, Mathematica, Maple, and Fortran](http://www.stochasticlifestyle.com/comparison-differential-equation-solver-suites-matlab-r-julia-python-c-fortran/)
         + [Monadic parsers library with inheritance support](https://github.com/potan/parsers.jl)
