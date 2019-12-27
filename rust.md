@@ -654,6 +654,9 @@
     + [Unable to create a polymorphic type because the trait cannot be made into an object](https://stackoverflow.com/questions/39412626/unable-to-create-a-polymorphic-type-because-the-trait-cannot-be-made-into-an-obj)
 
     + [Add LaTeX support to Rustdoc](https://github.com/rust-lang/rust/issues/34261)
+        + [Crate katex_doc](https://docs.rs/katex-doc/0.1.0/katex_doc/)
+            + [katex_doc](https://crates.io/crates/katex-doc)
+        + [horrible-katex-hack](https://lib.rs/crates/horrible-katex-hack)
         + [rustdoc-katex-demo](https://crates.io/crates/rustdoc-katex-demo)
             + [KaTeX for documentation](https://github.com/rust-ndarray/ndarray/issues/598)
                 + [Struct hmmm::HMM](https://docs.rs/hmmm/0.1.1/hmmm/struct.HMM.html)
