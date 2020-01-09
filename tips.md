@@ -1485,12 +1485,12 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
         https://github.com/boostorg/variant2.git
         ```
 
-            + [Python bindings for the C++14 Boost::Histogram library](https://github.com/scikit-hep/boost-histogram)
-                + [Boost-histogram is a Python package providing Python bindings for Boost.Histogram ](https://boost-histogram.readthedocs.io/en/latest/)
-                + [issues to Boost-histogram](https://github.com/scikit-hep/boost-histogram/issues)
-            + [Boosting the Accuracy of Differentially Private Histograms Through Consistency](https://www.vldb.org/pvldb/vldb2010/pvldb_vol3/R91.pdf)
-            + [Improving Accuracy and Robustness of Self-Tuning Histograms by Subspace Clustering](https://dbis.ipd.kit.edu/download/MineClusSTHoles_-_Minor_Revision.pdf)
-                + [Improving Accuracy and Robustness of Self-Tuning Histograms by Subspace Clustering](https://www.youtube.com/watch?v=ZXb0ETrzhrs)
+        + [Python bindings for the C++14 Boost::Histogram library](https://github.com/scikit-hep/boost-histogram)
+            + [Boost-histogram is a Python package providing Python bindings for Boost.Histogram ](https://boost-histogram.readthedocs.io/en/latest/)
+            + [issues to Boost-histogram](https://github.com/scikit-hep/boost-histogram/issues)
+        + [Boosting the Accuracy of Differentially Private Histograms Through Consistency](https://www.vldb.org/pvldb/vldb2010/pvldb_vol3/R91.pdf)
+        + [Improving Accuracy and Robustness of Self-Tuning Histograms by Subspace Clustering](https://dbis.ipd.kit.edu/download/MineClusSTHoles_-_Minor_Revision.pdf)
+            + [Improving Accuracy and Robustness of Self-Tuning Histograms by Subspace Clustering](https://www.youtube.com/watch?v=ZXb0ETrzhrs)
 
         + cheat-sheet for callbacks in C++
             + [Callback functions in c++](http://stackoverflow.com/questions/2298242/callback-functions-in-c)
