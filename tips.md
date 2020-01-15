@@ -1620,8 +1620,9 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
         + [Lambda expressions as class template parameters](https://stackoverflow.com/questions/5849059/lambda-expressions-as-class-template-parameters)
         + [Passing capturing lambda as function pointer](https://stackoverflow.com/questions/28746744/passing-capturing-lambda-as-function-pointer)
         + [Can I use std::vector as a template parameter or does it need to be std::vector<T>?](https://stackoverflow.com/questions/16925041/can-i-use-stdvector-as-a-template-parameter-or-does-it-need-to-be-stdvector)
-        + [How can I create directory tree in C++/Linux?](https://stackoverflow.com/questions/675039/how-can-i-create-directory-tree-in-c-linux)
-        + [C++ Copy directory recursive under unix](https://stackoverflow.com/questions/36428121/c-copy-directory-recursive-under-unix)
+        + [Clang refuses to compile libstdc++'s <filesystem> header](https://stackoverflow.com/questions/57963460/clang-refuses-to-compile-libstdcs-filesystem-header)
+            + [How can I create directory tree in C++/Linux?](https://stackoverflow.com/questions/675039/how-can-i-create-directory-tree-in-c-linux)
+            + [C++ Copy directory recursive under unix](https://stackoverflow.com/questions/36428121/c-copy-directory-recursive-under-unix)
 
         + [Hash Functions for C++ Unordered Containers](https://marknelson.us/posts/2011/09/03/hash-functions-for-c-unordered-containers.html)
             + [About size_t and ptrdiff_t](https://www.viva64.com/en/a/0050/)
