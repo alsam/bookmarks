@@ -1752,6 +1752,14 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
     + [CMake cheat sheet](https://ps-group.github.io/cxx/cmake_cheatsheet)
     + [CMake cannot find GoogleTest required library in Ubuntu](https://stackoverflow.com/questions/24295876/cmake-cannot-find-googletest-required-library-in-ubuntu)
     + [CMake by Example](https://mirkokiefer.com/cmake-by-example-f95eb47d45b1)
+        + [How to copy contents of a directory into build directory after make with CMake?](https://stackoverflow.com/questions/13429656/how-to-copy-contents-of-a-directory-into-build-directory-after-make-with-cmake)    
+        ```cmake
+        add_custom_command(TARGET ${PROJECT_NAME} POST_BUILD
+                           COMMAND ${CMAKE_COMMAND} -E copy_directory
+                               ${CMAKE_SOURCE_DIR}/config $<TARGET_FILE_DIR:${PROJECT_NAME}>/config)
+        ```
+        + [Executing multiple post build commands in CMake depending on condition](https://stackoverflow.com/questions/33769077/executing-multiple-post-build-commands-in-cmake-depending-on-condition)
+
     + [What are the best open-source build systems for C/C++?](https://www.slant.co/topics/4263/~open-source-build-systems-for-c-c)
         + [Meson](https://www.slant.co/topics/4263/viewpoints/14/~open-source-build-systems-for-c-c~meson)
             + [Investigate using Meson build system alongside CMake](https://musescore.org/en/node/120116)
