@@ -912,6 +912,7 @@
         + [Prior work on Krylov subspace methods?](https://users.rust-lang.org/t/prior-work-on-krylov-subspace-methods/13261/3)
         + [Herb Sutter: “Metaclasses: Thoughts on generative C++”](https://internals.rust-lang.org/t/herb-sutter-metaclasses-thoughts-on-generative-c/5647)
         + [ x-post How do I integrate Rust into other projects?](https://users.rust-lang.org/t/x-post-how-do-i-integrate-rust-into-other-projects/13507)
+        + [Sometimes you just want to count something globally, and you really dont want to worry to much about data races, other race conditions, all the fun stuff.](https://github.com/LukiRe/global_counter)
         + [Rust новости #5 (январь 2019)](https://m.habr.com/ru/post/439354/)
 
         + [triangle mesh data structure including basic operations](https://github.com/asny/tri-mesh)
