@@ -11,6 +11,8 @@
     + [pandoc: Embedded SVG in PDF](https://github.com/jgm/pandoc/issues/265)
         + [open: Support SVG images in multiple formats](https://github.com/jgm/pandoc/issues/1793)
 
+    + [Building pretty slides using Markdown and pandoc](https://avalz.it/2017/02/01/build-pretty-slides/)
+
 + Confluence tips
     + [How to migrate a Confluence space to a Markdown Wiki](http://blog.deveo.com/confluence-to-markdown-wiki-migration/)
 
