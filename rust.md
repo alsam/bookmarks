@@ -69,6 +69,14 @@
         operf ./target/debug/add_sum_sq -k 4 -n 100
         opannotate --source --assembly > operf.listing
         ```
+        + Learn Rust the Dangerous Way
+            + [Why Learn Rust the Dangerous Way?](http://cliffle.com/p/dangerust/0/)
+            + [You Can't Write C in Just Any Ol' Language: Learn Rust the Dangerous Way, Part 1](http://cliffle.com/p/dangerust/1/)
+            + [References Available Upon Request: Learn Rust the Dangerous Way, Part 2](http://cliffle.com/p/dangerust/2/)
+            + [Measure What You Optimize: Learn Rust the Dangerous Way, Part 3](http://cliffle.com/p/dangerust/3/)
+            + [A More Perfect Union: Learn Rust the Dangerous Way, Part 4](http://cliffle.com/p/dangerust/4/)
+            + [Making Safe Things From Unsafe Parts: Learn Rust the Dangerous Way, Part 5](http://cliffle.com/p/dangerust/5/)
+            + [Let The Compiler Do The Work: Learn Rust the Dangerous Way, Part 6](http://cliffle.com/p/dangerust/6/)
         + [cargo subcommand to profile binaries](https://github.com/pegasos1/cargo-profiler)
         + [Rust support in Linux `perf` tool](https://users.rust-lang.org/t/rust-support-in-linux-perf-tool/6513)
         + [What one must understand to be productive with Rust](https://medium.com/@ericdreichert/what-one-must-understand-to-be-productive-with-rust-e9e472116728#.yc1728nv4)
