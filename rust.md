@@ -765,6 +765,8 @@
         + [rust-cross](https://github.com/japaric/rust-cross)
 
     + Formal Verification
+        + [Synthesizing Loop-Free Programs with Rust and Z3](https://fitzgeraldnick.com/2020/01/13/synthesizing-loop-free-programs.html)
+            + [Synthesis of Loop-free Programs in Rust](https://github.com/fitzgen/synth-loop-free-prog)
         + [Simple verification of Rust programs via functional purification](https://github.com/Kha/electrolysis)
             + [LEAN](https://github.com/leanprover/lean)
             + [Theorem Proving in Lean](https://leanprover.github.io/tutorial/index.html)
