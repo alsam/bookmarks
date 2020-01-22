@@ -1763,6 +1763,11 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
                                ${CMAKE_SOURCE_DIR}/config $<TARGET_FILE_DIR:${PROJECT_NAME}>/config)
         ```
         + [Executing multiple post build commands in CMake depending on condition](https://stackoverflow.com/questions/33769077/executing-multiple-post-build-commands-in-cmake-depending-on-condition)
+        + [Problems with directory delimiters turning into backslashes when running cmake](https://stackoverflow.com/questions/48717138/problems-with-directory-delimiters-turning-into-backslashes-when-running-cmake)    
+        tl;dr    
+        ```sh
+         cmake -DCMAKE_CXX_COMPILER:FILEPATH=C:\Game Dev\Tools\MingW-
+        ```
 
     + [What are the best open-source build systems for C/C++?](https://www.slant.co/topics/4263/~open-source-build-systems-for-c-c)
         + [Meson](https://www.slant.co/topics/4263/viewpoints/14/~open-source-build-systems-for-c-c~meson)
