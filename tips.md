@@ -854,6 +854,7 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
 
     + [Collection of miscellaneous portable C snippets.](https://github.com/nemequ/portable-snippets)
         + [Debug trap portable](https://github.com/nemequ/portable-snippets/blob/master/debug-trap/debug-trap.h)
+            + [Is there a portable equivalent to DebugBreak()/__debugbreak?](https://stackoverflow.com/questions/173618/is-there-a-portable-equivalent-to-debugbreak-debugbreak)
 
     + [juCi++: a lightweight, platform independent C++-IDE with support for C++11, C++14 and C++17 features depending on libclang version.](https://gitlab.com/cppit/jucipp)
     + [ C++ Ecosystem: Compilers, IDEs, Tools, Testing and More ](https://www.bfilipek.com/2019/10/cppecosystem.html?m=1)    
