@@ -852,6 +852,9 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
     + [Monaco Editor](https://microsoft.github.io/monaco-editor/)
         + [Monaco Editor repo](https://github.com/Microsoft/monaco-editor)
 
+    + [Collection of miscellaneous portable C snippets.](https://github.com/nemequ/portable-snippets)
+        + [Debug trap portable](https://github.com/nemequ/portable-snippets/blob/master/debug-trap/debug-trap.h)
+
     + [juCi++: a lightweight, platform independent C++-IDE with support for C++11, C++14 and C++17 features depending on libclang version.](https://gitlab.com/cppit/jucipp)
     + [ C++ Ecosystem: Compilers, IDEs, Tools, Testing and More ](https://www.bfilipek.com/2019/10/cppecosystem.html?m=1)    
         + [and meson, missed from the above review](https://mesonbuild.com/)
@@ -1832,7 +1835,6 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
         ...
         ioctl(file, BLKGETSIZE64, &file_size_in_bytes);
         ```
-
 + bash
     + [comparison operators](http://www.tldp.org/LDP/abs/html/comparison-ops.html)
     ```sh
@@ -1846,7 +1848,6 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
     if [[ "${target_partname}" == "" || "${target_partname}" == "APP" ]]; then
     ...
     ```
-
 + tmux
     + [Краткая шпаргалка по tmux](https://habrahabr.ru/post/126996/)
 
@@ -1901,7 +1902,7 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
     + [high CPU load by 'mmcqd' in Ubuntu](https://community.nxp.com/thread/318739)
     + [Copy a file in a sane, safe and efficient way](http://stackoverflow.com/questions/10195343/copy-a-file-in-a-sane-safe-and-efficient-way)
     + [Linux function to get mount points](http://stackoverflow.com/questions/9280759/linux-function-to-get-mount-points)
-        + tl;dr
+        + tl;dr    
         ```c
         #include <stdio.h>
         #include <stdlib.h>
