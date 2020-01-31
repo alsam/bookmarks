@@ -131,6 +131,12 @@
         cat /sys/devices/system/cpu/cpu0/cpufreq/stats/time_in_state
         ```
 
+    + [ADB Install Fails With INSTALL_FAILED_TEST_ONLY](https://stackoverflow.com/questions/25274296/adb-install-fails-with-install-failed-test-only)    
+        tl;dr    
+        ```sh
+        adb install -t hello.apk
+        ```
+
     + [Установка android tools (ADB,fastboot, QTADB) на Debian/Ubuntu/Linux Mint](http://linux-notes.org/ustanovka-android-tools-adb-fastboot-qtadb-na-debian-ubuntu-linux-mint/)
 
     + [android-ndk archives](https://github.com/android-ndk/ndk/wiki)
