@@ -1304,6 +1304,7 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
             + [C++11 concurrency: condition variables](http://codexpert.ro/blog/2013/03/01/cpp11-concurrency-condition-variables/)
                 + [Потоки, блокировки и условные переменные в C++11 [Часть 2]](https://habrahabr.ru/post/182626/)
             + [std::unique_lock<std::mutex> or std::lock_guard<std::mutex>?](https://stackoverflow.com/questions/20516773/stdunique-lockstdmutex-or-stdlock-guardstdmutex)
+            + [std::unique_lock vs. от std::lock_guard?](https://ru.stackoverflow.com/questions/843495/%D0%A7%D0%B5%D0%BC-stdunique-lock-%D0%BE%D1%82%D0%BB%D0%B8%D1%87%D0%B0%D0%B5%D1%82%D1%81%D1%8F-%D0%BE%D1%82-stdlock-guard)
                 + tl;dr
                 almost the same, but `lock_guard` has less functionality, locks only once and more preferrable;
                 use `lock_guard` unless you need unlocling, for `condition_variable`s that `wait()`ing from sleep.
