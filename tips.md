@@ -385,6 +385,7 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
         + [8 Best Linux Console File Managers](https://www.tecmint.com/linux-terminal-file-managers/?fbclid=IwAR1j9PzVEJ2TvP0ze0cLKfeB_bBq9ISECNqsPsPSbVyScJO-po-2jY4Q1i0)
         + [9 Best File Comparison and Difference (Diff) Tools for Linux](https://www.tecmint.com/best-linux-file-diff-tools-comparison/)
             tl;dr `meld, diffuse, vimdiff, kompare`
+        + [10 Best Markdown Editors for Linux](https://www.tecmint.com/best-markdown-editors-for-linux/)
 
 + [OOP cheatsheet](https://tproger.ru/translations/oop-principles-cheatsheet/)
     + tl;dr
