@@ -86,6 +86,8 @@
         + [Best Practice Guide – ARM64, February 2019](http://www.prace-ri.eu/best-practice-guide-arm64/)
             + [Best Practice Guide - ARM64 . pdf](http://www.prace-ri.eu/IMG/pdf/Best-Practice-Guide-ARM64.pdf)
 
+    + [Get device information (such as product, model) from adb command](https://stackoverflow.com/questions/22092118/get-device-information-such-as-product-model-from-adb-command)
+
     + [How to change clock frequency in Android?](https://stackoverflow.com/questions/4238959/how-to-change-clock-frequency-in-android)    
     ```sh    
     Set Governor:
