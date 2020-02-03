@@ -1372,6 +1372,7 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
     + [Why const Doesn't Make C Code Faster](https://theartofmachinery.com/2019/08/12/c_const_isnt_for_performance.html)
     + [Impossibly fast delegate in C++11](http://codereview.stackexchange.com/questions/14730/impossibly-fast-delegate-in-c11)
     + [Разработка → RAII + С++ variadic templates = win](https://habrahabr.ru/post/172817/)
+    + [C++ convert integer to string at compile time](https://stackoverflow.com/questions/6713420/c-convert-integer-to-string-at-compile-time)
     + [Is there any RAII file handle already implemented?](https://stackoverflow.com/questions/22775500/is-there-any-raii-file-handle-already-implemented)
     + [Perfect forwarding and universal references in C++](http://eli.thegreenplace.net/2014/perfect-forwarding-and-universal-references-in-c/)
     + [Nobody Understands C++](http://blog2.emptycrate.com/tags/nobody-understands)
