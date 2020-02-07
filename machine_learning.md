@@ -436,6 +436,7 @@
             + [The Human Brain Builds Structures in 11 Dimensions, Discover Scientists](http://bigthink.com/paul-ratner/our-brains-think-in-11-dimensions-discover-scientists)
 
         + Books
+            + [Mathematics for Machine Learning](https://mml-book.github.io/book/mml-book.pdf)
             + Deep Learning books
                 + [**Mathematics for Machine Learning** by Garrett Thomas __terse, precise, and concise__](https://gwthomas.github.io/docs/math4ml.pdf)
                 + [MIT Deep Learning Book in PDF format](https://github.com/HFTrader/DeepLearningBook)
