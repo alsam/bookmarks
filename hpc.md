@@ -156,6 +156,9 @@
 + [VLI is a llibrary for high but fixed (128 to 512-bit) arithmetic and symbolic polinomials computations](http://comp-phys.org/vli/)
     + [Series Expansion Methods for Quantum Lattice Models](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/123831/eth-50186-02.pdf)
 
++ Apache Arrow
+    + [Apache Arrow is a development platform for in-memory analytics. It contains a set of technologies that enable big data systems to process and move data fast.](https://github.com/apache/arrow)
+
 + Sandia
     + [Trilinos is a collection of open-source software libraries, called packages, intended to be used as building blocks for the development of scientific applications.](https://en.wikipedia.org/wiki/Trilinos)
         + [github repo fo Trilinos](https://github.com/trilinos/Trilinos)    
