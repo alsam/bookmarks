@@ -21,6 +21,7 @@
 + Recurrent Neural Networks
     + [Supervised Sequence Labelling with Recurrent Neural Networks](http://www6.in.tum.de/Main/Publications/Graves2008c.pdf)
     + [Alex Graves](http://www.cs.toronto.edu/~graves/)
+    + [Recurrent Neural Networks (RNN) Explained — the ELI5 way](https://towardsdatascience.com/recurrent-neural-networks-rnn-explained-the-eli5-way-3956887e8b75)
 
 + [Boltzmann Machines](https://www.cs.toronto.edu/~hinton/csc321/readings/boltz321.pdf)
 
