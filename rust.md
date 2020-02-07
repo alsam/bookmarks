@@ -912,6 +912,7 @@
 
     + misc
         + [Awesome Space](https://github.com/AeroRust/awesome-space)
+        + [Rust, WebAssembly, and the future of Serverless](https://morioh.com/p/f20294691bac?fbclid=IwAR07hXhqIrgYKLFpc_RFq5EmSORYhKFMl-4Goi1lRDM3tIHa1S2IvUQQgFk)
         + [The best Rust frameworks to check out in 2019](https://blog.logrocket.com/the-best-rust-frameworks-to-check-out-in-2019/)
             + [Actix-rs - rust's powerful actor system and most fun web framework](https://actix.rs/)
             + [Azul - A free, functional, immediate-mode GUI framework for rapid development of desktop applications written in Rust, supported by the Mozilla WebRender rendering engine. ](https://azul.rs/)
