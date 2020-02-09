@@ -130,6 +130,7 @@
         + [a list of linear algebra libraries for Rust](https://libraries.io/search?keywords=matrix&languages=Rust)
         + [Numerics & math foundation](https://users.rust-lang.org/t/numerics-math-foundation/7247)
         + [An extensible HPC-Framework for CUDA, OpenCL and native CPU](https://github.com/lychee-eng/parenchyma)
+        + [The all-in-one maths library for Rust : A general purpose mathematics library for Rust](https://github.com/jordanosborn/RustyPandas)
         + [Request for some numerics related features](https://users.rust-lang.org/t/request-for-some-numerics-related-features/3530/6)
             + [(former Unum)Create RUST posit arithmetic library based on 21 February 2017 Posit Arithmetic by John L. Gustafson - Beating Floating Point at its Own Game](https://users.rust-lang.org/t/create-rust-posit-arithmetic-library-based-on-21-february-2017-posit-arithmetic-by-john-l-gustafson-beating-floating-point-at-its-own-game/10077/3)
                 + [A Rust implementation of the posit number system](https://github.com/japaric/posit#posit)
