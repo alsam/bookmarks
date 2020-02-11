@@ -921,6 +921,7 @@
             + [Azul - A free, functional, immediate-mode GUI framework for rapid development of desktop applications written in Rust, supported by the Mozilla WebRender rendering engine. ](https://azul.rs/)
         + [The If Works](https://blog.jcoglan.com/)
             + [A little polymorphism, part 2: channels, combinators and const generics](https://blog.jcoglan.com/2020/01/06/a-little-polymorphism-part-2/)
+        + [Rust high performance xml reader and writer](https://github.com/tafia/quick-xml)
         + [Prior work on Krylov subspace methods?](https://users.rust-lang.org/t/prior-work-on-krylov-subspace-methods/13261/3)
         + [Herb Sutter: “Metaclasses: Thoughts on generative C++”](https://internals.rust-lang.org/t/herb-sutter-metaclasses-thoughts-on-generative-c/5647)
         + [ x-post How do I integrate Rust into other projects?](https://users.rust-lang.org/t/x-post-how-do-i-integrate-rust-into-other-projects/13507)
