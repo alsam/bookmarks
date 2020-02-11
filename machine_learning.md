@@ -37,12 +37,16 @@
     + [Nervana](http://www.nervanasys.com/)
         + [github repo for Nervana Systems](https://github.com/NervanaSystems)
     + [Nervana's python based Deep Learning Framework http://neon.nervanasys.com/](https://github.com/NervanaSystems/neon)
-    + [NervanaSystems/nervanagpu: Nervana GPU library link dead](https://github.com/NervanaSystems/nervanagpu)
+    + [NervanaSystems/nervanagpu: Nervana GPU library link is dead](https://github.com/NervanaSystems/nervanagpu)
         + [rehosting the removed nervanagpu](https://github.com/VisionSystemsInc/nervanagpu)
     + [custom form of cuda-convnet2](https://github.com/NervanaSystems/cuda-convnet2)
         + [original cuda-convnet2](https://code.google.com/p/cuda-convnet2/)
     + [Assembler for NVIDIA Maxwell architecture](https://github.com/NervanaSystems/maxas)
         + [open source reverse engineering of Maxwell scheduler hints](https://github.com/NervanaSystems/maxas/wiki/Control-Codes)
+
++ [XGBoost : Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Flink and DataFlow](https://github.com/dmlc/xgboost)
+    + [XGBoost: A Scalable Tree Boosting System](https://arxiv.org/pdf/1603.02754.pdf)
+    + [Rust bindings for the XGBoost gradient boosting library](https://github.com/davechallis/rust-xgboost)
 
 + Misc
 
