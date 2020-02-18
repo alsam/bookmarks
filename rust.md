@@ -847,6 +847,7 @@
         + [Dedicated to making photogrammetry and computer vision easier than OpenCV and faster than C++ (one day)](https://github.com/rust-cv)
             + [Rust computer vision core crate](https://github.com/rust-cv/cv-core)
             + [Implements the eight-point algorithm for estimating the essential matrix](https://github.com/rust-cv/eight-point)
+            + [Essential matrix estimation from 5 normalized image coordinate correspondences from the paper "Recent developments on direct relative orientation"](https://github.com/rust-cv/nister-stewenius)
  
     + Rust robotics
         + [rust-robotics-libraries](https://gist.github.com/ClintLiddick/2966203a425ac5fb70a3d6eb0022f675)
