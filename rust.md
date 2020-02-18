@@ -843,6 +843,10 @@
             + [Пишем свой упрощенный OpenGL на Rust — часть 2 (проволочный рендер)](http://habrahabr.ru/post/261739/)
             + [Пишем свой упрощенный OpenGL на Rust — часть 3 (растеризатор)](http://habrahabr.ru/post/262235/)
 
+    + Rust Computer Vision CV
+        + [Dedicated to making photogrammetry and computer vision easier than OpenCV and faster than C++ (one day)](https://github.com/rust-cv)
+            + [Rust computer vision core crate](https://github.com/rust-cv/cv-core)
+            + [Implements the eight-point algorithm for estimating the essential matrix](https://github.com/rust-cv/eight-point)
  
     + Rust robotics
         + [rust-robotics-libraries](https://gist.github.com/ClintLiddick/2966203a425ac5fb70a3d6eb0022f675)
