@@ -463,6 +463,8 @@
                 + [The Neuronal Basis of Consciousness Course - CNS/Bi/Psy 120](https://www.youtube.com/playlist?list=PL1DBCFC32CF6945EE)
 
         + Misc
+            + [Abstraction and Reasoning Challenge](https://www.kaggle.com/c/abstraction-and-reasoning-challenge/overview)
+                + [ARC Competition : EDA + PyTorch CNN](https://www.kaggle.com/tarunpaparaju/arc-competition-eda-pytorch-cnn)
             + [Top 20 Machine Learning Interview Questions & Answers](https://www.janbasktraining.com/blog/machine-learning-interview-questions/)
             + [TensorFlow or Keras? Which one should I learn?](https://medium.com/implodinggradients/tensorflow-or-keras-which-one-should-i-learn-5dd7fa3f9ca0)
             + [Xception: компактная глубокая нейронная сеть](https://itnan.ru/post.php?c=1&p=347564)
