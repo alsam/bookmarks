@@ -788,9 +788,12 @@
             + [a unofficial rewrite of Allen B. Downey's ThinkBayes in to Rust](https://github.com/Eh2406/ThinkBayes-rs)
         + Algorithms and Concepts from Stepanov's "Elements of Programming"
             + [Algorithms and Concepts from Stepanov's "Elements of Programming" implemented in Rust](https://github.com/keean/elements_in_rust)
-        + [A community-driven port of Emacs to Rust](https://github.com/Wilfred/remacs)
-        + [Aspiring vim-like text editor](https://github.com/mathall/rim)
-            + [The Bram Moole-Laaw: There Will be Attempts to Rewrite Vim in Nearly Every New Language](http://joshldavis.com/2015/11/29/the-bram-moole-laaw-vim-re-write/)
+        + Editors
+            + [A community-driven port of Emacs to Rust](https://github.com/Wilfred/remacs)
+            + [Aspiring vim-like text editor](https://github.com/mathall/rim)
+            + [**No Nonsense Neovim Client in Rust**](https://github.com/Kethku/neovide)a
+            + [A complete text editor for your terminal.](https://amp.rs/)
+                + [The Bram Moole-Laaw: There Will be Attempts to Rewrite Vim in Nearly Every New Language](http://joshldavis.com/2015/11/29/the-bram-moole-laaw-vim-re-write/)
 
     + Video
         + [warming up: Even more general pixels](https://users.rust-lang.org/t/even-more-general-pixels/12068)
