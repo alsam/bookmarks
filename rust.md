@@ -765,8 +765,6 @@
 
         + [CLOCK-Pro: An Effective Improvement of the CLOCK Replacement](http://static.usenix.org/event/usenix05/tech/general/full_papers/jiang/jiang_html/html.html)
 
-        + [rust-cross](https://github.com/japaric/rust-cross)
-
     + Formal Verification
         + [Synthesizing Loop-Free Programs with Rust and Z3](https://fitzgeraldnick.com/2020/01/13/synthesizing-loop-free-programs.html)
             + [Synthesis of Loop-free Programs in Rust](https://github.com/fitzgen/synth-loop-free-prog)
