@@ -1794,6 +1794,7 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
     + [amber (written in Rust - a good starting point)](https://github.com/dalance/amber)
         + [ag - the silver searcher](https://github.com/ggreer/the_silver_searcher)
     + [ripgrep is faster than {grep, ag, git grep, ucg, pt, sift}](https://blog.burntsushi.net/ripgrep/)
+    + [A simple, fast and user-friendly alternative to 'find'](https://github.com/sharkdp/fd)
 
 + config formats : CSV vs. JSON vs. XML vs. YAML
     + [XML, JSON, YAML, TOML for Configuration](http://www.client9.com/article/xml-json-yaml-toml-for-configuration/)
