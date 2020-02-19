@@ -791,9 +791,14 @@
         + Editors
             + [A community-driven port of Emacs to Rust](https://github.com/Wilfred/remacs)
             + [Aspiring vim-like text editor](https://github.com/mathall/rim)
-            + [**No Nonsense Neovim Client in Rust**](https://github.com/Kethku/neovide)a
+            + [**No Nonsense Neovim Client in Rust**](https://github.com/Kethku/neovide)
             + [A complete text editor for your terminal.](https://amp.rs/)
                 + [The Bram Moole-Laaw: There Will be Attempts to Rewrite Vim in Nearly Every New Language](http://joshldavis.com/2015/11/29/the-bram-moole-laaw-vim-re-write/)
+
+        + Text search-and-replace & Find (grep-like tools)
+            + [amber (written in Rust - a good starting point)](https://github.com/dalance/amber)
+            + [ripgrep is faster than {grep, ag, git grep, ucg, pt, sift}](https://blog.burntsushi.net/ripgrep/)
+            + [A simple, fast and user-friendly alternative to 'find'](https://github.com/sharkdp/fd)
 
     + Video
         + [warming up: Even more general pixels](https://users.rust-lang.org/t/even-more-general-pixels/12068)
