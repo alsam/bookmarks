@@ -380,6 +380,13 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
             + [Running Arch Linux over Windows 10!](https://www.akitaonrails.com/2018/04/29/running-arch-linux-over-windows-10)
             + [Install Arch Linux on Windows 10 Hyper-V](https://medium.com/@mudrii/install-arch-linux-on-windows-10-hyper-v-215b2e71c6db)
             + [Arch Linux on Windows 10](https://hannuhartikainen.fi/blog/arch-wsl/)
+            + [Ripgrep and other Rust utilities panic](https://github.com/yuk7/ArchWSL/issues/109)    
+                tl;dr workaround    
+                ```sh
+                pacman -U /var/cache/pacman/pkg/glibc-2.30-3-x86_64.pkg.tar.xz
+                ...
+                warning: downgrading package glibc (2.31-1 => 2.30-3)
+                ```
 
     + misc
         + [8 Best Linux Console File Managers](https://www.tecmint.com/linux-terminal-file-managers/?fbclid=IwAR1j9PzVEJ2TvP0ze0cLKfeB_bBq9ISECNqsPsPSbVyScJO-po-2jY4Q1i0)
