@@ -915,6 +915,7 @@
     + [Writing BPF code in Rust](https://blog.redsift.com/labs/writing-bpf-code-in-rust/)
 
     + Cross compile for ARM
+        + [Everything you need to know about cross compiling Rust programs!](https://github.com/japaric/rust-cross)
         + [Cross compiling Rust for ARM (e.g. Raspberry Pi) using any OS!](https://medium.com/@wizofe/cross-compiling-rust-for-arm-e-g-raspberry-pi-using-any-os-11711ebfc52b)
         + [“Zero setup” cross compilation and “cross testing” of Rust crates](https://github.com/rust-embedded/cross/)
 
