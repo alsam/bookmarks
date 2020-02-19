@@ -124,7 +124,12 @@
 
     & chmod 444 /sys/devices/system/cpu/cpu1/online
     ```
-    
+
+    + switch off SELinux    
+    ```sh
+    adb shell "setenforce 0"
+    ```
+ 
     + [How to read cpu frequency on android device](https://stackoverflow.com/questions/3021054/how-to-read-cpu-frequency-on-android-device)    
         tl;dr    
         ```sh
