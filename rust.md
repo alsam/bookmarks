@@ -27,7 +27,7 @@
             + [Ivan Ukhov](https://github.com/IvanUkhov?tab=repositories)
             + [OpenBLAS Provider](https://github.com/cmr/openblas-provider)
         + [Rayon: A data parallelism library for Rust](https://github.com/huonw/rayon)
-            + [Neon: Node + Rust = í ½í²–](https://www.reddit.com/r/rust/comments/3y0vx9/neon_node_rust/)
+            + [Neon: Node + Rust = Sparkling Heart](https://www.reddit.com/r/rust/comments/3y0vx9/neon_node_rust/)
         + FFT libraries and bindings
             + [crate dft](https://crates.io/crates/dft)
                 + [dft docs](http://stainless-steel.github.io/dft/dft/index.html)
@@ -927,7 +927,8 @@
 
     + misc
         + [Awesome Space](https://github.com/AeroRust/awesome-space)
-        + [Rust, WebAssembly, and the future of Serverless](https://morioh.com/p/f20294691bac?fbclid=IwAR07hXhqIrgYKLFpc_RFq5EmSORYhKFMl-4Goi1lRDM3tIHa1S2IvUQQgFk)
+        + [Rust and WebAssembly](https://rustwasm.github.io/book/)
+            + [Rust, WebAssembly, and the future of Serverless](https://morioh.com/p/f20294691bac)
             + [BxJS - Building wasm markdown renderer with Rust](https://www.youtube.com/watch?v=ihybuCp9pnc)
         + [The best Rust frameworks to check out in 2019](https://blog.logrocket.com/the-best-rust-frameworks-to-check-out-in-2019/)
             + [Actix-rs - rust's powerful actor system and most fun web framework](https://actix.rs/)
