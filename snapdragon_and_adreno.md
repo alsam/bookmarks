@@ -129,7 +129,13 @@
     ```sh
     adb shell "setenforce 0"
     ```
- 
+
+    + [What does 'adb remount' do? When is it useful?](https://stackoverflow.com/questions/28961572/what-does-adb-remount-do-when-is-it-useful/28961646#28961646)    
+    ```sh
+    adb remount
+    ```
+
+
     + [How to read cpu frequency on android device](https://stackoverflow.com/questions/3021054/how-to-read-cpu-frequency-on-android-device)    
         tl;dr    
         ```sh
