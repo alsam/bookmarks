@@ -1,6 +1,6 @@
 # rust language bookmarks
 + Rust links
-    + [Rust 2019 Roadmap](https://github.com/steveklabnik/rfcs/blob/2019-roadmap/text/0000-roadmap-2019.md)
+    + [Rust 2020 Roadmap](https://github.com/nikomatsakis/rfcs/blob/roadmap-2020/text/0000-roadmap-2020.md)
     + [Rust deployment](http://blog.jfo.click/how-rust-do/)
     + [Why Rust?](http://www.oreilly.com/programming/free/files/why-rust.pdf)
     + [The Rust Book](https://doc.rust-lang.org/stable/book/)
@@ -835,6 +835,7 @@
 
         + [A Guide to Rust Graphics Libraries](https://wiki.alopex.li/AGuideToRustGraphicsLibraries2019)
             + [winit - Cross-platform window creation and management in Rust](https://crates.io/crates/winit)
+            + [KAS, the toolKit Abstraction System, is a general-purpose GUI toolkit](https://github.com/dhardy/kas)
         + Rust and OpenGL from scratch
             + [Rust and OpenGL from scratch - Setup](http://nercury.github.io/rust/opengl/tutorial/2018/02/08/opengl-in-rust-from-scratch-00-setup.html)
             + [Rust and OpenGL from scratch - Window](http://nercury.github.io/rust/opengl/tutorial/2018/02/08/opengl-in-rust-from-scratch-01-window.html)
