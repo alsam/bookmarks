@@ -887,6 +887,9 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
         + [Numerical Methods with C++ Part 3: Root Approximation Algorithms](https://thoughts-on-cpp.com/2019/06/06/numerical-methods-with-cpp-part-3-root-approximation-algorithms/)
         + [Numerical Methods with C++ Part 4: Introduction Into Decomposition Methods of Linear Equation Systems](https://thoughts-on-cpp.com/2019/06/12/numerical-methods-with-c-part-4-introduction-into-decomposition-methods-of-linear-equation-systems/)
 
+    + [Is C++ fast?](https://zeux.io/2019/01/17/is-c-fast/)
+        + [Flavors of SIMD](https://zeux.io/2019/02/17/flavors-of-simd/)
+
 + [Technical typesetting](https://github.com/alsam/bookmarks/blob/master/technical_typesetting.md)
 
 + [ZeroMQ \zero-em-queue\, \ØMQ\:](http://zeromq.org/)
