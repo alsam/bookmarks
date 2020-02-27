@@ -928,6 +928,9 @@
     + [Secure and fast microVMs for serverless computing](https://github.com/firecracker-microvm/firecracker)
 
     + [Writing BPF code in Rust](https://blog.redsift.com/labs/writing-bpf-code-in-rust/)
+        + [Writing eBPF tracing tools in Rust](https://jvns.ca/blog/2018/02/05/rust-bcc/)
+        + [PoC: compiling to eBPF from Rust](http://unhandledexpression.com/general/rust/2018/02/02/poc-compiling-to-ebpf-from-rust.html)
+        + [Rust virtual machine and JIT compiler for eBPF programs](https://github.com/qmonnet/rbpf)
 
     + Cross compile for ARM
         + [Everything you need to know about cross compiling Rust programs!](https://github.com/japaric/rust-cross)
