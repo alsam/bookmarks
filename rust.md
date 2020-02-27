@@ -70,6 +70,7 @@
     + *Performance Tips*
         + [Rust Performance Pitfalls](https://llogiq.github.io/2017/06/01/perf-pitfalls.html)
         + [Profiling Rust applications on Linux](https://llogiq.github.io/2015/07/15/profiling.html)
+        + [Intro to rustc's self profiler](https://blog.rust-lang.org/inside-rust/2020/02/25/intro-rustc-self-profile.html)
         + [Rust vs. C++: Fine-grained Performance](https://lobste.rs/s/oxuwzf/rust_vs_c_fine_grained_performance#c_0bhl8y)
         ```sh
         operf ./target/debug/add_sum_sq -k 4 -n 100
