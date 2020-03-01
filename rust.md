@@ -900,6 +900,7 @@
                             + [rustc/rustc_mir: Implement RFC 2203.](https://github.com/rust-lang/rust/pull/61749)
                                 + [Add `IntoIterator` impl for arrays by value (`for [T; N]`)](https://github.com/rust-lang/rust/pull/65819)
                                 + [Canonicalize inputs to const eval where needed](https://github.com/rust-lang/rust/pull/68505)
+                                + [Lazy normalization of constants](https://github.com/rust-lang/rust/pull/67890)
             + [generic-array : in anticipation of **const generics**](https://crates.io/crates/generic-array/)
             tl;dr
             generic-array defines a new trait `ArrayLength<T>` and a `struct GenericArray<T, N: ArrayLength<T>>`,
