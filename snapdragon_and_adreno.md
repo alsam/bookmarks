@@ -129,6 +129,8 @@
     ```sh
     adb shell "setenforce 0"
     ```
+        + [Understanding and resolving SELinux denials on Android](https://msfjarvis.dev/posts/understanding-and-resolving-selinux-denials-on-android/)
+
 
     + [What does 'adb remount' do? When is it useful?](https://stackoverflow.com/questions/28961572/what-does-adb-remount-do-when-is-it-useful/28961646#28961646)    
     ```sh
