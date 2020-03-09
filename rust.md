@@ -886,6 +886,7 @@
             + [Tracking issue for generic associated types (GAT)](https://github.com/rust-lang/rust/issues/44265)
                 + [tracking issue for "chalkification"](https://github.com/rust-lang/rust/issues/48049)
                 + [Coherence in Chalk By Sunjay Varma](http://slides.com/sunjay/coherence-in-chalk/fullscreen#/)
+                    + [Coherence in Chalk by Sunjay Varma](https://www.youtube.com/watch?v=rZqS4bLPL24)
             + [Generic associated types RFC was merged!](https://www.reddit.com/r/rust/comments/6xkqdl/generic_associated_types_rfc_was_merged/)
             + [Generic associated types (AKA ACT, AKA HKT) RFC merged!](https://www.reddit.com/r/rust/comments/6yt9vd/generic_associated_types_aka_act_aka_hkt_rfc/)
         + [RFC 2000: const generics](https://github.com/rust-lang/rfcs/blob/master/text/2000-const-generics.md)
