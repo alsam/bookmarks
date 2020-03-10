@@ -380,6 +380,7 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
             + [Running Arch Linux over Windows 10!](https://www.akitaonrails.com/2018/04/29/running-arch-linux-over-windows-10)
             + [Install Arch Linux on Windows 10 Hyper-V](https://medium.com/@mudrii/install-arch-linux-on-windows-10-hyper-v-215b2e71c6db)
             + [Arch Linux on Windows 10](https://hannuhartikainen.fi/blog/arch-wsl/)
+            + [Uptime becomes negative after Windows machine has been on for several days](https://github.com/microsoft/WSL/issues/3514)
             + [Ripgrep and other Rust utilities panic](https://github.com/yuk7/ArchWSL/issues/109)    
                 tl;dr workaround    
                 ```sh
