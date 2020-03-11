@@ -1203,6 +1203,7 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
         + [C++ Best Practices](https://lefticus.gitbooks.io/cpp-best-practices/content/02-Use_the_Tools_Available.html)
         + [C++ Russia 2017: Антон Полухин, Как делать не надо: C++ велосипедостроение для профессионалов](https://www.youtube.com/watch?v=rJWSSWYL83U)
         + [Зачем избегать друзей, или как я растерял все свои плюсы](https://habr.com/ru/post/472780/)
+        + [How to split a string in C++](https://www.fluentcpp.com/2017/04/21/how-to-split-a-string-in-c/)
 
 + [free modern C++ book: Discovering Modern C++](https://github.com/stoneyang-cs/cpp_book/blob/master/Discovering%20Modern%20C%2B%2B%20-%20Peter%20Gottschling.pdf)
 
