@@ -838,6 +838,15 @@
 
     + Graphics in Rust
 
+        + [Rust Graphics Mages](https://github.com/gfx-rs)
+            + [Awesome wgpu](https://github.com/rofrol/awesome-wgpu)
+            + [Native WebGPU implementation based on gfx-hal](https://github.com/gfx-rs/wgpu)
+            + [Rust bindings to wgpu native library](https://github.com/gfx-rs/wgpu-rs)
+            + [Universal shader translation in Rust](https://github.com/gfx-rs/naga)
+            + [A low-overhead Vulkan-like GPU API for Rust](https://github.com/gfx-rs/gfx)
+                + [N-Body-Simulation](https://github.com/timokoesters/nbodysim)
+                    + [Rust Galaxy Simulator with GPU acceleration powered by wgpu](https://www.reddit.com/r/rust/comments/fdxdhb/i_released_my_rust_galaxy_simulator_with_gpu/)
+
         + [Relm the idiomatic GUI library for Rust](https://relm.antoyo.xyz/getting-started/)
 
         + [A Guide to Rust Graphics Libraries](https://wiki.alopex.li/AGuideToRustGraphicsLibraries2019)
