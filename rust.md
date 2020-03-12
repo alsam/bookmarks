@@ -846,6 +846,7 @@
             + [A low-overhead Vulkan-like GPU API for Rust](https://github.com/gfx-rs/gfx)
                 + [N-Body-Simulation](https://github.com/timokoesters/nbodysim)
                     + [Rust Galaxy Simulator with GPU acceleration powered by wgpu](https://www.reddit.com/r/rust/comments/fdxdhb/i_released_my_rust_galaxy_simulator_with_gpu/)
+                + [Nannou Update - WebGPU, capturing frames and more!](https://nannou.cc/posts/nannou_v0.13)
 
         + [Relm the idiomatic GUI library for Rust](https://relm.antoyo.xyz/getting-started/)
 
