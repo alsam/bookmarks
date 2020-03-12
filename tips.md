@@ -6,6 +6,18 @@
         + [Gentoo Cheat Sheet](https://wiki.gentoo.org/wiki/Gentoo_Cheat_Sheet)
     
     + Arch Linux tips
+        ```sh
+        mkdir -p /tmp/iso_build_dir
+        cp -r /usr/share/archiso/configs/offline_releng/* /tmp/iso_build_dir/
+        cd /tmp/iso_build_dir/
+        echo "python" >> packages.x86_64
+        echo "ripgrep" >> packages.x86_64
+        echo "cntlm" >> packages.aur
+        sudo rm -rf work*
+        sudo ./build.sh -v
+        ls -al out/archlinux-2020.03.13-x86_64.iso 
+        sudo dd if=out/archlinux-2020.03.13-x86_64.iso of=/dev/sde1 status=progress oflag=sync bs=4M
+        ```
         + [Arch Linux config files](https://github.com/afiskon/archlinux-on-desktop)
         + [Archlinux PKGBUILDs for Data Science, Machine Learning, Deep Learning, NLP and Computer Vision](https://github.com/mratsim/Arch-Data-Science)
         + first installation
