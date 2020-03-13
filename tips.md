@@ -77,7 +77,8 @@
             [root@archiso / ]# mkinitcpio -p linux
             reboot
             ```
-                + [Image creation and activation](https://wiki.archlinux.org/index.php/Mkinitcpio#Image_creation_and_activation)
+
+            + [Image creation and activation](https://wiki.archlinux.org/index.php/Mkinitcpio#Image_creation_and_activation)
 
             + [Offline installation](https://wiki.archlinux.org/index.php/Offline_installation)
                 + [Archiso](https://wiki.archlinux.org/index.php/Archiso)
