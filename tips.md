@@ -2031,3 +2031,5 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
     + [Apache Thrift Language Support](https://thrift.apache.org/docs/Languages)
 
 + [Slimjet Browser Review – speed and utility](https://malwarecomplaints.info/slimjet-browser-review-speed-utility/)
+
++ [Предметно-ориентированное проектирование на самом деле](https://habr.com/ru/post/490270/)
