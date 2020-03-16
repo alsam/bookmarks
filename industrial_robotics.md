@@ -44,6 +44,7 @@ Inspection Systems](http://www.mdpi.com/1424-8220/13/12/16565/pdf)
     + ROS education
         + [ROS 2 Basics in 5 Days (C++)](http://www.theconstructsim.com/construct-learn-develop-robots-using-ros/robotigniteacademy_learnros/ros-courses-library/ros2-basics-course/)
         + ROS2 : **R**eal **T**ime **P**ublish **S**ubscribe -- **RTPS** / **D**ata **D**istribution **S**ervice -- **DDS**
+            + [ROS2 vs ROS1.Установка ROS2 на Ubuntu 18.04](https://habr.com/ru/post/492058/)
             + [Data Distribution Service](https://wiki2.org/en/Real-Time_Publish-Subscribe_(RTPS)_Protocol)
             + [DDS Interoperability Wire Protocol May 2019](https://www.omg.org/spec/DDSI-RTPS/2.3)
             + [Reactive functional programming in distributed embedded systems](https://github.com/Klapeyron/Master_thesis/blob/master/W04_209248_2018_praca_magisterska.pdf)
