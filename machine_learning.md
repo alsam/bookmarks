@@ -26,6 +26,7 @@
 + [Boltzmann Machines](https://www.cs.toronto.edu/~hinton/csc321/readings/boltz321.pdf)
 
 + Deep Learning
+    + [Tutorials, assignments, and competitions for MIT Deep Learning related courses](https://github.com/lexfridman/mit-deep-learning)
     + [Dive into Deep Learning](http://d2l.ai)
     + [Deep Learning: Methods and Applications](http://research.microsoft.com/pubs/209355/DeepLearning-NowPublishing-Vol7-SIG-039.pdf)
     + [The Anatomy of Deep Learning Frameworks](http://www.kdnuggets.com/2017/02/anatomy-deep-learning-frameworks.html)
