@@ -54,6 +54,7 @@
         + [Are we game yet?](http://arewegameyet.com/)
         + [Are we learning yet?](http://www.arewelearningyet.com/)
             + [Are we yet?](https://wiki.mozilla.org/Areweyet) 
+                + [Taking ML to production with Rust: a 25x speedup](https://www.lpalmieri.com/posts/2019-12-01-taking-ml-to-production-with-rust-a-25x-speedup/)
 
     + Rust ownership, lifetimes and borrowing
         + [Why Rust's ownership/borrowing is hard](http://softwaremaniacs.org/blog/2016/02/12/ownership-borrowing-hard/en/)
