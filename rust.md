@@ -49,6 +49,7 @@
         + [Are we web yet?](http://www.arewewebyet.org/)
         + [dead link : Are we concurrent yet?](http://areweconcurrentyet.com/)
         + [Are we numeric yet?](https://www.reddit.com/r/rust/comments/4drr2c/are_we_numeric_yet/)
+            + [Making Rust a perfect fit for high-performance computations](https://gist.github.com/HadrienG2/e9a875bdf98b528594f4e20f8176bb68)
         + [Are We Stdlib Yet?](https://www.reddit.com/r/rust/comments/5oqjnn/are_we_stdlib_yet/)
         + [Are we game yet?](http://arewegameyet.com/)
         + [Are we learning yet?](http://www.arewelearningyet.com/)
