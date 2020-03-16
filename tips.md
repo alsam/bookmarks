@@ -421,6 +421,7 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
             + composition
             + aggregation
         + DRY - don't repeat yourself
+        + [How I Declare My class And Why](http://howardhinnant.github.io/classdecl.html)
 
     + [Inheritance, why is bad?](https://users.rust-lang.org/t/inheritance-why-is-bad/35705)
 
