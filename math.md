@@ -25,6 +25,8 @@
 
     + [Algebraic-Brill-Noether-Theory](https://github.com/AndreaBarbon/Algebraic-Brill-Noether-Theory)
 
+    + [Нелинейные дифференциальные уравнения, дискретность пространства-времени и эпсилон произведение](https://habr.com/ru/post/490878/)
+
     + Univalent Mathematics + HoTT
         + HoTT
             + [15-819 Homotopy Type Theory](https://www.cs.cmu.edu/~rwh/courses/hott/)
