@@ -27,6 +27,7 @@
 
 + Deep Learning
     + [Tutorials, assignments, and competitions for MIT Deep Learning related courses](https://github.com/lexfridman/mit-deep-learning)
+    + [Architecture comparison of AlexNet, VGGNet, ResNet, Inception, DenseNet](https://towardsdatascience.com/architecture-comparison-of-alexnet-vggnet-resnet-inception-densenet-beb8b116866d)
     + [Deep Learning Frameworks: Choose The Best Fit For You](https://autome.me/deep-learning-frameworks-choose-the-best-fit-for-you/)
     + [Dive into Deep Learning](http://d2l.ai)
     + [Deep Learning: Methods and Applications](http://research.microsoft.com/pubs/209355/DeepLearning-NowPublishing-Vol7-SIG-039.pdf)
