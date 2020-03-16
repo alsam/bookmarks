@@ -1907,6 +1907,7 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
         + [Reconnecting with connect() on restarted server returns -Transport endpoint is already connected](https://stackoverflow.com/questions/16910973/reconnecting-with-connect-on-restarted-server-returns-transport-endpoint-is-a)
         + [Starter UDP Server And Client in C++](https://prglb.ru/4evp2)
         + [Creating a TCP Server in C++ [Linux / Code Blocks]](https://www.youtube.com/watch?v=cNdlrbZSkyQ)
+        + [How to Watch TCP and UDP Ports in Real-time](https://www.tecmint.com/watch-tcp-and-udp-ports-in-linux/)
 
 + [The Illustrated TLS Connection Every byte of a TLS connection explained and reproduced](https://tls.ulfheim.net/)
     + [The Illustrated TLS Connection: Every byte explained](https://github.com/syncsynchalt/illustrated-tls)
