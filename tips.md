@@ -179,6 +179,7 @@
             + [Migrate installation to new hardware](https://wiki.archlinux.org/index.php/Migrate_installation_to_new_hardware)
             + [Disk cloning](https://wiki.archlinux.org/index.php/Disk_cloning)
             + [System Tar Restore - Feature-rich Backup Script for Linux](https://linoxide.com/linux-how-to/system-tar-restore-bash-script-linux-backup/)
+            + [xlockmore can't find fonts to display messages](https://bbs.archlinux.org/viewtopic.php?id=234854)
         + Arch Linux survival tips
             + [USB flash installation media](https://wiki.archlinux.org/index.php/USB_flash_installation_media)    
                     tl;dr
