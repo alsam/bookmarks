@@ -126,6 +126,10 @@
     + [wiki for HCC](https://github.com/RadeonOpenCompute/hcc/wiki)
     + [github HCC repository](https://github.com/RadeonOpenCompute/hcc)
     + [Portable Computing Language](http://portablecl.org/)
+    tl;dr    
+    ```sh
+    yay -S rocm-opencl-runtime
+    ```
 
     + [Radeon Instinct like : Radeon VII](https://www.ixbt.com/3dv/amd-radeon-vii-review.html)
         + [RTX 2080 vs. Radeon VII vs. 5700 XT: Rendering and Compute Performance](https://www.extremetech.com/computing/297167-rtx-2080-vs-radeon-vii-vs-5700-xt-rendering-and-compute-performance)
