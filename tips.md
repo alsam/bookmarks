@@ -1416,6 +1416,7 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
     + [The C++ scientist](http://jmabille.github.io/)
     + [Algorithms in C++](https://towardsdatascience.com/algorithms-in-c-62b607a6131d)
     + [Fast function to parse strings into double floating-point values](https://github.com/lemire/fast_double_parser)
+    + [C++20: Python's map Function](https://www.modernescpp.com/index.php/c-20-pythons-map-function)
     + [HowardHinnant.github.io World-class C++ expert](http://howardhinnant.github.io/)
         + [Everything You Ever Wanted To Know About Move Semantics](https://github.com/HowardHinnant/presentations/blob/master/accu_2014/accu_2014.pdf)
         + [A date and time library based on the C++11 (and beyond) <chrono> header](https://github.com/HowardHinnant/date)
