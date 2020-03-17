@@ -413,6 +413,8 @@
         + [simulators list](http://www.opensourcebrain.org/docs#Simulators)
 
 + The __Hard__ Problem
+    + [Scientists Just Proved These Two Brain Networks Are Key to Consciousness](https://singularityhub.com/2020/03/12/these-two-brain-networks-arent-active-at-the-same-time-but-theyre-both-key-to-consciousness/)
+        + [Обнаружены две нейронные сети, отвечающие за сознание](https://m.hightech.plus/2020/03/16/obnaruzheni-dve-neironnie-seti-otvechayushie-za-soznanie)
     + Philosophical pop science
         + [Can Integrated Information Theory Explain Consciousness?](http://blogs.scientificamerican.com/cross-check/can-integrated-information-theory-explain-consciousness/)
     + *Cognitive* Architectures
