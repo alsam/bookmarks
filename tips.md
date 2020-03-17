@@ -273,10 +273,17 @@
 
         sudo pip install gdbgui --upgrade
         ```
+
+        + [Screen capture](https://wiki.archlinux.org/index.php/Screen_capture)
+        tl;dr    
+        ```sh
+        pacman -S imagemagick
+        ```
+
         + [Pacman option to assume “yes” to every question?](https://unix.stackexchange.com/questions/52277/pacman-option-to-assume-yes-to-every-question)    
         tl;dr
         ```sh
-            yaourt --noconfirm -S ...
+            yay --noconfirm -S ...
             yes | sudo pacman -S firefox
         ```
 
