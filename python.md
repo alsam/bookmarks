@@ -117,3 +117,5 @@
 + [An A-Z of useful Python tricks](https://morioh.com/p/9ef4ff8ac752/an-a-z-of-useful-python-tricks)
 
 + [Make better CLI progress bars with Unicode block characters](https://mike42.me/blog/2018-06-make-better-cli-progress-bars-with-unicode-block-characters)
+
++ [How to repeat a string a variable number of times in C++?](https://stackoverflow.com/questions/166630/how-to-repeat-a-string-a-variable-number-of-times-in-c)
