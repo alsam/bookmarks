@@ -1778,6 +1778,28 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
         }
         ```
 
+        + Progress Bar
+            + [How to display a progress indicator in pure C/C++ (cout/printf)?](https://stackoverflow.com/questions/14539867/how-to-display-a-progress-indicator-in-pure-c-c-cout-printf)
+            tl;dr more neat and nice solution    
+            ```c++
+            void printProgressNice (float percentage, int wid = 60)
+            {
+                const char PBFILLER[] = "█";
+                int val = (int) (percentage * 100);
+                int lpad = (int) (percentage * wid);
+                int rpad = wid - lpad;
+                printf("\r%3d%%[", val);
+                while (lpad--)
+                    printf("%s", PBFILLER);
+                while (rpad--)
+                    putchar(' ');
+                printf("]");
+                fflush(stdout);
+            }
+            ```
+            + [Make better CLI progress bars with Unicode block characters](https://mike42.me/blog/2018-06-make-better-cli-progress-bars-with-unicode-block-characters)
+            + [How to repeat a string a variable number of times in C++?](https://stackoverflow.com/questions/166630/how-to-repeat-a-string-a-variable-number-of-times-in-c)
+
         + [К тридцатилетию первого C++ компилятора: ищем ошибки в Cfront](http://www.viva64.com/ru/b/0355/)
 
         + [Is C++21 the Next Standard?](https://stackoverflow.com/questions/38789652/is-c21-the-next-standard/38789876)
