@@ -126,6 +126,7 @@
     + [wiki for HCC](https://github.com/RadeonOpenCompute/hcc/wiki)
     + [github HCC repository](https://github.com/RadeonOpenCompute/hcc)
     + [Portable Computing Language](http://portablecl.org/)
+    + [A collection of Arch Linux PKGBUILDS for the ROCm platform](https://github.com/rocm-arch/rocm-arch)
     tl;dr    
     ```sh
     yay -S rocm-opencl-runtime
