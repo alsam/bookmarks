@@ -330,5 +330,9 @@
                 add to /etc/pacman.conf
                 IgnorePkg = asymptote
                 ```
+                + [How To Fix “invalid or corrupted package (PGP signature)” Error In Arch Linux](https://www.ostechnix.com/fix-invalid-corrupted-package-pgp-signature-error-arch-linux/)
+                ```sh
+                sudo pacman -S archlinux-keyring
+                ```
     + [Inkscape](https://inkscape.org)
     + [GLE - for drawing logical gates / electrical diagrams](http://glx.sourceforge.net/downloads/downloads.html)
