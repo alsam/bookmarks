@@ -1431,6 +1431,7 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
         + [A date and time library based on the C++11 (and beyond) <chrono> header](https://github.com/HowardHinnant/date)
             + [This paper fully documents a date and time library for use with C++11 and C++14.](https://howardhinnant.github.io/date/date.html)
             + [How to get current time and date in C++?](http://stackoverflow.com/questions/997946/how-to-get-current-time-and-date-in-c)
+            + [Convert std::duration to human readable time](https://stackoverflow.com/questions/22590821/convert-stdduration-to-human-readable-time)
     + [GoF patterns in modern C++](https://accu.org/content/conf2013/Tobias_Darm_Effective_GoF_Patterns.pdf)
         + [Effective GoF Patterns with C++11 and Boost—Tobias Darm](https://isocpp.org/blog/2013/10/patterns) 
     + selected stackoverflow questions
