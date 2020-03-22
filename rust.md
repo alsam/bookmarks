@@ -962,6 +962,7 @@
         + [The best Rust frameworks to check out in 2019](https://blog.logrocket.com/the-best-rust-frameworks-to-check-out-in-2019/)
             + [Actix-rs - rust's powerful actor system and most fun web framework](https://actix.rs/)
             + [Azul - A free, functional, immediate-mode GUI framework for rapid development of desktop applications written in Rust, supported by the Mozilla WebRender rendering engine. ](https://azul.rs/)
+        + [Rust Tutorial on YouTube](https://www.youtube.com/playlist?list=PLLqEtX6ql2EyPAZ1M2_C0GgVd4A-_L4_5)
         + [The If Works](https://blog.jcoglan.com/)
             + [A little polymorphism, part 2: channels, combinators and const generics](https://blog.jcoglan.com/2020/01/06/a-little-polymorphism-part-2/)
         + [Rust high performance xml reader and writer](https://github.com/tafia/quick-xml)
