@@ -2007,6 +2007,8 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
         }
     + [How to Get Available Filesystem Space on Linux: a C Function with a C++ Example](https://www.systutorials.com/136585/how-to-get-available-filesystem-space-on-linux-a-c-function-and-a-cpp-example/)    ```
 
++ [Linking](http://www.cs.utexas.edu/~witchel/429/lectures/11-linking.pdf)
+
 + packaging
     + [Hosting a Private Apt Repository on S3](https://zcox.wordpress.com/2012/08/13/hosting-a-private-apt-repository-on-s3/)
     + [Managing Apt Repos in S3 Using Lambda](http://webscale.plumbing/managing-apt-repos-in-s3-using-lambda)
