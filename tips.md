@@ -159,6 +159,14 @@
                 ```
             + [How to Install LightDM Display Manager on Arch Linux](https://linoxide.com/linux-how-to/install-lightdm-arch-linux/)
         + ArchLinux network tips
+            + [Systemd-networkd](https://wiki.archlinux.org/index.php/Systemd-networkd)    
+            tl;dr    
+            ```sh
+            vim /etc/systemd/network/20-wired.network
+            systemctl enable systemd-networkd.service
+            sudo systemctl start systemctl
+            ```
+            + [OpenSSH](https://wiki.archlinux.org/index.php/OpenSSH)
             + [How to install and configure NetworkManager and network-manager-applet on Arch Linux with Gnome3](https://evilshit.wordpress.com/2012/09/15/how-to-make-networkmanager-and-network-manager-applet-work-on-arch-linux-with-gnome3/)    
             tl;dr    
             ```sh
