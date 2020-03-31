@@ -322,7 +322,7 @@
         + [Fill a triangle in space using asymptote](https://tex.stackexchange.com/questions/149480/fill-a-triangle-in-space-using-asymptote)
         + [Asymptote: Drawing](https://artofproblemsolving.com/wiki/index.php?title=Asymptote:_Drawing)
             + [dvips error unknown keyword](https://github.com/vectorgraphics/asymptote/issues/124)
-            + [Errors "File `foo_0' not found." and "Unknown keyword ("foo_0".eps)"](https://github.com/vectorgraphics/asymptote/issues/135)
+            + [~Errors "File `foo_0' not found." and "Unknown keyword ("foo_0".eps)"~ resolved](https://github.com/vectorgraphics/asymptote/issues/135)
                 + [grffile does not work with LuaTeX any more](https://github.com/ho-tex/grffile/issues/1)
                 + tl;dr temporary workaround 
                 ```sh
