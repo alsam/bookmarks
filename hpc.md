@@ -28,6 +28,14 @@
     + Nektar++
         + [Nektar++: An efficient h to p finite element framework](http://www.nektar.info/)
         + [Nektar++: a high-order finite element framework](https://xyloid.org/assets/talks/2014-06-ices.pdf)
+
+    + Spectral Element Methods (SEM)
+        + [Two dimensional high-order spectral element method fluid dynamics solver](https://github.com/horsescfd/HORSES2D)
+            + [Two dimensional high-order spectral element method fluid dynamics solver](https://github.com/juanmanzanero/HORSES2D)
+        + [github: ITHACA-SEM - In real Time Highly Advanced Computational Applications for Spectral Element Methods](https://github.com/mathLab/ITHACA-SEM)
+            + [THACA-SEM - In real Time Highly Advanced Computational Applications for Spectral Element Methods](https://mathlab.sissa.it/ITHACA-SEM)
+        + [AxiSEM is a parallel spectral-element method to solve 3D wave propagation in a sphere with axisymmetric or spherically symmetric visco-elastic, acoustic, anisotropic structures](https://github.com/geodynamics/axisem)
+
     + Siemens
         + [Embedded Multicore Building Blocks (EMB²)](https://github.com/siemens/embb)
     + Maxeler
