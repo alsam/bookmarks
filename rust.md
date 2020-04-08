@@ -128,6 +128,11 @@
         + [Rust 2020: Scientific Rust](https://github.com/willi-kappler/rust_2020)
             + [Staggered-Grid Fluid Solver in Rust](https://github.com/seanlth/Fluid-Solver)
             + [Weak Galerkin Finite Element Method -- looks promising but very outdated](https://github.com/scharris/WGFEM-Rust)
+                + for translation to modetb Rust:
+                    + [The Periodic Table of Rust Types: ycombinator](https://news.ycombinator.com/item?id=7060951)    
+                        tl;dr **sigil ~** -> `Box`
+                    + [The Periodic Table of Rust Types](https://cosmic.mearie.org/2014/01/periodic-table-of-rust-types/0.11)
+                    + [A quick reference of the sigils and their meaning](https://github.com/rust-lang/rust-wiki-backup/blob/master/Sigil-reference.md)
             + [A curated list of Rust code and resources that do NOT exist yet, but would be beneficial to the Rust community.](https://github.com/not-yet-awesome-rust/not-yet-awesome-rust)
         + [Rust 2019: Beat C++ ?](https://www.reddit.com/r/rust/comments/acjcbp/rust_2019_beat_c/)
             + [Rust numeric-array](https://crates.io/crates/numeric-array)
