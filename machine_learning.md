@@ -104,6 +104,11 @@
         + [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
             + [Multi-layer Recurrent Neural Networks (LSTM, GRU, RNN) for character-level language models in Torch ](https://github.com/karpathy/char-rnn)
 
+    + MindSpore
+        + [MindSpore is a new open source deep learning training/inference framework that could be used for mobile, edge and cloud scenarios](https://gitee.com/mindspore/mindspore)
+        + [MindSpore github mirror](https://github.com/mindspore-ai/mindspore)
+            + [Myia is a new differentiable programming language. It aims to support large scale high performance computations (e.g. linear algebra) and their gradients. The main application Myia aims to support is research in artificial intelligence, in particular deep learning algorithms.](https://github.com/mila-iqia/myia/)
+
     + [Torch is a scientific computing framework with wide support for machine learning algorithms](http://torch.ch/)
         + [torch/torch7](https://github.com/torch/torch7)
             + [Autograd automatically differentiates native Torch code. Ported to Lua from the original Python version.](https://github.com/twitter/torch-autograd)
