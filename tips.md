@@ -1828,6 +1828,7 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
         git clone https://github.com/google/googletest && pushd googletest && mkdir build && cd build && cmake .. && sudo make install
         ```
 + Scriptics selected tips
+    + [Is double square brackets [[ ]] preferable over single square brackets [ ] in Bash?](https://stackoverflow.com/questions/669452/is-double-square-brackets-preferable-over-single-square-brackets-in-ba)
     + The most recently changed file.
         + [from here #5: 20 SHELL SCRIPTING QUESTIONS FOR PRACTICE](http://www.techbeamers.com/20-shell-scripting-questions-answers/)
     ```sh
