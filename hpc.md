@@ -81,7 +81,11 @@
 
 + [Evaluation of C, Go, and Rust in the HPC environment](https://news.ycombinator.com/item?id=9477014)
 
-+ [NNSA, national labs team with Nvidia to develop open-source Fortran compiler technology](https://www.llnl.gov/news/nnsa-national-labs-team-nvidia-develop-open-source-fortran-compiler-technology)
++ Modern Fortran
+    + [NNSA, national labs team with Nvidia to develop open-source Fortran compiler technology](https://www.llnl.gov/news/nnsa-national-labs-team-nvidia-develop-open-source-fortran-compiler-technology)
+    + [Flang is a ground-up implementation of a Fortran front end written in modern C++. It started off as the f18 project](https://github.com/llvm/llvm-project/tree/master/flang/)
+        + [F18 is a front-end for Fortran intended to replace the existing front-end in the Flang compiler](https://github.com/flang-compiler/f18)    
+        tl;dr 301 moved The code from this repository can now be found at [flang](https://github.com/llvm/llvm-project/tree/master/flang/)
 
 + [Как SpaceX использует GPU для обсчёта ракетных двигателей](http://habrahabr.ru/post/256081/)
     + [Rockets Shake And Rattle, So SpaceX Rolls Homegrown CFD](http://www.nextplatform.com/2015/03/27/rockets-shake-and-rattle-so-spacex-rolls-homegrown-cfd/)
