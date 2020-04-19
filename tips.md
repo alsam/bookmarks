@@ -158,6 +158,8 @@
                 exec i3
                 ```
             + [How to Install LightDM Display Manager on Arch Linux](https://linoxide.com/linux-how-to/install-lightdm-arch-linux/)
+            + [pacman db locked](https://bbs.archlinux.org/viewtopic.php?id=233989)    
+              tl;dr `sudo rm /var/lib/pacman/db.lck`
         + ArchLinux network tips
             + [Systemd-networkd](https://wiki.archlinux.org/index.php/Systemd-networkd)    
             tl;dr    
