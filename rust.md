@@ -169,6 +169,7 @@
         + [Convolutions in Rust for Deep Learning](https://athemathmo.github.io/2016/04/29/convolutions-deep-learning.html)
             + [Understanding Convolution in Deep Learning](http://timdettmers.com/2015/03/26/convolution-deep-learning/)
             + [Convolutional Neural Networks](http://andrew.gibiansky.com/blog/machine-learning/convolutional-neural-networks/)
+        + [UKF written in Rust based on the C++ UKF from the Udacity SD Car Nanodegree](https://github.com/hortovanyi/Unscented-Kalman-Filter-Rust)
 
         + *Arrayfire*
             + [ArrayFire: a general purpose GPU library. http://arrayfire.com](https://github.com/arrayfire/arrayfire)
