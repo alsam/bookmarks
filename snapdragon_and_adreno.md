@@ -43,6 +43,16 @@
 + Snapdragon Profiler troubleshooting
     + `brew cask install android-platform-tools`
 
++ Android Soong build system
+    + [Soong Build System](https://source.android.com/setup/build/index)
+    + [how Android soong/android.bp build works?](https://stackoverflow.com/questions/50264740/how-android-soong-android-bp-build-works)
+        + [soong build system from AOSP tree](https://android.googlesource.com/platform/build/soong/)
+        + [An experimental GNU make clone](https://github.com/google/kati)
+        + [build_soong](https://github.com/derp-caf/build_soong)
+        + [build_soong](https://github.com/UltraAOSP/build_soong)
+        + [Blueprint Build System](https://github.com/google/blueprint)
+            + [package blueprint](https://godoc.org/github.com/google/blueprint)
+
 + Android Studio tips
     + [Build Your First Android App in Kotlin](https://codelabs.developers.google.com/codelabs/build-your-first-android-app-kotlin/index.html#0)
     + [Install and Create OpenCV project on Android Studio](https://www.youtube.com/watch?v=jN9Bv5LHXMk)
