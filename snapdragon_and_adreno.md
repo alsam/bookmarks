@@ -52,6 +52,7 @@
         + [build_soong](https://github.com/UltraAOSP/build_soong)
         + [Blueprint Build System](https://github.com/google/blueprint)
             + [package blueprint](https://godoc.org/github.com/google/blueprint)
+            + [blue print](https://android.googlesource.com/platform/build/blueprint)
 
 + Android Studio tips
     + [Build Your First Android App in Kotlin](https://codelabs.developers.google.com/codelabs/build-your-first-android-app-kotlin/index.html#0)
