@@ -8,6 +8,8 @@
     + [FastCV Computer Vision SDK](https://developer.qualcomm.com/software/fastcv-sdk)
     + [Hexagon DSP SDK](https://developer.qualcomm.com/software/hexagon-dsp-sdk)
     + [Machine Vision SDK](https://developer.qualcomm.com/software/machine-vision-sdk)
+        + [Snapdragon Flight VISLAM-ROS Sample Code](https://github.com/ATLFlight/ros-examples)
+        + [Provides DFS ROS example for Snapdragon Flight](https://github.com/ATLFlight/dfs-ros-example)
     + [Qualcomm Math Library](https://developer.qualcomm.com/software/qualcomm-math-library)
     + [Snapdragon Profiler](https://developer.qualcomm.com/software/snapdragon-profiler)
 
