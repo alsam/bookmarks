@@ -6,6 +6,7 @@
     + [Qualcomm Neural Processing SDK for AI](https://developer.qualcomm.com/software/qualcomm-neural-processing-sdk)
     + [Adreno GPU SDK](https://developer.qualcomm.com/software/adreno-gpu-sdk)
     + [FastCV Computer Vision SDK](https://developer.qualcomm.com/software/fastcv-sdk)
+    + [Hexagon DSP SDK](https://developer.qualcomm.com/software/hexagon-dsp-sdk)
     + [Snapdragon Profiler](https://developer.qualcomm.com/software/snapdragon-profiler)
 
 + Adreno
