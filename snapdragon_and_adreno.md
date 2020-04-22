@@ -4,6 +4,7 @@
     + [Snapdragon 845 Mobile Platform](https://www.qualcomm.com/products/snapdragon-845-mobile-platform)
     + [FIRST Robotics](https://developer.qualcomm.com/hardware/first-robotics)
     + [Qualcomm Neural Processing SDK for AI](https://developer.qualcomm.com/software/qualcomm-neural-processing-sdk)
+    + [Adreno GPU SDK](https://developer.qualcomm.com/software/adreno-gpu-sdk)
     + [Snapdragon Profiler](https://developer.qualcomm.com/software/snapdragon-profiler)
 
 + Adreno
