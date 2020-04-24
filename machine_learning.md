@@ -490,3 +490,6 @@
 + AMD GPU deeplearning
     + [Train neural networks using AMD GPU and Keras](https://towardsdatascience.com/train-neural-networks-using-amd-gpus-and-keras-37189c453878)
     + [AMD GPU support for AI](https://forums.fast.ai/t/hardware-amd-gpu-support/44235)
+
+
++ [A collection of research papers on decision, classification and regression trees with implementations](https://github.com/benedekrozemberczki/awesome-decision-tree-papers)
