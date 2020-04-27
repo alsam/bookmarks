@@ -443,6 +443,8 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
 
     + [Inheritance, why is bad?](https://users.rust-lang.org/t/inheritance-why-is-bad/35705)
 
+    + [How to Learn Software Design and Architecture - a Roadmap](https://www.freecodecamp.org/news/software-design/)
+
     + SOLID OOP
         + [S.O.L.I.D: The First 5 Principles of Object Oriented Design](https://scotch.io/bar-talk/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
             + [Простое объяснение принципов SOLID](https://habr.com/en/company/mailru/blog/412699/)
