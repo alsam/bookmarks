@@ -86,6 +86,16 @@
     + [Flang is a ground-up implementation of a Fortran front end written in modern C++. It started off as the f18 project](https://github.com/llvm/llvm-project/tree/master/flang/)
         + [F18 is a front-end for Fortran intended to replace the existing front-end in the Flang compiler](https://github.com/flang-compiler/f18)    
         tl;dr 301 moved The code from this repository can now be found at [flang](https://github.com/llvm/llvm-project/tree/master/flang/)
+        + [Flang and F18](https://github.com/flang-compiler/flang/wiki)
+        + [Installing LLVM Flang Fortran compiler](https://www.scivision.dev/flang-compiler-build-tips/)    
+        tl;dr    
+        ```sh
+        git clone https://github.com/llvm/llvm-project
+        mkdir -p llvm-project/build
+        cd llvm-project/build
+        cmake ../llvm -DLLVM_ENABLE_PROJECTS=flang
+        ```
+            + [Unknown CMake command “tablegen”](https://stackoverflow.com/questions/59691069/unknown-cmake-command-tablegen)
 
 + [Как SpaceX использует GPU для обсчёта ракетных двигателей](http://habrahabr.ru/post/256081/)
     + [Rockets Shake And Rattle, So SpaceX Rolls Homegrown CFD](http://www.nextplatform.com/2015/03/27/rockets-shake-and-rattle-so-spacex-rolls-homegrown-cfd/)
