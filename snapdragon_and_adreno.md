@@ -18,6 +18,7 @@
     + [Sub-optimal performance on Qualcomm Adreno GPUs](https://github.com/CNugteren/CLBlast/issues/228)
     + [Getting started with openCL on Adreno420 under linux](https://developer.qualcomm.com/forum/qdn-forums/software/adreno-gpu-sdk/34153)
     + [Qualcomm Adreno 630](https://www.notebookcheck.net/Qualcomm-Adreno-630-GPU.299832.0.html)
+    + [How do I compute the GFLOPS of the Adreno 640 GPU?](https://www.quora.com/How-do-I-compute-the-GFLOPS-of-the-Adreno-640-GPU)
     + [open source driver project for adreno GPUs](https://github.com/freedreno/freedreno)
     + [Run OpenCL program on MOBILE GPU (Qualcomm & ARM)!](https://github.com/supernovaremnant/bazel-android-opencl)
         + [Compile OpenCL Program for Mobile GPU](https://sorrythenameistaken.blogspot.com/2018/06/compile-opencl-program-for-embedded-gpu.html)
