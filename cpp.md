@@ -616,6 +616,13 @@
                 + [Practical C++20 Modules and the future of tooling around C++ Modules with Cameron DaCamara](https://www.youtube.com/watch?v=ow2zV0Udd9M&list=PLReL099Y5nRdHYz4JwB0bq1kaVw2yGDag&index=8&t=0s)
                 + [C++ Development with Visual Studio Code with Julia Reid](https://www.youtube.com/watch?v=WqXrYfSKJXk&list=PLReL099Y5nRdHYz4JwB0bq1kaVw2yGDag&index=6&t=0s)
                 + [Peeking Safely at a Table with Concepts with Gabriel Dos Reis](https://www.youtube.com/watch?v=xO7JG0GarG4&list=PLReL099Y5nRdHYz4JwB0bq1kaVw2yGDag&index=7&t=0s)
+            + [C++20: The Big Four](https://www.modernescpp.com/index.php/thebigfour)
+                + [C++20: Coroutines - A First Overview](https://www.modernescpp.com/index.php/c-20-coroutines-the-first-overview)
+                + [C++20: More Details to Coroutines](https://www.modernescpp.com/index.php/c-20-coroutines-more-details)
+                + [C++20: Coroutines with cppcoro](https://www.modernescpp.com/index.php/c-20-coroutines-with-cppcoro)
+                + [C++20: An Infinite Data Stream with Coroutines](https://www.modernescpp.com/index.php/c-20-an-infinite-data-stream-with-coroutines)
+                + [C++20: Thread Synchronization with Coroutines](https://www.modernescpp.com/index.php/c-20-thread-synchronization-with-coroutines)
+                + [C++20: Thread Pools with cppcoro](https://www.modernescpp.com/index.php/c-20-thread-pools-with-cppcoro)
 
 
         + selected C++ projects
