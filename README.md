@@ -119,7 +119,7 @@
 
 + [tegra + ARM links](https://github.com/alsam/bookmarks/blob/master/tegra.md)
 
-+ [Qualcomm Snapdragon + Adreno GPU + Hexagon DSP links](https://github.com/alsam/bookmarks/blob/master/snapdragon_and_adreno.md)
++ [embedded: ARM Mali; Qualcomm Snapdragon + Adreno GPU + Hexagon DSP links](https://github.com/alsam/bookmarks/blob/master/embedded_mali_snapdragon_adreno.md)
 
 + [3D](https://github.com/alsam/bookmarks/blob/master/3D.md)
 
