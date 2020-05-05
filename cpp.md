@@ -611,5 +611,10 @@
 
         + [Is C++21 the Next Standard?](https://stackoverflow.com/questions/38789652/is-c21-the-next-standard/38789876)
             + [juCi++: a lightweight, platform independent C++-IDE with support for C++11, C++14 and C++17 features depending on libclang version.](https://gitlab.com/cppit/jucipp)
+
+
+        + selected C++ projects
+            + [Modern C++ Parallel Task Programming](https://github.com/cpp-taskflow/cpp-taskflow)
+                + [docs for Modern C++ Parallel Task Programming](https://cpp-taskflow.github.io/cpp-taskflow/index.html)
             + [Filament is a physically based rendering engine for Android, Windows, Linux and macOS](https://github.com/google/filament)
 
