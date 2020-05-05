@@ -99,6 +99,8 @@
 
 + [(inverse) lithography links](https://github.com/alsam/bookmarks/blob/master/litho.md)
 
++ [C++ links](https://github.com/alsam/bookmarks/blob/master/cpp.md)
+
 + [Rust links](https://github.com/alsam/bookmarks/blob/master/rust.md)
 
 + [Julia links](https://github.com/alsam/bookmarks/blob/master/julia.md)

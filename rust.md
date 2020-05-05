@@ -1,4 +1,4 @@
-# rust language bookmarks
+# Rust language bookmarks
 + Rust links
     + [Rust 2020 Roadmap](https://github.com/nikomatsakis/rfcs/blob/roadmap-2020/text/0000-roadmap-2020.md)
         + [Tracking issue for generic associated types (GAT)](https://github.com/rust-lang/rust/issues/44265)
