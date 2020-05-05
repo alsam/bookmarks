@@ -188,3 +188,32 @@
     ```sh
     brew install ffmpeg --with-sdl2 to install ffplay
     ```
+
+    + ARM Mali GPU
+        + The Mali GPU: An Abstract Machine
+            + [GPU Architecture Introduction](https://developer.samsung.com/game/gpu-architecture)
+                + [Part 1 - Frame Pipelining](https://community.arm.com/developer/tools-software/graphics/b/blog/posts/the-mali-gpu-an-abstract-machine-part-1---frame-pipelining)
+                + [Part 2 - Tile-based Rendering](https://community.arm.com/developer/tools-software/graphics/b/blog/posts/the-mali-gpu-an-abstract-machine-part-2---tile-based-rendering)
+                + [Part 3 - The Midgard Shader Core](https://community.arm.com/developer/tools-software/graphics/b/blog/posts/the-mali-gpu-an-abstract-machine-part-3---the-midgard-shader-core)
+                + [Part 4 - The Bifrost Shader Core](https://community.arm.com/developer/tools-software/graphics/b/blog/posts/the-mali-gpu-an-abstract-machine-part-4---the-bifrost-shader-core)
+        + [ARM Mali GPU OpenGL ES Application Optimization Guide](https://developer.arm.com/docs/dui0555/b/introduction/about-optimization)
+            + [ARM® Mali GPU Version: 3.0 OpenGL ES Application Optimization Guide](http://infocenter.arm.com/help/topic/com.arm.doc.dui0555c/DUI0555C_mali_optimization_guide.pdf)
+            + [Accelerating Mali GPU analysis using Arm Mobile Studio](https://community.arm.com/developer/tools-software/graphics/b/blog/posts/accelerating-mali-gpu-analysis-using-arm-mobile-studio)
+            + [Touch/GPU profiling/Mali](https://wiki.ubuntu.com/Touch/GPU%20profiling/Mali)
+                + [high res timer](https://github.com/ARM-software/gator/blob/master/hrtimer_module/hrtimer_module.c)
+            + [events-Mali-TNOx_hw](https://github.com/ARM-software/gator/blob/master/daemon/events-Mali-TNOx_hw.xml)
+                + [Mali Midgard Family Performance Counters](https://community.arm.com/developer/tools-software/graphics/b/blog/posts/mali-midgard-family-performance-counters)
+                + [Mali Bifrost Family Performance Counters](https://community.arm.com/developer/tools-software/graphics/b/blog/posts/mali-bifrost-family-performance-counters)
+                + [Understanding Mali GPU Hardware Counters](https://community.arm.com/developer/tools-software/graphics/f/discussions/8607/understanding-mali-gpu-hardware-counters)
+                    + [GL_EXT_disjoint_timer_query for performance](https://community.arm.com/developer/tools-software/graphics/f/discussions/6869/gl_ext_disjoint_timer_query-for-performance)
+                + [Hardware counters on Arm Graphics Analyzer tool](https://community.arm.com/developer/tools-software/graphics/f/discussions/13614/hardware-counters-on-arm-graphics-analyzer-tool)
+                    + [Graphics and Gaming](https://community.arm.com/developer/tools-software/graphics)
+        + [Panfrost](https://github.com/Panfrost)
+        + [GDC 2014: Performance Analysis and Optimization (Lorenzo Dal Col, ARM)](https://www.youtube.com/watch?v=AAr-pt8S28M)
+            + [Performance Analysis and Debug Tools for Mobile Games (Presented by ARM)](https://www.gdcvault.com/play/1020632/Performance-Analysis-and-Debug-Tools)
+            + [GPU Compute Optimisation with Hardware Counters](https://www.youtube.com/watch?v=93cWfkyid7k)
+        + [Arm Mali Graphics Debugger](https://developer.samsung.com/game/arm-mali)
+            + [Arm Mobile Studio](https://developer.arm.com/tools-and-software/graphics-and-gaming/arm-mobile-studio)
+                + [Using Mali Graphics Debugger on a Non-rooted device](https://community.arm.com/developer/tools-software/graphics/b/blog/posts/using-mali-graphics-debugger-on-a-non-rooted-device)
+                + [Improving data performance with Arm Streamline 7.1](https://community.arm.com/developer/tools-software/graphics/b/blog/posts/improving-data-performance-with-streamline)
+
