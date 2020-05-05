@@ -965,6 +965,7 @@
         + [Real Time For the Masses](https://rtfm.rs/0.5/book/en/)
             + [Real Time For the Masses: Organization for the RTFM scheduler and ecosystem](https://github.com/rtfm-rs)
         + [Rust Embedded. Разработка под процессоры Cortex-M3 на примере отладочной платы STM32F103C8T6 (Black Pill)](https://habr.com/ru/post/495948/)
+        + [(unofficial) Embedded Rust HAL Guidelines](https://github.com/jonas-schievink/hal-guidelines)
 
     + misc
         + [Awesome Space](https://github.com/AeroRust/awesome-space)
