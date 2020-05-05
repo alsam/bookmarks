@@ -957,15 +957,16 @@
         + [PoC: compiling to eBPF from Rust](http://unhandledexpression.com/general/rust/2018/02/02/poc-compiling-to-ebpf-from-rust.html)
         + [Rust virtual machine and JIT compiler for eBPF programs](https://github.com/qmonnet/rbpf)
 
-    + Cross compile for ARM
-        + [Everything you need to know about cross compiling Rust programs!](https://github.com/japaric/rust-cross)
-        + [Cross compiling Rust for ARM (e.g. Raspberry Pi) using any OS!](https://medium.com/@wizofe/cross-compiling-rust-for-arm-e-g-raspberry-pi-using-any-os-11711ebfc52b)
-        + [“Zero setup” cross compilation and “cross testing” of Rust crates](https://github.com/rust-embedded/cross/)
+    + embedded Rust
+        + Cross compile for ARM
+            + [Everything you need to know about cross compiling Rust programs!](https://github.com/japaric/rust-cross)
+            + [Cross compiling Rust for ARM (e.g. Raspberry Pi) using any OS!](https://medium.com/@wizofe/cross-compiling-rust-for-arm-e-g-raspberry-pi-using-any-os-11711ebfc52b)
+            + [“Zero setup” cross compilation and “cross testing” of Rust crates](https://github.com/rust-embedded/cross/)
+        + [Real Time For the Masses](https://rtfm.rs/0.5/book/en/)
+            + [Real Time For the Masses: Organization for the RTFM scheduler and ecosystem](https://github.com/rtfm-rs)
 
     + misc
         + [Awesome Space](https://github.com/AeroRust/awesome-space)
-        + [Real Time For the Masses](https://rtfm.rs/0.5/book/en/)
-            + [Real Time For the Masses: Organization for the RTFM scheduler and ecosystem](https://github.com/rtfm-rs)
         + [Rust and WebAssembly](https://rustwasm.github.io/book/)
             + [Rust, WebAssembly, and the future of Serverless](https://morioh.com/p/f20294691bac)
             + [BxJS - Building wasm markdown renderer with Rust](https://www.youtube.com/watch?v=ihybuCp9pnc)
