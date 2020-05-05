@@ -95,6 +95,23 @@
                     ls -al out/archlinux-2020.03.13-x86_64.iso 
                     sudo dd if=out/archlinux-2020.03.13-x86_64.iso of=/dev/sde1 status=progress oflag=sync bs=4M
                     ```
+                        + HOWTO up network see [Systemd-networkd](wiki.archlinux.org/index.php/Systemd-networkd)    
+                        tl;dr    
+                        ```sh
+                        sudo vim /etc/systemd/network-20-wired.network
+                        
+                        [Match]
+                        Name=eno1
+
+                        [Network]
+                        Address=xx.xxx.xxx.xxx/xx
+                        Gateway=xx.xxx.xxx.xxx
+                        DNS=xx.xx.xx.xx
+                        DNS=xx.xx.xx.xx
+                        
+                        systemctl enable systemd-networkd.service
+                        systemctl start systemd-networkd.service
+                        ```
 
             + [WARNING **: Couldn't connect to accessibility bus](https://bbs.archlinux.org/viewtopic.php?id=228894)
                 tl;dr
