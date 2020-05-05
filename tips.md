@@ -8,7 +8,8 @@
     + Arch Linux tips
         + [Arch Linux config files](https://github.com/afiskon/archlinux-on-desktop)
         + [Archlinux PKGBUILDs for Data Science, Machine Learning, Deep Learning, NLP and Computer Vision](https://github.com/mratsim/Arch-Data-Science)
-        + first installation
+        + [Arch Linux first installation](https://d3s0x.github.io/arch-installation/)
+            + [Arch Linux Installation (2020)](https://www.youtube.com/watch?v=UiYS8xWFXLY&feature=youtu.be)
             tl;dr
             don't forget to add UEFI partition at 1st installation `boot/UEFI`
             + [Установка ArchLinux в режиме UEFI + systemd-boot + XFCE4 Часть первая](https://www.youtube.com/watch?v=pUBpGjybH6Q)
