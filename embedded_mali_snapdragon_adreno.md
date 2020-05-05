@@ -217,3 +217,6 @@
                 + [Using Mali Graphics Debugger on a Non-rooted device](https://community.arm.com/developer/tools-software/graphics/b/blog/posts/using-mali-graphics-debugger-on-a-non-rooted-device)
                 + [Improving data performance with Arm Streamline 7.1](https://community.arm.com/developer/tools-software/graphics/b/blog/posts/improving-data-performance-with-streamline)
 
++ [Real Time For the Masses](https://rtfm.rs/0.5/book/en/)
+    + [Real Time For the Masses: Organization for the RTFM scheduler and ecosystem](https://github.com/rtfm-rs)
+

@@ -964,6 +964,8 @@
 
     + misc
         + [Awesome Space](https://github.com/AeroRust/awesome-space)
+        + [Real Time For the Masses](https://rtfm.rs/0.5/book/en/)
+            + [Real Time For the Masses: Organization for the RTFM scheduler and ecosystem](https://github.com/rtfm-rs)
         + [Rust and WebAssembly](https://rustwasm.github.io/book/)
             + [Rust, WebAssembly, and the future of Serverless](https://morioh.com/p/f20294691bac)
             + [BxJS - Building wasm markdown renderer with Rust](https://www.youtube.com/watch?v=ihybuCp9pnc)
