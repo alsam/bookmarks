@@ -103,6 +103,8 @@
 + [Modern C++ Parallel Task Programming](https://github.com/cpp-taskflow/cpp-taskflow)
   + [docs for Modern C++ Parallel Task Programming](https://cpp-taskflow.github.io/cpp-taskflow/index.html)
 
++ [Freud, a tool to create Performance Annotations for C/C++ programs](https://github.com/usi-systems/freud)
+
 + CUDA rehab & NVidia docs
     + [Documentation of NVIDIA chip/hardware interfaces](https://github.com/NVIDIA/open-gpu-doc)
     + [CS344 : CUDA Programming in C](https://classroom.udacity.com/courses/cs344)
