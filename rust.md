@@ -901,6 +901,11 @@
                 + [Pure Rust implementation of a ROS client library](https://github.com/adnanademovic/rosrust)
                 + [A pure Rust implementation of xml-rpc](https://github.com/adnanademovic/xml-rpc-rs)
                 + [Serde ROSMSG](https://github.com/adnanademovic/serde_rosmsg)
+        + [Learning embedded Rust by building RISC-V-powered robot](https://k155la3.blog/categories/allbot-rust/)
+            + [Part 1](https://k155la3.blog/2020/03/21/learning-embedded-rust-by-building-riscv-powered-robot-part-1/)
+            + [Part 2](https://k155la3.blog/2020/03/28/learning-embedded-rust-by-building-riscv-powered-robot-part-2/)
+            + [Part 3](https://k155la3.blog/2020/04/04/learning-embedded-rust-by-building-riscv-powered-robot-part-3/)
+            + [Part 4](https://k155la3.blog/2020/04/19/learning-embedded-rust-by-building-riscv-powered-robot-part-4/)
 
     + WIP : Selected RFCs
         + [RFC 1598: generic associated types](https://github.com/rust-lang/rfcs/blob/master/text/1598-generic_associated_types.md)
