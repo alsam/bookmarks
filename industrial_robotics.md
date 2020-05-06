@@ -384,5 +384,10 @@ Inspection Systems](http://www.mdpi.com/1424-8220/13/12/16565/pdf)
         + [ROBOTIS Official Github](https://github.com/ROBOTIS-GIT)
     + [Plucker Coordinates for Lines in the Space∗](http://web.cs.iastate.edu/~cs577/handouts/plucker-coordinates.pdf)
     + [Робот-тележка на ROS. Часть 8. Управляем с телефона-ROS Control, GPS-нода](https://habr.com/ru/post/474650/)
+    + [Learning embedded Rust by building RISC-V-powered robot](https://k155la3.blog/categories/allbot-rust/)
+        + [Part 1](https://k155la3.blog/2020/03/21/learning-embedded-rust-by-building-riscv-powered-robot-part-1/)
+        + [Part 2](https://k155la3.blog/2020/03/28/learning-embedded-rust-by-building-riscv-powered-robot-part-2/)
+        + [Part 3](https://k155la3.blog/2020/04/04/learning-embedded-rust-by-building-riscv-powered-robot-part-3/)
+        + [Part 4](https://k155la3.blog/2020/04/19/learning-embedded-rust-by-building-riscv-powered-robot-part-4/)
 
 
