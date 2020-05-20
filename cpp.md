@@ -15,6 +15,15 @@
                 + [Part 7: Android and JNA](https://dmerej.info/blog/post/chuck-norris-part-7-android-jna/)
                 + [Part 8: Using C++ in an iOS application](https://dmerej.info/blog/post/chuck-norris-part-8-ios/)
 
+            + [How to use "--allow-multiple-definition"](https://groups.google.com/forum/#!topic/harbour-users/_2CsENxyp7g)
+            tl;dr the correct syntax is   
+            ```sh
+            -ldflag=-Wl,--allow-multiple-definition
+
+            ...
+            mylib = shared_library(..., dependencies: [liblog,], ... link_args: '-Wl,--allow-multiple-definition')
+            ```
+
     + [CppCon 2017: Rong Lu "C++ Development with Visual Studio Code"](https://www.youtube.com/watch?v=rFdJ68WbkdQ)
     + [Thoughts about Software Development with an eye on the world of modern C++ Programming](https://thoughts-on-cpp.com/)
         + [My God, It’s Full Of Stars: The N-Body-Problem Series](https://thoughts-on-cpp.com/2019/02/08/the-n-body-problem-series/)
