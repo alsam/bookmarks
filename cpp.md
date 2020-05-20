@@ -23,6 +23,24 @@
             ...
             mylib = shared_library(..., dependencies: [liblog,], ... link_args: '-Wl,--allow-multiple-definition')
             ```
+    + CMake
+        + [An Introduction to Modern CMake](https://cliutils.gitlab.io/modern-cmake/)
+        + [CGold: The Hitchhiker’s Guide to the CMake](https://cgold.readthedocs.io/en/latest/)
+        + [CMake cheat sheet](https://ps-group.github.io/cxx/cmake_cheatsheet)
+        + [CMake cannot find GoogleTest required library in Ubuntu](https://stackoverflow.com/questions/24295876/cmake-cannot-find-googletest-required-library-in-ubuntu)
+        + [CMake by Example](https://mirkokiefer.com/cmake-by-example-f95eb47d45b1)
+            + [How to copy contents of a directory into build directory after make with CMake?](https://stackoverflow.com/questions/13429656/how-to-copy-contents-of-a-directory-into-build-directory-after-make-with-cmake)    
+            ```cmake
+            add_custom_command(TARGET ${PROJECT_NAME} POST_BUILD
+                               COMMAND ${CMAKE_COMMAND} -E copy_directory
+                                   ${CMAKE_SOURCE_DIR}/config $<TARGET_FILE_DIR:${PROJECT_NAME}>/config)
+            ```
+            + [Executing multiple post build commands in CMake depending on condition](https://stackoverflow.com/questions/33769077/executing-multiple-post-build-commands-in-cmake-depending-on-condition)
+            + [Problems with directory delimiters turning into backslashes when running cmake](https://stackoverflow.com/questions/48717138/problems-with-directory-delimiters-turning-into-backslashes-when-running-cmake)    
+            tl;dr    
+            ```sh
+             cmake -DCMAKE_CXX_COMPILER:FILEPATH=C:\Game Dev\Tools\MingW-
+            ```
 
     + [CppCon 2017: Rong Lu "C++ Development with Visual Studio Code"](https://www.youtube.com/watch?v=rFdJ68WbkdQ)
     + [Thoughts about Software Development with an eye on the world of modern C++ Programming](https://thoughts-on-cpp.com/)
