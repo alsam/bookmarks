@@ -26,6 +26,7 @@
 + [Boltzmann Machines](https://www.cs.toronto.edu/~hinton/csc321/readings/boltz321.pdf)
 
 + Deep Learning
+    + [MIT 6.S191: Introduction to Deep Learning](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
     + [Tutorials, assignments, and competitions for MIT Deep Learning related courses](https://github.com/lexfridman/mit-deep-learning)
     + [Architecture comparison of AlexNet, VGGNet, ResNet, Inception, DenseNet](https://towardsdatascience.com/architecture-comparison-of-alexnet-vggnet-resnet-inception-densenet-beb8b116866d)
     + [Deep Learning Frameworks: Choose The Best Fit For You](https://autome.me/deep-learning-frameworks-choose-the-best-fit-for-you/)
