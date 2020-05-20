@@ -23,6 +23,7 @@
             ...
             mylib = shared_library(..., dependencies: [liblog,], ... link_args: '-Wl,--allow-multiple-definition')
             ```
+            + [C project build with meson: Correct way to handle 3rd party local libraries](https://stackoverflow.com/questions/60905846/c-project-build-with-meson-correct-way-to-handle-3rd-party-local-libraries)
     + CMake
         + [An Introduction to Modern CMake](https://cliutils.gitlab.io/modern-cmake/)
         + [CGold: The Hitchhiker’s Guide to the CMake](https://cgold.readthedocs.io/en/latest/)
