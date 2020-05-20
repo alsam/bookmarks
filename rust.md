@@ -7,6 +7,7 @@
         + [Tracking issue for const generics](https://github.com/rust-lang/rust/issues/44580)
             + [Tracking issue for "Lazy normalization"](https://github.com/rust-lang/rust/issues/60471)
     + [Rust Tutorial playlist](https://www.youtube.com/playlist?list=PLLqEtX6ql2EyPAZ1M2_C0GgVd4A-_L4_5)
+        + [Rust Structs, Traits and Impl](https://www.youtube.com/watch?v=gi0AQ78diSA)
         + [Rust Generics](https://www.youtube.com/watch?v=nvur2Ast8hE&list=PLLqEtX6ql2EyPAZ1M2_C0GgVd4A-_L4_5&index=13&t=0s)
         + [Rust Ownership and Borrowing](https://www.youtube.com/watch?v=lQ7XF-6HYGc&list=PLLqEtX6ql2EyPAZ1M2_C0GgVd4A-_L4_5&index=14&t=0s)
         + [Rust Lifetimes](https://www.youtube.com/watch?v=1QoT9fmPYr8&list=PLLqEtX6ql2EyPAZ1M2_C0GgVd4A-_L4_5&index=15&t=0s)
