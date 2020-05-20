@@ -42,6 +42,7 @@ Inspection Systems](http://www.mdpi.com/1424-8220/13/12/16565/pdf)
 + ROS2 + ROS
         + [What, Why and How of ROS](https://towardsdatascience.com/what-why-and-how-of-ros-b2f5ea8be0f3)
     + ROS education
+        + [ROS2 Tutorials](https://www.youtube.com/playlist?list=PLK0b4e05LnzYNBzqXNm9vFD9YXWp6honJ)
         + [ROS 2 Basics in 5 Days (C++)](http://www.theconstructsim.com/construct-learn-develop-robots-using-ros/robotigniteacademy_learnros/ros-courses-library/ros2-basics-course/)
         + ROS2 : **R**eal **T**ime **P**ublish **S**ubscribe -- **RTPS** / **D**ata **D**istribution **S**ervice -- **DDS**
             + [ROS2 vs ROS1.Установка ROS2 на Ubuntu 18.04](https://habr.com/ru/post/492058/)
