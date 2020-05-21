@@ -1475,4 +1475,6 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
 
 + [Video Downloader](https://www.duplicate-finder.com/video-dl.html)
 
++ [Where does YouTube's offline feature store video files?](https://android.stackexchange.com/questions/97399/where-does-youtubes-offline-feature-store-video-files)
+
 + [Предметно-ориентированное проектирование на самом деле](https://habr.com/ru/post/490270/)
