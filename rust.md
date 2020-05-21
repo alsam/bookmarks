@@ -874,6 +874,12 @@
                     + [Rust Galaxy Simulator with GPU acceleration powered by wgpu](https://www.reddit.com/r/rust/comments/fdxdhb/i_released_my_rust_galaxy_simulator_with_gpu/)
                     + [LBM fluid simulation based on wgpu-rs](https://github.com/grenlight/fluid-webgpu)
                 + [Nannou Update - WebGPU, capturing frames and more!](https://nannou.cc/posts/nannou_v0.13)
+                + [Announcing salva2d and salva3d: fluid simulation in Rust](https://users.rust-lang.org/t/announcing-salva2d-and-salva3d-fluid-simulation-in-rust/34083)
+                    + [2D and 3D fluid simulation engine](https://salva.rs/)
+                        + [2D WASM version](https://www.salva.rs/all_examples2/)
+                        + [3D WASM version](https://www.salva.rs/all_examples3/)
+                        + [This month in rustsim #8 (August − September - October 2019)](https://www.rustsim.org/blog/2019/11/01/this-month-in-rustsim/)
+                            + [2 and 3-dimensional fluid simulation library in Rust.](https://github.com/rustsim/salva)
 
         + [Relm the idiomatic GUI library for Rust](https://relm.antoyo.xyz/getting-started/)
 
