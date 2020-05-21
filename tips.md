@@ -1243,22 +1243,6 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
     ```sh
     ls -lrt | grep ^- | awk 'END{print $NF}'
     ```
-+ Build Systems
-    + [CMake cheat sheet](https://ps-group.github.io/cxx/cmake_cheatsheet)
-    + [CMake cannot find GoogleTest required library in Ubuntu](https://stackoverflow.com/questions/24295876/cmake-cannot-find-googletest-required-library-in-ubuntu)
-    + [CMake by Example](https://mirkokiefer.com/cmake-by-example-f95eb47d45b1)
-        + [How to copy contents of a directory into build directory after make with CMake?](https://stackoverflow.com/questions/13429656/how-to-copy-contents-of-a-directory-into-build-directory-after-make-with-cmake)    
-        ```cmake
-        add_custom_command(TARGET ${PROJECT_NAME} POST_BUILD
-                           COMMAND ${CMAKE_COMMAND} -E copy_directory
-                               ${CMAKE_SOURCE_DIR}/config $<TARGET_FILE_DIR:${PROJECT_NAME}>/config)
-        ```
-        + [Executing multiple post build commands in CMake depending on condition](https://stackoverflow.com/questions/33769077/executing-multiple-post-build-commands-in-cmake-depending-on-condition)
-        + [Problems with directory delimiters turning into backslashes when running cmake](https://stackoverflow.com/questions/48717138/problems-with-directory-delimiters-turning-into-backslashes-when-running-cmake)    
-        tl;dr    
-        ```sh
-         cmake -DCMAKE_CXX_COMPILER:FILEPATH=C:\Game Dev\Tools\MingW-
-        ```
 
     + [What are the best open-source build systems for C/C++?](https://www.slant.co/topics/4263/~open-source-build-systems-for-c-c)
         + [Meson](https://www.slant.co/topics/4263/viewpoints/14/~open-source-build-systems-for-c-c~meson)
@@ -1488,5 +1472,7 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
     + [Apache Thrift Language Support](https://thrift.apache.org/docs/Languages)
 
 + [Slimjet Browser Review – speed and utility](https://malwarecomplaints.info/slimjet-browser-review-speed-utility/)
+
++ [Video Downloader](https://www.duplicate-finder.com/video-dl.html)
 
 + [Предметно-ориентированное проектирование на самом деле](https://habr.com/ru/post/490270/)
