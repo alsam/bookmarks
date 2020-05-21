@@ -20,6 +20,10 @@
         + [Crust of Rust: Lifetime Annotations](https://www.youtube.com/watch?v=rAl-9HwD858&t=1192s)
         + [Porting Flamegraph to Rust](https://www.youtube.com/playlist?list=PLqbS7AVVErFimAvMW-kIJUwxpPvcPBCsz)
             + [Flame Graphs](http://www.brendangregg.com/flamegraphs.html)
+        + Implementing TCP in Rust
+            + [Implementing TCP in Rust (part 1)](https://www.youtube.com/watch?v=bzja9fQWzdA)
+            + [Implementing TCP in Rust (part 2)](https://www.youtube.com/watch?v=OCpt1I0MWXE)
+            + [Implementing TCP in Rust (part 3)](https://www.youtube.com/watch?v=8GE6ltLRJA4)
         + [Java's ConcurrentHashMap in Rust](https://www.youtube.com/playlist?list=PLqbS7AVVErFj824-6QgnK_Za1187rNfnl)
             + [learning-rust-crossbeam-epoch](https://codeandbitters.com/learning-rust-crossbeam-epoch/)
     + [Rust for Java Devs](https://leshow.github.io/post/rust_for_java_devs/)
