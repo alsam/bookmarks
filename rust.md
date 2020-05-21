@@ -15,6 +15,7 @@
         + [Rust 3D Graphics in the Browser: Boilerplate Setup and WASM Introduction](https://www.youtube.com/watch?v=p7DtoeuDT5Y&list=PLLqEtX6ql2EyPAZ1M2_C0GgVd4A-_L4_5&index=21&t=0s)
         + [Rust 3D Graphics in the Browser: 2D Graphics](https://www.youtube.com/watch?v=kjYCSySObDo&list=PLLqEtX6ql2EyPAZ1M2_C0GgVd4A-_L4_5&index=22&t=0s)
         + [Rust 3D Graphics in the Browser: 3D Graphics](https://www.youtube.com/watch?v=K63uBfs1K7Y&list=PLLqEtX6ql2EyPAZ1M2_C0GgVd4A-_L4_5&index=23&t=0s)
+    + [Java's ConcurrentHashMap in Rust](https://www.youtube.com/playlist?list=PLqbS7AVVErFj824-6QgnK_Za1187rNfnl)
     + [Rust for Java Devs](https://leshow.github.io/post/rust_for_java_devs/)
     + [Rust deployment](http://blog.jfo.click/how-rust-do/)
     + [Why Rust?](http://www.oreilly.com/programming/free/files/why-rust.pdf)
