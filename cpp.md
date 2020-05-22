@@ -44,6 +44,14 @@
             ```
 
     + [CppCon 2017: Rong Lu "C++ Development with Visual Studio Code"](https://www.youtube.com/watch?v=rFdJ68WbkdQ)
+    + [C++ Development with Visual Studio Code](https://www.youtube.com/watch?v=bK882S9ESpo)
+        + [Keyboard shortcut for Visual c# block comment in Visual Studio 2015?](https://stackoverflow.com/questions/32610044/keyboard-shortcut-for-visual-c-sharp-block-comment-in-visual-studio-2015)
+        tl;dr    
+        ``sh
+        keyboard shortcut for single line(//....) commenting Ctrl + K + C and uncommenting Ctrl + K + U .
+        
+        ``
+
     + [Thoughts about Software Development with an eye on the world of modern C++ Programming](https://thoughts-on-cpp.com/)
         + [My God, It’s Full Of Stars: The N-Body-Problem Series](https://thoughts-on-cpp.com/2019/02/08/the-n-body-problem-series/)
         + [My God, It’s Full Of Stars: And then there was CMake](https://thoughts-on-cpp.com/2019/02/14/and-then-there-was-cmake/)
