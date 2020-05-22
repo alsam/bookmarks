@@ -790,7 +790,9 @@
                     + [Handpicked Rusty Crates](http://blog.hoodie.de/2016/04/30/handpicked-rusty-crates/)
  
         + [Writing an OS in Rust](http://os.phil-opp.com/)
-            + [Page Tables](http://os.phil-opp.com/modifying-page-tables.html)
+            + [Introduction to Paging](https://os.phil-opp.com/paging-introduction/)
+            + [Paging Implementation](https://os.phil-opp.com/paging-implementation/)
+            + [Async/Await](https://os.phil-opp.com/async-await/)
         + [A comparison of operating systems written in Rust](https://github.com/flosse/rust-os-comparison)
             + Redox: A Rust Operating System
                 + [github redox os](https://github.com/redox-os/redox)
