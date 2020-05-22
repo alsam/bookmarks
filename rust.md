@@ -1039,4 +1039,4 @@
         ```sh
         git clone --bare https://github.com/rust-lang/crates.io-index.git
         ```
-
+        + [Языковое замещение, или Почему Rust сменяет C](https://vc.ru/evrone/70821-yazykovoe-zameshchenie-ili-pochemu-rust-smenyaet-c)
