@@ -1001,6 +1001,7 @@
             + [Everything you need to know about cross compiling Rust programs!](https://github.com/japaric/rust-cross)
             + [Cross compiling Rust for ARM (e.g. Raspberry Pi) using any OS!](https://medium.com/@wizofe/cross-compiling-rust-for-arm-e-g-raspberry-pi-using-any-os-11711ebfc52b)
             + [“Zero setup” cross compilation and “cross testing” of Rust crates](https://github.com/rust-embedded/cross/)
+            + [Operating System development tutorials in Rust on the Raspberry Pi](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials/)
         + [Real Time For the Masses](https://rtfm.rs/0.5/book/en/)
             + [Real Time For the Masses: Organization for the RTFM scheduler and ecosystem](https://github.com/rtfm-rs)
         + [Rust Embedded. Разработка под процессоры Cortex-M3 на примере отладочной платы STM32F103C8T6 (Black Pill)](https://habr.com/ru/post/495948/)
@@ -1040,3 +1041,4 @@
         git clone --bare https://github.com/rust-lang/crates.io-index.git
         ```
         + [Языковое замещение, или Почему Rust сменяет C](https://vc.ru/evrone/70821-yazykovoe-zameshchenie-ili-pochemu-rust-smenyaet-c)
+            + [Operating System development tutorials in Rust on the Raspberry Pi](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials/)
