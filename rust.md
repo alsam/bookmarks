@@ -80,6 +80,7 @@
         + [Are We Stdlib Yet?](https://www.reddit.com/r/rust/comments/5oqjnn/are_we_stdlib_yet/)
         + [Are we game yet?](http://arewegameyet.com/)
         + [Are we learning yet?](http://www.arewelearningyet.com/)
+            + [Scientific Computing](http://www.arewelearningyet.com/scientific-computing/)
             + [Are we yet?](https://wiki.mozilla.org/Areweyet) 
                 + [Taking ML to production with Rust: a 25x speedup](https://www.lpalmieri.com/posts/2019-12-01-taking-ml-to-production-with-rust-a-25x-speedup/)
 
