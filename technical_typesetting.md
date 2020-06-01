@@ -15,6 +15,7 @@
 
 + Confluence tips
     + [How to migrate a Confluence space to a Markdown Wiki](http://blog.deveo.com/confluence-to-markdown-wiki-migration/)
+    + [Confluence to Markdown converter which is actually working](https://github.com/meridius/confluence-to-markdown)
 
 + LaTeX tips
     + [Can people actually keep up with note-taking in Mathematics lectures with LaTeX?](https://www.quora.com/Can-people-actually-keep-up-with-note-taking-in-Mathematics-lectures-with-LaTeX/answer/Gilles-Castel-1)
