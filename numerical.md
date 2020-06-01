@@ -62,6 +62,7 @@
 + [Wavelet and Multiscale Library](https://wavelet-and-multiscale-library.github.io/)
     + [The Marburg Software Library is a collection of wavelet based c++ algorithms to solve multivariate partial differential equations.](https://github.com/wavelet-and-multiscale-library/Marburg_Software_Library)
     + [Parallel adaptive wavelet collocation method for PDEs](https://www.skoltech.ru/app/data/uploads/sites/19/2017/02/JCP_2015.pdf)
+    + [Wavelet methods in computational fluid dynamics](https://hal.archives-ouvertes.fr/hal-01024632/document)
 
 + BEM - **B**oundary **E**lement **L**ibrary
     + [Curated list of Hierarchical Matrices (H-Matrices) libraries](https://github.com/gchavez2/awesome-hierarchical-matrices)
