@@ -484,6 +484,7 @@
                 auto vec = xml_data.get("A.E.S.coeffs", std::vector<float>());
                 dump_vector("coeffs", vec);
                 ```
+            + [TinyXML-2](https://github.com/leethomason/tinyxml2)
             + [Christian Aichinger's thoughts : boost::make_iterator_range](https://greek0.net/boost-range/boost-make_iterator_range.html)
                 + [Overview of C++ Variable Initialization](https://greek0.net/cpp/initialization.html)
 
