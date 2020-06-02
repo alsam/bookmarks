@@ -1479,3 +1479,8 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
     + [An extensible media player for Android](https://github.com/google/ExoPlayer)
 
 + [Предметно-ориентированное проектирование на самом деле](https://habr.com/ru/post/490270/)
+
++ [Take a screenshot of a area in xfce?](https://askubuntu.com/questions/525988/take-a-screenshot-of-a-area-in-xfce)    
+    ```sh
+    xfce4-screenshooter -f
+    ```
