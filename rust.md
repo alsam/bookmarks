@@ -192,6 +192,7 @@
         + [Matrix Multiplication in Rust (Part 1)](http://www.suchin.co/2016/04/25/Matrix-Multiplication-In-Rust-Pt-1/)
         + [ndarray: an N-dimensional array with array views, multidimensional slicing, and efficient operations](https://github.com/bluss/rust-ndarray)
             + [ndarray presentation by the author](http://bluss.github.io/rust-ndarray/talk1/)
+        + [sparse linear algebra library for rust](https://github.com/vbarrielle/sprs)
         + [Peroxide - Rust numeric library contains linear algebra, numerical analysis, statistics and machine learning tools with R, MATLAB, Python like macros](https://crates.io/crates/peroxide)
             + [Peroxide github repo](https://github.com/Axect/Peroxide)
         + [A Rust linear algebra library based on expression templates](https://github.com/SiegeLord/RustAlgebloat)
