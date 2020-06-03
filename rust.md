@@ -193,6 +193,8 @@
         + [ndarray: an N-dimensional array with array views, multidimensional slicing, and efficient operations](https://github.com/bluss/rust-ndarray)
             + [ndarray presentation by the author](http://bluss.github.io/rust-ndarray/talk1/)
         + [sparse linear algebra library for rust](https://github.com/vbarrielle/sprs)
+        + [Linear algebra library for the Rust programming language](https://nalgebra.org/)
+            + [Linear algebra library for Rust](https://github.com/rustsim/nalgebra)
         + [Peroxide - Rust numeric library contains linear algebra, numerical analysis, statistics and machine learning tools with R, MATLAB, Python like macros](https://crates.io/crates/peroxide)
             + [Peroxide github repo](https://github.com/Axect/Peroxide)
         + [A Rust linear algebra library based on expression templates](https://github.com/SiegeLord/RustAlgebloat)
