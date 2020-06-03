@@ -171,6 +171,26 @@
         ```sh
         adb install -t hello.apk
         ```
+    + [adb useful commands list](https://gist.github.com/Pulimet/5013acf2cd5b28e55036c82c91bd56d8)    
+    tl;dr some useful commands
+    ```sh
+    == Screenshot
+    adb shell screencap -p /sdcard/screenshot.png
+    
+    $ adb shell
+    shell@ $ screencap /sdcard/screen.png
+    shell@ $ exit
+    $ adb pull /sdcard/screen.png
+    
+    ---
+    adb shell screenrecord /sdcard/NotAbleToLogin.mp4
+    
+    $ adb shell
+    shell@ $ screenrecord --verbose /sdcard/demo.mp4
+    (press Control + C to stop)
+    shell@ $ exit
+    $ adb pull /sdcard/demo.mp4
+    ```
 
     + [Установка android tools (ADB,fastboot, QTADB) на Debian/Ubuntu/Linux Mint](http://linux-notes.org/ustanovka-android-tools-adb-fastboot-qtadb-na-debian-ubuntu-linux-mint/)
 
