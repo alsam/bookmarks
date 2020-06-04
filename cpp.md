@@ -673,6 +673,10 @@
 
 
         + selected C++ projects
+            + [Curated list of awesome lists Awesome C++](https://project-awesome.org/fffaraz/awesome-cpp)
+                + [A survey of argument parsing libraries in C/C++](https://attractivechaos.wordpress.com/2018/08/31/a-survey-of-argument-parsing-libraries-in-c-c/)
+                    + [Compare clipp and jarro2783/cxxopts's popularity and activity](https://cpp.libhunt.com/compare-clipp-vs-cxxopts?rel=cmp-cmp)
+                    + [Lightweight C++ command line option parser](https://github.com/jarro2783/cxxopts)
             + [Modern C++ Parallel Task Programming](https://github.com/cpp-taskflow/cpp-taskflow)
                 + [docs for Modern C++ Parallel Task Programming](https://cpp-taskflow.github.io/cpp-taskflow/index.html)
             + [Filament is a physically based rendering engine for Android, Windows, Linux and macOS](https://github.com/google/filament)
