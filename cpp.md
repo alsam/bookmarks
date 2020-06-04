@@ -632,6 +632,9 @@
         }
         ```
 
+        + [Retiring the Singleton PatternConcrete suggestions for what to use instead](https://meetingcpp.com/mcpp/slides/2019/Retiring_the_singleton_pattern.pdf)
+            + [Retiring the Singleton Pattern - Peter Muldoon - Meeting C++ 2019](https://www.youtube.com/watch?v=f46jmm7r8Yg)
+
         + Progress Bar
             + [How to display a progress indicator in pure C/C++ (cout/printf)?](https://stackoverflow.com/questions/14539867/how-to-display-a-progress-indicator-in-pure-c-c-cout-printf)
             tl;dr more neat and nice solution    
