@@ -106,6 +106,7 @@
         + [Induced Dimension Reduction method IDR(s) for solving general non-symmetric linear equations using a Krylov method, for example ordinary linear equations or Sylvester and Stein equations.](https://github.com/mschauer/IDRsSolver.jl)
     
     + High Performance
+        + [[ANN] LoopVectorization](https://discourse.julialang.org/t/ann-loopvectorization/32843)
         + [The ParallelAccelerator package, part of the High Performance Scripting project at Intel Labs](https://github.com/IntelLabs/ParallelAccelerator.jl)
             + [talk on Prospect and ParallelAccelerator.jl at SPLASH-I 2015](http://composition.al/blog/2015/10/31/my-talk-on-prospect-and-parallel-accelerator-jl-at-splash-i-2015/)
             + [laplace-3d.jl](https://github.com/IntelLabs/ParallelAccelerator.jl/blob/master/examples/laplace-3d/laplace-3d.jl)
