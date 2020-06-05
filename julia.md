@@ -193,6 +193,7 @@ Julia Groups
 + [Should I use Chapel or Julia for my next project?](https://www.dursi.ca/post/julia-vs-chapel.html)
 
 + [Хочу все знать. Язык Julia](https://geekbrains.ru/posts/julia_lang)
++ [JuliaCon 2019 | What's Bad About Julia | Jeff Bezanson](https://www.youtube.com/watch?v=TPuJsgyu87U&feature=youtu.be)
 
 + [PDE Solvers in Julia](https://discourse.julialang.org/t/pde-solvers-in-julia/24416)
     + [JuliaCon 2018 | Solving Partial Differential Equations with Julia | Chris Rackauckas](https://www.youtube.com/watch?time_continue=3&v=okGybBmihOE&feature=emb_title)
