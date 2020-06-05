@@ -700,6 +700,8 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
         + [The Modern Vim Config with Pathogen](http://tammersaleh.com/posts/the-modern-vim-config-with-pathogen/)
             + [vim-pathogen](https://github.com/tpope/vim-pathogen)
         + [How to setup vim to edit both Makefile and normal code files?](http://superuser.com/questions/632657/how-to-setup-vim-to-edit-both-makefile-and-normal-code-files)
+        + [How to Configure Vim like VSCode](https://www.youtube.com/watch?v=gnupOrSEikQ)
+            + [init.vim](https://gist.github.com/benawad/b768f5a5bbd92c8baabd363b7e79786f)
         + vim+scala
             + [Editing Scala with vim](https://leonard.io/blog/2013/04/editing-scala-with-vim/)
             + [My Vim setup for Scala](http://bleibinha.us/blog/2013/08/my-vim-setup-for-scala)
