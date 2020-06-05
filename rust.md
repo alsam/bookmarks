@@ -881,6 +881,7 @@
         svgbob -o long.svg < examples/long.bob
         svgbob examples/long.bob > long.svg
         ```
+        + [Drawing SVG Graphs with Rust](https://cetra3.github.io/blog/drawing-svg-graphs-rust/)
 
     + Graphics in Rust
 
