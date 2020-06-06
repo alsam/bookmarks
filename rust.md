@@ -1019,6 +1019,7 @@
 
     + misc
         + [Awesome Space](https://github.com/AeroRust/awesome-space)
+        + [Object-Orientation in Rust](https://stevedonovan.github.io/rust-gentle-intro/object-orientation.html)
         + [Rust and WebAssembly](https://rustwasm.github.io/book/)
             + [Rust, WebAssembly, and the future of Serverless](https://morioh.com/p/f20294691bac)
             + [BxJS - Building wasm markdown renderer with Rust](https://www.youtube.com/watch?v=ihybuCp9pnc)
