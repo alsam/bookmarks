@@ -2,7 +2,7 @@
 
 + [Hyperpolyglot: Lightweight Markup: Markdown, reStructuredText, MediaWiki, AsciiDoc, Org-mode](http://hyperpolyglot.org/lightweight-markup)
 
-+ [A template for textbooks in the same style as Algorithms for Optimization](https://github.com/sisl/tufte_algorithms_book.git
++ [A template for textbooks in the same style as Algorithms for Optimization](https://github.com/sisl/tufte_algorithms_book.git)
 
 + pandoc
     + [pandoc binaries](https://github.com/jgm/pandoc/releases/tag/1.15.0.6)
