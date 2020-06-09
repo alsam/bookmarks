@@ -47,10 +47,10 @@
     + [C++ Development with Visual Studio Code](https://www.youtube.com/watch?v=bK882S9ESpo)
         + [Keyboard shortcut for Visual c# block comment in Visual Studio 2015?](https://stackoverflow.com/questions/32610044/keyboard-shortcut-for-visual-c-sharp-block-comment-in-visual-studio-2015)
         tl;dr    
-        ``sh
-        keyboard shortcut for single line(//....) commenting Ctrl + K + C and uncommenting Ctrl + K + U .
-        
-        ``
+        ```sh
+        keyboard shortcut for single line(//....) commenting Ctrl + K + C and uncommenting Ctrl + K + U . 
+        ```
+        + [Using C++ on Linux in VS Code](https://code.visualstudio.com/docs/cpp/config-linux)
 
     + [Thoughts about Software Development with an eye on the world of modern C++ Programming](https://thoughts-on-cpp.com/)
         + [My God, It’s Full Of Stars: The N-Body-Problem Series](https://thoughts-on-cpp.com/2019/02/08/the-n-body-problem-series/)
