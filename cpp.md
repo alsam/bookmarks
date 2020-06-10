@@ -55,6 +55,7 @@
         + [Does vscode use workspaceRoot or workspaceFolder?](https://stackoverflow.com/questions/46797258/does-vscode-use-workspaceroot-or-workspacefolder)
         + [How to run Cmake in Visual Studio Code using tasks](https://stackoverflow.com/questions/49584507/how-to-run-cmake-in-visual-studio-code-using-tasks)
         + [C++ Development using Visual Studio Code, CMake and LLDB](https://medium.com/audelabs/c-development-using-visual-studio-code-cmake-and-lldb-d0f13d38c563)
+        + [How to jump to build error in Visual Studio Code?](https://stackoverflow.com/questions/41851469/how-to-jump-to-build-error-in-visual-studio-code)
 
     + [Thoughts about Software Development with an eye on the world of modern C++ Programming](https://thoughts-on-cpp.com/)
         + [My God, It’s Full Of Stars: The N-Body-Problem Series](https://thoughts-on-cpp.com/2019/02/08/the-n-body-problem-series/)
