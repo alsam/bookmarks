@@ -86,6 +86,8 @@
         + [C++ Russia 2017: Антон Полухин, Как делать не надо: C++ велосипедостроение для профессионалов](https://www.youtube.com/watch?v=rJWSSWYL83U)
         + [Зачем избегать друзей, или как я растерял все свои плюсы](https://habr.com/ru/post/472780/)
         + [How to split a string in C++](https://www.fluentcpp.com/2017/04/21/how-to-split-a-string-in-c/)
+            + [Split a string into tokens - strtok](https://www.codingame.com/playgrounds/14213/how-to-play-with-strings-in-c/string-split)
+            + [Splitting a string by a character](https://stackoverflow.com/questions/10058606/splitting-a-string-by-a-character)
 
 + [free modern C++ book: Discovering Modern C++](https://github.com/stoneyang-cs/cpp_book/blob/master/Discovering%20Modern%20C%2B%2B%20-%20Peter%20Gottschling.pdf)
 
