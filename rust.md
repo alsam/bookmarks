@@ -1053,3 +1053,4 @@
         ```
         + [Языковое замещение, или Почему Rust сменяет C](https://vc.ru/evrone/70821-yazykovoe-zameshchenie-ili-pochemu-rust-smenyaet-c)
             + [Operating System development tutorials in Rust on the Raspberry Pi](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials/)
+        + [Zero To Production #1: Setup - Toolchain, IDEs, CI](https://www.lpalmieri.com/posts/2020-06-06-zero-to-production-1-setup-toolchain-ides-ci/)
