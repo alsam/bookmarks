@@ -1020,6 +1020,13 @@
     + misc
         + [Awesome Space](https://github.com/AeroRust/awesome-space)
         + [Object-Orientation in Rust](https://stevedonovan.github.io/rust-gentle-intro/object-orientation.html)
+        + Logic in Rust
+            + [SAT solver written in Rust](https://github.com/jix/varisat)
+                + [Varisat](https://jix.one/project/varisat/)
+            + [Stevia - Satisfiability Modulo Theories (SMT) Solver](https://github.com/Robbepop/stevia)
+                + [A Satisfiability Modulo Theories (SMT) solver for the theories of fixed-size bit-vectors, arrays and uninterpreted functions](https://github.com/Boolector/boolector)
+                    + [Boolector](https://boolector.github.io/)
+            + [A modern Prolog implementation written mostly in Rust](https://github.com/mthom/scryer-prolog)
         + [Rust and WebAssembly](https://rustwasm.github.io/book/)
             + [Rust, WebAssembly, and the future of Serverless](https://morioh.com/p/f20294691bac)
             + [BxJS - Building wasm markdown renderer with Rust](https://www.youtube.com/watch?v=ihybuCp9pnc)
