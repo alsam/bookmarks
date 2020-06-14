@@ -183,7 +183,7 @@ Dict{ASCIIString,Int64} with 2 entries:
         + [Various improvements #26](https://github.com/JuliaArrays/OffsetArrays.jl/pull/26)
         + [move OffsetArrays to JuliaArrays](https://github.com/JuliaLang/METADATA.jl/pull/8884)
     + [JuliaSmoothOptimizers](https://github.com/JuliaSmoothOptimizers)
-    + [ulia DiffEq](https://github.com/JuliaDiffEq)
+    + [Julia DiffEq](https://github.com/JuliaDiffEq)
     + [JuliaArbTypes](https://github.com/JuliaArbTypes)
     + [Julia Math](https://github.com/JuliaMath)
     + [JuliaML](https://github.com/JuliaML)
