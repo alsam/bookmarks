@@ -206,7 +206,7 @@ Julia Groups
     + [Benchmarking Julia on a PDE: the Kuramoto-Sivashinksy equation](https://github.com/johnfgibson/julia-pde-benchmark/blob/master/1-Kuramoto-Sivashinksy-benchmark.ipynb)
     + [Julia debugger](https://github.com/JuliaDebug/Debugger.jl)    
         tl;dr    
-        ```juliacon
+        ```julia
         using Debugger
 
         function foo(n)
