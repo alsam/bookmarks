@@ -204,3 +204,15 @@ Julia Groups
 + [PDE Solvers in Julia](https://discourse.julialang.org/t/pde-solvers-in-julia/24416)
     + [JuliaCon 2018 | Solving Partial Differential Equations with Julia | Chris Rackauckas](https://www.youtube.com/watch?time_continue=3&v=okGybBmihOE&feature=emb_title)
     + [Benchmarking Julia on a PDE: the Kuramoto-Sivashinksy equation](https://github.com/johnfgibson/julia-pde-benchmark/blob/master/1-Kuramoto-Sivashinksy-benchmark.ipynb)
+    + [Julia debugger](https://github.com/JuliaDebug/Debugger.jl)
+        tl;dr    
+        ```juliacon
+        using Debugger
+
+        function foo(n)
+            x = n+1
+            ((BigInt[1 1; 1 0])^x)[2,1]
+        end
+
+        @enter foo(20)
+        ```
