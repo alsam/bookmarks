@@ -2,6 +2,10 @@
 
 + math links
 
+    + [Carnegie Mellon tool automatically turns math into pictures](https://techxplore.com/news/2020-06-carnegie-mellon-tool-automatically-math.html)
+        + [Penrose is a platform that enables people to create beautiful diagrams just by typing mathematical notation in plain text](https://penrose.ink/)
+        + [Create beautiful diagrams just by typing mathematical notation in plain text](https://github.com/penrose/penrose)
+
     + [A comprehensive 10-page probability cheatsheet that covers a semester's worth of introduction to probability](https://github.com/wzchen/probability_cheatsheet)
 
     + [Магия тензорной алгебры: Часть 1 — что такое тензор и для чего он нужен?](http://habrahabr.ru/post/261421/)
