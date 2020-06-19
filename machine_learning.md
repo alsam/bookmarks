@@ -389,6 +389,9 @@
     + [Dlib Blog](http://blog.dlib.net/)
     + [A Clean C++11 Deep Learning API](http://blog.dlib.net/2016/06/a-clean-c11-deep-learning-api.html)
 
++ [NeoML is an end-to-end machine learning framework that allows you to build, train, and deploy ML models](https://github.com/neoml-lib/neoml)
+    + [ABBYY open sources NeoML](https://www.marktechpost.com/2020/06/16/abbyy-open-sources-neoml-a-machine-learning-framework-for-both-deep-learning-and-traditional-algorithms/)
+
 + FPGA for AI
     + [quora: FPGAs-useful-in-neural-networks](https://www.quora.com/Artificial-Intelligence-How-are-field-programmable-gate-arrays-FPGAs-useful-in-neural-networks)
         + [Recurrent Neural Networks Hardware Implementation on FPGA](https://arxiv.org/abs/1511.05552v1)
