@@ -1068,3 +1068,5 @@
         + [Zero To Production #1: Setup - Toolchain, IDEs, CI](https://www.lpalmieri.com/posts/2020-06-06-zero-to-production-1-setup-toolchain-ides-ci/)
         + [The Rust Compilation Model Calamity](https://pingcap.com/blog/rust-compilation-model-calamity/)
         + [Generics and Compile-Time in Rust](https://pingcap.com/blog/generics-and-compile-time-in-rust/)
+        + [Automatic Differentiation/Differential Programming Support](https://internals.rust-lang.org/t/automatic-differentiation-differential-programming-support/12510)
+            + [Reverse-mode automatic differentiation: a tutorial](https://rufflewind.com/2016-12-30/reverse-mode-automatic-differentiation)
