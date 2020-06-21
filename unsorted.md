@@ -35,3 +35,4 @@
         + [Проблема с кириллицей контактов у магнитол с bluetooth](https://www.drive2.ru/l/2132836/)
 
     + [Core control application](https://gitlab.com/corectrl/corectrl)
+        + [CoreCtrl is a linux application that allows you to control with ease your computer hardware using application profiles](https://gitlab.com/corectrl/corectrl/-/wikis/home)
