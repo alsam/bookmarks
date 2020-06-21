@@ -33,3 +33,5 @@
 
     + [Перекодирование русских символов вида =D0=9B в транслит](https://www.opennet.ru/tips/2665_decode_vcf.shtml)
         + [Проблема с кириллицей контактов у магнитол с bluetooth](https://www.drive2.ru/l/2132836/)
+
+    + [Core control application](https://gitlab.com/corectrl/corectrl)
