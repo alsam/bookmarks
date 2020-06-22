@@ -962,6 +962,7 @@
                         + [Ignore overflow when finding auto-trait impls in Rustdoc](https://github.com/rust-lang/rust/pull/73335)
                             + [Upgrade Chalk](https://github.com/rust-lang/rust/pull/72936)
                                 + [Unify region variables when projecting associated types](https://github.com/rust-lang/rust/pull/73452)
+                                    + [convert higher ranked `Predicate`s to `PredicateKind::ForAll`](https://github.com/rust-lang/rust/pull/73503)
             + [Generic associated types RFC was merged!](https://www.reddit.com/r/rust/comments/6xkqdl/generic_associated_types_rfc_was_merged/)
             + [Generic associated types (AKA ACT, AKA HKT) RFC merged!](https://www.reddit.com/r/rust/comments/6yt9vd/generic_associated_types_aka_act_aka_hkt_rfc/)
         + [RFC 2000: const generics](https://github.com/rust-lang/rfcs/blob/master/text/2000-const-generics.md)
