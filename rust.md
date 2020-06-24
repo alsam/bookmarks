@@ -341,6 +341,7 @@
         + [Mixing matching, mutation, and moves in Rust](http://blog.rust-lang.org/2015/04/17/Enums-match-mutation-and-moves.html)
         + [Polymorphism in Rust: Enum vs Trait + Struct](http://keepcalmandlearnrust.com/2017/03/polymorphism-in-rust-enum-vs-trait-struct/)
             + [Recursive Enum Types](https://users.rust-lang.org/t/recursive-enum-types/2938)
+            + [How to use C++ polymorphism in Rust](https://medium.com/swlh/how-to-use-c-polymorphism-in-rust-76e1d1a88ed1)
         + [Implementing an object factory pattern in Rust using closures](http://keepcalmandlearnrust.com/2016/08/implementing-an-object-factory-pattern-in-rust-using-closures/)
 
     + Rust concurrency
