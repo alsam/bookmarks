@@ -345,6 +345,8 @@
         + [Implementing an object factory pattern in Rust using closures](http://keepcalmandlearnrust.com/2016/08/implementing-an-object-factory-pattern-in-rust-using-closures/)
 
     + Rust concurrency
+        + [Gregory Terzian](https://medium.com/@polyglot_factotum)
+            + [Rust concurrency: the archetype of a message-passing bug.](https://medium.com/@polyglot_factotum/rust-concurrency-the-archetype-of-a-message-passing-bug-817b60efd8f8)
         + [Comparing parallel Rust and C++](https://parallel-rust-cpp.github.io/)
             + [Performance comparison of parallel Rust and C++](https://github.com/parallel-rust-cpp/shortcut-comparison)
         + [Concurrent Programming in Rust course EECS 3/495](http://users.eecs.northwestern.edu/~jesse/course/eecs395rust-wi16/)
