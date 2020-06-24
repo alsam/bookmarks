@@ -348,6 +348,7 @@
         + [Gregory Terzian](https://medium.com/@polyglot_factotum)
             + [Rust concurrency: the archetype of a message-passing bug.](https://medium.com/@polyglot_factotum/rust-concurrency-the-archetype-of-a-message-passing-bug-817b60efd8f8)
             + [Rust concurrency: five easy pieces.](https://medium.com/@polyglot_factotum/rust-concurrency-five-easy-pieces-871f1c62906a)
+            + [Further thoughts on async/await.](https://medium.com/@polyglot_factotum/further-thoughts-on-async-await-7767f924cb7e)
         + [Comparing parallel Rust and C++](https://parallel-rust-cpp.github.io/)
             + [Performance comparison of parallel Rust and C++](https://github.com/parallel-rust-cpp/shortcut-comparison)
         + [Concurrent Programming in Rust course EECS 3/495](http://users.eecs.northwestern.edu/~jesse/course/eecs395rust-wi16/)
