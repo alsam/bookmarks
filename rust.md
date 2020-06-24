@@ -1074,3 +1074,7 @@
         + [Generics and Compile-Time in Rust](https://pingcap.com/blog/generics-and-compile-time-in-rust/)
         + [Automatic Differentiation/Differential Programming Support](https://internals.rust-lang.org/t/automatic-differentiation-differential-programming-support/12510)
             + [Reverse-mode automatic differentiation: a tutorial](https://rufflewind.com/2016-12-30/reverse-mode-automatic-differentiation)
+
++ [Rust for Data-Intensive Computation](https://materialize.io/rust-for-data-intensive-computation/)
+    + [Timely Dataflow](https://github.com/TimelyDataflow/timely-dataflow)
+    + [Differential Dataflow](https://github.com/TimelyDataflow/differential-dataflow)
