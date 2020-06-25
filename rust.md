@@ -658,6 +658,7 @@
         + [Working around the lack of associated method on parametric traits?](http://stackoverflow.com/questions/27888069/working-around-the-lack-of-associated-method-on-parametric-traits)
         + [cpp-templates-vs-rust-generics](https://gist.github.com/bjz/9220415)
         + [Rust, Generics, and Collections](http://cglab.ca/~abeinges/blah/rust-generics-and-collections/)
+            + [Generics and Compile-Time in Rust](https://pingcap.com/blog/generics-and-compile-time-in-rust#monomorphized-generics)
 
         + [Matching, saving and replacing text with the regex crate](https://elliotekj.com/2017/03/10/matching-saving-and-replacing-text-with-the-regex-crate/)
 
