@@ -84,6 +84,7 @@
     + [Feature freeze C++20. Coroutines, Modules и прочее](https://habr.com/ru/company/yandex/blog/438864/)
 
     + C++ Best Practices
+        + [C++ Template: A Quick UpToDate Look(C++11/14/17/20)](http://www.vishalchovatiya.com/c-template-a-quick-uptodate-look/)
         + [C++ Best Practices](https://lefticus.gitbooks.io/cpp-best-practices/content/02-Use_the_Tools_Available.html)
         + [C++ Russia 2017: Антон Полухин, Как делать не надо: C++ велосипедостроение для профессионалов](https://www.youtube.com/watch?v=rJWSSWYL83U)
         + [Зачем избегать друзей, или как я растерял все свои плюсы](https://habr.com/ru/post/472780/)
