@@ -31,6 +31,8 @@
         + [Nektar++: a high-order finite element framework](https://xyloid.org/assets/talks/2014-06-ices.pdf)
 
     + Spectral Element Methods (SEM)
+        + [Feel++ finite element embedded library in C++](http://www.feelpp.org/)
+            + [Feel++: Finite Element Embedded Library in C++](https://github.com/feelpp/feelpp)
         + [Two dimensional high-order spectral element method fluid dynamics solver](https://github.com/horsescfd/HORSES2D)
             + [Two dimensional high-order spectral element method fluid dynamics solver](https://github.com/juanmanzanero/HORSES2D)
         + [github: ITHACA-SEM - In real Time Highly Advanced Computational Applications for Spectral Element Methods](https://github.com/mathLab/ITHACA-SEM)
