@@ -31,6 +31,7 @@
         + [Nektar++: a high-order finite element framework](https://xyloid.org/assets/talks/2014-06-ices.pdf)
 
     + Finite Element Methods (FEM) and Spectral Element Methods (SEM)
+        + [deal.II — an open source finite element library](https://www.dealii.org/)
         + [Feel++ finite element embedded library in C++](http://www.feelpp.org/)
             + [Feel++: Finite Element Embedded Library in C++](https://github.com/feelpp/feelpp)
         + [Veamy: an extensible object-oriented C++ library for the virtual element method](https://camlab.cl/software/veamy/
