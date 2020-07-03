@@ -244,4 +244,5 @@
 
 + [Tools and information for the Broadcom VideoCore IV (RaspberryPi)](https://github.com/hermanhermitage/videocoreiv)
     + [Broadcom VideoCore-IV vs ARM Mali-T880 MP4](https://www.notebookcheck.net/VideoCore-IV-vs-Mali-T880-MP4_4017_7170.247598.0.html)
+    + [Operating System development tutorials in Rust on the Raspberry Pi](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials)
 
