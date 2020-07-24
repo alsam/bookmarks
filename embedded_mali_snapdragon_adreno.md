@@ -219,6 +219,7 @@
             + [Mali Performance 1: Checking the Pipeline](https://community.arm.com/developer/tools-software/graphics/b/blog/posts/mali-performance-1-checking-the-pipeline)
             + [Mali Performance 2: How to Correctly Handle Framebuffers](https://community.arm.com/developer/tools-software/graphics/b/blog/posts/mali-performance-2-how-to-correctly-handle-framebuffers)
             + [Mali Performance 3: Is EGL_BUFFER_PRESERVED a good thing?](https://community.arm.com/developer/tools-software/graphics/b/blog/posts/mali-performance-3-is-egl_5f00_buffer_5f00_preserved-a-good-thing)
+            + [Mali Performance 5: An Application's Performance Responsibilities](https://community.arm.com/developer/tools-software/graphics/b/blog/posts/mali-performance-5-an-application-s-performance-responsibilities)
         + [ARM Mali GPU OpenGL ES Application Optimization Guide](https://developer.arm.com/docs/dui0555/b/introduction/about-optimization)
             + [ARM® Mali GPU Version: 3.0 OpenGL ES Application Optimization Guide](http://infocenter.arm.com/help/topic/com.arm.doc.dui0555c/DUI0555C_mali_optimization_guide.pdf)
             + [Accelerating Mali GPU analysis using Arm Mobile Studio](https://community.arm.com/developer/tools-software/graphics/b/blog/posts/accelerating-mali-gpu-analysis-using-arm-mobile-studio)
