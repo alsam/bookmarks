@@ -511,6 +511,7 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
             + [Mary Rose Cook blog](http://maryrosecook.com/)
             + [github for maryrosecook.com](https://github.com/maryrosecook/maryrosecook.com)
         + [Revert Git repo to a previous commit](http://stackoverflow.com/questions/4114095/revert-git-repo-to-a-previous-commit)
+            + [How to revert to origin's master branch's version of file](https://stackoverflow.com/questions/1817766/how-to-revert-to-origins-master-branchs-version-of-file)
         + [git returns http error 407 from proxy after CONNECT](http://stackoverflow.com/questions/24907140/git-returns-http-error-407-from-proxy-after-connect)
         + [Git Basics - Tagging](https://git-scm.com/book/en/v2/Git-Basics-Tagging)
         + [Git delete a remote/local branch or tag](https://matoski.com/article/git-delete-remote-branch-tag/)
