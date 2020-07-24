@@ -216,6 +216,8 @@
                 + [Part 2 - Tile-based Rendering](https://community.arm.com/developer/tools-software/graphics/b/blog/posts/the-mali-gpu-an-abstract-machine-part-2---tile-based-rendering)
                 + [Part 3 - The Midgard Shader Core](https://community.arm.com/developer/tools-software/graphics/b/blog/posts/the-mali-gpu-an-abstract-machine-part-3---the-midgard-shader-core)
                 + [Part 4 - The Bifrost Shader Core](https://community.arm.com/developer/tools-software/graphics/b/blog/posts/the-mali-gpu-an-abstract-machine-part-4---the-bifrost-shader-core)
+            + [Mali Performance 1: Checking the Pipeline](https://community.arm.com/developer/tools-software/graphics/b/blog/posts/mali-performance-1-checking-the-pipeline)
+            + [Mali Performance 2: How to Correctly Handle Framebuffers](https://community.arm.com/developer/tools-software/graphics/b/blog/posts/mali-performance-2-how-to-correctly-handle-framebuffers)
         + [ARM Mali GPU OpenGL ES Application Optimization Guide](https://developer.arm.com/docs/dui0555/b/introduction/about-optimization)
             + [ARM® Mali GPU Version: 3.0 OpenGL ES Application Optimization Guide](http://infocenter.arm.com/help/topic/com.arm.doc.dui0555c/DUI0555C_mali_optimization_guide.pdf)
             + [Accelerating Mali GPU analysis using Arm Mobile Studio](https://community.arm.com/developer/tools-software/graphics/b/blog/posts/accelerating-mali-gpu-analysis-using-arm-mobile-studio)
