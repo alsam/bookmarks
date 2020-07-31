@@ -820,6 +820,7 @@
                         + [redox-os/ion](https://github.com/redox-os/ion)
                     + [The Orbital Widget Toolkit](https://crates.io/crates/orbtk/)
             + [MOROS: Obscure Rust Operating System](https://github.com/vinc/moros)
+                + [Writing a file system from scratch in Rust](https://news.ycombinator.com/item?id=23967016)
         + [rustv - A minimal, intentionally inaccurate RISC-V ISA simulator](https://crates.io/crates/rustv/)
             + [about RISC-V and Rocket processor see The RISC-V Instruction Set Architecture](http://riscv.org/)
             + [see also Chisel - Constructing Hardware in a Scala Embedded Language](https://chisel.eecs.berkeley.edu/)
