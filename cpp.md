@@ -343,6 +343,22 @@
             ```c++
             char c = 42; std::cout << string(1, c) << std::endl;
             ```
+        + [how to pre-allocate memory for a std::string object?](https://stackoverflow.com/questions/3303527/how-to-pre-allocate-memory-for-a-stdstring-object)
+            + tl;dr
+            ```c++
+            // New Test -- the fastest
+            std::string s4;
+        
+            clock_t start4 = clock();
+            file.seekg(0, std::ios::end);
+            s4.resize(file.tellg());
+            file.seekg(0, std::ios::beg);
+        
+            file.read(&s4[0], s4.length());
+            clock_t stop4 = clock();
+            ```
+        + [how to pre-allocate memory for a std::string object?](https://stackoverflow.com/questions/3303527/how-to-pre-allocate-memory-for-a-stdstring-object)
+
         + [How to automatically convert strongly typed enum into int?](http://stackoverflow.com/questions/8357240/how-to-automatically-convert-strongly-typed-enum-into-int)
 
         + [Can a C++ lambda constructor argument capture the constructed variable?](http://stackoverflow.com/questions/29738655/can-a-c-lambda-constructor-argument-capture-the-constructed-variable)
