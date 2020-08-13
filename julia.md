@@ -158,6 +158,7 @@ Dict{ASCIIString,Int64} with 2 entries:
 ```
 
         + [fix lowering bug in let-bound functions](https://github.com/JuliaLang/julia/commit/debf46747905ea33ff1deb07c20031b900da76d4)
+
 ```julia
  @test isequal([1,2,3], [a for (a,b) in enumerate(2:4)])
  @test isequal([2,3,4], [b for (a,b) in enumerate(2:4)])
