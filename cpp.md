@@ -261,7 +261,7 @@
         ```
     + [Variable template](http://en.cppreference.com/w/cpp/language/variable_template)
         + tl;dr
-        ```
+        ```c++
         template<class T>
         constexpr T pi = T(3.1415926535897932385);  // variable template
          
@@ -273,7 +273,7 @@
         ```
     + [accumulate rehab](https://en.cppreference.com/w/cpp/algorithm/accumulate)
         + tl;dr
-        ```
+        ```c++
         // classical
         template<class InputIt, class T, class BinaryOperation>
         constexpr // since C++20
@@ -317,6 +317,28 @@
             auto sv = accumulate(v.begin(), v.end(), 0, std::plus<>{});
         }
         ``` 
+    + [is_swappable](https://www.cyberforum.ru/cpp-beginners/thread1924728.html)
+        + tl;dr
+        ```c++
+        namespace dispatch {
+ 
+        using std::swap;
+ 
+        template<class T, class voider = void_t<>>
+        struct has_member_swap : std::false_type { };
+ 
+        template<class T>
+        struct has_member_swap<T,
+            void_t<decltype(noexcept(swap(std::declval<T&>(), std::declval<T&>()))), typename std::enable_if_t<!std::is_array<T>::value>>
+        > : std::integral_constant<bool,
+            std::is_move_assignable<T>::value &&
+            std::is_move_constructible<T>::value
+        > { };
+ 
+        template<class T>
+        struct has_member_swap<T, typename std::enable_if_t<std::is_array<T>::value>> : has_member_swap<std::remove_all_extents_t<T>> { };
+        }
+        ```
     + [What Every C++ Developer Should Know to (Correctly) Define Global Constants](https://www.fluentcpp.com/2019/07/23/how-to-define-a-global-constant-in-cpp/)
     + [Why const Doesn't Make C Code Faster](https://theartofmachinery.com/2019/08/12/c_const_isnt_for_performance.html)
     + [Impossibly fast delegate in C++11](http://codereview.stackexchange.com/questions/14730/impossibly-fast-delegate-in-c11)
