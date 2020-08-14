@@ -5,6 +5,7 @@
             + [Solving the Generalized Streaming Iterator Problem without GATs](http://lukaskalbertodt.github.io/2018/08/03/solving-the-generalized-streaming-iterator-problem-without-gats.html)
             + [Generalized Autoref-Based Specialization](http://lukaskalbertodt.github.io/2019/12/05/generalized-autoref-based-specialization.html)
         + [Tracking issue for const generics](https://github.com/rust-lang/rust/issues/44580)
+            + [Tracking Issue for `min_const_generics`](https://github.com/rust-lang/rust/issues/74878)
             + [Tracking issue for "Lazy normalization"](https://github.com/rust-lang/rust/issues/60471)
                 + [check it](https://medium.com/tips-for-rust-developers/const-generics-eb46940a07e3)
     + [Rust Tutorial playlist](https://www.youtube.com/playlist?list=PLLqEtX6ql2EyPAZ1M2_C0GgVd4A-_L4_5)
