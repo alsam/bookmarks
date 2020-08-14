@@ -271,6 +271,52 @@
             return pi<T> * r * r; // pi<T> is a variable template instantiation
         }
         ```
+    + [accumulate rehab](https://en.cppreference.com/w/cpp/algorithm/accumulate)
+        + tl;dr
+        ```
+        // classical
+        template<class InputIt, class T, class BinaryOperation>
+        constexpr // since C++20
+        T accumulate(InputIt first, InputIt last, T init, 
+                     BinaryOperation op)
+        {
+            for (; first != last; ++first) {
+                init = op(std::move(init), *first); // std::move since C++20
+            }
+            return init;
+        }
+
+        // a variation
+        template<typename T> struct range_value {
+        using type = typename T::value_type;
+        };
+ 
+        template<typename T> struct range_value<T*> {
+        using type = T;
+        };
+
+        template <typename I, typename Op>
+        typename range_value<I>::type accumulate(I beg, I end, typename range_value<I>::type unit, Op op)
+        {
+            typename range_value<I>::type acc{unit};
+            for (auto it = beg; it != end; ++it) {
+                acc = op(acc, *it);
+            }
+            return acc;
+        }
+
+        int main()
+        {
+            std::list l{1, 2, 3, 4};
+            std::vector v{1, 2, 3, 4};
+            float c_array[] = {1.1f, 2.2f, 3.3f, 4.4f};
+
+            auto sl = accumulate(std::begin(l), std::end(l), 1, std::multiplies<>{});
+            auto cl = accumulate(std::begin(c_array), std::end(c_array), 0, std::plus<>{});
+
+            auto sv = accumulate(v.begin(), v.end(), 0, std::plus<>{});
+        }
+        ``` 
     + [What Every C++ Developer Should Know to (Correctly) Define Global Constants](https://www.fluentcpp.com/2019/07/23/how-to-define-a-global-constant-in-cpp/)
     + [Why const Doesn't Make C Code Faster](https://theartofmachinery.com/2019/08/12/c_const_isnt_for_performance.html)
     + [Impossibly fast delegate in C++11](http://codereview.stackexchange.com/questions/14730/impossibly-fast-delegate-in-c11)
