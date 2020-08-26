@@ -6,6 +6,7 @@
             + [Generalized Autoref-Based Specialization](http://lukaskalbertodt.github.io/2019/12/05/generalized-autoref-based-specialization.html)
         + [Tracking issue for const generics](https://github.com/rust-lang/rust/issues/44580)
             + [Tracking Issue for `min_const_generics`](https://github.com/rust-lang/rust/issues/74878)
+                + [`min_const_generics` prevents references to concrete `Self` param](https://github.com/rust-lang/rust/issues/75486)
                 + [Shipping Const Generics in 2020](https://without.boats/blog/shipping-const-generics/)
             + [Tracking issue for "Lazy normalization"](https://github.com/rust-lang/rust/issues/60471)
                 + [check it](https://medium.com/tips-for-rust-developers/const-generics-eb46940a07e3)
