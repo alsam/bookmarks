@@ -476,14 +476,14 @@
 
         + boost.histogram **bare-bone** installation    
         ```sh
-        https://github.com/boostorg/histogram.git
-        https://github.com/boostorg/mp11.git
-        https://github.com/boostorg/callable_traits.git
-        https://github.com/boostorg/assert.git
-        https://github.com/boostorg/throw_exception.git
-        https://github.com/boostorg/core.git
-        https://github.com/boostorg/config.git
-        https://github.com/boostorg/variant2.git
+        git clone https://github.com/boostorg/histogram.git
+        git clone https://github.com/boostorg/mp11.git
+        git clone https://github.com/boostorg/callable_traits.git
+        git clone https://github.com/boostorg/assert.git
+        git clone https://github.com/boostorg/throw_exception.git
+        git clone https://github.com/boostorg/core.git
+        git clone https://github.com/boostorg/config.git
+        git clone https://github.com/boostorg/variant2.git
         ```
 
         + [Python bindings for the C++14 Boost::Histogram library](https://github.com/scikit-hep/boost-histogram)
