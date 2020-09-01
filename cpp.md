@@ -623,6 +623,7 @@
         + [No matching function std::forward with lambdas](https://stackoverflow.com/questions/42044116/no-matching-function-stdforward-with-lambdas)
         + [Lambda expressions as class template parameters](https://stackoverflow.com/questions/5849059/lambda-expressions-as-class-template-parameters)
         + [Passing capturing lambda as function pointer](https://stackoverflow.com/questions/28746744/passing-capturing-lambda-as-function-pointer)
+        + [Capture unique_ptr in lambda function](https://www.nextptr.com/question/a1138715471/capture-unique_ptr-in-lambda-function)
         + [Can I use std::vector as a template parameter or does it need to be std::vector<T>?](https://stackoverflow.com/questions/16925041/can-i-use-stdvector-as-a-template-parameter-or-does-it-need-to-be-stdvector)
         + [Clang refuses to compile libstdc++'s <filesystem> header](https://stackoverflow.com/questions/57963460/clang-refuses-to-compile-libstdcs-filesystem-header)
             + [How can I create directory tree in C++/Linux?](https://stackoverflow.com/questions/675039/how-can-i-create-directory-tree-in-c-linux)
