@@ -513,6 +513,8 @@
             The chief feature of std::unqiue_ptr is that it cannot be copied. That's by design, and the name tells you as much.
             take `std::unique_ptr<..> const&` -- no copy is needed.
 
+        + [unique_ptr, shared_ptr, weak_ptr, or reference_wrapper for class relationships](https://www.nextptr.com/tutorial/ta1450413058/unique_ptr-shared_ptr-weak_ptr-or-reference_wrapper-for-class-relationships)
+
         + `std::call_once()`
             + [std::call_once, std::once_flag](https://riptutorial.com/cplusplus/example/30171/std--call-once--std--once-flag)
             + [std::call_once vs std::mutex for thread-safe initialization](https://stackoverflow.com/questions/26985370/stdcall-once-vs-stdmutex-for-thread-safe-initialization)
