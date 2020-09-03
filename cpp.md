@@ -771,6 +771,7 @@
                 + [C++20: Thread Synchronization with Coroutines](https://www.modernescpp.com/index.php/c-20-thread-synchronization-with-coroutines)
                 + [C++20: Thread Pools with cppcoro](https://www.modernescpp.com/index.php/c-20-thread-pools-with-cppcoro)
                 + [Best practices: Async vs. coroutines - Unite Copenhagen 2019](https://www.slideshare.net/unity3d/best-practices-async-vs-coroutines-unite-copenhagen-2019)
+                + [C++20 concepts are not like Rust traits](https://mcla.ug/blog/cpp20-concepts-are-not-like-rust-traits.html)
 
 
         + selected C++ projects
