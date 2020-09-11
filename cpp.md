@@ -116,6 +116,7 @@
             + [Constexpr if alternative](https://stackoverflow.com/questions/43587405/constexpr-if-alternative)
         + [C++17 Fold expressions](http://filipjaniszewski.com/2016/11/24/c17-folding-expression/)
             + [Reduce: From functional programming to C++17 Fold expressions - Nikos Athanasiou - Meeting C++ 2016](https://www.youtube.com/watch?v=ymNdAkS7Ljc)
+        + [«Скользкие» места C++17](https://habr.com/ru/company/playrix/blog/465181/)
         + [simplify C++](https://arne-mertz.de/category/cpp/modern-cpp/)
             + [`std::make_shared` vs. the Normal `std::shared_ptr` Constructor](https://arne-mertz.de/2018/09/make_shared-vs-the-normal-shared_ptr-constructor/)
             + [Как устроен shared_ptr](http://artemy-kolesnikov.blogspot.com/2014/11/sharedptr.html?m=1)
