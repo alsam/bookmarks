@@ -4,6 +4,7 @@
         + [Tracking issue for generic associated types (GAT)](https://github.com/rust-lang/rust/issues/44265)
             + [Solving the Generalized Streaming Iterator Problem without GATs](http://lukaskalbertodt.github.io/2018/08/03/solving-the-generalized-streaming-iterator-problem-without-gats.html)
             + [Generalized Autoref-Based Specialization](http://lukaskalbertodt.github.io/2019/12/05/generalized-autoref-based-specialization.html)
+                + [ICE when using GATs with const generics](https://github.com/rust-lang/rust/issues/75415)
         + [Tracking issue for const generics](https://github.com/rust-lang/rust/issues/44580)
             + [Tracking Issue for `min_const_generics`](https://github.com/rust-lang/rust/issues/74878)
                 + [`min_const_generics` prevents references to concrete `Self` param](https://github.com/rust-lang/rust/issues/75486)
