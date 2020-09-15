@@ -950,6 +950,7 @@
         + [rust-robotics-libraries](https://gist.github.com/ClintLiddick/2966203a425ac5fb70a3d6eb0022f675)
         + [Rusty robots Programming a self-balancing robot in Rust](https://www.youtube.com/watch?v=kCTp8jzIzaQ)
         + [adventures-in-motion-control](http://adventures.michaelfbryan.com/tags/adventures-in-motion-control/)
+            + [Geometric Constraint Solvers Part 1: Algebraic Expressions](http://adventures.michaelfbryan.com/posts/constraints-part-1-expressions/)
 
         + ROS stands for **R**obot **O**perating **S**ystem
             + [Awesome Rust for Robotics](http://robotics.rs/)
