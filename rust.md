@@ -1056,6 +1056,7 @@
             + [Rust, WebAssembly, and the future of Serverless](https://morioh.com/p/f20294691bac)
             + [BxJS - Building wasm markdown renderer with Rust](https://www.youtube.com/watch?v=ihybuCp9pnc)
             + [sunglasses Curated list of awesome things regarding WebAssembly (wasm) ecosystem](https://github.com/mbasso/awesome-wasm)
+            + [FPS Counter](http://adventures.michaelfbryan.com/posts/fps-counter/)
         + [The best Rust frameworks to check out in 2019](https://blog.logrocket.com/the-best-rust-frameworks-to-check-out-in-2019/)
             + [Actix-rs - rust's powerful actor system and most fun web framework](https://actix.rs/)
             + [Azul - A free, functional, immediate-mode GUI framework for rapid development of desktop applications written in Rust, supported by the Mozilla WebRender rendering engine. ](https://azul.rs/)
