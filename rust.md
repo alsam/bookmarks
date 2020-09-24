@@ -1099,3 +1099,5 @@
 + [Rust for Data-Intensive Computation](https://materialize.io/rust-for-data-intensive-computation/)
     + [Timely Dataflow](https://github.com/TimelyDataflow/timely-dataflow)
     + [Differential Dataflow](https://github.com/TimelyDataflow/differential-dataflow)
+
++ [An introduction to Data Oriented Design with Rust](https://jamesmcm.github.io/blog/2020/07/25/intro-dod/)
