@@ -799,4 +799,5 @@
             + [Modern C++ Parallel Task Programming](https://github.com/cpp-taskflow/cpp-taskflow)
                 + [docs for Modern C++ Parallel Task Programming](https://cpp-taskflow.github.io/cpp-taskflow/index.html)
             + [Filament is a physically based rendering engine for Android, Windows, Linux and macOS](https://github.com/google/filament)
+            + [digestpp - experimental C++11 header-only message digest library](https://github.com/kerukuro/digestpp)
 
