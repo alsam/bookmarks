@@ -4,6 +4,7 @@
         + [Tracking issue for generic associated types (GAT)](https://github.com/rust-lang/rust/issues/44265)
             + [Solving the Generalized Streaming Iterator Problem without GATs](http://lukaskalbertodt.github.io/2018/08/03/solving-the-generalized-streaming-iterator-problem-without-gats.html)
             + [Generalized Autoref-Based Specialization](http://lukaskalbertodt.github.io/2019/12/05/generalized-autoref-based-specialization.html)
+                + [ICE when using GATs with const generics](https://github.com/rust-lang/rust/issues/75415)
         + [Tracking issue for const generics](https://github.com/rust-lang/rust/issues/44580)
             + [Tracking Issue for `min_const_generics`](https://github.com/rust-lang/rust/issues/74878)
                 + [`min_const_generics` prevents references to concrete `Self` param](https://github.com/rust-lang/rust/issues/75486)
@@ -948,6 +949,8 @@
     + Rust robotics
         + [rust-robotics-libraries](https://gist.github.com/ClintLiddick/2966203a425ac5fb70a3d6eb0022f675)
         + [Rusty robots Programming a self-balancing robot in Rust](https://www.youtube.com/watch?v=kCTp8jzIzaQ)
+        + [adventures-in-motion-control](http://adventures.michaelfbryan.com/tags/adventures-in-motion-control/)
+            + [Geometric Constraint Solvers Part 1: Algebraic Expressions](http://adventures.michaelfbryan.com/posts/constraints-part-1-expressions/)
 
         + ROS stands for **R**obot **O**perating **S**ystem
             + [Awesome Rust for Robotics](http://robotics.rs/)
@@ -1055,6 +1058,7 @@
             + [Rust, WebAssembly, and the future of Serverless](https://morioh.com/p/f20294691bac)
             + [BxJS - Building wasm markdown renderer with Rust](https://www.youtube.com/watch?v=ihybuCp9pnc)
             + [sunglasses Curated list of awesome things regarding WebAssembly (wasm) ecosystem](https://github.com/mbasso/awesome-wasm)
+            + [FPS Counter](http://adventures.michaelfbryan.com/posts/fps-counter/)
         + [The best Rust frameworks to check out in 2019](https://blog.logrocket.com/the-best-rust-frameworks-to-check-out-in-2019/)
             + [Actix-rs - rust's powerful actor system and most fun web framework](https://actix.rs/)
             + [Azul - A free, functional, immediate-mode GUI framework for rapid development of desktop applications written in Rust, supported by the Mozilla WebRender rendering engine. ](https://azul.rs/)
