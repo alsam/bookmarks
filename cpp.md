@@ -736,6 +736,16 @@
         + [Retiring the Singleton PatternConcrete suggestions for what to use instead](https://meetingcpp.com/mcpp/slides/2019/Retiring_the_singleton_pattern.pdf)
             + [Retiring the Singleton Pattern - Peter Muldoon - Meeting C++ 2019](https://www.youtube.com/watch?v=f46jmm7r8Yg)
 
+        + [C++: Rounding up to the nearest multiple of a number](https://stackoverflow.com/questions/3407012/c-rounding-up-to-the-nearest-multiple-of-a-number)    
+        tl;dr If multiple is a power of 2 (faster in ~3.7 times http://quick-bench.com/sgPEZV9AUDqtx2uujRSa3-eTE80)
+        ```c++
+        int roundUp(int numToRound, int multiple) 
+        {
+            assert(multiple && ((multiple & (multiple - 1)) == 0));
+            return (numToRound + multiple - 1) & -multiple;
+        }
+        ```
+
         + Progress Bar
             + [How to display a progress indicator in pure C/C++ (cout/printf)?](https://stackoverflow.com/questions/14539867/how-to-display-a-progress-indicator-in-pure-c-c-cout-printf)
             tl;dr more neat and nice solution    
