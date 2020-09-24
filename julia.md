@@ -178,6 +178,10 @@
     + [A case/switch statement for Julia](https://github.com/JuliaLang/julia/issues/18285)
     + [JuliaCon 2016 | Accelerating Julia Kernels with ArrayFire.jl](https://www.youtube.com/watch?list=PLP8iPy9hna6SQPwZUDtAM59-wPzCPyD_S&v=2f32XSMYlDk)
 
++ [ITensor](https://itensor.org/)
+    + [ITensors.jl](https://github.com/ITensor/ITensors.jl)
+    + [An efficient and flexible C++ library for performing tensor network calculations](https://github.com/ITensor/ITensor)
+
 + Julia Groups
     + [JuliaApproximation](https://github.com/JuliaApproximation)
     + [Parallel Julia](https://github.com/JuliaParallel)
