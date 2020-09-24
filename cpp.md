@@ -409,6 +409,8 @@
                 String(const char *p); // initialize sobject with string p
             };
             ```
+            + [explicit in C++17 & C++20](https://en.cppreference.com/w/cpp/language/explicit)
+
         + [C++ convert from 1 char to string?](https://stackoverflow.com/questions/17201590/c-convert-from-1-char-to-string)
             + tl;dr
             ```c++
