@@ -19,7 +19,7 @@
                     inner_data: [T; LENGTH],
                 }
                 
-                impl<T, const L: usize> MyVec<T, L> {
+                impl<T: Copy, const L: usize> MyVec<T, L> {
                     pub fn new(value: T) -> Self {
                         MyVec {
                             inner_data: [value; L],
@@ -29,8 +29,8 @@
                 
                 fn main() {
                     let _my_vec = MyVec::<f64, 10>::new(4.2);
-                }
-                
+                    println!("_my_vec[0] : {}", _my_vec.inner_data[0])
+                } 
                 ```
     + [Rust Tutorial playlist](https://www.youtube.com/playlist?list=PLLqEtX6ql2EyPAZ1M2_C0GgVd4A-_L4_5)
         + [Rust Structs, Traits and Impl](https://www.youtube.com/watch?v=gi0AQ78diSA)
