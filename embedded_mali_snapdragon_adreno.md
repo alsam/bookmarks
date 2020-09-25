@@ -251,3 +251,4 @@
     + [Operating System development tutorials in Rust on the Raspberry Pi](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials)
 
 + [ARM Neon](https://developer.arm.com/architectures/instruction-sets/simd-isas/neon)
+    + [Neon guide](https://github.com/thenifty/neon-guide/)
