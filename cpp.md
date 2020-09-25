@@ -519,6 +519,7 @@
             take `std::unique_ptr<..> const&` -- no copy is needed.
 
         + [unique_ptr, shared_ptr, weak_ptr, or reference_wrapper for class relationships](https://www.nextptr.com/tutorial/ta1450413058/unique_ptr-shared_ptr-weak_ptr-or-reference_wrapper-for-class-relationships)
+            + [Using weak_ptr for circular references](https://www.nextptr.com/tutorial/ta1382183122/using-weak_ptr-for-circular-references)
 
         + `std::call_once()`
             + [std::call_once, std::once_flag](https://riptutorial.com/cplusplus/example/30171/std--call-once--std--once-flag)
