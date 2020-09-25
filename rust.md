@@ -12,6 +12,26 @@
                     + [fix unification of const variables](https://github.com/rust-lang/rust/pull/74040)
             + [Tracking issue for "Lazy normalization"](https://github.com/rust-lang/rust/issues/60471)
                 + [check it](https://medium.com/tips-for-rust-developers/const-generics-eb46940a07e3)
+                tl;dr it works!
+                ```rust
+                #![feature(const_generics)]
+                struct MyVec<T: Sized, const LENGTH: usize> {
+                    inner_data: [T; LENGTH],
+                }
+                
+                impl<T, const L: usize> MyVec<T, L> {
+                    pub fn new(value: T) -> Self {
+                        MyVec {
+                            inner_data: [value; L],
+                        }
+                    }
+                }
+                
+                fn main() {
+                    let _my_vec = MyVec::<f64, 10>::new(4.2);
+                }
+                
+                ```
     + [Rust Tutorial playlist](https://www.youtube.com/playlist?list=PLLqEtX6ql2EyPAZ1M2_C0GgVd4A-_L4_5)
         + [Rust Structs, Traits and Impl](https://www.youtube.com/watch?v=gi0AQ78diSA)
         + [Rust Generics](https://www.youtube.com/watch?v=nvur2Ast8hE&list=PLLqEtX6ql2EyPAZ1M2_C0GgVd4A-_L4_5&index=13&t=0s)
