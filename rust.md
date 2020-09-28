@@ -209,8 +209,6 @@
                 + [A Rust implementation of the posit number system](https://github.com/japaric/posit#posit)
             + [Pre-RFC: Dealing with broken floating point](https://internals.rust-lang.org/t/pre-rfc-dealing-with-broken-floating-point/2673/22)
             + [John Gustafson presents: Beyond Floating Point – Next Generation Computer Arithmetic](http://insidehpc.com/2017/02/john-gustafson-presents-beyond-floating-point-next-generation-computer-arithmetic/)
-        + [A linear algebra library in Rust designed for machine learning](https://github.com/AtheMathmo/rulinalg)
-        + [Linear Algebra in Rust](http://athemathmo.github.io/2016/03/23/linear-algebra-in-rust.html)
         + [Multithreaded matrix multiplication in Rust - Part I](http://athemathmo.github.io/2016/04/16/multithreading-multiplication-1.html)
         + [Multithreaded matrix multiplication in Rust - Part II](http://athemathmo.github.io/2016/04/25/multithreading-multiplication-2.html)
             + [Anatomy of High-Performance Many-Threaded Matrix Multiplication](http://www.cs.utexas.edu/users/flame/pubs/blis3_ipdps14.pdf)
@@ -775,7 +773,11 @@
         + [GC and Rust Part 2: The Roots of the Problem](http://blog.pnkfx.org/blog/2016/01/01/gc-and-rust-part-2-roots-of-the-problem/)
 
     + [Machine Learning in Rust](https://github.com/alsam/bookmarks/blob/master/machine_learning.md)
+        + [A linear algebra library in Rust designed for machine learning](https://github.com/AtheMathmo/rulinalg)
+        + [Linear Algebra in Rust](http://athemathmo.github.io/2016/03/23/linear-algebra-in-rust.html)
         + [rustlearn - A machine learning package for Rust](https://github.com/maciejkula/rustlearn)
+        + [autograph - Machine Learning Library for Rust](https://github.com/charles-r-earp/autograph/tree/rocm)
+            + [AMD / ROCm support for autograph](https://www.reddit.com/r/rust/comments/i7fwba/amd_rocm_support_for_autograph/)
 
     + [The Kolmogorov-Smirnov Test](http://daithiocrualaoich.github.io/kolmogorov_smirnov/)
         + [Implementation of the Kolmogorov-Smirnov statistical test as a Rust library](https://github.com/daithiocrualaoich/kolmogorov_smirnov)
