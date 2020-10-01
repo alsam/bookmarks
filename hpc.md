@@ -139,6 +139,7 @@
 + [LPC2018 - Open Source GPU compute stack - Not dancing the CUDA dance](https://www.youtube.com/watch?v=d94N2Lu4x9s)
 
 + OpenCL
+    + [OpenCL 3.0 Specification Released With New Khronos Open-Source OpenCL SDK](https://www.phoronix.com/scan.php?page=news_item&px=OpenCL-3.0-Released-SDK)
     + [The State of OpenCL for Scientific Computing in 2018](https://mathema.tician.de/the-state-of-opencl-for-scientific-computing-in-2018/)
     + [OpenCL: History & Future](http://www.fz-juelich.de/SharedDocs/Downloads/IAS/JSC/EN/slides/opencl/opencl-10-history-future.pdf?__blob=publicationFile)
     + [Tuned OpenCL BLAS](https://github.com/CNugteren/CLBlast)
