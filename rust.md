@@ -463,6 +463,8 @@
                 + [Beyond Memory Safety With Types](https://insanitybit.github.io/2016/05/30/beyond-memory-safety-with-types)
             + [The Arduous Journey of Porting C to Rust](https://bawk.space/2016/10/06/c-to-rust.html)
             + [Baby Steps: Slowly Porting musl to Rust](http://blog.adamperry.me/rust/2016/06/11/baby-steps-porting-musl-to-rust/)
+            + [That's so Rusty!: Smart pointers](https://dev.to/imaculate3/that-s-so-rusty-smart-pointers-245l)
+            + [That's so Rusty! Fearless concurrency](https://dev.to/imaculate3/fearless-concurrency-5fk8)
 
         + [Iterator trait](https://doc.rust-lang.org/nightly/std/iter/trait.Iterator.html)
             + [iota editor written in Rust; use case for idiomatic iterator usage](https://github.com/gchp/iota/blob/master/src/iota/iterators.rs)
