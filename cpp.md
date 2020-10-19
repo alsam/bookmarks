@@ -792,6 +792,8 @@
                 + [C++20 concepts are not like Rust traits](https://mcla.ug/blog/cpp20-concepts-are-not-like-rust-traits.html)
                 + [Why can't I pass std::vector<Child*> as std::vector<Parent*>?](https://mcla.ug/blog/cpp-templates-with-subtype-type-args.html)
 
+        + CppCon 2020
+            + [Plenary: Performance Matters - Emery Berger - CppCon 2020](https://www.youtube.com/watch?v=koTf7u0v41o&feature=youtu.be)
 
         + selected C++ projects
             + [Curated list of awesome lists Awesome C++](https://project-awesome.org/fffaraz/awesome-cpp)
