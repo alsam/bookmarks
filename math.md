@@ -58,6 +58,8 @@
 
     + [The Math Less Traveled](http://mathlesstraveled.com/)
 
+    + [Computer Scientists Break Traveling Salesperson Record](https://www.quantamagazine.org/computer-scientists-break-traveling-salesperson-record-20201008/)
+
     + Computational Topology
         + Perseus links
             + [The Perseus Software Project for Rapid Computation of Persistent Homology](http://www.sas.upenn.edu/~vnanda/perseus/index.html)
