@@ -808,4 +808,6 @@
                 + [docs for Modern C++ Parallel Task Programming](https://cpp-taskflow.github.io/cpp-taskflow/index.html)
             + [Filament is a physically based rendering engine for Android, Windows, Linux and macOS](https://github.com/google/filament)
             + [digestpp - experimental C++11 header-only message digest library](https://github.com/kerukuro/digestpp)
-
+            
+        + misc
+            + [Reading TAR files in C++](https://techoverflow.net/2013/03/29/reading-tar-files-in-c/)
