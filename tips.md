@@ -468,6 +468,8 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
         + [S.O.L.I.D: The First 5 Principles of Object Oriented Design](https://scotch.io/bar-talk/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
             + [Простое объяснение принципов SOLID](https://habr.com/en/company/mailru/blog/412699/)
             + [Как с помощью принципа единственной ответственности писать гибкий и модульный код](https://tproger.ru/translations/solid-srp-explained/?fbclid=IwAR3DdqAxAO55xtU-Rq8VWQDoh_FufzB1pPoXcxc60eWlrOj3ieAHy5IrKKY)
+            + [Covariance and contravariance in subtyping](https://eli.thegreenplace.net/2018/covariance-and-contravariance-in-subtyping/)
+                + [Why can't I pass std::vector<Child*> as std::vector<Parent*>?](https://mcla.ug/blog/cpp-templates-with-subtype-type-args.html)
 
 + Backup + Restore of the system
     + [Howto: Backup and restore your system!](https://ubuntuforums.org/showthread.php?t=35087)
