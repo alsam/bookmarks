@@ -24,8 +24,17 @@
     + [phdthesis\title{Abstraction in Technical Computing}\author{Jeffrey Werner Bezanson}](https://github.com/JeffBezanson/phdthesis/blob/master/main.pdf)
 
     + Julia Groups  
+        + [JuliaML](https://github.com/JuliaML)
+            + [Machine Learning in Julia : a discourse](https://discourse.julialang.org/c/domain/ML/24)
+            + [Should Flux be as fast as TensorFlow on CPUs?](https://www.reddit.com/r/Julia/comments/bsc68h/should_flux_be_as_fast_as_tensorflow_on_cpus/)
+            + [Differentiable Programming with Julia by Mike Innes](https://www.youtube.com/watch?reload=9&v=LjWzgTPFu14&feature=youtu.be)
+        + [JuliaArrays](https://github.com/JuliaArrays)
+            + [Various improvements #26](https://github.com/JuliaArrays/OffsetArrays.jl/pull/26)
+            + [move OffsetArrays to JuliaArrays](https://github.com/JuliaLang/METADATA.jl/pull/8884)
+        + [JuliaApproximation](https://github.com/JuliaApproximation)
         + [Julia Arbitrary Precision](https://github.com/JuliaArbTypes)
             + [Much faster than BigFloat at precisions up to 3,500 bits (1050 digits)](https://github.com/JuliaArbTypes/ArbFloats.jl)
+        + [Parallel Julia](https://github.com/JuliaParallel)
         + [JuliaGPU - GPU Computing for Julia](https://github.com/JuliaGPU)
         + [Julia Statistics - Statistics and Machine Learning made easy in Julia](https://github.com/JuliaStats)
         + [JuliaPlots - Data visualization in Julia using Plots.jl](https://github.com/JuliaPlots)
@@ -37,8 +46,12 @@
             + [GSoC2015:Community Bonding Period Updates](http://juliaquantum.github.io/news/2015/04/JuliaQuantum-and-GSoC2015)
             + [Julia Libraries for Quantum Science and Technology](https://github.com/JuliaQuantum)
             + [QuDynamics.jl](https://github.com/JuliaQuantum/QuDynamics.jl)
-        + [Julia Homotopy Continuation](https://github.com/JuliaHomotopyContinuation)
-            + [A package for construction of polynomial homotopies](https://github.com/JuliaHomotopyContinuation/Homotopies.jl)
+        + [Julia Math](https://github.com/JuliaMath)
+            + [Julia DiffEq](https://github.com/JuliaDiffEq)
+            + [JuliaOpt](https://github.com/JuliaOpt)
+                + [JuliaSmoothOptimizers](https://github.com/JuliaSmoothOptimizers)
+            + [Julia Homotopy Continuation](https://github.com/JuliaHomotopyContinuation)
+                + [A package for construction of polynomial homotopies](https://github.com/JuliaHomotopyContinuation/Homotopies.jl)
 
     + Translating from Fortran to Julia
         + [Julia equivalent of Fortran common blocks or, even better, Fortran 90 Modules](https://groups.google.com/forum/#!topic/julia-users/-bzuOUTeMX4)
@@ -182,22 +195,6 @@
     + [ITensors.jl](https://github.com/ITensor/ITensors.jl)
     + [An efficient and flexible C++ library for performing tensor network calculations](https://github.com/ITensor/ITensor)
 
-+ Julia Groups
-    + [JuliaApproximation](https://github.com/JuliaApproximation)
-    + [Parallel Julia](https://github.com/JuliaParallel)
-    + [JuliaArrays](https://github.com/JuliaArrays)
-        + [Various improvements #26](https://github.com/JuliaArrays/OffsetArrays.jl/pull/26)
-        + [move OffsetArrays to JuliaArrays](https://github.com/JuliaLang/METADATA.jl/pull/8884)
-    + [JuliaSmoothOptimizers](https://github.com/JuliaSmoothOptimizers)
-    + [Julia DiffEq](https://github.com/JuliaDiffEq)
-    + [JuliaArbTypes](https://github.com/JuliaArbTypes)
-    + [Julia Math](https://github.com/JuliaMath)
-    + [JuliaML](https://github.com/JuliaML)
-        + [Should Flux be as fast as TensorFlow on CPUs?](https://www.reddit.com/r/Julia/comments/bsc68h/should_flux_be_as_fast_as_tensorflow_on_cpus/)
-        + [Differentiable Programming with Julia by Mike Innes](https://www.youtube.com/watch?reload=9&v=LjWzgTPFu14&feature=youtu.be)
-    + [Julia Statistics](https://github.com/JuliaStats)
-    + [JuliaOpt](https://github.com/JuliaOpt)
-    + [JuliaGPU](https://github.com/JuliaGPU)
 
 + [Should I use Chapel or Julia for my next project?](https://www.dursi.ca/post/julia-vs-chapel.html)
 
