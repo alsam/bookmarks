@@ -193,6 +193,7 @@
     + [JuliaArbTypes](https://github.com/JuliaArbTypes)
     + [Julia Math](https://github.com/JuliaMath)
     + [JuliaML](https://github.com/JuliaML)
+        + [Should Flux be as fast as TensorFlow on CPUs?](https://www.reddit.com/r/Julia/comments/bsc68h/should_flux_be_as_fast_as_tensorflow_on_cpus/)
     + [Julia Statistics](https://github.com/JuliaStats)
     + [JuliaOpt](https://github.com/JuliaOpt)
     + [JuliaGPU](https://github.com/JuliaGPU)
