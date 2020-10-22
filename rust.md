@@ -68,7 +68,7 @@
         + [24days of rust](http://zsiciarz.github.io/24daysofrust/)
     + [rust-learning](https://github.com/ctjhoa/rust-learning)
         + [Building a runtime reflection system for Rust (Part 1: dyn Class)](https://www.osohq.com/post/rust-reflection-pt-1)
-        + [Building a runtime reflection system for Rust (Part 2: dyn Attribute)](https://www.osohq.com/post/rust-reflection-pt-2)
+        + [Building a runtime reflection system for Rust (Part 2: dyn Attribute)](https://www.osohq.com/post/runtime-reflection-pt-2)
     + [http://rustbyexample.com/](http://rustbyexample.com/)
         + [Rust by example](https://github.com/rust-lang/rust-by-example)
     + [Implementing Rosetta Code problems in Rust](https://github.com/Hoverbear/rust-rosetta)
