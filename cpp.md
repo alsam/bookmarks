@@ -790,6 +790,7 @@
                 + [C++20: Thread Pools with cppcoro](https://www.modernescpp.com/index.php/c-20-thread-pools-with-cppcoro)
                 + [Best practices: Async vs. coroutines - Unite Copenhagen 2019](https://www.slideshare.net/unity3d/best-practices-async-vs-coroutines-unite-copenhagen-2019)
                 + [C++20 concepts are not like Rust traits](https://mcla.ug/blog/cpp20-concepts-are-not-like-rust-traits.html)
+                    + [Semantic requirements in concepts](https://akrzemi1.wordpress.com/2020/10/26/semantic-requirements-in-concepts/)
                 + [Why can't I pass std::vector<Child*> as std::vector<Parent*>?](https://mcla.ug/blog/cpp-templates-with-subtype-type-args.html)
 
         + CppCon 2020
