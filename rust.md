@@ -967,7 +967,7 @@
             + [Пишем свой упрощенный OpenGL на Rust — часть 2 (проволочный рендер)](http://habrahabr.ru/post/261739/)
             + [Пишем свой упрощенный OpenGL на Rust — часть 3 (растеризатор)](http://habrahabr.ru/post/262235/)
 
-        + [Vision Cortex - Semantic Computer Visionf](https://github.com/visioncortex/visioncortex)
+        + [Vision Cortex - Semantic Computer Vision](https://github.com/visioncortex/visioncortex)
             + [visioncortex VTracer](https://github.com/visioncortex/vtracer)
 
     + Rust Computer Vision CV
