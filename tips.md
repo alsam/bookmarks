@@ -718,7 +718,6 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
         + [Vundle vs. Pathogen](http://lepture.com/en/2012/vundle-vs-pathogen)
         + [Разработка → VIM: зачем, если есть IDE, и как?](https://habrahabr.ru/post/303554/)
         + [Vim vs. Neovim](https://www.slant.co/versus/42/62/~vim_vs_neovim)
-        + [Install Vim 8.0 on on Ubuntu 16.04, Debian, Fedora, CentOS](http://www.ubuntumaniac.com/2016/09/install-vim-80-on-on-ubuntu-1604-debian.html)
         + [Find in files within Vim](http://vim.wikia.com/wiki/Find_in_files_within_Vim)
         + [Vim: Substitute pattern between braces](https://vi.stackexchange.com/questions/2751/substitute-pattern-between-braces)    
             tl;dr

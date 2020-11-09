@@ -2,6 +2,7 @@
 + Rust links
     + [Rust 2020 Roadmap](https://github.com/nikomatsakis/rfcs/blob/roadmap-2020/text/0000-roadmap-2020.md)
         + [Tracking issue for generic associated types (GAT)](https://github.com/rust-lang/rust/issues/44265)
+            + [tracking issue for "chalkification"](https://github.com/rust-lang/rust/issues/48049)
             + [Solving the Generalized Streaming Iterator Problem without GATs](http://lukaskalbertodt.github.io/2018/08/03/solving-the-generalized-streaming-iterator-problem-without-gats.html)
             + [Generalized Autoref-Based Specialization](http://lukaskalbertodt.github.io/2019/12/05/generalized-autoref-based-specialization.html)
                 + [ICE when using GATs with const generics](https://github.com/rust-lang/rust/issues/75415)
@@ -967,6 +968,9 @@
             + [Пишем свой упрощенный OpenGL на Rust — часть 2 (проволочный рендер)](http://habrahabr.ru/post/261739/)
             + [Пишем свой упрощенный OpenGL на Rust — часть 3 (растеризатор)](http://habrahabr.ru/post/262235/)
 
+        + [Vision Cortex - Semantic Computer Vision](https://github.com/visioncortex/visioncortex)
+            + [visioncortex VTracer](https://github.com/visioncortex/vtracer)
+
     + Rust Computer Vision CV
         + [Dedicated to making photogrammetry and computer vision easier than OpenCV and faster than C++ (one day)](https://github.com/rust-cv)
             + [Rust computer vision core crate](https://github.com/rust-cv/cv-core)
@@ -1002,7 +1006,6 @@
     + WIP : Selected RFCs
         + [RFC 1598: generic associated types](https://github.com/rust-lang/rfcs/blob/master/text/1598-generic_associated_types.md)
             + [Tracking issue for generic associated types (GAT)](https://github.com/rust-lang/rust/issues/44265)
-                + [tracking issue for "chalkification"](https://github.com/rust-lang/rust/issues/48049)
                 + [Coherence in Chalk By Sunjay Varma](http://slides.com/sunjay/coherence-in-chalk/fullscreen#/)
                     + [Coherence in Chalk by Sunjay Varma](https://www.youtube.com/watch?v=rZqS4bLPL24)
                         + [Ignore overflow when finding auto-trait impls in Rustdoc](https://github.com/rust-lang/rust/pull/73335)

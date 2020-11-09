@@ -166,6 +166,11 @@
     yay -S rocm-opencl-runtime
     ```
 
+    + [aur package rocm-opencl-runtime](https://aur.archlinux.org/packages/rocm-opencl-runtime/)
+    + [Arch GPGPU](https://wiki.archlinux.org/index.php/GPGPU)
+    + [rocm OpenCL Programming Guide](https://rocmdocs.amd.com/en/latest/Programming_Guides/Opencl-programming-guide.html#amd-rocm-implementation)
+        + [clinfo ERROR: clBuildProgram(-11)](https://github.com/RadeonOpenCompute/ROCm-OpenCL-Runtime/issues/110)
+
     + [Radeon Instinct like : Radeon VII](https://www.ixbt.com/3dv/amd-radeon-vii-review.html)
         + [RTX 2080 vs. Radeon VII vs. 5700 XT: Rendering and Compute Performance](https://www.extremetech.com/computing/297167-rtx-2080-vs-radeon-vii-vs-5700-xt-rendering-and-compute-performance)
         + [AMD Radeon VII Review: This Isn’t the 7nm GPU You’re Looking For](https://www.extremetech.com/computing/285286-amd-radeon-vii-review-this-isnt-the-7nm-gpu-youre-looking-for)

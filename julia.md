@@ -206,6 +206,11 @@
     + [JuliaCon 2019 | If Runtime isn't Funtime: Controlling Compile-time Execution | Nathan Daly](https://www.youtube.com/watch?v=JCFej--XER0)
         + [JuliaCon2019 Talk "If Runtime isn't Funtime: Controlling Compile-time Execution"](https://github.hillwoodhome.net/NHDaly/juliaCon2019-If_Runtime_isn-t_Funtime-Slides)
 
++ JuliaCon 2020
+    + [Dispatching Design Patterns (video)](https://www.youtube.com/watch?v=n-E-1-A_rZM)
+        + [Dispatching Design Patterns](https://github.com/ninjaaron/dispatching-design-patterns)
+            + [Object Orientation and Polymorphism in Julia](https://github.com/ninjaaron/oo-and-polymorphism-in-julia)
+
 + [PDE Solvers in Julia](https://discourse.julialang.org/t/pde-solvers-in-julia/24416)
     + [JuliaCon 2018 | Solving Partial Differential Equations with Julia | Chris Rackauckas](https://www.youtube.com/watch?time_continue=3&v=okGybBmihOE&feature=emb_title)
     + [Benchmarking Julia on a PDE: the Kuramoto-Sivashinksy equation](https://github.com/johnfgibson/julia-pde-benchmark/blob/master/1-Kuramoto-Sivashinksy-benchmark.ipynb)
