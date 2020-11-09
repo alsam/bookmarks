@@ -252,3 +252,6 @@
 
 + [ARM Neon](https://developer.arm.com/architectures/instruction-sets/simd-isas/neon)
     + [Neon guide](https://github.com/thenifty/neon-guide/)
+    + [Neon Intrinsics](https://developer.arm.com/architectures/instruction-sets/simd-isas/neon/intrinsics?search=vfmaq_laneq_f32)
+    + [Arm® A64 Instruction Set Architecture: Armv8, for Armv8-A architecture profile FMLA (vector)](https://developer.arm.com/docs/ddi0596/h/simd-and-floating-point-instructions-alphabetic-order/fmla-vector-floating-point-fused-multiply-add-to-accumulator-vector)
+    + [Arm Neon Intrinsics Add Functions (Explained With C)](https://medium.com/@luc.trudeau/arm-neon-intrinsics-add-functions-explained-with-c-90346d912796)
