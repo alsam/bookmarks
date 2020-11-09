@@ -365,6 +365,11 @@ nimble install Arraymancer
 
 + [Overview of the Efficient Programming Languages (v.3) 2018.4](https://sdevprog.blogspot.com/2018/04/overview-of-efficient-programming.html?m=1)
 
++ GPU roof model
+    + [Elias Konstantinidis publications](http://users.uoa.gr/~ekondis/publications/)
+        + [A quantitative roofline model for GPU kernel performance estimation using micro-benchmarks and hardware metric profiling](https://www.sciencedirect.com/science/article/pii/S0743731517301247)
+            + [mixbench - The purpose of this benchmark tool is to evaluate performance bounds of GPUs on mixed operational intensity kernels](https://github.com/ekondis/mixbench)
+
 + YouTube videos on GPU embedded profiling/optimization
     + [Presentation: Mali Graphics Debugger (GDC 2014)](https://www.youtube.com/watch?v=yv-V9Bl9pO4)
     + [GPU Compute Optimisation with Hardware Counters](https://www.youtube.com/watch?v=93cWfkyid7k)
