@@ -168,6 +168,7 @@
 
     + [aur package rocm-opencl-runtime](https://aur.archlinux.org/packages/rocm-opencl-runtime/)
     + [Arch GPGPU](https://wiki.archlinux.org/index.php/GPGPU)
+        + [Arch ROCm](https://wiki.archlinux.org/index.php/GPGPU#ROCm)
     + [rocm OpenCL Programming Guide](https://rocmdocs.amd.com/en/latest/Programming_Guides/Opencl-programming-guide.html#amd-rocm-implementation)
         + [clinfo ERROR: clBuildProgram(-11)](https://github.com/RadeonOpenCompute/ROCm-OpenCL-Runtime/issues/110)
 
