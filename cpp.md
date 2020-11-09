@@ -802,6 +802,7 @@
                 + [std::map<Key,T,Compare,Allocator>::insert_or_assign](https://en.cppreference.com/w/cpp/container/map/insert_or_assign)
                 + [Multi-Level Break in C++ via IIFE](https://artificial-mind.net/blog/2020/10/28/multi-level-break-iife)
                 + [Recursive Lambdas in C++](https://artificial-mind.net/blog/2020/09/12/recursive-lambdas)
+                + [Approximating 'constexpr for'](https://artificial-mind.net/blog/2020/10/31/constexpr-for)
 
         + selected C++ projects
             + [Curated list of awesome lists Awesome C++](https://project-awesome.org/fffaraz/awesome-cpp)
