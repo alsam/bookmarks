@@ -799,6 +799,7 @@
                 + [Managarm - A Fully Asynchronous Operating System Powered By Modern C++](https://github.com/CppCon/CppCon2020/blob/main/Presentations/managarm_a_fully_asynchronous_operating_system_powered_by_modern_cpp/managarm_a_fully_asynchronous_operating_system_powered_by_modern_cpp__alexander_van_der_grinten__cppcon_2020.pdf)
                     + [The managarm Operating System](https://github.com/managarm/managarm)
                 + [The Shapes of Multi-Dimensional Arrays](https://github.com/CppCon/CppCon2020/blob/main/Presentations/the_shapes_of_multidimensional_arrays/the_shapes_of_multidimensional_arrays__vincent_reverdy__cppcon_2020.pdf)
+                + [std::map<Key,T,Compare,Allocator>::insert_or_assign](https://en.cppreference.com/w/cpp/container/map/insert_or_assign)
 
         + selected C++ projects
             + [Curated list of awesome lists Awesome C++](https://project-awesome.org/fffaraz/awesome-cpp)
