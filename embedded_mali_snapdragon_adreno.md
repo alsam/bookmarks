@@ -151,6 +151,7 @@
     ```sh
     adb shell "setenforce 0"
     ```
+
         + [Understanding and resolving SELinux denials on Android](https://msfjarvis.dev/posts/understanding-and-resolving-selinux-denials-on-android/)
 
 
