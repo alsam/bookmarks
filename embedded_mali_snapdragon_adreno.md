@@ -97,7 +97,7 @@
 
             + [undefined reference to `clCreateCommandQueueWithProperties'](https://github.com/fireice-uk/xmr-stak-amd/issues/40)
             tl;dr howto fix    
-            ````c++
+            ```c++
             #define CL_HPP_MINIMUM_OPENCL_VERSION 100
             #define CL_HPP_TARGET_OPENCL_VERSION  120
             
@@ -151,7 +151,8 @@
     ```sh
     adb shell "setenforce 0"
     ```
-        + [Understanding and resolving SELinux denials on Android](https://msfjarvis.dev/posts/understanding-and-resolving-selinux-denials-on-android/)
+
+    + [Understanding and resolving SELinux denials on Android](https://msfjarvis.dev/posts/understanding-and-resolving-selinux-denials-on-android/)
 
 
     + [What does 'adb remount' do? When is it useful?](https://stackoverflow.com/questions/28961572/what-does-adb-remount-do-when-is-it-useful/28961646#28961646)    
@@ -224,8 +225,10 @@
             + [ARM® Mali GPU Version: 3.0 OpenGL ES Application Optimization Guide](http://infocenter.arm.com/help/topic/com.arm.doc.dui0555c/DUI0555C_mali_optimization_guide.pdf)
             + [Accelerating Mali GPU analysis using Arm Mobile Studio](https://community.arm.com/developer/tools-software/graphics/b/blog/posts/accelerating-mali-gpu-analysis-using-arm-mobile-studio)
             + [Touch/GPU profiling/Mali](https://wiki.ubuntu.com/Touch/GPU%20profiling/Mali)
-                + [high res timer](https://github.com/ARM-software/gator/blob/master/hrtimer_module/hrtimer_module.c)
+                + [~high res timer 404~](https://github.com/ARM-software/gator/blob/master/hrtimer_module/hrtimer_module.c)
+                + [high res timer](https://github.com/alexvonduar/gator/tree/master/hrtimer_module)
             + [events-Mali-TNOx_hw](https://github.com/ARM-software/gator/blob/master/daemon/events-Mali-TNOx_hw.xml)
+                + [events-Mali-G76_hw](https://github.com/ARM-software/gator/blob/master/daemon/events-Mali-G76_hw.xml)
                 + [Mali Midgard Family Performance Counters](https://community.arm.com/developer/tools-software/graphics/b/blog/posts/mali-midgard-family-performance-counters)
                 + [Mali Bifrost Family Performance Counters](https://community.arm.com/developer/tools-software/graphics/b/blog/posts/mali-bifrost-family-performance-counters)
                 + [Understanding Mali GPU Hardware Counters](https://community.arm.com/developer/tools-software/graphics/f/discussions/8607/understanding-mali-gpu-hardware-counters)
