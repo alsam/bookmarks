@@ -201,6 +201,7 @@
             + [A command line utility for doing polarization simulations](https://github.com/zmitchell/polsim)
 
         + [delaunator-rs A very fast static 2D Delaunay triangulation library for Rust. A port of Delaunator](https://github.com/mourner/delaunator-rs)
+        + [Delaunay mesh](https://github.com/d-dorazio/delaunay-mesh)
             + [Rust Delaunay Triangulation](https://github.com/nelsonatgithub/nlsn-delaunay-refine)
             + [Rust Discontinuous Galerkin](https://github.com/nelsonatgithub/discontinuous_galerkin)
             + [Rust Symbolic Algebraic](https://github.com/nelsonatgithub/ncas)
