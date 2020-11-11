@@ -38,7 +38,7 @@
     + [DeepPavlov: An open-source library for end-to-end dialogue systems and chatbots](https://medium.com/tensorflow/deeppavlov-an-open-source-library-for-end-to-end-dialog-systems-and-chatbots-31cf26849e37)
     + [Facebook TransCoder](https://github.com/facebookresearch/TransCoder)
         + [Facebook AI Open-Sourced ‘TransCoder’: A Deep Learning Based Self-Supervised Neural Transcompiler System](https://www.marktechpost.com/2020/08/12/facebook-ai-open-sourced-transcoder-a-deep-learning-based-self-supervised-neural-transcompiler-system/)
-    + [A new open source framework for automatic differentiation with graphs](https://ai.facebook.com/blog/a-new-open-source-framework-for-automatic-differentiation-with-graphs/
+    + [A new open source framework for automatic differentiation with graphs](https://ai.facebook.com/blog/a-new-open-source-framework-for-automatic-differentiation-with-graphs/)
 
 + Nervana Systems
     + [Nervana](http://www.nervanasys.com/)
