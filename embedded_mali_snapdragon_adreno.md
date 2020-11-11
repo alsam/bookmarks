@@ -97,7 +97,7 @@
 
             + [undefined reference to `clCreateCommandQueueWithProperties'](https://github.com/fireice-uk/xmr-stak-amd/issues/40)
             tl;dr howto fix    
-            ````c++
+            ```c++
             #define CL_HPP_MINIMUM_OPENCL_VERSION 100
             #define CL_HPP_TARGET_OPENCL_VERSION  120
             
