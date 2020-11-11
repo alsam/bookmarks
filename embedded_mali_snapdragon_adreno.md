@@ -227,6 +227,7 @@
                 + [~high res timer 404~](https://github.com/ARM-software/gator/blob/master/hrtimer_module/hrtimer_module.c)
                 + [high res timer](https://github.com/alexvonduar/gator/tree/master/hrtimer_module)
             + [events-Mali-TNOx_hw](https://github.com/ARM-software/gator/blob/master/daemon/events-Mali-TNOx_hw.xml)
+                + [events-Mali-G76_hw](https://github.com/ARM-software/gator/blob/master/daemon/events-Mali-G76_hw.xml)
                 + [Mali Midgard Family Performance Counters](https://community.arm.com/developer/tools-software/graphics/b/blog/posts/mali-midgard-family-performance-counters)
                 + [Mali Bifrost Family Performance Counters](https://community.arm.com/developer/tools-software/graphics/b/blog/posts/mali-bifrost-family-performance-counters)
                 + [Understanding Mali GPU Hardware Counters](https://community.arm.com/developer/tools-software/graphics/f/discussions/8607/understanding-mali-gpu-hardware-counters)
