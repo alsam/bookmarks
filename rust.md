@@ -200,6 +200,11 @@
             + [Simulate the polarization of a laser beam](https://github.com/zmitchell/polarization)
             + [A command line utility for doing polarization simulations](https://github.com/zmitchell/polsim)
 
+        + [delaunator-rs A very fast static 2D Delaunay triangulation library for Rust. A port of Delaunator](https://github.com/mourner/delaunator-rs)
+            + [Rust Delaunay Triangulation](https://github.com/nelsonatgithub/nlsn-delaunay-refine)
+            + [Rust Discontinuous Galerkin](https://github.com/nelsonatgithub/discontinuous_galerkin)
+            + [Rust Symbolic Algebraic](https://github.com/nelsonatgithub/ncas)
+
         + [a list of linear algebra libraries for Rust](https://libraries.io/search?keywords=matrix&languages=Rust)
         + [Numerics & math foundation](https://users.rust-lang.org/t/numerics-math-foundation/7247)
         + [An extensible HPC-Framework for CUDA, OpenCL and native CPU](https://github.com/lychee-eng/parenchyma)
