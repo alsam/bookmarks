@@ -803,6 +803,20 @@
                 + [Multi-Level Break in C++ via IIFE](https://artificial-mind.net/blog/2020/10/28/multi-level-break-iife)
                 + [Recursive Lambdas in C++](https://artificial-mind.net/blog/2020/09/12/recursive-lambdas)
                 + [Approximating 'constexpr for'](https://artificial-mind.net/blog/2020/10/31/constexpr-for)
+                + [Overloading by Return Type in C++](https://artificial-mind.net/blog/2020/10/10/return-type-overloading)
+                tl;dr    
+                ```c++
+                struct to_string_t
+                {
+                    std::string_view s;
+                
+                    operator int() const;  // int  from_string(std::string_view s);
+                    operator bool() const; // bool from_string(std::string_view s);
+                };
+                
+                int i = to_string_t{"7"};
+                bool b = to_string_t{"true"};
+                ```
 
         + selected C++ projects
             + [Curated list of awesome lists Awesome C++](https://project-awesome.org/fffaraz/awesome-cpp)
