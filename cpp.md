@@ -792,6 +792,7 @@
                 + [C++20 concepts are not like Rust traits](https://mcla.ug/blog/cpp20-concepts-are-not-like-rust-traits.html)
                     + [Semantic requirements in concepts](https://akrzemi1.wordpress.com/2020/10/26/semantic-requirements-in-concepts/)
                 + [Why can't I pass std::vector<Child*> as std::vector<Parent*>?](https://mcla.ug/blog/cpp-templates-with-subtype-type-args.html)
+                + [C++ Modules: A Brief Tour](https://accu.org/journals/overload/28/159/sidwell/)
 
         + CppCon 2020
             + [Plenary: Performance Matters - Emery Berger - CppCon 2020](https://www.youtube.com/watch?v=koTf7u0v41o&feature=youtu.be)
