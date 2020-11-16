@@ -129,6 +129,7 @@
         + [Relax! Flux is the ML library that doesn't make you tensor https://fluxml.ai/](https://github.com/FluxML/Flux.jl)
 
     + Misc.
+        + [Julia vs. Python: Which is best for data science?](https://www.infoworld.com/article/3241107/julia-vs-python-which-is-best-for-data-science.html#:~:text=Although%20Julia%20is%20purpose%2Dbuilt,uses%20zero%2Dbased%20array%20indexing.)
         + [ScientificTypes](https://github.com/alan-turing-institute/ScientificTypes.jl)
         + [The Serious Downsides To The Julia Language In 1.0.3](https://towardsdatascience.com/the-serious-downsides-to-the-julia-language-in-1-0-3-e295bc4b4755)
         + [TensorFlow.jl: A Julia Front End to the TensorFlow World (TF Dev Summit '19)](https://www.youtube.com/watch?v=n2MwJ1guGVQ)
