@@ -831,4 +831,5 @@
             + [{fmt} is an open-source formatting library providing a fast and safe alternative to C stdio and C++ iostreams](https://github.com/fmtlib/fmt)
             
         + misc
+            + [Modern C++ Tutorial: C++11/14/17/20 On the Fly](https://github.com/changkun/modern-cpp-tutorial)
             + [Reading TAR files in C++](https://techoverflow.net/2013/03/29/reading-tar-files-in-c/)
