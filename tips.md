@@ -437,6 +437,7 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
 
     + [LINUX FU: GLOBAL SEARCH AND REPLACE WITH RIPGREP](https://hackaday.com/2020/10/14/linux-fu-global-search-and-replace-with-ripgrep/)
         + [Кунг-фу стиля Linux: глобальный поиск и замена строк с помощью ripgrep](https://habr.com/ru/company/ruvds/blog/527242/)
+    + [LINUX FU: MONITOR DISKS](https://hackaday.com/2020/11/05/linux-fu-monitor-disks/)
 
     + [Awesome list dedicated to Windows Subsystem for Linux](https://github.com/sirredbeard/Awesome-WSL)
         + [Linux’izing your Windows PC into a dev machine  Part 2#Java and JVM ecosystem](https://cepa.io/2018/02/20/linuxizing-your-windows-pc-part2/#java)
