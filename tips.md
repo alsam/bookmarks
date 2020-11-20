@@ -429,7 +429,11 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
         ```
 
     + [How io_uring and eBPF Will Revolutionize Programming in Linux](https://thenewstack.io/how-io_uring-and-ebpf-will-revolutionize-programming-in-linux/)
-    + [Реализация epoll, часть 4](https://habr.com/ru/company/ruvds/blog/527174/)
+    + [The Implementation of epoll (1)](https://idndx.com/the-implementation-of-epoll-1/)
+    + [The Implementation of epoll (2)](https://idndx.com/the-implementation-of-epoll-2/)
+    + [The Implementation of epoll (3)](https://idndx.com/the-implementation-of-epoll-3/)
+    + [The Implementation of epoll (4)](https://idndx.com/the-implementation-of-epoll-4/)
+        + [Реализация epoll, часть 4](https://habr.com/ru/company/ruvds/blog/527174/)
 
     + [Awesome list dedicated to Windows Subsystem for Linux](https://github.com/sirredbeard/Awesome-WSL)
         + [Linux’izing your Windows PC into a dev machine  Part 2#Java and JVM ecosystem](https://cepa.io/2018/02/20/linuxizing-your-windows-pc-part2/#java)
