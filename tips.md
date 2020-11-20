@@ -435,6 +435,9 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
     + [The Implementation of epoll (4)](https://idndx.com/the-implementation-of-epoll-4/)
         + [Реализация epoll, часть 4](https://habr.com/ru/company/ruvds/blog/527174/)
 
+    + [LINUX FU: GLOBAL SEARCH AND REPLACE WITH RIPGREP](https://hackaday.com/2020/10/14/linux-fu-global-search-and-replace-with-ripgrep/)
+        + [Кунг-фу стиля Linux: глобальный поиск и замена строк с помощью ripgrep](https://habr.com/ru/company/ruvds/blog/527242/)
+
     + [Awesome list dedicated to Windows Subsystem for Linux](https://github.com/sirredbeard/Awesome-WSL)
         + [Linux’izing your Windows PC into a dev machine  Part 2#Java and JVM ecosystem](https://cepa.io/2018/02/20/linuxizing-your-windows-pc-part2/#java)
         + [Is it possible to access my Android device through WSL?](https://www.reddit.com/r/bashonubuntuonwindows/comments/9qmrqs/is_it_possible_to_access_my_android_device/)
