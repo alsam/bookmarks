@@ -177,6 +177,7 @@
         + [RTX 2080 vs. Radeon VII vs. 5700 XT: Rendering and Compute Performance](https://www.extremetech.com/computing/297167-rtx-2080-vs-radeon-vii-vs-5700-xt-rendering-and-compute-performance)
         + [AMD Radeon VII Review: This Isn’t the 7nm GPU You’re Looking For](https://www.extremetech.com/computing/285286-amd-radeon-vii-review-this-isnt-the-7nm-gpu-youre-looking-for)
         + [Is a used Radeon VII worth it in 2020?](https://www.quora.com/Is-a-used-Radeon-VII-worth-it-in-2020)
+            + [AMD Radeon Instinct MI50 1725MHz PCI-E 4.0 16384MB 1000MHz 4096 bit](https://market.yandex.ru/product--videokarta-amd-radeon-instinct-mi50-1725mhz-pci-e-4-0-16384mb-1000mhz-4096-bit/674247125?text=AMD%20Radeon%20VII)
 
 + [How To Set The CPU Affinity Of A Running Process In Linux](https://www.youtube.com/watch?v=9VJRsBmmY-4&feature=youtu.be)
 
