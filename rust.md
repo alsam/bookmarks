@@ -11,6 +11,7 @@
                     + [Generic Associated Types in Trait Paths - Ast part](https://github.com/rust-lang/rust/pull/79266) 
         + [Tracking issue for const generics](https://github.com/rust-lang/rust/issues/44580)
             + [Tracking Issue for `min_const_generics`](https://github.com/rust-lang/rust/issues/74878)
+                + [stabilize `#![feature(min_const_generics)]` in 1.50](https://github.com/rust-lang/rust/pull/79135)
                 + [`min_const_generics` prevents references to concrete `Self` param](https://github.com/rust-lang/rust/issues/75486)
                 + [Shipping Const Generics in 2020](https://without.boats/blog/shipping-const-generics/)
                     + [fix unification of const variables](https://github.com/rust-lang/rust/pull/74040)
