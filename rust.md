@@ -1145,3 +1145,4 @@
 
 + [An introduction to Data Oriented Design with Rust](https://jamesmcm.github.io/blog/2020/07/25/intro-dod/)
 + [Rust serialization: What’s ready for production today?](https://blog.logrocket.com/rust-serialization-whats-ready-for-production-today/)
++ [An HDL embedded in Rust](https://github.com/yupferris/kaze)
