@@ -1145,6 +1145,9 @@
 
 + [An introduction to Data Oriented Design with Rust](https://jamesmcm.github.io/blog/2020/07/25/intro-dod/)
 + [Rust serialization: What’s ready for production today?](https://blog.logrocket.com/rust-serialization-whats-ready-for-production-today/)
+
++ [Attempt at quad tree](https://users.rust-lang.org/t/attempt-at-quad-tree/49994)
+
 + [An HDL embedded in Rust](https://github.com/yupferris/kaze)
     + [Q: Rust as a hardware description language to be synthesized on an FPGA?](https://www.reddit.com/r/rust/comments/fyd57q/q_rust_as_a_hardware_description_language_to_be/)
     + [LLHD](https://github.com/fabianschuiki/llhd)
