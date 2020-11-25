@@ -1146,8 +1146,11 @@
 + [An introduction to Data Oriented Design with Rust](https://jamesmcm.github.io/blog/2020/07/25/intro-dod/)
 + [Rust serialization: What’s ready for production today?](https://blog.logrocket.com/rust-serialization-whats-ready-for-production-today/)
 + [An HDL embedded in Rust](https://github.com/yupferris/kaze)
+    + [Q: Rust as a hardware description language to be synthesized on an FPGA?](https://www.reddit.com/r/rust/comments/fyd57q/q_rust_as_a_hardware_description_language_to_be/)
     + [LLHD](https://github.com/fabianschuiki/llhd)
         + [Fabian Schuiki](https://fabian.schuiki.ch/)
         + [LLHD: A Multi-level Intermediate Representation for Hardware Description Languages](https://pldi20.sigplan.org/details/pldi-2020-papers/64/LLHD-A-Multi-level-Intermediate-Representation-for-Hardware-Description-Languages)
+        + [LLHD: A Multi-level Intermediate Representation for
+Hardware Description Languages](https://arxiv.org/pdf/2004.03494.pdf)
         + [Moore is a compiler for hardware description languages that outputs llhd assembly](https://github.com/fabianschuiki/moore)
         + [MLIR for Hardware Accelerators](https://github.com/circt/MLIRAccelerators)
