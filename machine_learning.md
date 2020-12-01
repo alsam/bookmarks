@@ -432,6 +432,11 @@
     + Philosophical pop science
         + [Can Integrated Information Theory Explain Consciousness?](http://blogs.scientificamerican.com/cross-check/can-integrated-information-theory-explain-consciousness/)
     + *Cognitive* Architectures
+        + LMU - **L**egendre **M**emory **U**nit
+            + [Legendre Memory Units: Continuous-Time Representation in Recurrent Neural Network](https://www.researchgate.net/publication/337985170_Legendre_Memory_Units_Continuous-Time_Representation_in_Recurrent_Neural_Networks)
+                + [Legendre Memory Units: Continuous-Time Representation in Recurrent Neural Network](https://papers.nips.cc/paper/2019/file/952285b9b7e7a1be5aa7849f32ffff05-Paper.pdf)
+                + [KerasLMU: Recurrent neural networks using Legendre Memory Units](https://github.com/nengo/keras-lmu)
+                + [PyTorch Legendre Memory Unit](https://github.com/bjkomer/pytorch-legendre-memory-unit)
         + [The MicroPsi Project](http://www.micropsi.com/page10/page10.html)
             + [Python version of cognitive architecture MicroPsi](https://github.com/joschabach/micropsi2)
         + [Numenta (HTM): creating applications](https://github.com/numenta/nupic/wiki/Creating-Applications)
