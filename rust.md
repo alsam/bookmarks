@@ -9,6 +9,7 @@
             + [Allow generic associate types in trait paths](https://github.com/rust-lang/rust/issues/67510)
                 + [WIP Generic associated types in trait paths](https://github.com/rust-lang/rust/pull/78978)
                     + [Generic Associated Types in Trait Paths - Ast part](https://github.com/rust-lang/rust/pull/79266)
+                    + [Method for Emulating Higher-Kinded Types in Rust](https://gist.github.com/edmundsmith/855fcf0cb35dd467c29a9350481f0ecf)
         + [Tracking issue for const generics](https://github.com/rust-lang/rust/issues/44580)
             + [Tracking Issue for `min_const_generics`](https://github.com/rust-lang/rust/issues/74878)
                 + [stabilize `#![feature(min_const_generics)]` in 1.50](https://github.com/rust-lang/rust/pull/79135)
