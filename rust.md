@@ -798,6 +798,8 @@
         + [rustlearn - A machine learning package for Rust](https://github.com/maciejkula/rustlearn)
         + [autograph - Machine Learning Library for Rust](https://github.com/charles-r-earp/autograph/tree/rocm)
             + [AMD / ROCm support for autograph](https://www.reddit.com/r/rust/comments/i7fwba/amd_rocm_support_for_autograph/)
+        + [Nengo RS is an experimental Nengo backend written in Rust](https://github.com/jgosmann/nengo-rs)
+            + [The Nengo Brain Maker is a Python package for building, testing, and deploying neural networks](https://www.nengo.ai/)
 
     + [The Kolmogorov-Smirnov Test](http://daithiocrualaoich.github.io/kolmogorov_smirnov/)
         + [Implementation of the Kolmogorov-Smirnov statistical test as a Rust library](https://github.com/daithiocrualaoich/kolmogorov_smirnov)
