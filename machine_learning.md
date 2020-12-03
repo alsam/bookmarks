@@ -434,6 +434,7 @@
     + *Cognitive* Architectures
         + LMU - **L**egendre **M**emory **U**nit
             + [Legendre Memory Units: Continuous-Time Representation in Recurrent Neural Network](https://www.researchgate.net/publication/337985170_Legendre_Memory_Units_Continuous-Time_Representation_in_Recurrent_Neural_Networks)
+                + [[R] Legendre Memory Units: Continuous-Time Representation in Recurrent Neural Networks (NeurIPS2019 Spotlight)](https://www.reddit.com/r/MachineLearning/comments/e94gh6/r_legendre_memory_units_continuoustime/)
                 + [Legendre Memory Units: Continuous-Time Representation in Recurrent Neural Network](https://papers.nips.cc/paper/2019/file/952285b9b7e7a1be5aa7849f32ffff05-Paper.pdf)
                 + [KerasLMU: Recurrent neural networks using Legendre Memory Units](https://github.com/nengo/keras-lmu)
                 + [PyTorch Legendre Memory Unit](https://github.com/bjkomer/pytorch-legendre-memory-unit)
