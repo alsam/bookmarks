@@ -30,6 +30,9 @@
         + [Nektar++: An efficient h to p finite element framework](http://www.nektar.info/)
         + [Nektar++: a high-order finite element framework](https://xyloid.org/assets/talks/2014-06-ices.pdf)
 
+    + [blitzdg is an open-source library offering discontinuous Galerkin (dg) solvers for common partial differential equations systems using blitz++ for array and tensor manipulations in a C++ environment or NumPy as a Python 3 library](https://github.com/WQCG/blitzdg)
+        + [Derek Steinmoeller's blog](https://dsteinmo.github.io/)
+
     + Finite Element Methods (FEM) and Spectral Element Methods (SEM)
         + [deal.II — an open source finite element library](https://www.dealii.org/)
         + [Feel++ finite element embedded library in C++](http://www.feelpp.org/)
