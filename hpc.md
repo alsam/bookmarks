@@ -35,6 +35,8 @@
 
     + [DGSWEM V2](https://github.com/UT-CHG/dgswemv2)
 
+    + [adaptive multiresolution DG](https://github.com/JuntaoHuang/adaptive-multiresolution-DG)
+
     + Finite Element Methods (FEM) and Spectral Element Methods (SEM)
         + [deal.II — an open source finite element library](https://www.dealii.org/)
         + [Feel++ finite element embedded library in C++](http://www.feelpp.org/)
