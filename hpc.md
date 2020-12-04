@@ -41,6 +41,9 @@
         + [github: ITHACA-SEM - In real Time Highly Advanced Computational Applications for Spectral Element Methods](https://github.com/mathLab/ITHACA-SEM)
             + [THACA-SEM - In real Time Highly Advanced Computational Applications for Spectral Element Methods](https://mathlab.sissa.it/ITHACA-SEM)
         + [AxiSEM is a parallel spectral-element method to solve 3D wave propagation in a sphere with axisymmetric or spherically symmetric visco-elastic, acoustic, anisotropic structures](https://github.com/geodynamics/axisem)
+        + [HDGlab: An open-source implementation of the hybridisable discontinuous Galerkin method in
+MATLAB](https://ww2.lacan.upc.edu/scientificPublications/files/pdfs/ACME-GSH-20.pdf)
+            + [HDGlab - A Matlab implementation of the hybridisable discontinuous Galerkin (HDG) method](https://git.lacan.upc.edu/hybridLab/HDGlab)
 
     + Siemens
         + [Embedded Multicore Building Blocks (EMB²)](https://github.com/siemens/embb)
