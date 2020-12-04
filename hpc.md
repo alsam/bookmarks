@@ -43,6 +43,8 @@
         + [AxiSEM is a parallel spectral-element method to solve 3D wave propagation in a sphere with axisymmetric or spherically symmetric visco-elastic, acoustic, anisotropic structures](https://github.com/geodynamics/axisem)
         + [HDGlab: An open-source implementation of the hybridisable discontinuous Galerkin method in MATLAB](https://ww2.lacan.upc.edu/scientificPublications/files/pdfs/ACME-GSH-20.pdf)
             + [HDGlab - A Matlab implementation of the hybridisable discontinuous Galerkin (HDG) method](https://git.lacan.upc.edu/hybridLab/HDGlab)
+        + [Euler Equations for Ideal Gases](https://github.com/IANW-Projects/ConservationLaws/issues/11)
+            + [Split form nodal discontinuous Galerkin schemes with summation-by-parts property for the compressible Euler equations](https://www.sciencedirect.com/science/article/pii/S0021999116304259)
 
     + Siemens
         + [Embedded Multicore Building Blocks (EMB²)](https://github.com/siemens/embb)
