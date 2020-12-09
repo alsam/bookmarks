@@ -945,6 +945,7 @@
         svgbob examples/long.bob > long.svg
         ```
         + [Drawing SVG Graphs with Rust](https://cetra3.github.io/blog/drawing-svg-graphs-rust/)
+        + [resvg is an SVG rendering library](https://github.com/RazrFalcon/resvg)
 
     + Graphics in Rust
 
