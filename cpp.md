@@ -833,3 +833,13 @@
         + misc
             + [Modern C++ Tutorial: C++11/14/17/20 On the Fly](https://github.com/changkun/modern-cpp-tutorial)
             + [Reading TAR files in C++](https://techoverflow.net/2013/03/29/reading-tar-files-in-c/)
+            + [How to find out if there is any non ASCII character in a string with a file path](https://stackoverflow.com/questions/48212992/how-to-find-out-if-there-is-any-non-ascii-character-in-a-string-with-a-file-path)    
+            tl;dr    
+            ```c++
+            auto isASCII = [](const std::string& s) -> bool
+            {
+                return !std::any_of(s.begin(), s.end(), [](char c) {
+                    return !isascii(static_cast<unsigned char>(c));
+                });
+            };
+            ```
