@@ -846,3 +846,6 @@
                 });
             };
             ```
+
+            + [C++ preprocessor __VA_ARGS__ number of arguments](https://stackoverflow.com/questions/2124339/c-preprocessor-va-args-number-of-arguments?noredirect=1&lq=1)
+            + [Is there a way to use C++ preprocessor stringification on variadic macro arguments?](https://stackoverflow.com/questions/5957679/is-there-a-way-to-use-c-preprocessor-stringification-on-variadic-macro-argumen)
