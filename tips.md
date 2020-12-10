@@ -2,6 +2,9 @@
 
 + Linux distribution tips
 
+    + [GNU-Linux Anatomy](https://habr.com/ru/post/531872/)
+        + [GNU-Linux Anatomy](https://gitlab.com/bergentroll/gnu-linux-anatomy)
+
     + Gentoo tips
         + [Gentoo Cheat Sheet](https://wiki.gentoo.org/wiki/Gentoo_Cheat_Sheet)
     
