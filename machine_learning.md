@@ -488,6 +488,9 @@
                 + [The Neuronal Basis of Consciousness Course - CNS/Bi/Psy 120](https://www.youtube.com/playlist?list=PL1DBCFC32CF6945EE)
 
         + Misc
+            + [Noam Chomsky on the Future of Deep Learning](https://towardsdatascience.com/noam-chomsky-on-the-future-of-deep-learning-2beb37815a3e)
+                + [ycombinator:	Noam Chomsky on the Future of Deep Learning](https://news.ycombinator.com/item?id=25323808)
+                    + [Merge (linguistics)](https://en.wikipedia.org/wiki/Merge_(linguistics))
             + [Abstraction and Reasoning Challenge](https://www.kaggle.com/c/abstraction-and-reasoning-challenge/overview)
                 + [ARC Competition : EDA + PyTorch CNN](https://www.kaggle.com/tarunpaparaju/arc-competition-eda-pytorch-cnn)
             + [Top 20 Machine Learning Interview Questions & Answers](https://www.janbasktraining.com/blog/machine-learning-interview-questions/)
