@@ -794,6 +794,8 @@
                 + [Why can't I pass std::vector<Child*> as std::vector<Parent*>?](https://mcla.ug/blog/cpp-templates-with-subtype-type-args.html)
                 + [C++ Modules: A Brief Tour](https://accu.org/journals/overload/28/159/sidwell/)
 
+                + [Bit Manipulation with C++20](https://www.modernescpp.com/index.php/bit-manipulation-with-c-20)
+
         + CppCon 2020
             + [Plenary: Performance Matters - Emery Berger - CppCon 2020](https://www.youtube.com/watch?v=koTf7u0v41o&feature=youtu.be)
             + [CppCon 2020 Presentation Materials](https://github.com/CppCon/CppCon2020)
