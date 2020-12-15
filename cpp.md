@@ -149,6 +149,7 @@
             + don't confuse with [export templates](https://stackoverflow.com/questions/5416872/using-export-keyword-with-templates)
 
     + [Is pass-by-value a reasonable default in C++11?](https://stackoverflow.com/questions/7592630/is-pass-by-value-a-reasonable-default-in-c11/7592741#7592741)
+    + [Noexcept and copy, move constructors](https://stackoverflow.com/questions/28627348/noexcept-and-copy-move-constructors)
 
     + SFINAE
         + [SFINAE](https://en.cppreference.com/w/cpp/language/sfinae)
