@@ -113,6 +113,12 @@
         ```
             + [Unknown CMake command “tablegen”](https://stackoverflow.com/questions/59691069/unknown-cmake-command-tablegen)
 
++ AMG  
+    + [AMGX](https://github.com/NVIDIA/AMGX)
+    + [AMGCL](https://github.com/ddemidov/amgcl)
+        + [AMGCL](https://amgcl.readthedocs.io/en/latest/)
+    + [SPARSH-AMG](https://github.com/cmgcds/SParSH-AMG)
+
 + [Как SpaceX использует GPU для обсчёта ракетных двигателей](http://habrahabr.ru/post/256081/)
     + [Rockets Shake And Rattle, So SpaceX Rolls Homegrown CFD](http://www.nextplatform.com/2015/03/27/rockets-shake-and-rattle-so-spacex-rolls-homegrown-cfd/)
 
