@@ -100,6 +100,9 @@
         + [Rayon: A data parallelism library for Rust](https://github.com/huonw/rayon)
             + [Neon: Node + Rust = Sparkling Heart](https://www.reddit.com/r/rust/comments/3y0vx9/neon_node_rust/)
         + FFT libraries and bindings
+            + [RustFFT = "5.0.0-experimental.1"](https://crates.io/crates/rustfft/5.0.0-experimental.1)
+                + [RustFFT](https://github.com/ejmahler/RustFFT)
+                    + [RustDCT](https://github.com/ejmahler/rust_dct)
             + [crate dft](https://crates.io/crates/dft)
                 + [dft docs](http://stainless-steel.github.io/dft/dft/index.html)
             + [crate rustfft - 1.0 follows kiss fft](https://crates.io/crates/rustfft)
