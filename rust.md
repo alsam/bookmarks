@@ -101,6 +101,7 @@
             + [Neon: Node + Rust = Sparkling Heart](https://www.reddit.com/r/rust/comments/3y0vx9/neon_node_rust/)
         + FFT libraries and bindings
             + [RustFFT = "5.0.0-experimental.1"](https://crates.io/crates/rustfft/5.0.0-experimental.1)
+                + [Released RustFFT 5.0.0-experimental.1: Now faster than FFTW!](https://www.reddit.com/r/rust/comments/kh2sfb/released_rustfft_500experimental1_now_faster_than/)
                 + [RustFFT](https://github.com/ejmahler/RustFFT)
                     + [RustDCT](https://github.com/ejmahler/rust_dct)
             + [crate dft](https://crates.io/crates/dft)
