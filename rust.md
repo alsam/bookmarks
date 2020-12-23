@@ -821,6 +821,7 @@
     + [A native-rust implementation of an Effect monad, inspired by PureScript's EFF Monad](https://crates.io/crates/effect-monad/)
 
     + [pijul - distributed version control system written in Rust](https://pijul.org)
+        + [Commutation and scalability in pijul, the new version control system written in Rust](https://www.reddit.com/r/rust/comments/kh706i/commutation_and_scalability_in_pijul_the_new/)
         + [Add Pijul support to Cargo](https://github.com/rust-lang/cargo/pull/3842)
         + [Pijul: Sane Version Control (Pierre Étienne Meunier)](https://vk.com/video-75161087_456239088)
 
