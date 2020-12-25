@@ -785,7 +785,11 @@
         + [Rustdoc: reStructuredText vs Markdown](https://internals.rust-lang.org/t/rustdoc-restructuredtext-vs-markdown/356/63)
         + [*Embedding LaTeX in Rust documentation?*](https://users.rust-lang.org/t/embedding-latex-in-rust-documentation/11234)
             + [The Tectonic Typesetting System](https://tectonic-typesetting.github.io/en-US/)
+                + [Rewriting LaTeX in Pure Rust](https://news.ycombinator.com/item?id=25328874)
+                + [Porting all of Tectonic (modern TeX/LaTeX engine) from C to Rust](https://www.reddit.com/r/rust/comments/d1ql5s/porting_all_of_tectonic_modern_texlatex_engine/)
+                    + [Rust port of Tectonic](https://github.com/crlf0710/tectonic/tree/oxidize)
             + [ReX - typesetting mathematics](https://github.com/ReTeX/ReX)
+                + [ReTeX - Typesetting mathematics](https://www.reddit.com/r/rust/comments/hrd8hx/retex_typesetting_mathematics/)
                 + [modern up-to-date fork of ReX - typesetting mathematics](https://github.com/grafeia/ReX)
             + Extending the Literate Programming Tool Tango
                 + [Markdown-based Literate programming in Rust, integrated with Cargo](https://github.com/pnkfelix/tango)
