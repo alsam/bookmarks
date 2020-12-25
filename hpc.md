@@ -116,6 +116,8 @@
         ```
             + [Unknown CMake command “tablegen”](https://stackoverflow.com/questions/59691069/unknown-cmake-command-tablegen)
 
++ [libCEED: the CEED Library: Code for Efficient Extensible Discretization](https://github.com/CEED/libCEED)
+
 + AMG  
     + [AMGX](https://github.com/NVIDIA/AMGX)
     + [AMGCL](https://github.com/ddemidov/amgcl)
