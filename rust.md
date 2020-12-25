@@ -784,6 +784,7 @@
         + [Add mathematics support to rustdoc #17390](https://github.com/rust-lang/rust/pull/17390#issuecomment-61195381)
         + [Rustdoc: reStructuredText vs Markdown](https://internals.rust-lang.org/t/rustdoc-restructuredtext-vs-markdown/356/63)
         + [*Embedding LaTeX in Rust documentation?*](https://users.rust-lang.org/t/embedding-latex-in-rust-documentation/11234)
+            + [Minimal Rust project example for using Latex in docs](https://github.com/victe/rust-latex-doc-minimal-example)
             + [The Tectonic Typesetting System](https://tectonic-typesetting.github.io/en-US/)
                 + [Rewriting LaTeX in Pure Rust](https://news.ycombinator.com/item?id=25328874)
                 + [Porting all of Tectonic (modern TeX/LaTeX engine) from C to Rust](https://www.reddit.com/r/rust/comments/d1ql5s/porting_all_of_tectonic_modern_texlatex_engine/)
