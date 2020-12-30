@@ -116,6 +116,7 @@
     + [Torch is a scientific computing framework with wide support for machine learning algorithms](http://torch.ch/)
         + [torch/torch7](https://github.com/torch/torch7)
             + [Autograd automatically differentiates native Torch code. Ported to Lua from the original Python version.](https://github.com/twitter/torch-autograd)
+            + [Differentiable Programming: Computing source-code derivatives](https://ayandas.me/blog-tut/2020/09/08/differentiable-programming.html)
         + [Torch Cheatsheet](https://github.com/torch/torch7/wiki/Cheatsheet#cuda)
         + [Learn Lua in 15 Minutes](http://tylerneylon.com/a/learn-lua/)
         + [cutorch install failure with ubuntu 15.10 & cuda 7.5.18](https://groups.google.com/forum/#!topic/torch7/t_uOdgwM8BM)
