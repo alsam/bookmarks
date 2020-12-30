@@ -317,7 +317,10 @@
                 ```
                 + [arrayfire-project-templates/CMake/CMakeModules/FindOpenCL.cmake](https://github.com/arrayfire/arrayfire-project-templates/blob/master/CMake/CMakeModules/FindOpenCL.cmake)
 
-    + Asynchronous IO
+    + async
+        + [Are we async yet?](https://areweasyncyet.rs/)
+        + [A practical guide to async in Rust](https://blog.logrocket.com/a-practical-guide-to-async-in-rust/)
+        + [Different levels of async in Rust](https://www.fpcomplete.com/blog/different-levels-async-rust/)
         + [History and status quo of async/non-blocking I/O in Rust?](https://users.rust-lang.org/t/history-and-status-quo-of-async-non-blocking-i-o-in-rust/6441)
             + [Add a Client Guide](https://github.com/hyperium/hyper/issues/805)
         + [Stateful: A Rust Experimental Syntax Extension for Generators and More](http://erickt.github.io/blog/2016/01/27/stateful-in-progress-generators/)
@@ -337,12 +340,6 @@
 
     + [Announcing Rust 1.0](http://blog.rust-lang.org/2015/05/15/Rust-1.0.html)
         + [Priorities after 1.0](http://internals.rust-lang.org/t/priorities-after-1-0/1901)
-
-    + [Announcing Rust 1.12](https://blog.rust-lang.org/2016/09/29/Rust-1.12.html)
-        + [Announcing Rust 1.12.1](https://blog.rust-lang.org/2016/10/20/Rust-1.12.1.html)
-
-    + [Rust в 2016 году](http://habrahabr.ru/post/274757/)
-        + [My thoughts on Rust in 2016](http://www.ncameron.org/blog/my-thoughts-on-rust-in-2016/)
 
     + [Setting vision for 2017 cycle](https://internals.rust-lang.org/t/setting-our-vision-for-the-2017-cycle/3958/156)
         + [Rust's 2017 roadmap](https://blog.rust-lang.org/2017/02/06/roadmap.html)
