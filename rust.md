@@ -212,6 +212,8 @@
         + [Polsim - a case study for small-scale scientific computing in Rust](https://tinkering.xyz/polsim/)
             + [Simulate the polarization of a laser beam](https://github.com/zmitchell/polarization)
             + [A command line utility for doing polarization simulations](https://github.com/zmitchell/polsim)
+        + [a collection of Summation By Parts operators which can be used for solving partial differential equations](https://github.com/mulimoen/SummationByParts)
+            + [Solving the compressible Euler equations by using the SBP-SAT method](https://gitlab.com/mulimoen/EulerSolver)
 
         + [delaunator-rs A very fast static 2D Delaunay triangulation library for Rust. A port of Delaunator](https://github.com/mourner/delaunator-rs)
         + [Delaunay mesh](https://github.com/d-dorazio/delaunay-mesh)
