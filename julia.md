@@ -2,6 +2,7 @@
 + Julia links
     + [Julia By Example](http://samuelcolvin.github.io/JuliaByExample/)
     + [Julia for Numerical Computation in MIT Courses](https://github.com/stevengj/julia-mit)
+    + [Tutorial on precompilation](https://julialang.org/blog/2021/01/precompile_tutorial/)
     + [Julia 0.5 milestones](https://github.com/JuliaLang/julia/milestones/0.5.0)
         + [Arraypocalypse Now (0.5 release)](https://github.com/JuliaLang/julia/issues/13157)
     + [Julia HOWTO integrate equations using LaTeX in docs](https://gitter.im/MichaelHatherly/Docile.jl/archives/2015/06/10)
