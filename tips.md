@@ -469,6 +469,10 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
             tl;dr `meld, diffuse, vimdiff, kompare`
         + [10 Best Markdown Editors for Linux](https://www.tecmint.com/best-markdown-editors-for-linux/)
 
++ Software Architecture
+    + [Michael-F-Bryan Tag: Architecture](https://adventures.michaelfbryan.com/tags/architecture/)
+        + [How I Translate Feature Requests into Code](https://adventures.michaelfbryan.com/posts/turning-feature-requests-into-code/)
+
 + [OOP cheatsheet](https://tproger.ru/translations/oop-principles-cheatsheet/)
     + tl;dr
         + use with inheritance
