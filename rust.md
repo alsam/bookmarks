@@ -1,5 +1,6 @@
 # Rust language bookmarks
 + Rust links
+    + [The Little Book of Rust Books](https://lborb.github.io/book/)
     + [Rust 2020 Roadmap](https://github.com/nikomatsakis/rfcs/blob/roadmap-2020/text/0000-roadmap-2020.md)
         + [Tracking issue for generic associated types (GAT)](https://github.com/rust-lang/rust/issues/44265)
             + [tracking issue for "chalkification"](https://github.com/rust-lang/rust/issues/48049)
@@ -20,6 +21,7 @@
                 + [Shipping Const Generics in 2020](https://without.boats/blog/shipping-const-generics/)
                     + [fix unification of const variables](https://github.com/rust-lang/rust/pull/74040)
                 + [Making elementwise operations using const generics more ergonomic? (Possible new trait or FromIterator impl)](making-elementwise-operations-using-const-generics-more-ergonomic-possible-new-trait-or-fromiterator-impl)
+                + [Implementing ArrayVec Using Const Generics](https://adventures.michaelfbryan.com/posts/const-arrayvec/)
             + [Tracking issue for "Lazy normalization"](https://github.com/rust-lang/rust/issues/60471)
                 + [check it](https://medium.com/tips-for-rust-developers/const-generics-eb46940a07e3)
                 tl;dr it works!
