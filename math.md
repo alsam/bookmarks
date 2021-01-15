@@ -68,6 +68,8 @@
         + [Applied Topology](http://appliedtopology.org/)
         + [Computational Homology Project](http://chomp.rutgers.edu/)
         + [Konstantin Mischaikow](http://math.rutgers.edu/~mischaik/)
+        + [The GUDHI library is a generic open source C++ library, with a Python interface, for Topological Data Analysis (TDA) and Higher Dimensional Geometry Understanding](https://github.com/GUDHI/gudhi-devel)
+            + [GUDHI Documentation](https://gudhi.inria.fr/doc/latest/)
         + [A fast generic C++11 library for applied and computational topology](https://github.com/appliedtopology/ctl)
         + [Topological spaces containing paths](https://mathoverflow.net/questions/351863/topological-spaces-containing-paths)
 
