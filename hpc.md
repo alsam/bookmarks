@@ -10,6 +10,8 @@
     + [What are possible methods to solve compressible Euler equations](http://scicomp.stackexchange.com/questions/283/what-are-possible-methods-to-solve-compressible-euler-equations/305#305 What are possible methods to solve compressible Euler equations)
     + [I do like CFD, VOL.1, Second Edition](http://www.cfdbooks.com/cfdbooks.html)
     + [Free CFD Codes](http://www.cfdbooks.com/cfdcodes.html)
+    + [CFD Julia: A Learning Module Structuring an Introductory Course on Computational Fluid Dynamics](https://www.mdpi.com/2311-5521/4/3/159/htm)
+        + [CFD_Julia](https://github.com/surajp92/CFD_Julia)
     + Lattice Boltzmann codes
         + [A lattice Boltzmann code for complex fluids](https://github.com/ludwig-cf/ludwig)
     + [Hydrodynamics in OpenCL](http://christopheremoore.net/hydrodynamics-cl/)
