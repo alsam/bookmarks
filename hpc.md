@@ -389,6 +389,8 @@ nimble install Arraymancer
 
 + [parallel-computing resources list](https://github.zhrichard.me/topics/parallel-computing)
 
++ [Portable Hardware Locality (hwloc)](https://www.open-mpi.org/projects/hwloc/)
+
 + [Overview of the Efficient Programming Languages (v.3) 2018.4](https://sdevprog.blogspot.com/2018/04/overview-of-efficient-programming.html?m=1)
 
 + GPU roof model
