@@ -208,6 +208,7 @@
 + JuliaCon 2019
     + [JuliaCon 2019 | What's Bad About Julia | Jeff Bezanson](https://www.youtube.com/watch?v=TPuJsgyu87U&feature=youtu.be)
     + [JuliaCon 2019 | How We Wrote a Textbook using Julia](https://www.youtube.com/watch?v=ofWy5kaZU3g&feature=youtu.be)
+        + [Tufte Algorithms Book Template](https://github.com/sisl/tufte_algorithms_book.git)
     + [JuliaCon 2019 | If Runtime isn't Funtime: Controlling Compile-time Execution | Nathan Daly](https://www.youtube.com/watch?v=JCFej--XER0)
         + [JuliaCon2019 Talk "If Runtime isn't Funtime: Controlling Compile-time Execution"](https://github.hillwoodhome.net/NHDaly/juliaCon2019-If_Runtime_isn-t_Funtime-Slides)
 
