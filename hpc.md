@@ -25,6 +25,7 @@
         + [github repo for HiFiLES](https://github.com/HiFiLES/HiFiLES-solver)
     + [PyWENO + PyPFASST](https://github.com/memmett)
     + [Clawpack Repositories](https://github.com/clawpack/)
+    + [Shenfun is a high performance computing platform for solving partial differential equations (PDEs) by the spectral Galerkin method](https://github.com/spectralDNS/shenfun)
     + [Multilayered Abstractions for Partial Differential Equations by Graham Robert Markall: good review on Nektar++ etc.](http://www.big-grey.co.uk/g_markall_phd_thesis.pdf)
         + [Making Faster FEM Solvers, Faster MPhil Transfer Report By Graham Markall](http://www.doc.ic.ac.uk/~grm08/g_markall_mphil_transfer.pdf)
         + [Graham Markall](http://www.doc.ic.ac.uk/~grm08/)
