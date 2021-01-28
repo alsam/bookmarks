@@ -221,6 +221,7 @@
     + [CFD Julia: A Learning Module Structuring an Introductory Course on Computational Fluid Dynamics](https://www.mdpi.com/2311-5521/4/3/159/htm)
         + [CFD_Julia](https://github.com/surajp92/CFD_Julia)
         + [Building blocks of spectral methods for Julia](https://github.com/tpapp/SpectralKit.jl)
+        + [A library of functions for polynomial bases used in spectral element methods](https://github.com/ranocha/PolynomialBases.jl)
     + [JuliaCon 2018 | Solving Partial Differential Equations with Julia | Chris Rackauckas](https://www.youtube.com/watch?time_continue=3&v=okGybBmihOE&feature=emb_title)
     + [Benchmarking Julia on a PDE: the Kuramoto-Sivashinksy equation](https://github.com/johnfgibson/julia-pde-benchmark/blob/master/1-Kuramoto-Sivashinksy-benchmark.ipynb)
     + [Julia debugger](https://github.com/JuliaDebug/Debugger.jl)    
