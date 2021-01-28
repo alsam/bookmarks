@@ -1169,6 +1169,7 @@
         + [Automatic Differentiation/Differential Programming Support](https://internals.rust-lang.org/t/automatic-differentiation-differential-programming-support/12510)
             + [Reverse-mode automatic differentiation: a tutorial](https://rufflewind.com/2016-12-30/reverse-mode-automatic-differentiation)
         + [Do the compilers really create more optimal code for Rust than for C/C++?](https://www.reddit.com/r/rust/comments/k7pssg/do_the_compilers_really_create_more_optimal_code/)
+        + [Get next `n` items from an iterator with const generics](https://internals.rust-lang.org/t/get-next-n-items-from-an-iterator-with-const-generics/13526/3)
 
 + [Rust for Data-Intensive Computation](https://materialize.io/rust-for-data-intensive-computation/)
     + [Timely Dataflow](https://github.com/TimelyDataflow/timely-dataflow)
