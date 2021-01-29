@@ -398,6 +398,7 @@ nimble install Arraymancer
     + [Elias Konstantinidis publications](http://users.uoa.gr/~ekondis/publications/)
         + [A quantitative roofline model for GPU kernel performance estimation using micro-benchmarks and hardware metric profiling](https://www.sciencedirect.com/science/article/pii/S0743731517301247)
             + [mixbench - The purpose of this benchmark tool is to evaluate performance bounds of GPUs on mixed operational intensity kernels](https://github.com/ekondis/mixbench)
+    + [Analysis-Driven Optimization: Preparing for Analysis with NVIDIA Nsight Compute, Part 1](https://developer.nvidia.com/blog/analysis-driven-optimization-preparing-for-analysis-with-nvidia-nsight-compute-part-1/)
 
 + YouTube videos on GPU embedded profiling/optimization
     + [Presentation: Mali Graphics Debugger (GDC 2014)](https://www.youtube.com/watch?v=yv-V9Bl9pO4)
