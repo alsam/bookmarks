@@ -400,6 +400,10 @@ nimble install Arraymancer
             + [mixbench - The purpose of this benchmark tool is to evaluate performance bounds of GPUs on mixed operational intensity kernels](https://github.com/ekondis/mixbench)
     + [Analysis-Driven Optimization: Preparing for Analysis with NVIDIA Nsight Compute, Part 1](https://developer.nvidia.com/blog/analysis-driven-optimization-preparing-for-analysis-with-nvidia-nsight-compute-part-1/)
     + [GPU Performance Analysis](https://vimeo.com/454873041)
+    + [Roofline and NVIDIA Ampere GPU Architecture Analysis](https://www.youtube.com/watch?v=VtkxhygfNsY)
+    + [Nsight Compute Feature Spotlight: Roofline Analysis, Asynchronous Copy, Sparse Data Compression](https://www.youtube.com/watch?v=DnwZ6ZTLw50)
+    + [Optimizing CUDA Memory Allocations Using NVIDIA Nsight Systems](https://www.youtube.com/watch?v=kTKk05yzuzo&list=UUBHcMCGaiJhv-ESTcWGJPcw)
+    + [Roofline Hackathon 2020 part 1 and 2](https://www.youtube.com/watch?v=Hy48J0Ivz18)
 
 + YouTube videos on GPU embedded profiling/optimization
     + [Presentation: Mali Graphics Debugger (GDC 2014)](https://www.youtube.com/watch?v=yv-V9Bl9pO4)
