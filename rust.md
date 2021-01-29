@@ -44,6 +44,8 @@
                     println!("_my_vec[0] : {}", _my_vec.inner_data[0])
                 } 
                 ```
+        + [ [Analysis / Pre-RFC] Variadic generics in Rust](https://internals.rust-lang.org/t/analysis-pre-rfc-variadic-generics-in-rust/13879/39)
+            + [About variadics in Rust](https://gist.github.com/PoignardAzur/aea33f28e2c58ffe1a93b8f8d3c58667)
     + [Rust Tutorial playlist](https://www.youtube.com/playlist?list=PLLqEtX6ql2EyPAZ1M2_C0GgVd4A-_L4_5)
         + [Rust Structs, Traits and Impl](https://www.youtube.com/watch?v=gi0AQ78diSA)
         + [Rust Generics](https://www.youtube.com/watch?v=nvur2Ast8hE&list=PLLqEtX6ql2EyPAZ1M2_C0GgVd4A-_L4_5&index=13&t=0s)
