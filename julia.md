@@ -224,6 +224,7 @@
         + [CFD_Julia](https://github.com/surajp92/CFD_Julia)
         + [Building blocks of spectral methods for Julia](https://github.com/tpapp/SpectralKit.jl)
         + [A library of functions for polynomial bases used in spectral element methods](https://github.com/ranocha/PolynomialBases.jl)
+        + [Julia translation and modification of MATLAB scripts that accompany the text on Nodal Disontinuous Galerkin methods](https://github.com/bendudson/NodalDG.jl)
     + [JuliaCon 2018 | Solving Partial Differential Equations with Julia | Chris Rackauckas](https://www.youtube.com/watch?time_continue=3&v=okGybBmihOE&feature=emb_title)
     + [Benchmarking Julia on a PDE: the Kuramoto-Sivashinksy equation](https://github.com/johnfgibson/julia-pde-benchmark/blob/master/1-Kuramoto-Sivashinksy-benchmark.ipynb)
     + [Julia debugger](https://github.com/JuliaDebug/Debugger.jl)    
