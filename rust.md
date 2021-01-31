@@ -1191,3 +1191,5 @@
 Hardware Description Languages](https://arxiv.org/pdf/2004.03494.pdf)
         + [Moore is a compiler for hardware description languages that outputs llhd assembly](https://github.com/fabianschuiki/moore)
         + [MLIR for Hardware Accelerators](https://github.com/circt/MLIRAccelerators)
+
++ [A dependency-free chess engine library built to run anywhere](https://github.com/adam-mcdaniel/chess-engine)
