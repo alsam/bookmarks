@@ -44,6 +44,8 @@
                     println!("_my_vec[0] : {}", _my_vec.inner_data[0])
                 } 
                 ```
+            + [Tracking Issue for complex generic constants (`const_evaluatable_checked`) ](https://github.com/rust-lang/rust/issues/76560)
+                + [Const well-formedness and const equality](https://hackmd.io/OZG_XiLFRs2Xmw5s39jRzA?view)
         + [ [Analysis / Pre-RFC] Variadic generics in Rust](https://internals.rust-lang.org/t/analysis-pre-rfc-variadic-generics-in-rust/13879/39)
             + [About variadics in Rust](https://gist.github.com/PoignardAzur/aea33f28e2c58ffe1a93b8f8d3c58667)
             + [ [Brainstorming] Use cases for variadic generics](https://www.reddit.com/r/rust/comments/l8vaa6/brainstorming_use_cases_for_variadic_generics/)
