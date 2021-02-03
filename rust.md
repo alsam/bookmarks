@@ -1197,3 +1197,5 @@ Hardware Description Languages](https://arxiv.org/pdf/2004.03494.pdf)
         + [MLIR for Hardware Accelerators](https://github.com/circt/MLIRAccelerators)
 
 + [A dependency-free chess engine library built to run anywhere](https://github.com/adam-mcdaniel/chess-engine)
++ [crdts: family of thoroughly tested hybrid crdt's](https://crates.io/crates/crdts)
+    + [Conflict-free replicated data type](https://en.wikipedia.org/wiki/Conflict-free_replicated_data_type)
