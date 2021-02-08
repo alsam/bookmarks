@@ -824,6 +824,7 @@
         + [GC and Rust Part 2: The Roots of the Problem](http://blog.pnkfx.org/blog/2016/01/01/gc-and-rust-part-2-roots-of-the-problem/)
 
     + [Machine Learning in Rust](https://github.com/alsam/bookmarks/blob/master/machine_learning.md)
+        + [linfa aims to provide a comprehensive toolkit to build Machine Learning applications with Rust](https://github.com/rust-ml/linfa)
         + [A linear algebra library in Rust designed for machine learning](https://github.com/AtheMathmo/rulinalg)
         + [Linear Algebra in Rust](http://athemathmo.github.io/2016/03/23/linear-algebra-in-rust.html)
         + [rustlearn - A machine learning package for Rust](https://github.com/maciejkula/rustlearn)
