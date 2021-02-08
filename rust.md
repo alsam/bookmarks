@@ -814,6 +814,9 @@
                     + [Demonstration crate for the tango literate programming tool](https://github.com/pnkfelix/tango-demo/)
                 + [md sample for literate programming in Rust with tango](https://github.com/pnkfelix/mon-artist/blob/a3388c11e8b1910cc4eb4c31bd1540a46851618b/src/lit/src/format.md)
                     + [Increasing Rust’s Reach](https://blog.rust-lang.org/2017/06/27/Increasing-Rusts-Reach.html)
+        + [mdBook](https://github.com/rust-lang/mdBook)
+            + [Scientific mdbook plugin](https://github.com/bytesnake/mdbook-scientific)
+                + [The Rust Machine Learning Book](https://github.com/rust-ml/book)
 
     + *GC in Rust*
         + [GC and Rust Part 0: Garbage Collection Background](http://blog.pnkfx.org/blog/2015/10/27/gc-and-rust-part-0-how-does-gc-work/)
