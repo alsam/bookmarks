@@ -1,6 +1,8 @@
 # julia language bookmarks
 + Julia links
     + [Julia By Example](http://samuelcolvin.github.io/JuliaByExample/)
+    + [Beautiful Julia: Cool Language Constructs and Tricks for Beginners](http://blog.translusion.com/posts/beautiful-julia/)
+    + [Tricks in Julia](http://blog.translusion.com/posts/julia-tricks/)
     + [Julia for Numerical Computation in MIT Courses](https://github.com/stevengj/julia-mit)
     + [My New Workflow with Julia 1.0](https://erik-engheim.medium.com/my-new-workflow-with-julia-1-0-99711103d97c)
     + [Tutorial on precompilation](https://julialang.org/blog/2021/01/precompile_tutorial/)
