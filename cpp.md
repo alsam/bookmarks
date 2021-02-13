@@ -791,6 +791,7 @@
                 + [C++20: An Infinite Data Stream with Coroutines](https://www.modernescpp.com/index.php/c-20-an-infinite-data-stream-with-coroutines)
                 + [C++20: Thread Synchronization with Coroutines](https://www.modernescpp.com/index.php/c-20-thread-synchronization-with-coroutines)
                 + [C++20: Thread Pools with cppcoro](https://www.modernescpp.com/index.php/c-20-thread-pools-with-cppcoro)
+                + [std::jthread and cooperative cancellation with stop token](https://www.nextptr.com/tutorial/ta1588653702/stdjthread-and-cooperative-cancellation-with-stop-token)
                 + [Best practices: Async vs. coroutines - Unite Copenhagen 2019](https://www.slideshare.net/unity3d/best-practices-async-vs-coroutines-unite-copenhagen-2019)
                 + [C++20 concepts are not like Rust traits](https://mcla.ug/blog/cpp20-concepts-are-not-like-rust-traits.html)
                     + [Semantic requirements in concepts](https://akrzemi1.wordpress.com/2020/10/26/semantic-requirements-in-concepts/)
