@@ -32,6 +32,7 @@
     + Nektar++
         + [Nektar++: An efficient h to p finite element framework](http://www.nektar.info/)
         + [Nektar++: a high-order finite element framework](https://xyloid.org/assets/talks/2014-06-ices.pdf)
+    + [MAESTROeX solves the equations of low Mach number hydrodynamics for stratified atmospheres/full spherical stars with a general equation of state, and nuclear reaction networks in an adaptive-grid finite-volume framework. It includes reactions and thermal diffusion and can be used on anything from a single core to 100,000s of processor cores with MPI + OpenMP or 1,000s of GPUs](https://github.com/AMReX-Astro/MAESTROeX)
 
     + [Is there a good tutorial or textbook-like source on implementing ENO/WENO with limiters in one (and more than one) dimension?](https://scicomp.stackexchange.com/questions/8706/is-there-a-good-tutorial-or-textbook-like-source-on-implementing-eno-weno-with-l/8709#8709)
         + [PyWENO](https://pyweno.readthedocs.io/en/latest/)
