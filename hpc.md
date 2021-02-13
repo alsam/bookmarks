@@ -32,6 +32,7 @@
     + Nektar++
         + [Nektar++: An efficient h to p finite element framework](http://www.nektar.info/)
         + [Nektar++: a high-order finite element framework](https://xyloid.org/assets/talks/2014-06-ices.pdf)
+    + [Simple (and not-so-simple) CFD solvers written in Fortran with Python plotting routines](https://github.com/JOThurgood/SimpleCFD)
     + [MAESTROeX solves the equations of low Mach number hydrodynamics for stratified atmospheres/full spherical stars with a general equation of state, and nuclear reaction networks in an adaptive-grid finite-volume framework. It includes reactions and thermal diffusion and can be used on anything from a single core to 100,000s of processor cores with MPI + OpenMP or 1,000s of GPUs](https://github.com/AMReX-Astro/MAESTROeX)
         + [Model stars and atomspheres with MAESTROeX](https://amrex-astro.github.io/MAESTROeX/)
 
