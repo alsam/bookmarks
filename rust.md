@@ -227,6 +227,7 @@
             + [Embedded Rust arithmetic, 2D/3D vector, and statistics library](https://github.com/neobirth/micromath)
         + [Special functions for Rust by binding to the Cephes library](https://crates.io/crates/special-fun/)
         + [Library of well known algorithms for numerical root finding](https://crates.io/crates/roots/)
+        + [rcpr - Rust Chebyshev Proxy Rootfinder: A robust global rootfinder using adaptive Chebyshev interpolation with automatic subdivision that accurately finds all roots of a smooth function F(x) on [a, b] using the Chebyshev-Frobenius companion matrix](https://github.com/drobnyjt/rcpr)
         + [Polsim - a case study for small-scale scientific computing in Rust](https://tinkering.xyz/polsim/)
             + [Simulate the polarization of a laser beam](https://github.com/zmitchell/polarization)
             + [A command line utility for doing polarization simulations](https://github.com/zmitchell/polsim)
