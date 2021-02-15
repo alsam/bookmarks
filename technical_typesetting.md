@@ -100,6 +100,7 @@
     + [LaTeX forum ⇒ Graphics, Figures & Tables ⇒ Subfigures with caption on side](https://latex.org/forum/viewtopic.php?t=21220)
     + [How to put two minipages side-by-side, which use 100 % of the text width?](https://tex.stackexchange.com/questions/114520/how-to-put-two-minipages-side-by-side-which-use-100-of-the-text-width)
     + [itemize, removing natural indent](https://tex.stackexchange.com/questions/91124/itemize-removing-natural-indent/91128)
+    + [No `\citation`, `\bibdata` or `\bibstyle` commands](https://tex.stackexchange.com/questions/406205/no-citation-bibdata-or-bibstyle-commands)
     + [Beamer Presentation: Figure has no number?](https://tex.stackexchange.com/questions/127145/beamer-presentation-figure-has-no-number)
         tl;dr    
         ```latex
