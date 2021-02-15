@@ -74,10 +74,11 @@
             pandoc --latex-engine=xelatex -V mainfont="Linux Libertine O" unsorted.md -o unsorted.pd
             pandoc --latex-engine=xelatex -V mainfont="PT Sans" unsorted.md -o unsorted1.pdf
             ```
-                + [Problem producing PDF from Cyrillic Markdown + LaTeX](https://groups.google.com/forum/#!topic/pandoc-discuss/DOdgRfP3Z8Q)
-                + [И опять шрифты](http://forum.ubuntu.ru/index.php?topic=211336.0)
-                + [LaTeX support for the fonts PT Sans, PT Serif and PT Mono](https://www.ctan.org/tex-archive/fonts/paratype)
-                    + [Общедоступные шрифты с поддержкой национальных алфавитов России](https://www.paratype.ru/public/)
+ 
+            + [Problem producing PDF from Cyrillic Markdown + LaTeX](https://groups.google.com/forum/#!topic/pandoc-discuss/DOdgRfP3Z8Q)
+            + [И опять шрифты](http://forum.ubuntu.ru/index.php?topic=211336.0)
+            + [LaTeX support for the fonts PT Sans, PT Serif and PT Mono](https://www.ctan.org/tex-archive/fonts/paratype)
+                + [Общедоступные шрифты с поддержкой национальных алфавитов России](https://www.paratype.ru/public/)
     + [Show equation number only once in align environment](https://tex.stackexchange.com/questions/17528/show-equation-number-only-once-in-align-environment)
       tl;dr
       ```latex
