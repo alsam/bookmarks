@@ -1030,6 +1030,8 @@
             + [Пишем свой упрощенный OpenGL на Rust — часть 2 (проволочный рендер)](http://habrahabr.ru/post/261739/)
             + [Пишем свой упрощенный OpenGL на Rust — часть 3 (растеризатор)](http://habrahabr.ru/post/262235/)
 
+            + [Simple ray tracer written in Rust from scratch](https://github.com/dranikpg/simple-rays)
+
         + [Vision Cortex - Semantic Computer Vision](https://github.com/visioncortex/visioncortex)
             + [visioncortex VTracer](https://github.com/visioncortex/vtracer)
 
