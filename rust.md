@@ -71,7 +71,6 @@
             + [Implementing TCP in Rust (part 2)](https://www.youtube.com/watch?v=OCpt1I0MWXE)
             + [Implementing TCP in Rust (part 3)](https://www.youtube.com/watch?v=8GE6ltLRJA4)
         + [Advanced topics in Rust](https://www.youtube.com/playlist?list=PLqbS7AVVErFgMPqz5irpWbBInR6hxDbYi)
-            + [The What and How of Futures and async/await in Rust](https://www.youtube.com/watch?v=9_3krAQtD2k&list=PLqbS7AVVErFgMPqz5irpWbBInR6hxDbYi&index=2&t=130s)
             + [The Why, What, and How of Pinning in Rust](https://www.youtube.com/watch?v=DkMwYxfSYNQ&list=PLqbS7AVVErFgMPqz5irpWbBInR6hxDbYi&index=2)
         + [Java's ConcurrentHashMap in Rust](https://www.youtube.com/playlist?list=PLqbS7AVVErFj824-6QgnK_Za1187rNfnl)
             + [Porting Java's ConcurrentHashMap to Rust (part 1)](https://www.youtube.com/watch?v=yQFWmGaFBjk&list=PLqbS7AVVErFj824-6QgnK_Za1187rNfnl)
@@ -345,6 +344,8 @@
 
     + async
         + [Are we async yet?](https://areweasyncyet.rs/)
+        + [The What and How of Futures and async/await in Rust](https://www.youtube.com/watch?v=9_3krAQtD2k&list=PLqbS7AVVErFgMPqz5irpWbBInR6hxDbYi&index=2&t=130s)
+        + [Comparison of Rust async and Linux thread context switch time and memory use](https://github.com/jimblandy/context-switch)
         + [A practical guide to async in Rust](https://blog.logrocket.com/a-practical-guide-to-async-in-rust/)
         + [Different levels of async in Rust](https://www.fpcomplete.com/blog/different-levels-async-rust/)
         + [History and status quo of async/non-blocking I/O in Rust?](https://users.rust-lang.org/t/history-and-status-quo-of-async-non-blocking-i-o-in-rust/6441)
