@@ -232,6 +232,7 @@
         + [Julia translation and modification of MATLAB scripts that accompany the text on Nodal Disontinuous Galerkin methods](https://github.com/bendudson/NodalDG.jl)
         + [Gridap provides a set of tools for the grid-based approximation of partial differential equations (PDEs) written in the Julia programming language](https://github.com/gridap/Gridap.jl)
             + [Solving partial differential equations in Julia with Gridap.jl](https://pretalx.com/juliacon2020/talk/DVSD7Q/)
+        + [VisClaw.jl](https://github.com/hydrocoast/VisClaw.jl)
     + [JuliaCon 2018 | Solving Partial Differential Equations with Julia | Chris Rackauckas](https://www.youtube.com/watch?time_continue=3&v=okGybBmihOE&feature=emb_title)
     + [Benchmarking Julia on a PDE: the Kuramoto-Sivashinksy equation](https://github.com/johnfgibson/julia-pde-benchmark/blob/master/1-Kuramoto-Sivashinksy-benchmark.ipynb)
     + [Julia debugger](https://github.com/JuliaDebug/Debugger.jl)    
