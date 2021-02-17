@@ -1141,6 +1141,7 @@
     + misc
         + [Awesome Space](https://github.com/AeroRust/awesome-space)
         + [Object-Orientation in Rust](https://stevedonovan.github.io/rust-gentle-intro/object-orientation.html)
+            + [Object-Oriented Programming in Rust](https://medium.com/dev-genius/object-oriented-programming-in-rust-691baf4d2996)
         + [This is a collection of implementations of algorithms and data structures in Rust language](https://tmaehara.gitlab.io/spaghetti-source/spaghetti_source/)
         + Logic in Rust
             + [SAT solver written in Rust](https://github.com/jix/varisat)
