@@ -48,6 +48,12 @@
              cmake -DCMAKE_CXX_COMPILER:FILEPATH=C:\Game Dev\Tools\MingW-
             ```
 
+    + [Doxygen](https://www.doxygen.nl/index.html)
+        + [Equations in doxygen](https://stackoverflow.com/questions/27257282/equations-in-doxygen/29898326)
+        + [How to get Doxygen to recognize custom latex command](https://stackoverflow.com/questions/3058035/how-to-get-doxygen-to-recognize-custom-latex-command)
+            + [EXTRA_PACKAGES tag in your configuration file](https://www.doxygen.nl/manual/config.html#cfg_extra_packages)
+        + [C++ Doxygen Detailed Example](https://gist.github.com/caiorss/b04df92734c93e300658285d0b76ed07)
+
     + [CppCon 2017: Rong Lu "C++ Development with Visual Studio Code"](https://www.youtube.com/watch?v=rFdJ68WbkdQ)
     + [C++ Development with Visual Studio Code](https://www.youtube.com/watch?v=bK882S9ESpo)
         + [Keyboard shortcut for Visual c# block comment in Visual Studio 2015?](https://stackoverflow.com/questions/32610044/keyboard-shortcut-for-visual-c-sharp-block-comment-in-visual-studio-2015)
