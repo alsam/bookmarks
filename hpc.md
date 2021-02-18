@@ -49,6 +49,7 @@
 
     + Finite Element Methods (FEM) and Spectral Element Methods (SEM)
         + [deal.II — an open source finite element library](https://www.dealii.org/)
+            + [Amandus: Simulations based on multilevel Schwarz methods Documentation](http://www.mathsim.eu/~gkanscha/amandus/)
         + [Feel++ finite element embedded library in C++](http://www.feelpp.org/)
             + [Feel++: Finite Element Embedded Library in C++](https://github.com/feelpp/feelpp)
         + [Veamy: an extensible object-oriented C++ library for the virtual element method](https://camlab.cl/software/veamy/
