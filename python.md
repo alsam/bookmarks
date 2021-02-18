@@ -119,3 +119,10 @@
 + [Make better CLI progress bars with Unicode block characters](https://mike42.me/blog/2018-06-make-better-cli-progress-bars-with-unicode-block-characters)
 
 + [How to repeat a string a variable number of times in C++?](https://stackoverflow.com/questions/166630/how-to-repeat-a-string-a-variable-number-of-times-in-c)
+
++ [Missing Python.h in Arch](https://unix.stackexchange.com/questions/104288/missing-python-h-in-arch)    
+tl;dr    
+```c++
+gcc py.c $(pkg-config --cflags --libs python3) -o py
+```
+
