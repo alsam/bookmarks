@@ -1,6 +1,7 @@
 # C++ language bookmarks
 + C++ links
     + [CPP C++ Papyrus](https://github.com/caiorss/C-Cpp-Notes)
+        + [CPP / C++ - Template Metaprogramming - Generic Programming](https://github.com/caiorss/C-Cpp-Notes/blob/master/CPP-template-metaprogramming.org)
     + [ C++ Ecosystem: Compilers, IDEs, Tools, Testing and More ](https://www.bfilipek.com/2019/10/cppecosystem.html?m=1)
         + [and meson, missed from the above review](https://mesonbuild.com/)
             + [The Meson Build System](https://github.com/mesonbuild/meson)
@@ -29,6 +30,7 @@
         + [An Introduction to Modern CMake](https://cliutils.gitlab.io/modern-cmake/)
         + [CGold: The Hitchhiker’s Guide to the CMake](https://cgold.readthedocs.io/en/latest/)
         + [CMake cheat sheet](https://ps-group.github.io/cxx/cmake_cheatsheet)
+        + [greenfield : start new project with C++/CMake](https://gist.github.com/caiorss)
         + [CMake cannot find GoogleTest required library in Ubuntu](https://stackoverflow.com/questions/24295876/cmake-cannot-find-googletest-required-library-in-ubuntu)
         + [CMake by Example](https://mirkokiefer.com/cmake-by-example-f95eb47d45b1)
             + [How to copy contents of a directory into build directory after make with CMake?](https://stackoverflow.com/questions/13429656/how-to-copy-contents-of-a-directory-into-build-directory-after-make-with-cmake)    
