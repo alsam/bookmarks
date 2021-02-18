@@ -1,5 +1,6 @@
 # C++ language bookmarks
 + C++ links
+    + [CPP C++ Papyrus](https://github.com/caiorss/C-Cpp-Notes)
     + [ C++ Ecosystem: Compilers, IDEs, Tools, Testing and More ](https://www.bfilipek.com/2019/10/cppecosystem.html?m=1)
         + [and meson, missed from the above review](https://mesonbuild.com/)
             + [The Meson Build System](https://github.com/mesonbuild/meson)
