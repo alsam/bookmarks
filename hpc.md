@@ -414,3 +414,5 @@ nimble install Arraymancer
     + [Presentation: Mali Graphics Debugger (GDC 2014)](https://www.youtube.com/watch?v=yv-V9Bl9pO4)
     + [GPU Compute Optimisation with Hardware Counters](https://www.youtube.com/watch?v=93cWfkyid7k)
     + [ARM Mali GPU Architecture Overview](https://www.youtube.com/watch?v=mo5zVbCg12I)
+
++ [AMD Radeon and NVIDIA GeForce FP32/FP64 GFLOPS Table](https://www.geeks3d.com/20140305/amd-radeon-and-nvidia-geforce-fp32-fp64-gflops-table-computing/)
