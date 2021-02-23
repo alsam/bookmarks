@@ -226,6 +226,8 @@
         + [Dispatching Design Patterns](https://github.com/ninjaaron/dispatching-design-patterns)
             + [Object Orientation and Polymorphism in Julia](https://github.com/ninjaaron/oo-and-polymorphism-in-julia)
 
++ [MIT Computational Thinking Spring 2021. 6.S083 / 18.S191 / 22.S092](https://www.youtube.com/watch?reload=9&v=uZYVjDDZW9A&feature=youtu.be)
+
 + [PDE Solvers in Julia](https://discourse.julialang.org/t/pde-solvers-in-julia/24416)
     + [CFD Julia: A Learning Module Structuring an Introductory Course on Computational Fluid Dynamics](https://www.mdpi.com/2311-5521/4/3/159/htm)
         + [CFD_Julia](https://github.com/surajp92/CFD_Julia)
