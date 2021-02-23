@@ -82,6 +82,7 @@
     + [An Open Source CFD-DEM Perspective](http://web.student.chalmers.se/groups/ofw5/Presentations/ChristophGonivaSlidesOFW5.pdf)
     + [3D, block structured, explicit/implicit, Navier-Stokes solver](https://github.com/mnucci32/aither)
         + [An evaluation of the Eigen linear algebra library for use in the aither CFD solver](https://github.com/mnucci32/eigenVsAither)
+            + [A look at the performance of expression templates in C++: Eigen vs Blaze vs Fastor vs Armadillo vs XTensor](https://romanpoya.medium.com/a-look-at-the-performance-of-expression-templates-in-c-eigen-vs-blaze-vs-fastor-vs-armadillo-vs-2474ed38d982)
 
     + CFD + GPU
         + [Recent progress and challenges in exploiting graphics processors in computational fluid dynamics: slightly outdated but interesting](http://arxiv.org/pdf/1309.3018.pdf)
