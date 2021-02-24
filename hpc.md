@@ -47,6 +47,22 @@
 
     + [adaptive multiresolution DG](https://github.com/JuntaoHuang/adaptive-multiresolution-DG)
 
+    + Chebyshev Pseudo-Spectram Method (PSM)
+        + [Spectral methods in python](http://cpraveen.github.io/teaching/chebpy.html)
+
+        + [An Introduction to Domain Decomposition Methods:algorithms, theory and parallel implementation](https://hal.archives-ouvertes.fr/cel-01100932/file/bookddm.pdf)
+        + [Chebyshev-Legendre Spectral Domain Decomposition Method for Two-Dimensional Vorticity Equations](https://www.cambridge.org/core/journals/communications-in-computational-physics/article/abs/chebyshevlegendre-spectral-domain-decomposition-method-for-twodimensional-vorticity-equations/18FEEF1F11DA2E8A8F134C8C2FE18052)
+        + [Domain Decomposition Methods for Mortar Finite Elements](https://cs.nyu.edu/media/publications/TR2000-804.pdf)
+        + [An efficient domain-decomposition pseudo-spectral method for solving elliptic differential equations](https://eprints.usq.edu.au/4568/)
+        + [A Pseudospectral Multi-Domain Method for the Incompressible Navier-Stokes Equations](https://www.researchgate.net/publication/220395568_A_Pseudospectral_Multi-Domain_Method_for_the_Incompressible_Navier-Stokes_Equations)
+        + [Deep Domain Decomposition Method: Elliptic Problems](https://arxiv.org/pdf/2004.04884.pdf)
+        + [How to Design an Efficient Pseudospectral Code](https://www.math.ualberta.ca/~bowman/talks/caims19.pdf)
+            + [code for **How to Design an Efficient Pseudospectral Code**](https://github.com/dealias/dns)
+        + [Dedalus is a framework for solving a broad range of partial differential equations using spectral methods, including initial-value, boundary-value, and generalized eigenvalue problems](https://dedalus-project.org/about/)
+            + [Dedalus is a flexible framework for solving partial differential equations using spectral methods](https://github.com/DedalusProject/dedalus)
+        + [multiple-interval pseudospectral methods to solve optimal control problems](https://github.com/danielrherber/basic-multiple-interval-pseudospectral)
+        + [pizza is a high-performance numerical code for quasi-geostrophic and non-rotating convection in a 2-D annulus geometry](https://github.com/magic-sph/pizza)
+
     + Finite Element Methods (FEM) and Spectral Element Methods (SEM)
         + [deal.II — an open source finite element library](https://www.dealii.org/)
             + [Amandus: Simulations based on multilevel Schwarz methods Documentation](http://www.mathsim.eu/~gkanscha/amandus/)
