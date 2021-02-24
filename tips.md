@@ -179,6 +179,8 @@
 
                 exec i3
                 ```
+            + [Lock and blank screen?](https://www.reddit.com/r/i3wm/comments/941rbd/lock_and_blank_screen/)    
+            tl;dr `i3lock -c 000000`
             + [How to Install LightDM Display Manager on Arch Linux](https://linoxide.com/linux-how-to/install-lightdm-arch-linux/)
             + [pacman db locked](https://bbs.archlinux.org/viewtopic.php?id=233989)    
               tl;dr `sudo rm /var/lib/pacman/db.lck`
