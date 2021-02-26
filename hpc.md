@@ -145,7 +145,7 @@
     + [CEED Library: Code for Efficient Extensible Discretization](https://ceed.exascaleproject.org/software/)
         + [MFEM is a free, lightweight, scalable C++ library for finite element methods](https://mfem.org/)
             + [MFEM is a free, lightweight, scalable C++ library for finite element methods: examples](https://mfem.org/examples/)
-            + [*GPU support in MFEM*](https://mfem.org/gpu-tips-n-tricks/)
+            + [**GPU support in MFEM**](https://mfem.org/gpu-tips-n-tricks/)
             + [Finite Element Discretization Library
                                    __
                        _ __ ___   / _|  ___  _ __ ___
@@ -157,14 +157,22 @@
 + AMG  
     + [AMGX](https://github.com/NVIDIA/AMGX)
         + [AMGX in Julia](https://github.com/JuliaGPU/AMGX.jl)
-    + [AMGCL](https://github.com/ddemidov/amgcl)
-        + [AMGCL](https://amgcl.readthedocs.io/en/latest/)
-    + [SPARSH-AMG](https://github.com/cmgcds/SParSH-AMG)
+        + [pyamgx: Python interface to NVIDIA's AMGX library](https://github.com/shwina/pyamgx)
+            + [pyamgx - GPU accelerated multigrid library for Python](https://pyamgx.readthedocs.io/en/latest/)
         + [AmgXWrapper](https://github.com/barbagroup/AmgXWrapper)
             + [An example and benchmark of AmgX and PETSc with Poisson system](https://github.com/barbagroup/AmgXWrapper/blob/master/example/poisson/src/main.cpp)
             + [PetIBM - toolbox and applications of the immersed-boundary method on distributed-memory architectures](https://github.com/barbagroup/PetIBM)
             + [geoclaw-landspill](https://github.com/barbagroup/geoclaw-landspill)
             + [High-productivity, high-performance workflow for virus-scale electrostatic simulations with Bempp-Exafmm](https://github.com/barbagroup/bempp_exafmm_paper)
+            + [Alexa: Simulating Shock Hydrodynamics on
+the GPU using Kokkos](https://www.osti.gov/servlets/purl/1510909)
+            + [GPGPU acceleration
+a case study of algebraic multigrid preconditioned GMRES](https://pure.tue.nl/ws/portalfiles/portal/142433633/Master_Thesis_Report_Lucas_Bekker_final_.pdf)
+    + [AMGCL](https://github.com/ddemidov/amgcl)
+        + [AMGCL](https://amgcl.readthedocs.io/en/latest/)
+    + [SPARSH-AMG](https://github.com/cmgcds/SParSH-AMG)
+        + [SPARSH-AMG: A LIBRARY FOR HYBRID CPU-GPU ALGEBRAIC
+MULTIGRID AND PRECONDITIONED ITERATIVE METHODS](https://arxiv.org/pdf/2007.00056.pdf)
 
 + [Как SpaceX использует GPU для обсчёта ракетных двигателей](http://habrahabr.ru/post/256081/)
     + [Rockets Shake And Rattle, So SpaceX Rolls Homegrown CFD](http://www.nextplatform.com/2015/03/27/rockets-shake-and-rattle-so-spacex-rolls-homegrown-cfd/)
