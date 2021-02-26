@@ -68,7 +68,7 @@
             + [Amandus: Simulations based on multilevel Schwarz methods Documentation](http://www.mathsim.eu/~gkanscha/amandus/)
         + [Feel++ finite element embedded library in C++](http://www.feelpp.org/)
             + [Feel++: Finite Element Embedded Library in C++](https://github.com/feelpp/feelpp)
-        + [Veamy: an extensible object-oriented C++ library for the virtual element method](https://camlab.cl/software/veamy/
+        + [Veamy: an extensible object-oriented C++ library for the virtual element method](https://camlab.cl/software/veamy/)
             + [Veamy: an extensible object-oriented C++ library for the virtual element method](https://www.researchgate.net/publication/319057392_Veamy_an_extensible_object-oriented_C_library_for_the_virtual_element_method)
         + [Two dimensional high-order spectral element method fluid dynamics solver](https://github.com/horsescfd/HORSES2D)
             + [Two dimensional high-order spectral element method fluid dynamics solver](https://github.com/juanmanzanero/HORSES2D)
