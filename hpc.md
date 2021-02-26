@@ -194,6 +194,7 @@ MULTIGRID AND PRECONDITIONED ITERATIVE METHODS](https://arxiv.org/pdf/2007.00056
     + [Course on CUDA Programming on NVIDIA GPUs, July 22-26, 2019](https://people.maths.ox.ac.uk/gilesm/cuda/)
         + [Lecture 3: control flow and synchronisation: Warp divergence](https://people.maths.ox.ac.uk/gilesm/cuda/lecs/lec3-2x2.pdf)
             + [Is branch divergence really so bad?](https://stackoverflow.com/questions/17223640/is-branch-divergence-really-so-bad)
+        + [Lecture 5: libraries and tools](https://people.maths.ox.ac.uk/gilesm/cuda/lecs/lec5.pdf)
         + [Maximizing Unified Memory Performance in CUDA](https://devblogs.nvidia.com/maximizing-unified-memory-performance-cuda/)
         + [CUDA OPTIMIZATION TIPS, TRICKS AND TECHNIQUES Stephen Jones, GTC 2017](http://on-demand.gputechconf.com/gtc/2017/presentation/s7122-stephen-jones-cuda-optimization-tips-tricks-and-techniques.pdf)
         + [HIGH THROUGHPUT WITH GPUS](https://indico.cern.ch/event/764011/contributions/3214768/attachments/1755004/2845106/RAPID_workshop_20181119.pdf)
