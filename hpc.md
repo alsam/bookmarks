@@ -155,6 +155,7 @@
             + [High-order Lagrangian Hydrodynamics Miniapp](https://github.com/CEED/Laghos)
 
 + [Modern trends in programming of GPUs DAQFEET 2021](https://indico.cern.ch/event/974424/contributions/4158315/attachments/2186808/3695101/modern-gpu.pdf)
+    + [Toward Performance-Portable PETSc for GPU-based Exascale Systems](https://arxiv.org/pdf/2011.00715.pdf)
 
 + AMG
     + [AMGX](https://github.com/NVIDIA/AMGX)
