@@ -154,7 +154,9 @@
                       |_| |_| |_||_|   \___||_| |_| |_|](https://github.com/mfem/mfem)
             + [High-order Lagrangian Hydrodynamics Miniapp](https://github.com/CEED/Laghos)
 
-+ AMG  
++ [Modern trends in programming of GPUs DAQFEET 2021](https://indico.cern.ch/event/974424/contributions/4158315/attachments/2186808/3695101/modern-gpu.pdf)
+
++ AMG
     + [AMGX](https://github.com/NVIDIA/AMGX)
         + [AMGX in Julia](https://github.com/JuliaGPU/AMGX.jl)
         + [pyamgx: Python interface to NVIDIA's AMGX library](https://github.com/shwina/pyamgx)
