@@ -47,15 +47,24 @@
 
     + [adaptive multiresolution DG](https://github.com/JuntaoHuang/adaptive-multiresolution-DG)
 
-    + Chebyshev Pseudo-Spectram Method (PSM)
+    + Chebyshev Pseudo-Spectral Method (PSM)
         + [Chebyshev Polynomials J.C. Mason D.C. Handscomb](http://inis.jinr.ru/sl/M_Mathematics/MRef_References/Mason,%20Hanscomb.%20Chebyshev%20polynomials%20(2003)/C0355-FM.pdf)
             + [Chapter  1. Definitions](http://inis.jinr.ru/sl/M_Mathematics/MRef_References/Mason,%20Hanscomb.%20Chebyshev%20polynomials%20(2003)/C0355-Ch01.pdf)
             + [Chapter  2. Basic Properties and Formulae](http://inis.jinr.ru/sl/M_Mathematics/MRef_References/Mason,%20Hanscomb.%20Chebyshev%20polynomials%20(2003)/C0355-Ch02.pdf)
+            + [Chapter  3. The Minimax Property and Its Applications](http://inis.jinr.ru/sl/M_Mathematics/MRef_References/Mason,%20Hanscomb.%20Chebyshev%20polynomials%20(2003)/C0355-Ch03.pdf)
+            + [Chapter  4. Orthogonality and Least-Squares Approximation](http://inis.jinr.ru/sl/M_Mathematics/MRef_References/Mason,%20Hanscomb.%20Chebyshev%20polynomials%20(2003)/C0355-Ch04.pdf)
             + [Chapter  5. Chebyshev Series](http://inis.jinr.ru/sl/M_Mathematics/MRef_References/Mason,%20Hanscomb.%20Chebyshev%20polynomials%20(2003)/C0355-Ch05.pdf)
+            + [Chapter  6. Chebyshev Interpolation](http://inis.jinr.ru/sl/M_Mathematics/MRef_References/Mason,%20Hanscomb.%20Chebyshev%20polynomials%20(2003)/C0355-Ch06.pdf)
+            + [Chapter  7. Near-Best L∞, L1 and Lp Approximations](http://inis.jinr.ru/sl/M_Mathematics/MRef_References/Mason,%20Hanscomb.%20Chebyshev%20polynomials%20(2003)/C0355-Ch07.pdf)
+            + [Chapter  8. Integration Using Chebyshev Polynomials](http://inis.jinr.ru/sl/M_Mathematics/MRef_References/Mason,%20Hanscomb.%20Chebyshev%20polynomials%20(2003)/C0355-Ch08.pdf)
+            + [Chapter  9. Solution of Integral Equations](http://inis.jinr.ru/sl/M_Mathematics/MRef_References/Mason,%20Hanscomb.%20Chebyshev%20polynomials%20(2003)/C0355-Ch09.pdf)
+            + [Chapter 10. Solution of Ordinary Differential Equations](http://inis.jinr.ru/sl/M_Mathematics/MRef_References/Mason,%20Hanscomb.%20Chebyshev%20polynomials%20(2003)/C0355-Ch10.pdf)
             + [**Chapter 11. Chebyshev and Spectral Methods for Partial DifferentialEquations**](http://inis.jinr.ru/sl/M_Mathematics/MRef_References/Mason,%20Hanscomb.%20Chebyshev%20polynomials%20(2003)/C0355-Ch11.pdf)
-            + [Appendices:](http://inis.jinr.ru/sl/M_Mathematics/MRef_References/Mason,%20Hanscomb.%20Chebyshev%20polynomials%20(2003)/C0355-App.pdf
+            + [Chapter 12. Conclusion](http://inis.jinr.ru/sl/M_Mathematics/MRef_References/Mason,%20Hanscomb.%20Chebyshev%20polynomials%20(2003)/C0355-Ch12.pdf)
+            + [Appendices:](http://inis.jinr.ru/sl/M_Mathematics/MRef_References/Mason,%20Hanscomb.%20Chebyshev%20polynomials%20(2003)/C0355-App.pdf)
             + [Summary of Notations, Definitions and ImportantProperties](http://inis.jinr.ru/sl/M_Mathematics/MRef_References/Mason,%20Hanscomb.%20Chebyshev%20polynomials%20(2003)/C0355-App.pdf#[1,{%22name%22:%22FitH%22},690])
-            + [Tables of Coefficients](http://inis.jinr.ru/sl/M_Mathematics/MRef_References/Mason,%20Hanscomb.%20Chebyshev%20polynomials%20(2003)/C0355-App.pdf#[7,{%22name%22:%22FitH%22},677]
+            + [Tables of Coefficients](http://inis.jinr.ru/sl/M_Mathematics/MRef_References/Mason,%20Hanscomb.%20Chebyshev%20polynomials%20(2003)/C0355-App.pdf#[7,{%22name%22:%22FitH%22},677])
+
         + [Spectral methods in python](http://cpraveen.github.io/teaching/chebpy.html)
 
         + [An Introduction to Domain Decomposition Methods:algorithms, theory and parallel implementation](https://hal.archives-ouvertes.fr/cel-01100932/file/bookddm.pdf)
