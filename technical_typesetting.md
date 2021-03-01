@@ -117,6 +117,14 @@
         \end{frame}
         }
         ```
+    + [Customize title of beamer note pages](https://tex.stackexchange.com/questions/545199/customize-title-of-beamer-note-pages)
+        tl;dr    
+        ```latex
+        % Space between paragraphs on notes page
+        \addtobeamertemplate{note page}{\setlength{\parskip}{12pt}}{}
+        %%\addtobeamertemplate{note page}{\setbeamerfont{itemize/enumerate subbody}{size=\scriptsize}}{}
+        %%\addtobeamertemplate{note page}{\setbeamerfont{itemize/enumerate subsubbody}{size=\tiny}}{}
+        ```
     + [What are the main differences between Texmaker and TeXstudio?](http://tex.stackexchange.com/questions/208219/what-are-the-main-differences-between-texmaker-and-texstudio)
         + [LaTeX Editors/IDEs](http://tex.stackexchange.com/questions/339/latex-editors-ides)
     + [buildtexlive](https://github.com/elkrejzi/system-management/blob/master/buildscripts/buildtexlive#L52)
