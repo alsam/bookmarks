@@ -53,6 +53,7 @@
         + [How to get Doxygen to recognize custom latex command](https://stackoverflow.com/questions/3058035/how-to-get-doxygen-to-recognize-custom-latex-command)
             + [EXTRA_PACKAGES tag in your configuration file](https://www.doxygen.nl/manual/config.html#cfg_extra_packages)
         + [C++ Doxygen Detailed Example](https://gist.github.com/caiorss/b04df92734c93e300658285d0b76ed07)
+        + [How to use doxygen to create UML class diagrams from C++ source](https://stackoverflow.com/questions/4755913/how-to-use-doxygen-to-create-uml-class-diagrams-from-c-source)
 
     + [CppCon 2017: Rong Lu "C++ Development with Visual Studio Code"](https://www.youtube.com/watch?v=rFdJ68WbkdQ)
     + [C++ Development with Visual Studio Code](https://www.youtube.com/watch?v=bK882S9ESpo)
