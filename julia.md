@@ -87,6 +87,10 @@
             + [see also: length, numel, count, strlen #1939 summary `numel` -> `length`](https://github.com/JuliaLang/julia/issues/1939)
     + [Julia automatic differentiation](https://github.com/alsam/bookmarks/blob/master/AD.md)
 
+    + CAS in Julia - Symbolic Computations
+        + [JuliaSymbolics Roadmap: A Modern Computer Algebra System for a Modern Language](https://juliasymbolics.org/roadmap/)
+        + [Symbolic Computations in Julia using Maxima](https://github.com/nsmith5/Maxima.jl)
+
     + [Group of pkgs for function approx.](https://github.com/ApproxFun)
         + [Julia package for function approximation](https://github.com/ApproxFun/ApproxFun.jl)
         + [Julia package for solving singular integral equations and Riemann–Hilbert problems](https://github.com/ApproxFun/SingularIntegralEquations.jl)
