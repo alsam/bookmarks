@@ -1,5 +1,7 @@
 # julia language bookmarks
 + Julia links
+    + [Краткое описание языка програм-мирования Julia и некоторые при-меры его использования](http://www.ihed.ras.ru/~thermo/Julia/Brief%20description%20of%20Julia%20language.pdf)
+    + [Hands-On Design Patterns and Best Practices with Julia](https://www.packtpub.com/product/hands-on-design-patterns-and-best-practices-with-julia/9781838648817)
     + [Julia By Example](http://samuelcolvin.github.io/JuliaByExample/)
     + [Beautiful Julia: Cool Language Constructs and Tricks for Beginners](http://blog.translusion.com/posts/beautiful-julia/)
     + [Tricks in Julia](http://blog.translusion.com/posts/julia-tricks/)
@@ -86,6 +88,10 @@
             + [from here: reddit: Rust and Julia comparison](http://www.reddit.com/r/rust/comments/27jk63/rust_and_julia_comparison/)
             + [see also: length, numel, count, strlen #1939 summary `numel` -> `length`](https://github.com/JuliaLang/julia/issues/1939)
     + [Julia automatic differentiation](https://github.com/alsam/bookmarks/blob/master/AD.md)
+
+    + CAS in Julia - Symbolic Computations
+        + [JuliaSymbolics Roadmap: A Modern Computer Algebra System for a Modern Language](https://juliasymbolics.org/roadmap/)
+        + [Symbolic Computations in Julia using Maxima](https://github.com/nsmith5/Maxima.jl)
 
     + [Group of pkgs for function approx.](https://github.com/ApproxFun)
         + [Julia package for function approximation](https://github.com/ApproxFun/ApproxFun.jl)
