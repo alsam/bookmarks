@@ -232,7 +232,10 @@
         make check
         chpl -o hello examples/hello.chpl
         ```
-+ [Eigen 3.2.92 : Bug 1221: disable gcc 6 warning: ignoring attributes on template argument](https://bitbucket.org/eigen/eigen/commits/ad10b2383e48)
++ [linear algebra library Eigen](http://eigen.tuxfamily.org/)
+    + [Eigen Cheat sheet](https://gist.github.com/gocarlos/c91237b02c120c6319612e42fa196d77)
+    + [Eigen Aliasing](https://eigen.tuxfamily.org/dox-devel/group__TopicAliasing.html)
+    + [Eigen 3.2.92 : Bug 1221: disable gcc 6 warning: ignoring attributes on template argument](https://bitbucket.org/eigen/eigen/commits/ad10b2383e48)
     + [Eigen disable GCC diagnostic ignored "-Wignored-attributes" has already merged](https://github.com/RLovelett/eigen/blob/master/Eigen/src/Core/util/DisableStupidWarnings.h)
     + [An evaluation of the Eigen linear algebra library for use in the aither CFD solver](https://github.com/mnucci32/eigenVsAither)
     + [A look at the performance of expression templates in C++: Eigen vs Blaze vs Fastor vs Armadillo vs XTensor](https://romanpoya.medium.com/a-look-at-the-performance-of-expression-templates-in-c-eigen-vs-blaze-vs-fastor-vs-armadillo-vs-2474ed38d982)
