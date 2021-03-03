@@ -995,6 +995,9 @@
 
     + Graphics in Rust
 
+        + [librsvg - A small library to render Scalable Vector Graphics (SVG), associated with the GNOME Project](https://gitlab.gnome.org/GNOME/librsvg)
+            + [libRSVG bindings for Rust](https://github.com/selaux/rsvg-rs)
+            + [Federico's Blog on librsvg](https://people.gnome.org/~federico/blog/index.html)
         + [Rust Graphics Mages](https://github.com/gfx-rs)
             + [Awesome wgpu](https://github.com/rofrol/awesome-wgpu)
             + [Native WebGPU implementation based on gfx-hal](https://github.com/gfx-rs/wgpu)
