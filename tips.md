@@ -1191,6 +1191,7 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
 + profilers
     + [gperftools: Fast, multi-threaded malloc() and nifty performance analysis tools](https://code.google.com/p/gperftools/?redir=1)
         + [cpuprofile doc](http://google-perftools.googlecode.com/svn/trunk/doc/cpuprofile.html)
+        + [pmu tools is a collection of tools and libraries for profile collection and performance analysis on Intel CPUs on top of Linux perf](https://github.com/andikleen/pmu-tools)
         + [Issue 278 in google-perftools: CPU profiler shows function addresses instead of function names](https://groups.google.com/forum/#!topic/google-perftools/BQqP6ectdoQ)
         + [Instructing configure where libunwind lives: an answer to `#error Cannot calculate stack trace: will need to write for your environment`](https://groups.google.com/forum/#!topic/google-perftools/30OlGHFNKZw)
     + [IgProf, The Ignominous Profiler](http://igprof.org/index.html)
