@@ -1032,6 +1032,7 @@
             + [Пишем свой упрощенный OpenGL на Rust — часть 3 (растеризатор)](http://habrahabr.ru/post/262235/)
 
             + [Simple ray tracer written in Rust from scratch](https://github.com/dranikpg/simple-rays)
+            + [rpt - a physically based, CPU-only rendering engine written in Rust](https://github.com/ekzhang/rpt)
 
         + [Vision Cortex - Semantic Computer Vision](https://github.com/visioncortex/visioncortex)
             + [visioncortex VTracer](https://github.com/visioncortex/vtracer)
