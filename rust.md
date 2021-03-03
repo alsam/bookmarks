@@ -1033,6 +1033,7 @@
 
             + [Simple ray tracer written in Rust from scratch](https://github.com/dranikpg/simple-rays)
             + [rpt - a physically based, CPU-only rendering engine written in Rust](https://github.com/ekzhang/rpt)
+                + [a compound of five cubes, one of the five regular polyhedral compounds](https://www.reddit.com/r/rust/comments/ltazux/compound_of_five_cubes_rendered_using_rust_rpt_v02/)
 
         + [Vision Cortex - Semantic Computer Vision](https://github.com/visioncortex/visioncortex)
             + [visioncortex VTracer](https://github.com/visioncortex/vtracer)
