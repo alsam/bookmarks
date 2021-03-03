@@ -1038,6 +1038,12 @@
             + [rpt - a physically based, CPU-only rendering engine written in Rust](https://github.com/ekzhang/rpt)
                 + [a compound of five cubes, one of the five regular polyhedral compounds](https://www.reddit.com/r/rust/comments/ltazux/compound_of_five_cubes_rendered_using_rust_rpt_v02/)
 
+            + [A Rust guide to Raytracing in One Weekend by Peter Shirley](https://github.com/JDuchniewicz/rustracing)
+                + [C++ to Rust - or how to render your mindset](https://jduchniewicz.com/posts/2021/02/c-to-rust-or-how-to-render-your-mindset/)
+                + [C++ to Rust introduction with practical "Raytracing in One Weekend" project](https://www.reddit.com/r/rust/comments/lukgyi/c_to_rust_introduction_with_practical_raytracing/)
+                + [Ray Tracing in One Weekend](https://raytracing.github.io/books/RayTracingInOneWeekend.html)
+                    + [Ray tracing in one weekend : several languages](https://github.com/nsauzede/realist/tree/master/rtiow)
+
         + [Vision Cortex - Semantic Computer Vision](https://github.com/visioncortex/visioncortex)
             + [visioncortex VTracer](https://github.com/visioncortex/vtracer)
 
