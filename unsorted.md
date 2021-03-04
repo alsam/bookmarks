@@ -36,3 +36,5 @@
 
     + [Core control application](https://gitlab.com/corectrl/corectrl)
         + [CoreCtrl is a linux application that allows you to control with ease your computer hardware using application profiles](https://gitlab.com/corectrl/corectrl/-/wikis/home)
+
+    + [Completely Unscientific Benchmarks](https://github.com/frol/completely-unscientific-benchmarks)
