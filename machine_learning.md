@@ -514,3 +514,5 @@
 + [A collection of research papers on decision, classification and regression trees with implementations](https://github.com/benedekrozemberczki/awesome-decision-tree-papers)
 + [Fourier Neural Operator for Parametric Partial Differential Equations](https://deepai.org/publication/fourier-neural-operator-for-parametric-partial-differential-equations)
 + [18.337J/6.338J: Parallel Computing and Scientific Machine Learning](https://github.com/mitmath/18337)
+
++ [DeepFly3D is a PyTorch and PyQT5 implementation of 2D-3D tethered Drosophila pose estimation](https://github.com/NeLy-EPFL/DeepFly3D)
