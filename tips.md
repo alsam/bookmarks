@@ -558,6 +558,7 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
 
         + [19 советов по повседневной работе с Git](http://habrahabr.ru/company/mailru/blog/267595/)
         + [Достаточно Git-а, чтобы быть (менее) опасным](http://habrahabr.ru/post/268951/)
+        + [GitLab rename branch and start over on another](https://stackoverflow.com/questions/35119034/gitlab-rename-branch-and-start-over-on-another)
         + [git checkout tag, git pull fails in branch](http://stackoverflow.com/questions/10147475/git-checkout-tag-git-pull-fails-in-branch)
           ```sh
           git push -u origin master
