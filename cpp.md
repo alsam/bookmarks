@@ -850,6 +850,19 @@
             + [Modern C++ Tutorial: C++11/14/17/20 On the Fly](https://github.com/changkun/modern-cpp-tutorial)
             + [Reading TAR files in C++](https://techoverflow.net/2013/03/29/reading-tar-files-in-c/)
             + [Error codes are far slower than exceptions](https://lordsoftech.com/programming/error-codes-are-far-slower-than-exceptions/)
+            + [Python-Like enumerate() In C++17](http://www.reedbeta.com/blog/python-like-enumerate-in-cpp17/)
+                + [Python's enumerate for C++](https://stackoverflow.com/questions/53542092/pythons-enumerate-for-c)
+                    + [wandbox](https://wandbox.org/permlink/FBn7YpFTLxAbmdPN)
+                + [Find position of element in C++11 range-based for loop?](https://stackoverflow.com/questions/10962290/find-position-of-element-in-c11-range-based-for-loop)    
+                tl;dr    
+                ```c++
+                std::vector<std::string> strings{10, "Hello"};
+                int main(){
+                    strings[5] = "World";
+                    for(auto const& el: strings| boost::adaptors::indexed(0))
+                      std::cout << el.index() << ": " << el.value() << std::endl;
+                }
+                ```
             + [How to find out if there is any non ASCII character in a string with a file path](https://stackoverflow.com/questions/48212992/how-to-find-out-if-there-is-any-non-ascii-character-in-a-string-with-a-file-path)    
             tl;dr    
             ```c++
