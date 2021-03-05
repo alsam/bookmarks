@@ -1,5 +1,7 @@
 # HPC (High Performance Computing) bookmarks
 
++ [Learning and practice of high performance computing](https://github.com/cjmcv/hpc)
+
 + CFD
     + [CFD Notes by Hiroaki Nishikawa](http://www.cfdnotes.com/)
         + [CFD codes in f90](http://www.cfdbooks.com/cfdcodes.html)
