@@ -4,6 +4,8 @@
 
 + [A template for textbooks in the same style as Algorithms for Optimization](https://github.com/sisl/tufte_algorithms_book.git)
 
++ [Accessible LaTeX](https://github.com/MatthewDaws/AccessibleLaTeX)
+
 + pandoc
     + [pandoc binaries](https://github.com/jgm/pandoc/releases/tag/1.15.0.6)
     + installing from `hackage`
