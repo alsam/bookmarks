@@ -517,6 +517,7 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
 + Distributed versioning systems
     + git & github & gitlab
         + [git LFS](https://git-lfs.github.com/)
+        + [Tig: text-mode interface for Git](https://jonas.github.io/tig/)
         + [Lazygit — псевдографический консольный клиент для Git](https://www.linux.org.ru/news/opensource/15584752)
         + Git remote access
             + [s there a way to skip password typing when using https:// on GitHub?](Is there a way to skip password typing when using https:// on GitHub?)
