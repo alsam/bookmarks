@@ -3,6 +3,8 @@
 + [Learning and practice of high performance computing](https://github.com/cjmcv/hpc)
 
 + CFD
+    + [Algebraic Flux Correction I. Scalar Conservation Laws](http://www.mathematik.tu-dortmund.de/lsiii/cms/papers/Kuzmin2011b.pdf)
+    + [Algebraic Flux Correction II. Compressible Euler Equations](https://www.researchgate.net/publication/226067892_Algebraic_Flux_Correction_II_Compressible_Euler_Equations)
     + [CFD Notes by Hiroaki Nishikawa](http://www.cfdnotes.com/)
         + [CFD codes in f90](http://www.cfdbooks.com/cfdcodes.html)
     + [Tim Warburton's github repositories](https://github.com/tcew?tab=repositories)
