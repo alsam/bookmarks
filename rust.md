@@ -215,6 +215,8 @@
         + [diffeq](https://github.com/mattsse/diffeq)
             + [diffeq | Lorenz Attractor](https://mattsse.github.io/diffeq/)
             + [diffeq - Basic Ordinary Differential Equation solvers](https://www.reddit.com/r/rust/comments/euq5xg/diffeq_basic_ordinary_differential_equation/)
+        + [Scientific Computing in Rust: bacon-sci](https://github.com/aftix/bacon)
+            + [Scientific Computing in Rust: bacon-sci](https://aftix.xyz/home/bacon/)
         + [Rust 2020: Scientific Rust](https://github.com/willi-kappler/rust_2020)
             + [Staggered-Grid Fluid Solver in Rust](https://github.com/seanlth/Fluid-Solver)
             + [Weak Galerkin Finite Element Method -- looks promising but very outdated](https://github.com/scharris/WGFEM-Rust)
