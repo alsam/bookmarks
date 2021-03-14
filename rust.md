@@ -268,6 +268,7 @@
         + [Matrix Multiplication in Rust (Part 1)](http://www.suchin.co/2016/04/25/Matrix-Multiplication-In-Rust-Pt-1/)
         + [ndarray: an N-dimensional array with array views, multidimensional slicing, and efficient operations](https://github.com/bluss/rust-ndarray)
             + [ndarray presentation by the author](http://bluss.github.io/rust-ndarray/talk1/)
+            + [ndarray_for_numpy_users](https://docs.rs/ndarray/0.14.0/ndarray/doc/ndarray_for_numpy_users/)
         + [sparse linear algebra library for rust](https://github.com/vbarrielle/sprs)
         + [Linear algebra library for the Rust programming language](https://nalgebra.org/)
             + [Linear algebra library for Rust](https://github.com/rustsim/nalgebra)
