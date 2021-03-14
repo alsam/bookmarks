@@ -220,6 +220,8 @@
 
 + [Хочу все знать. Язык Julia](https://geekbrains.ru/posts/julia_lang)
 
++ [Metatheory.jl is a general purpose metaprogramming and algebraic computation library for the Julia programming language, designed to take advantage of the powerful reflection capabilities to bridge the gap between symbolic mathematics, abstract interpretation, equational reasoning, optimization, composable compiler transforms, and advanced homoiconic pattern matching features](https://github.com/0x0f0f0f/Metatheory.jl) 
+
 + JuliaCon 2019
     + [JuliaCon 2019 | What's Bad About Julia | Jeff Bezanson](https://www.youtube.com/watch?v=TPuJsgyu87U&feature=youtu.be)
     + [JuliaCon 2019 | How We Wrote a Textbook using Julia](https://www.youtube.com/watch?v=ofWy5kaZU3g&feature=youtu.be)
