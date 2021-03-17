@@ -33,6 +33,10 @@
     + [Introducing Julia/Arrays and tuples](https://en.wikibooks.org/wiki/Introducing_Julia/Arrays_and_tuples)
         + [Multidimensional algorithms and iteration](http://julialang.org/blog/2016/02/iteration)
         + [Multi-dimensional arrays with arbitrary upper and lower bounds that can be fixed or flexible](https://github.com/eschnett/FlexibleArrays.jl)
+        + [new syntax for transpose](https://github.com/JuliaLang/julia/issues/21037)
+            + [add 'ᵀ postfix operator for transpose](https://github.com/JuliaLang/julia/pull/38062)
+                + [1.6-rc: New 'ᵀ syntax is misleading](https://github.com/JuliaLang/julia/issues/40070)
+                    + [Revert "add 'ᵀ postfix operator for transpose](https://github.com/JuliaLang/julia/pull/40075)
     + [Compiling Julia for NVIDIA GPUs](http://blog.maleadt.net/2015/01/15/julia-cuda/)
     + [phdthesis\title{Abstraction in Technical Computing}\author{Jeffrey Werner Bezanson}](https://github.com/JeffBezanson/phdthesis/blob/master/main.pdf)
 
