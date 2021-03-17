@@ -12,6 +12,14 @@
         + [Arch Linux config files](https://github.com/afiskon/archlinux-on-desktop)
         + [Archlinux PKGBUILDs for Data Science, Machine Learning, Deep Learning, NLP and Computer Vision](https://github.com/mratsim/Arch-Data-Science)
         + [Arch Linux as your Day-to-day Desktop (2020)](https://ajohnsc.com/2020/arch-linux-as-your-day-to-day-desktop-(2020)/)
+        + [The Recommended Way To Clean The Package Cache In Arch Linux](https://ostechnix.com/recommended-way-clean-package-cache-arch-linux/#:~:text=So%2C%20it%20is%20recommended%20to,sudo%20pacman%20%2DSc%22%20command.)    
+        tl;dr    
+        ```sh
+        sudo paccache -r
+        sudo paccache -rk 1
+        sudo pacman -Sc
+        sudo pacman -Scc
+        ```
         + [Arch Linux first installation](https://d3s0x.github.io/arch-installation/)
             + [Arch Linux Installation (2020)](https://www.youtube.com/watch?v=UiYS8xWFXLY&feature=youtu.be)
             tl;dr
