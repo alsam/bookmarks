@@ -837,6 +837,8 @@
 
         + selected C++ projects
             + [Curated list of awesome lists Awesome C++](https://project-awesome.org/fffaraz/awesome-cpp)
+                + [Newton Dynamics alternatives and similar libraries](https://cpp.libhunt.com/newton-dynamics-alternatives)
+                    + [newton-dynamics](https://github.com/MADEAPPS/newton-dynamics)
                 + [A survey of argument parsing libraries in C/C++](https://attractivechaos.wordpress.com/2018/08/31/a-survey-of-argument-parsing-libraries-in-c-c/)
                     + [Compare clipp and jarro2783/cxxopts's popularity and activity](https://cpp.libhunt.com/compare-clipp-vs-cxxopts?rel=cmp-cmp)
                     + [Lightweight C++ command line option parser](https://github.com/jarro2783/cxxopts)
