@@ -998,7 +998,7 @@
         + [resvg is an SVG rendering library](https://github.com/RazrFalcon/resvg)
 
     + Graphics in Rust
-
+        + [Rust Graphics Crates](https://github.com/ocboogie/rust-graphics-crates)
         + [librsvg - A small library to render Scalable Vector Graphics (SVG), associated with the GNOME Project](https://gitlab.gnome.org/GNOME/librsvg)
             + [libRSVG bindings for Rust](https://github.com/selaux/rsvg-rs)
             + [Federico's Blog on librsvg](https://people.gnome.org/~federico/blog/index.html)
