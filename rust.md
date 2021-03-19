@@ -398,6 +398,7 @@
         + [Reddit Rust iterator cheet sheet](https://www.reddit.com/r/rust/comments/38dl0o/rust_iterator_cheat_sheet/)
     + [The Advanced Rust Programming Language](https://doc.rust-lang.org/nightly/adv-book/)
     + [Rust For C++ Programmers](https://github.com/nrc/r4cppp)
+        + [C++ to Rust - or how to render your mindset](https://jduchniewicz.com/posts/2021/02/c-to-rust-or-how-to-render-your-mindset/#introduction)
         + [blogs: Rust for C++ programmers](http://featherweightmusings.blogspot.co.nz/search/label/rust-for-c)
         + [Arrays and Vectors in Rust](https://github.com/nrc/r4cppp/blob/master/arrays.md)
         + [On rust's memory management: Mainly for C/C++ programmers](http://blog.zgtm.de/)
