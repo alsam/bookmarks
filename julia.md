@@ -265,3 +265,5 @@
 
         @enter foo(20)
         ```
+
++ [ two-slit experiment Непристойное приложение Ненормальное программирование](https://habr.com/ru/post/508644/)
