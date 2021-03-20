@@ -7,6 +7,8 @@
     + [Tricks in Julia](http://blog.translusion.com/posts/julia-tricks/)
     + [Julia for Numerical Computation in MIT Courses](https://github.com/stevengj/julia-mit)
     + [My New Workflow with Julia 1.0](https://erik-engheim.medium.com/my-new-workflow-with-julia-1-0-99711103d97c)
+    + [What scientists must know about hardware to write fast code](https://biojulia.net/post/hardware/)
+        + [Что ученые должны знать о железе для написания быстрого кода](https://habr.com/ru/post/529204/)
     + [Tutorial on precompilation](https://julialang.org/blog/2021/01/precompile_tutorial/)
         + [Force precompile and startup times](https://www.reddit.com/r/Julia/comments/9wkmzk/force_precompile_and_startup_times/)
         + [Why julia takes long time to import a package?](https://stackoverflow.com/questions/62752978/why-julia-takes-long-time-to-import-a-package)
