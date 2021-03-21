@@ -94,6 +94,7 @@
 
 + [SBV: SMT Based Verification in Haskell](http://leventerkok.github.io/sbv/)
     + [When is Cheryl's birthday?](http://www.telegraph.co.uk/education/educationnews/11534378/When-is-Cheryls-birthday-The-tricky-math-problem-that-has-everyone-stumped.html)
+    + [LiquidHaskell (LH) refines Haskell's types with logical predicates that let you enforce critical properties at compile time](https://ucsd-progsys.github.io/liquidhaskell-blog/)
 
 + [parallelforall](https://github.com/alsam/bookmarks/blob/master/hpc.md#parallelforall)
 
