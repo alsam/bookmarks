@@ -810,6 +810,8 @@
 
                 + [Bit Manipulation with C++20](https://www.modernescpp.com/index.php/bit-manipulation-with-c-20)
 
+                + [Counting the number of fields in an aggregate in C++20](https://joaobapt.medium.com/counting-the-number-of-fields-in-an-aggregate-in-c-20-c81aecfd725c)
+
         + CppCon 2020
             + [Plenary: Performance Matters - Emery Berger - CppCon 2020](https://www.youtube.com/watch?v=koTf7u0v41o&feature=youtu.be)
             + [CppCon 2020 Presentation Materials](https://github.com/CppCon/CppCon2020)
