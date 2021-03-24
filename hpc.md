@@ -202,6 +202,12 @@ MULTIGRID AND PRECONDITIONED ITERATIVE METHODS](https://pdfs.semanticscholar.org
     + [SPARSH-AMG](https://github.com/cmgcds/SParSH-AMG)
         + [SPARSH-AMG: A LIBRARY FOR HYBRID CPU-GPU ALGEBRAIC
 MULTIGRID AND PRECONDITIONED ITERATIVE METHODS](https://arxiv.org/pdf/2007.00056.pdf)
+    + [multigrid solver for solving elliptic PDEs using finite differences on a rectangular grid](https://github.com/jesserobertson/multigrid)
+    + [Multigrid HowTo (Part I): A simple Multigrid solver in
+C++ in less than 200 lines of code](https://www10.cs.fau.de/publications/reports/TechRep_2008-03.pdf)
+    + [Multigrid HowTo (Part II): An Open Source Algebraic
+Multigrid Solver in C++](https://www10.cs.fau.de/publications/reports/TechRep_2009-02.pdf)
+        + [Multigrid solver prototype (GMG) and simple Lid Cavity solver](https://discourse.julialang.org/t/multigrid-solver-prototype-gmg-and-simple-lid-cavity-solver/41969)
 
 + [Как SpaceX использует GPU для обсчёта ракетных двигателей](http://habrahabr.ru/post/256081/)
     + [Rockets Shake And Rattle, So SpaceX Rolls Homegrown CFD](http://www.nextplatform.com/2015/03/27/rockets-shake-and-rattle-so-spacex-rolls-homegrown-cfd/)
