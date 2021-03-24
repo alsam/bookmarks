@@ -208,6 +208,7 @@ C++ in less than 200 lines of code](https://www10.cs.fau.de/publications/reports
     + [Multigrid HowTo (Part II): An Open Source Algebraic
 Multigrid Solver in C++](https://www10.cs.fau.de/publications/reports/TechRep_2009-02.pdf)
         + [Multigrid solver prototype (GMG) and simple Lid Cavity solver](https://discourse.julialang.org/t/multigrid-solver-prototype-gmg-and-simple-lid-cavity-solver/41969)
+    + [ExaStencils: Advanced Multigrid Solver Generation](https://link.springer.com/chapter/10.1007/978-3-030-47956-5_14)
 
 + [Как SpaceX использует GPU для обсчёта ракетных двигателей](http://habrahabr.ru/post/256081/)
     + [Rockets Shake And Rattle, So SpaceX Rolls Homegrown CFD](http://www.nextplatform.com/2015/03/27/rockets-shake-and-rattle-so-spacex-rolls-homegrown-cfd/)
