@@ -120,6 +120,8 @@
 
 + [How to repeat a string a variable number of times in C++?](https://stackoverflow.com/questions/166630/how-to-repeat-a-string-a-variable-number-of-times-in-c)
 
++ [Python to list HTTP-files and directories](https://stackoverflow.com/questions/11023530/python-to-list-http-files-and-directories/34718858)
+
 + [Missing Python.h in Arch](https://unix.stackexchange.com/questions/104288/missing-python-h-in-arch)    
 tl;dr    
 ```c++
