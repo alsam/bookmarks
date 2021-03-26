@@ -124,6 +124,8 @@
     + [Web Scraping and Parsing HTML in Python with Beautiful Soup](https://www.twilio.com/blog/web-scraping-and-parsing-html-in-python-with-beautiful-soup)
         + tl;dr `sudo pip3 install bs4`
     + [scrapy - open source and collaborative framework for extracting the data you need from websites](https://scrapy.org/)
+    + [How to split a dos path into its components in Python](https://stackoverflow.com/questions/3167154/how-to-split-a-dos-path-into-its-components-in-python)
+        + [pathlib — Object-oriented filesystem paths](https://docs.python.org/3/library/pathlib.html)
 
 + [Missing Python.h in Arch](https://unix.stackexchange.com/questions/104288/missing-python-h-in-arch)    
 tl;dr    
