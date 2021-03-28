@@ -71,6 +71,7 @@
             + [Summary of Notations, Definitions and ImportantProperties](http://inis.jinr.ru/sl/M_Mathematics/MRef_References/Mason,%20Hanscomb.%20Chebyshev%20polynomials%20(2003)/C0355-App.pdf#[1,{%22name%22:%22FitH%22},690])
             + [Tables of Coefficients](http://inis.jinr.ru/sl/M_Mathematics/MRef_References/Mason,%20Hanscomb.%20Chebyshev%20polynomials%20(2003)/C0355-App.pdf#[7,{%22name%22:%22FitH%22},677])
 
+        + [A brief introduction to pseudo-spectral methods: application to diffusion problems](https://arxiv.org/pdf/1606.05432.pdf)
         + [Spectral methods in python](http://cpraveen.github.io/teaching/chebpy.html)
 
         + [An Introduction to Domain Decomposition Methods:algorithms, theory and parallel implementation](https://hal.archives-ouvertes.fr/cel-01100932/file/bookddm.pdf)
