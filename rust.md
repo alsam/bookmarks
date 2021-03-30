@@ -254,6 +254,7 @@
         + [Extremely generic linear algebra libary for Rust](https://github.com/maplant/aljabar)
         + [A Linear Algebra library that uses const generics to be no_std and specialization to enable SIMD](https://github.com/djugei/optimath/)
         + [A Rust linear algebra library based on const generics](https://github.com/27factorial/const-linear)
+        + [al-jabr - n-dimensional linear algebra and mathematics library for computer graphics and other applications](https://crates.io/crates/al-jabr)
         + [The all-in-one maths library for Rust : A general purpose mathematics library for Rust, not usable now](https://github.com/jordanosborn/RustyPandas)
         + [Request for some numerics related features](https://users.rust-lang.org/t/request-for-some-numerics-related-features/3530/6)
             + [(former Unum)Create RUST posit arithmetic library based on 21 February 2017 Posit Arithmetic by John L. Gustafson - Beating Floating Point at its Own Game](https://users.rust-lang.org/t/create-rust-posit-arithmetic-library-based-on-21-february-2017-posit-arithmetic-by-john-l-gustafson-beating-floating-point-at-its-own-game/10077/3)
