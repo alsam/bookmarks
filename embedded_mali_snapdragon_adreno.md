@@ -258,3 +258,9 @@
     + [Neon Intrinsics](https://developer.arm.com/architectures/instruction-sets/simd-isas/neon/intrinsics?search=vfmaq_laneq_f32)
     + [Arm® A64 Instruction Set Architecture: Armv8, for Armv8-A architecture profile FMLA (vector)](https://developer.arm.com/docs/ddi0596/h/simd-and-floating-point-instructions-alphabetic-order/fmla-vector-floating-point-fused-multiply-add-to-accumulator-vector)
     + [Arm Neon Intrinsics Add Functions (Explained With C)](https://medium.com/@luc.trudeau/arm-neon-intrinsics-add-functions-explained-with-c-90346d912796)
+
++ [Launch Activity from Native code](https://stackoverflow.com/questions/19945984/launch-activity-from-native-code)
+    + [How to launch a new Activity using NativeActivity?](https://groups.google.com/g/android-ndk/c/SHCXgUCE7t4)
+    + [Getting started with C++ and Android Native Activities](https://medium.com/androiddevelopers/getting-started-with-c-and-android-native-activities-2213b402ffff)
+        + [Understand Tasks and Back Stack](https://developer.android.com/guide/components/activities/tasks-and-back-stack)
+            + [Android NativeActivity + other activity](https://stackoverflow.com/questions/13268372/android-nativeactivity-other-activity/13269422)
