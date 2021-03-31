@@ -182,6 +182,11 @@
     + [Toward Performance-Portable PETSc for GPU-based Exascale Systems](https://arxiv.org/pdf/2011.00715.pdf)
 
 + AMG
+    + AMG intro
+        + [Algebraic multigrid method by smoothed agglomeration for a Stokes problem](http://perso.unifr.ch/ales.janka/papers/emg_slides.pdf)
+        + [Convergence of Algebraic Multigrid Based on Smoothed Aggregation II: Extension to a Petrov-Galerkin Method](https://hal.inria.fr/inria-00072986)
+        + [A root-node based algebraic multigrid method](https://arxiv.org/pdf/1610.03154.pdf)
+        + [Iterative methods for linear, non-linear and eigenvalue problems](http://www.mcc.uiuc.edu/summerschool/2001/Eric%20de%20Sturler/desturler.htm)
     + [AMGX](https://github.com/NVIDIA/AMGX)
         + [AMGX in Julia](https://github.com/JuliaGPU/AMGX.jl)
         + [pyamgx: Python interface to NVIDIA's AMGX library](https://github.com/shwina/pyamgx)
