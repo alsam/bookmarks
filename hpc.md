@@ -187,6 +187,7 @@
         + [Convergence of Algebraic Multigrid Based on Smoothed Aggregation II: Extension to a Petrov-Galerkin Method](https://hal.inria.fr/inria-00072986)
         + [Lawrence Livermore National Laboratory Robert D. Falgout Center for Applied Scientific Computing An Algebraic Multigrid Tutorial](http://user.it.uu.se/~maya/Courses/NLA_Parallel/Slides_2013/AMG_parallel_Falgout.pdf)
         + [An Introduction to Algebraic Multigrid](https://www2.karlin.mff.cuni.cz/~hron/NMNV532/An_Introduction_to_Algebraic_Multigrid_Computing-Falgout-2006.pdf)
+        + [Multigrid Methods: From Geometrical to Algebraic Versions Gundolf HAASE](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.453.4097&rep=rep1&type=pdf)
         + [A root-node based algebraic multigrid method](https://arxiv.org/pdf/1610.03154.pdf)
         + [Iterative methods for linear, non-linear and eigenvalue problems](http://www.mcc.uiuc.edu/summerschool/2001/Eric%20de%20Sturler/desturler.htm)
     + [AMGX](https://github.com/NVIDIA/AMGX)
