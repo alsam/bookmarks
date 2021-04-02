@@ -849,7 +849,8 @@
             + [Filament is a physically based rendering engine for Android, Windows, Linux and macOS](https://github.com/google/filament)
             + [digestpp - experimental C++11 header-only message digest library](https://github.com/kerukuro/digestpp)
             + [{fmt} is an open-source formatting library providing a fast and safe alternative to C stdio and C++ iostreams](https://github.com/fmtlib/fmt)
-            
+                + [std::format in C++20](https://www.zverovich.net/2019/07/23/std-format-cpp20.html)
+
         + misc
             + [Modern C++ Tutorial: C++11/14/17/20 On the Fly](https://github.com/changkun/modern-cpp-tutorial)
             + [Reading TAR files in C++](https://techoverflow.net/2013/03/29/reading-tar-files-in-c/)
