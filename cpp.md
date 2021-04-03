@@ -5,6 +5,8 @@
     + [ C++ Ecosystem: Compilers, IDEs, Tools, Testing and More ](https://www.bfilipek.com/2019/10/cppecosystem.html?m=1)
         + [and meson, missed from the above review](https://mesonbuild.com/)
             + [The Meson Build System](https://github.com/mesonbuild/meson)
+            + [Getting started with Meson build system and C++](https://medium.com/@germandiagogomez/getting-started-with-meson-build-system-and-c-83270f444bee)
+            + [Getting started with Meson in C++ (part 2)](https://medium.com/@germandiagogomez/getting-started-with-meson-in-c-part-2-58150354ff17)
             + [List of projects using Meson](https://mesonbuild.com/Users.html)
                 + [HelenOS is a portable microkernel-based multiserver operating system designed and implemented from scratch](http://www.helenos.org/)
             + [Let's build Chuck Norris!](https://dmerej.info/blog/post/introducing-the-chuck-norris-project/)
