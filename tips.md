@@ -170,6 +170,7 @@
             + [ArchLinux Tutorial, Part 1: Basic ArchLinux Installation](https://medium.com/@mudrii/arch-linux-installation-on-hw-with-i3-windows-manager-part-1-5ef9751a0be)
             + [ArchLinux Tutorial, Part 2: X Window System and I3 Installation](https://medium.com/@mudrii/arch-linux-installation-on-hw-with-i3-windows-manager-part-2-x-window-system-and-i3-installation-86735e55a0a0)
             + [ArchLinux Tutorial, Part 3: I3 Configuration and Operation](https://medium.com/@mudrii/archlinux-tutorial-part-3-i3-configuration-and-operation-9cd6dc90e524)
+            + [PRIME is a technology used to manage hybrid graphics found on recent desktops and laptops](https://wiki.archlinux.org/index.php/PRIME)
             + [i3 desktop install](https://xakep.ru/2017/03/22/geek-desktop/)
             + [Оконный менеджер i3](https://laurvas.ru/i3/)
                 + [Incorporate nm-applet in i3 window manager](https://unix.stackexchange.com/questions/372606/incorporate-nm-applet-in-i3-window-manager)    
