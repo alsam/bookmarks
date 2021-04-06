@@ -3,6 +3,7 @@
     + [The Little Book of Rust Books](https://lborb.github.io/book/)
     + [Learn Rust: A Resource Guide](https://serokell.io/blog/learn-rust)
     + [Rust Memory Container Cheat-sheet](https://github.com/usagi/rust-memory-container-cs)
+        + [Ownership Concept Diagram](https://www.reddit.com/r/rust/comments/mgh9n9/ownership_concept_diagram/)
     + [Rust 2020 Roadmap](https://github.com/nikomatsakis/rfcs/blob/roadmap-2020/text/0000-roadmap-2020.md)
         + [Tracking issue for generic associated types (GAT)](https://github.com/rust-lang/rust/issues/44265)
             + [tracking issue for "chalkification"](https://github.com/rust-lang/rust/issues/48049)
