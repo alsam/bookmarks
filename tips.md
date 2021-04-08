@@ -170,6 +170,26 @@
             + [ArchLinux Tutorial, Part 1: Basic ArchLinux Installation](https://medium.com/@mudrii/arch-linux-installation-on-hw-with-i3-windows-manager-part-1-5ef9751a0be)
             + [ArchLinux Tutorial, Part 2: X Window System and I3 Installation](https://medium.com/@mudrii/arch-linux-installation-on-hw-with-i3-windows-manager-part-2-x-window-system-and-i3-installation-86735e55a0a0)
             + [ArchLinux Tutorial, Part 3: I3 Configuration and Operation](https://medium.com/@mudrii/archlinux-tutorial-part-3-i3-configuration-and-operation-9cd6dc90e524)
+            + [How to Use Arch Linux Network Manager](https://linuxhint.com/arch_linux_network_manager)    
+            tl;dr    
+            ```sh
+            sudo systemctl enable NetworkManager.service
+            sudo systemctl disable dhcpcd.service
+            sudo systemctl enable wpa_supplicant.service
+            sudo systemctl start NetworkManager.service
+
+            sudo reboot
+
+            nmcli device wifi list
+            nmcli device wifi connect <SSID> password <SSID_password>
+            nmcli connection show
+            nmcli device
+            nmcli connection show
+            nmcli connection up uuid <UUID>
+            nmcli radio wifi off
+            nmcli radio wifi on
+            sudo ls /etc/NetworkManager/system-connection
+            ```
             + [PRIME is a technology used to manage hybrid graphics found on recent desktops and laptops](https://wiki.archlinux.org/index.php/PRIME)
             + [i3 desktop install](https://xakep.ru/2017/03/22/geek-desktop/)
             + [Оконный менеджер i3](https://laurvas.ru/i3/)
