@@ -133,3 +133,5 @@ tl;dr
 gcc py.c $(pkg-config --cflags --libs python3) -o py
 ```
 
++ [Using Rust to corrode insane Python run-times](https://www.vortexa.com/insight/using-rust-to-corrode-insane-python-run-times)
+
