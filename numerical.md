@@ -87,7 +87,7 @@
     ```c++
     git clone -b release_1.1 git://last.hit.bme.hu/toolbox/nihu.git
     ```
-        + [Formulating various BEM problems with an open source C++ BEM template library](http://pub.dega-akustik.de/DAGA_2014/data/articles/000368.pdf)
+    + [Formulating various BEM problems with an open source C++ BEM template library](http://pub.dega-akustik.de/DAGA_2014/data/articles/000368.pdf)
     + [fmm-bem-relaxed](https://github.com/barbagroup/fmm-bem-relaxed)
     + [SCUFF-EM](https://github.com/HomerReid/scuff-em/)
         + [PhD Thesis on SCUFF-EM](http://homerreid.dyndns.org/research/memos/Thesis.pdf)
