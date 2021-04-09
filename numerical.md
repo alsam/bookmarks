@@ -82,12 +82,12 @@
             + [BEM++ fork](https://github.com/UCL/bempp)
     + [Boundary Element Template Library](http://www.sam.math.ethz.ch/betl/)
     + [HyENA - HyENA stands for [Hy]perbolic and [E]lliptic [N]umerical [A]nalysis and is a C++ library](http://portal.tugraz.at/portal/page/portal/Files/i2610/files/Forschung/Software/HyENA/html/index.html)
-    + [NiHu C++ Boundary Element Library](http://last.hit.bme.hu/nihu/a00006.html#install_obtain)
+    + [Obtaining the source code for NiHu](https://last.hit.bme.hu/nihu/a06431.html)
     tl;dr
     ```c++
-    git clone -b release_1.1 git://last.hit.bme.hu/toolbox/nihu.git
+    git clone -b release_2.0 git://last.hit.bme.hu/toolbox/nihu.git
     ```
-        + [Formulating various BEM problems with an open source C++ BEM template library](http://pub.dega-akustik.de/DAGA_2014/data/articles/000368.pdf)
+    + [Formulating various BEM problems with an open source C++ BEM template library](http://pub.dega-akustik.de/DAGA_2014/data/articles/000368.pdf)
     + [fmm-bem-relaxed](https://github.com/barbagroup/fmm-bem-relaxed)
     + [SCUFF-EM](https://github.com/HomerReid/scuff-em/)
         + [PhD Thesis on SCUFF-EM](http://homerreid.dyndns.org/research/memos/Thesis.pdf)
