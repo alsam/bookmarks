@@ -210,6 +210,52 @@
                 ```
             + [Lock and blank screen?](https://www.reddit.com/r/i3wm/comments/941rbd/lock_and_blank_screen/)    
             tl;dr `i3lock -c 000000`
+            + [Advanced Linux Sound Architecture (Русский)](https://wiki.archlinux.org/index.php/Advanced_Linux_Sound_Architecture_(%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9)#%D0%92%D1%8B%D0%B1%D0%BE%D1%80_%D1%81%D1%82%D0%B0%D0%BD%D0%B4%D0%B0%D1%80%D1%82%D0%BD%D0%BE%D0%B9_PCM_%D1%81_%D0%BF%D0%BE%D0%BC%D0%BE%D1%89%D1%8C%D1%8E_%D0%BF%D0%B5%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D0%BE%D0%BA%D1%80%D1%83%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F)    
+            tl;dr    
+            ```sh
+            $ aplay -l
+            
+            **** List of PLAYBACK Hardware Devices ****
+            card 0: Intel [HDA Intel], device 0: CONEXANT Analog [CONEXANT Analog]
+              Subdevices: 1/1
+              Subdevice #0: subdevice #0
+            card 0: Intel [HDA Intel], device 1: Conexant Digital [Conexant Digital]
+              Subdevices: 1/1
+              Subdevice #0: subdevice #0
+            card 1: JamLab [JamLab], device 0: USB Audio [USB Audio]
+              Subdevices: 1/1
+              Subdevice #0: subdevice #0
+            card 2: Audio [Altec Lansing XT1 - USB Audio], device 0: USB Audio [USB Audio]
+              Subdevices: 1/1
+              Subdevice #0: subdevice #0
+            
+            Важно: Simply setting a type hw as default card is equivalent to addressing hardware directly, which leaves the device unavailable to other applications. This method is only recommended if it is a part of a more sophisticated setup ~/.asoundrc or if user deliberately wants to address sound card directly (digital output through eic958 or dedicated music server for example).
+            
+            For example, the last entry in this list has the card ID 2 and the device ID 0. To set this card as the default, you can either use the system-wide file /etc/asound.conf or the user-specific file ~/.asoundrc. You may have to create the file if it does not exist. Then insert the following options with the corresponding card.
+            
+            pcm.!default {
+                type hw
+                card 2
+            }
+            
+            ctl.!default {
+                type hw
+                card 2
+            }
+
+            $ cat /etc/asound.conf
+            pcm.!default {
+                type hw
+                card 2
+            }
+            
+            ctl.!default {
+                type hw
+                card 2
+            }
+            ```
+            + [Настройка звука в Ubuntu](https://habr.com/ru/post/343718/)
+            + [5.11: amdgpu: Unsupported power profile mode 0 on RENOIR](https://gitlab.freedesktop.org/drm/amd/-/issues/1488)
             + [How to Install LightDM Display Manager on Arch Linux](https://linoxide.com/linux-how-to/install-lightdm-arch-linux/)
             + [pacman db locked](https://bbs.archlinux.org/viewtopic.php?id=233989)    
               tl;dr `sudo rm /var/lib/pacman/db.lck`

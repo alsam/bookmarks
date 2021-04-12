@@ -25,6 +25,11 @@
     + [Can people actually keep up with note-taking in Mathematics lectures with LaTeX?](https://www.quora.com/Can-people-actually-keep-up-with-note-taking-in-Mathematics-lectures-with-LaTeX/answer/Gilles-Castel-1)
         + [Как я пишу конспекты по математике на LaTeX в Vim](https://habr.com/ru/post/445066/)
     + [Modern LaTeX typesetting](https://www.olivierverdier.com/posts/2013/07/15/modern-latex/)
+    + [PGFPlots?](https://ask-ubuntu.ru/questions/473263/kakoj-paket-predostavlyaet-pgfplotssty)    
+    tl;dr    
+    ```sh
+    pacman -S texlive-pictures
+    ```
     + Arch Linux Latin Modern & Latin Modern Math 
         ```sh
         yay -S otf-latin-modern
