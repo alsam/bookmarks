@@ -819,6 +819,9 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
         + [Vundle vs. Pathogen](http://lepture.com/en/2012/vundle-vs-pathogen)
         + [Разработка → VIM: зачем, если есть IDE, и как?](https://habrahabr.ru/post/303554/)
         + [Vim vs. Neovim](https://www.slant.co/versus/42/62/~vim_vs_neovim)
+            + [How to setup Neovim](https://g14n.info/2021/04/neovim-setup/)
+            + [Setting up Neovim for C++ Development with LSP](https://jdhao.github.io/2020/11/29/neovim_cpp_dev_setup/)
+            + [Configure coc.nvim for C/C++ Development](https://ianding.io/2019/07/29/configure-coc-nvim-for-c-c++-development/)
         + [Find in files within Vim](http://vim.wikia.com/wiki/Find_in_files_within_Vim)
         + [Vim: Substitute pattern between braces](https://vi.stackexchange.com/questions/2751/substitute-pattern-between-braces)    
             tl;dr
