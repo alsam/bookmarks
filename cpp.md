@@ -37,6 +37,13 @@
         + [CMake by Example](https://mirkokiefer.com/cmake-by-example-f95eb47d45b1)
             + [Modern CMake and sub-modules](https://gotm.net/blog/modern_cmake/)
                 + [How do I explicitly specify an out-of-tree source in CMake?](https://stackoverflow.com/questions/35260552/how-do-i-explicitly-specify-an-out-of-tree-source-in-cmake)
+            + [Define preprocessor macro through CMake?](https://stackoverflow.com/questions/9017573/define-preprocessor-macro-through-cmake)    
+            tl;dr    
+            ```cmake
+            add_compile_definitions(OPENCV_VERSION=${OpenCV_VERSION})
+            add_compile_definitions(OPENCV_VERSION=${OpenCV_VERSION} WITH_OPENCV2)
+            target_compile_definitions(my_target PRIVATE FOO=1 BAR=1)
+            ```
             + [How to copy contents of a directory into build directory after make with CMake?](https://stackoverflow.com/questions/13429656/how-to-copy-contents-of-a-directory-into-build-directory-after-make-with-cmake)    
             ```cmake
             add_custom_command(TARGET ${PROJECT_NAME} POST_BUILD
