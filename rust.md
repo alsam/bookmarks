@@ -16,6 +16,7 @@
                     + [Method for Emulating Higher-Kinded Types in Rust](https://gist.github.com/edmundsmith/855fcf0cb35dd467c29a9350481f0ecf)
             + [Monads and GATs in nightly Rust](https://www.fpcomplete.com/blog/monads-gats-nightly-rust/)
                 + [GATs on Nightly!](https://www.reddit.com/r/rust/comments/k4vzvp/gats_on_nightly/)
+            + [How can I avoid GATs in this code?](https://users.rust-lang.org/t/how-can-i-avoid-gats-in-this-code/48673)
         + [Tracking issue for const generics](https://github.com/rust-lang/rust/issues/44580)
             + [Tracking Issue for `min_const_generics`](https://github.com/rust-lang/rust/issues/74878)
                 + [stabilize `#![feature(min_const_generics)]` in 1.50](https://github.com/rust-lang/rust/pull/79135)
@@ -208,6 +209,9 @@
             + [Loop unrolling on request](https://internals.rust-lang.org/t/loop-unrolling-on-request/3091/3)
 
     + Linear Algebra + Numerics
+        + [Mathru crate](https://crates.io/crates/mathru)
+            + [Mathru Getting started](https://matthiaseiholzer.gitlab.io/mathru/getting-started/)
+            + [mathru](https://gitlab.com/matthiaseiholzer/mathru)
         + [Scientific computing: a Rust adventure [Part 0 - Vectors] ](https://www.lpalmieri.com/posts/2019-02-23-scientific-computing-a-rust-adventure-part-0-vectors/)
         + [Scientific computing: a Rust adventure [Part 1 - Zero-cost abstractions] ](https://www.lpalmieri.com/posts/2019-03-12-scientific-computing-a-rust-adventure-part-1-zero-cost-abstractions/)
         + [Scientific computing: a Rust adventure [Part 2 - Array1] ](https://www.lpalmieri.com/posts/2019-04-07-scientific-computing-a-rust-adventure-part-2-array1/)
