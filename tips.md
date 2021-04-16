@@ -191,6 +191,10 @@
             sudo ls /etc/NetworkManager/system-connection
             ```
             + [PRIME is a technology used to manage hybrid graphics found on recent desktops and laptops](https://wiki.archlinux.org/index.php/PRIME)
+            + HP Omen systemd-boot boot menu not working
+                + [systemd-boot boot menu ignoring keyboard input (PS/2)](https://github.com/systemd/systemd/issues/19191)
+                + [commit: boot: Use str_verscmp for special UEFI](https://github.com/systemd/systemd/pull/19319/commits
+                + [patch: boot: Use str_verscmp for special UEFI](https://github.com/systemd/systemd/pull/19319/files)
             + [i3 desktop install](https://xakep.ru/2017/03/22/geek-desktop/)
             + [Оконный менеджер i3](https://laurvas.ru/i3/)
                 + [Incorporate nm-applet in i3 window manager](https://unix.stackexchange.com/questions/372606/incorporate-nm-applet-in-i3-window-manager)    
