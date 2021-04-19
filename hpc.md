@@ -10,7 +10,7 @@
     + [Tim Warburton's github repositories](https://github.com/tcew?tab=repositories)
         + [Nodal Discontinuous Galerkin](https://github.com/tcew/nodal-dg)
     + [Hybrid and Easy Discontinuous Galerkin Environment](https://mathema.tician.de/software/hedge/)
-    + [Element-based-Galerkin-Methods](https://github.com/fxgiraldo/Element-based-Galerkin-Methods)
+    + [**Element-based-Galerkin-Methods**](https://github.com/fxgiraldo/Element-based-Galerkin-Methods)
     + [Extreme-scale Discontinuous Galerkin Environment (EDGE)](https://github.com/3343/edge)
     + [What are possible methods to solve compressible Euler equations](http://scicomp.stackexchange.com/questions/283/what-are-possible-methods-to-solve-compressible-euler-equations/305)
     + [I do like CFD, VOL.1, Second Edition](http://www.cfdbooks.com/cfdbooks.html)
