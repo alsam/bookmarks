@@ -148,15 +148,6 @@
                     cd yay
                     makepkg -si
                     ```
-                    + [Pacman wrapper with AUR support : written in **nim**](https://github.com/kitsunyan/pakku)    
-                    TL;DR    
-                    ```sh
-                    git clone https://aur.archlinux.org/pakku.git
-                    cd pakku
-                    makepkg -si
-                    ```
-                        + [Bash completion step fails during compile](https://github.com/kitsunyan/pakku/issues/48)
-                            + [fixed bash.patch](https://github.com/kitsunyan/pakku/pull/49)
 
                 + [The 5 Best Arch Linux AUR Helper Apps To Use](https://www.addictivetips.com/ubuntu-linux-tips/best-arch-linux-aur-helper-apps/)
                     + [Octopi](https://octopiproject.wordpress.com/)    
