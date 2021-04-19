@@ -896,6 +896,7 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
                 + [C/C++/ObjC language server supporting cross references, hierarchies, completion and semantic highlighting](https://github.com/MaskRay/ccls)
                     + [ccls : Build](https://github.com/MaskRay/ccls/wiki/Build#system-specific-notes)
                     + [Extend .ccls](https://github.com/MaskRay/ccls/pull/171)
+                + [[Guide] How to setup ctags with gutentags properly for almost every language](https://www.reddit.com/r/vim/comments/d77t6j/guide_how_to_setup_ctags_with_gutentags_properly/)
                 + [Rust support for coc.nvim](https://github.com/neoclide/coc-rls/)
                 + [Guide To Turn Neovim Into A Rust IDE?](https://www.reddit.com/r/rust/comments/adepau/guide_to_turn_neovim_into_a_rust_ide/)
                     + [useful init for nvim](https://github.com/realcr/my_init_vim/blob/master/init.vim)
