@@ -800,6 +800,7 @@
 
         + [Is C++21 the Next Standard?](https://stackoverflow.com/questions/38789652/is-c21-the-next-standard/38789876)
             + [juCi++: a lightweight, platform independent C++-IDE with support for C++11, C++14 and C++17 features depending on libclang version.](https://gitlab.com/cppit/jucipp)
+            + [Beginning C++20](https://github.com/Apress/beginning-cpp20/tree/main/Examples)
             + [Pure Virtual C++ 2020](https://www.youtube.com/playlist?list=PLReL099Y5nRdHYz4JwB0bq1kaVw2yGDag)
                 + [Dynamic Polymorphism with Metaclasses and Code Injection with Sy Brand](https://www.youtube.com/watch?v=drt3yXI-fqk&list=PLReL099Y5nRdHYz4JwB0bq1kaVw2yGDag&index=2&t=0s)
                 + [Practical C++20 Modules and the future of tooling around C++ Modules with Cameron DaCamara](https://www.youtube.com/watch?v=ow2zV0Udd9M&list=PLReL099Y5nRdHYz4JwB0bq1kaVw2yGDag&index=8&t=0s)
