@@ -299,6 +299,10 @@ Multigrid Solver in C++](https://www10.cs.fau.de/publications/reports/TechRep_20
         + [Is a used Radeon VII worth it in 2020?](https://www.quora.com/Is-a-used-Radeon-VII-worth-it-in-2020)
             + [AMD Radeon Instinct MI50 1725MHz PCI-E 4.0 16384MB 1000MHz 4096 bit](https://market.yandex.ru/product--videokarta-amd-radeon-instinct-mi50-1725mhz-pci-e-4-0-16384mb-1000mhz-4096-bit/674247125?text=AMD%20Radeon%20VII)
 
+    + OpenCL => Vulkan
+        + [a prototype implementation of OpenCL 1.2 on top of Vulkan using clspv as the compiler](https://github.com/kpet/clvk)
+        + [**clspv** is a prototype compiler for a subset of OpenCL C to Vulkan compute shaders](https://github.com/google/clspv)
+
 + [How To Set The CPU Affinity Of A Running Process In Linux](https://www.youtube.com/watch?v=9VJRsBmmY-4&feature=youtu.be)
 
 + OpenMP
