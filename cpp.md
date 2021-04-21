@@ -68,6 +68,12 @@
 
     + [CppCon 2017: Rong Lu "C++ Development with Visual Studio Code"](https://www.youtube.com/watch?v=rFdJ68WbkdQ)
     + [C++ Development with Visual Studio Code](https://www.youtube.com/watch?v=bK882S9ESpo)
+        + [11 Best Programming Fonts](https://itnext.io/11-best-programming-fonts-724283a9ed57)
+            + [Comparing the new Cascadia Code font to Fira Code v2](https://medium.com/@oocx/comparing-the-new-cascadia-code-font-to-fira-code-v2-c2c63dd87098)
+            + [Fira Code VS Code Instructions](https://github.com/tonsky/FiraCode/wiki/VS-Code-Instructions)
+            + [Daily Dev Tips №96— Visual Studio Code — how to enable this new sexy Fira Code font?](https://medium.com/@qjli/daily-dev-tips-96-visual-studio-code-how-to-enable-this-new-sexy-fira-code-font-89bafbfa245f)
+            + [Представляем шрифт Cascadia Code](https://habr.com/ru/company/microsoft/blog/468309/)
+            + [This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel](https://github.com/microsoft/cascadia-code)
         + [Keyboard shortcut for Visual c# block comment in Visual Studio 2015?](https://stackoverflow.com/questions/32610044/keyboard-shortcut-for-visual-c-sharp-block-comment-in-visual-studio-2015)
         tl;dr    
         ```sh
