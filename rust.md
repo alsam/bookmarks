@@ -1014,6 +1014,7 @@
             + [Native WebGPU implementation based on gfx-hal](https://github.com/gfx-rs/wgpu)
             + [Rust bindings to wgpu native library](https://github.com/gfx-rs/wgpu-rs)
             + [Universal shader translation in Rust](https://github.com/gfx-rs/naga)
+            + [Plexus is a Rust library for 2D and 3D mesh processing](https://crates.io/crates/plexus)
             + Vulkan bindings in Rust
                 + [Ash - A very lightweight wrapper around Vulkan](https://github.com/MaikKlein/ash)
                 + [erupt - Vulkan API bindings](https://gitlab.com/Friz64/erupt)
