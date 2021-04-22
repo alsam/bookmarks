@@ -1232,6 +1232,8 @@
 + [An introduction to Data Oriented Design with Rust](https://jamesmcm.github.io/blog/2020/07/25/intro-dod/)
 + [Rust serialization: What’s ready for production today?](https://blog.logrocket.com/rust-serialization-whats-ready-for-production-today/)
 
++ [Rust Persistent Data Structures](https://github.com/orium/rpds)
+
 + [Attempt at quad tree](https://users.rust-lang.org/t/attempt-at-quad-tree/49994)
 
 + [An HDL embedded in Rust](https://github.com/yupferris/kaze)
