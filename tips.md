@@ -91,6 +91,8 @@
             reboot
             ```
 
+            + [mkinitcpio (Русский)](https://wiki.archlinux.org/index.php/Mkinitcpio_(%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9))
+
             + [Image creation and activation](https://wiki.archlinux.org/index.php/Mkinitcpio#Image_creation_and_activation)
 
             + [Offline installation](https://wiki.archlinux.org/index.php/Offline_installation)
