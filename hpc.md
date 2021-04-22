@@ -184,6 +184,7 @@
 
 + AMG
     + AMG intro
+        + [Iteration methods](https://encyclopediaofmath.org/wiki/Iteration_methods)
         + [Algebraic multigrid method by smoothed agglomeration for a Stokes problem](http://perso.unifr.ch/ales.janka/papers/emg_slides.pdf)
         + [Convergence of Algebraic Multigrid Based on Smoothed Aggregation II: Extension to a Petrov-Galerkin Method](https://hal.inria.fr/inria-00072986)
         + [Lawrence Livermore National Laboratory Robert D. Falgout Center for Applied Scientific Computing An Algebraic Multigrid Tutorial](http://user.it.uu.se/~maya/Courses/NLA_Parallel/Slides_2013/AMG_parallel_Falgout.pdf)
