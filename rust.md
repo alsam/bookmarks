@@ -1015,6 +1015,7 @@
             + [Rust bindings to wgpu native library](https://github.com/gfx-rs/wgpu-rs)
             + [Universal shader translation in Rust](https://github.com/gfx-rs/naga)
             + [Plexus is a Rust library for 2D and 3D mesh processing](https://crates.io/crates/plexus)
+                + [entry point for quad-edge implementation in Rust](https://github.com/computemachines/quad-edge)
             + Vulkan bindings in Rust
                 + [Ash - A very lightweight wrapper around Vulkan](https://github.com/MaikKlein/ash)
                 + [erupt - Vulkan API bindings](https://gitlab.com/Friz64/erupt)
