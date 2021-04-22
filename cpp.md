@@ -80,7 +80,11 @@
         keyboard shortcut for single line(//....) commenting Ctrl + K + C and uncommenting Ctrl + K + U . 
         ```
         + [Using C++ on Linux in VS Code](https://code.visualstudio.com/docs/cpp/config-linux)
+        + [C/C++ for VS Code (Preview)](https://vscode.readthedocs.io/en/latest/languages/cpp/)
+        + [Configuring C/C++ debugging](https://code.visualstudio.com/docs/cpp/launch-json-reference)
+        + [VSC Debugging](https://vscode.readthedocs.io/en/latest/editor/debugging/)
         + [VSC tasks](https://code.visualstudio.com/docs/editor/tasks)
+        + [How to run a command in Visual Studio Code with launch.json](https://stackoverflow.com/questions/43836861/how-to-run-a-command-in-visual-studio-code-with-launch-json)
         + [Does vscode use workspaceRoot or workspaceFolder?](https://stackoverflow.com/questions/46797258/does-vscode-use-workspaceroot-or-workspacefolder)
         + [How to run Cmake in Visual Studio Code using tasks](https://stackoverflow.com/questions/49584507/how-to-run-cmake-in-visual-studio-code-using-tasks)
         + [C++ Development using Visual Studio Code, CMake and LLDB](https://medium.com/audelabs/c-development-using-visual-studio-code-cmake-and-lldb-d0f13d38c563)
@@ -523,7 +527,7 @@
         ```
 
         + [Python bindings for the C++14 Boost::Histogram library](https://github.com/scikit-hep/boost-histogram)
-            + [Boost-histogram is a Python package providing Python bindings for Boost.Histogram ](https://boost-histogram.readthedocs.io/en/latest/)
+            + [Boost-histogram is a Python package providing Python bindings for Boost.Histogram](https://boost-histogram.readthedocs.io/en/latest/)
             + [issues to Boost-histogram](https://github.com/scikit-hep/boost-histogram/issues)
         + [Boosting the Accuracy of Differentially Private Histograms Through Consistency](https://www.vldb.org/pvldb/vldb2010/pvldb_vol3/R91.pdf)
         + [Improving Accuracy and Robustness of Self-Tuning Histograms by Subspace Clustering](https://dbis.ipd.kit.edu/download/MineClusSTHoles_-_Minor_Revision.pdf)
