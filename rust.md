@@ -983,8 +983,6 @@
                 + [Announcing Cargo Deb](https://www.reddit.com/r/rust/comments/4ofiyr/announcing_cargo_deb/)
             + [cargo-arch - generate Arch Linux packages from information in Cargo.toml](https://github.com/wdv4758h/cargo-arch/)
 
-    + [Graham scan from Algorithms in a Nutshell in Rust](https://codereview.stackexchange.com/questions/141809/graham-scan-from-algorithms-in-a-nutshell-in-rust)
-
     + Run Rust code on your NVIDIA GPU
         + [Rust nvptx](https://github.com/japaric/nvptx)
         + [NVPTX backend metabug](https://github.com/rust-lang/rust/issues/38789)
@@ -1014,6 +1012,10 @@
             + [Native WebGPU implementation based on gfx-hal](https://github.com/gfx-rs/wgpu)
             + [Rust bindings to wgpu native library](https://github.com/gfx-rs/wgpu-rs)
             + [Universal shader translation in Rust](https://github.com/gfx-rs/naga)
+            + [Graham scan from Algorithms in a Nutshell in Rust](https://codereview.stackexchange.com/questions/141809/graham-scan-from-algorithms-in-a-nutshell-in-rust)
+            + [Plexus is a Rust library for 2D and 3D mesh processing](https://crates.io/crates/plexus)
+                + [entry point for quad-edge implementation in Rust](https://github.com/computemachines/quad-edge)
+                + [The quad-edge data structure (Delaunay/Voronoi)](https://cstheory.stackexchange.com/questions/4746/the-quad-edge-data-structure-delaunay-voronoi)
             + Vulkan bindings in Rust
                 + [Ash - A very lightweight wrapper around Vulkan](https://github.com/MaikKlein/ash)
                 + [erupt - Vulkan API bindings](https://gitlab.com/Friz64/erupt)
@@ -1229,6 +1231,8 @@
 
 + [An introduction to Data Oriented Design with Rust](https://jamesmcm.github.io/blog/2020/07/25/intro-dod/)
 + [Rust serialization: What’s ready for production today?](https://blog.logrocket.com/rust-serialization-whats-ready-for-production-today/)
+
++ [Rust Persistent Data Structures](https://github.com/orium/rpds)
 
 + [Attempt at quad tree](https://users.rust-lang.org/t/attempt-at-quad-tree/49994)
 

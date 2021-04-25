@@ -68,13 +68,23 @@
 
     + [CppCon 2017: Rong Lu "C++ Development with Visual Studio Code"](https://www.youtube.com/watch?v=rFdJ68WbkdQ)
     + [C++ Development with Visual Studio Code](https://www.youtube.com/watch?v=bK882S9ESpo)
+        + [11 Best Programming Fonts](https://itnext.io/11-best-programming-fonts-724283a9ed57)
+            + [Comparing the new Cascadia Code font to Fira Code v2](https://medium.com/@oocx/comparing-the-new-cascadia-code-font-to-fira-code-v2-c2c63dd87098)
+            + [Fira Code VS Code Instructions](https://github.com/tonsky/FiraCode/wiki/VS-Code-Instructions)
+            + [Daily Dev Tips №96— Visual Studio Code — how to enable this new sexy Fira Code font?](https://medium.com/@qjli/daily-dev-tips-96-visual-studio-code-how-to-enable-this-new-sexy-fira-code-font-89bafbfa245f)
+            + [Представляем шрифт Cascadia Code](https://habr.com/ru/company/microsoft/blog/468309/)
+            + [This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel](https://github.com/microsoft/cascadia-code)
         + [Keyboard shortcut for Visual c# block comment in Visual Studio 2015?](https://stackoverflow.com/questions/32610044/keyboard-shortcut-for-visual-c-sharp-block-comment-in-visual-studio-2015)
         tl;dr    
         ```sh
         keyboard shortcut for single line(//....) commenting Ctrl + K + C and uncommenting Ctrl + K + U . 
         ```
         + [Using C++ on Linux in VS Code](https://code.visualstudio.com/docs/cpp/config-linux)
+        + [C/C++ for VS Code (Preview)](https://vscode.readthedocs.io/en/latest/languages/cpp/)
+        + [Configuring C/C++ debugging](https://code.visualstudio.com/docs/cpp/launch-json-reference)
+        + [VSC Debugging](https://vscode.readthedocs.io/en/latest/editor/debugging/)
         + [VSC tasks](https://code.visualstudio.com/docs/editor/tasks)
+        + [How to run a command in Visual Studio Code with launch.json](https://stackoverflow.com/questions/43836861/how-to-run-a-command-in-visual-studio-code-with-launch-json)
         + [Does vscode use workspaceRoot or workspaceFolder?](https://stackoverflow.com/questions/46797258/does-vscode-use-workspaceroot-or-workspacefolder)
         + [How to run Cmake in Visual Studio Code using tasks](https://stackoverflow.com/questions/49584507/how-to-run-cmake-in-visual-studio-code-using-tasks)
         + [C++ Development using Visual Studio Code, CMake and LLDB](https://medium.com/audelabs/c-development-using-visual-studio-code-cmake-and-lldb-d0f13d38c563)
@@ -517,7 +527,7 @@
         ```
 
         + [Python bindings for the C++14 Boost::Histogram library](https://github.com/scikit-hep/boost-histogram)
-            + [Boost-histogram is a Python package providing Python bindings for Boost.Histogram ](https://boost-histogram.readthedocs.io/en/latest/)
+            + [Boost-histogram is a Python package providing Python bindings for Boost.Histogram](https://boost-histogram.readthedocs.io/en/latest/)
             + [issues to Boost-histogram](https://github.com/scikit-hep/boost-histogram/issues)
         + [Boosting the Accuracy of Differentially Private Histograms Through Consistency](https://www.vldb.org/pvldb/vldb2010/pvldb_vol3/R91.pdf)
         + [Improving Accuracy and Robustness of Self-Tuning Histograms by Subspace Clustering](https://dbis.ipd.kit.edu/download/MineClusSTHoles_-_Minor_Revision.pdf)
@@ -800,6 +810,7 @@
 
         + [Is C++21 the Next Standard?](https://stackoverflow.com/questions/38789652/is-c21-the-next-standard/38789876)
             + [juCi++: a lightweight, platform independent C++-IDE with support for C++11, C++14 and C++17 features depending on libclang version.](https://gitlab.com/cppit/jucipp)
+            + [Beginning C++20](https://github.com/Apress/beginning-cpp20/tree/main/Examples)
             + [Pure Virtual C++ 2020](https://www.youtube.com/playlist?list=PLReL099Y5nRdHYz4JwB0bq1kaVw2yGDag)
                 + [Dynamic Polymorphism with Metaclasses and Code Injection with Sy Brand](https://www.youtube.com/watch?v=drt3yXI-fqk&list=PLReL099Y5nRdHYz4JwB0bq1kaVw2yGDag&index=2&t=0s)
                 + [Practical C++20 Modules and the future of tooling around C++ Modules with Cameron DaCamara](https://www.youtube.com/watch?v=ow2zV0Udd9M&list=PLReL099Y5nRdHYz4JwB0bq1kaVw2yGDag&index=8&t=0s)

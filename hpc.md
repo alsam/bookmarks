@@ -10,7 +10,7 @@
     + [Tim Warburton's github repositories](https://github.com/tcew?tab=repositories)
         + [Nodal Discontinuous Galerkin](https://github.com/tcew/nodal-dg)
     + [Hybrid and Easy Discontinuous Galerkin Environment](https://mathema.tician.de/software/hedge/)
-    + [Element-based-Galerkin-Methods](https://github.com/fxgiraldo/Element-based-Galerkin-Methods)
+    + [**Element-based-Galerkin-Methods**](https://github.com/fxgiraldo/Element-based-Galerkin-Methods)
     + [Extreme-scale Discontinuous Galerkin Environment (EDGE)](https://github.com/3343/edge)
     + [What are possible methods to solve compressible Euler equations](http://scicomp.stackexchange.com/questions/283/what-are-possible-methods-to-solve-compressible-euler-equations/305)
     + [I do like CFD, VOL.1, Second Edition](http://www.cfdbooks.com/cfdbooks.html)
@@ -184,13 +184,19 @@
 
 + AMG
     + AMG intro
+        + [Iteration methods](https://encyclopediaofmath.org/wiki/Iteration_methods)
         + [Algebraic multigrid method by smoothed agglomeration for a Stokes problem](http://perso.unifr.ch/ales.janka/papers/emg_slides.pdf)
         + [Convergence of Algebraic Multigrid Based on Smoothed Aggregation II: Extension to a Petrov-Galerkin Method](https://hal.inria.fr/inria-00072986)
         + [Lawrence Livermore National Laboratory Robert D. Falgout Center for Applied Scientific Computing An Algebraic Multigrid Tutorial](http://user.it.uu.se/~maya/Courses/NLA_Parallel/Slides_2013/AMG_parallel_Falgout.pdf)
         + [An Introduction to Algebraic Multigrid](https://www2.karlin.mff.cuni.cz/~hron/NMNV532/An_Introduction_to_Algebraic_Multigrid_Computing-Falgout-2006.pdf)
+        + [An Algebraic Multigrid Tutorial IMA Tutorial – FastSolution Techniques November28-29, 2010](http://user.it.uu.se/~maya/Courses/NLA_Parallel/Slides_2013/AMG_parallel_Falgout.pdf)
         + [Multigrid Methods: From Geometrical to Algebraic Versions Gundolf HAASE](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.453.4097&rep=rep1&type=pdf)
         + [A root-node based algebraic multigrid method](https://arxiv.org/pdf/1610.03154.pdf)
         + [Iterative methods for linear, non-linear and eigenvalue problems](http://www.mcc.uiuc.edu/summerschool/2001/Eric%20de%20Sturler/desturler.htm)
+        + [A Multigrid Tutorial by William L. Briggs](https://www.math.ust.hk/~mawang/teaching/math532/mgtut.pdf)
+        + [Algebraic Multigrid Code](https://scicomp.stackexchange.com/questions/1300/algebraic-multigrid-code)
+        + [Performance of Preconditioners for Large-Scale Simulations Using Nek5000](https://link.springer.com/chapter/10.1007/978-3-030-39647-3_20)
+        + [Reducing Complexity in Parallel Algebraic Multigrid Preconditioners, Hans de Sterck,  Ulrike Meier Yang and Jeffrey J. Heys](http://www.math.uwaterloo.ca/~hdesterc/websiteW/Data/publications/journal/pmisPreprint.pdf)
     + [AMGX](https://github.com/NVIDIA/AMGX)
         + [AMGX in Julia](https://github.com/JuliaGPU/AMGX.jl)
         + [pyamgx: Python interface to NVIDIA's AMGX library](https://github.com/shwina/pyamgx)
@@ -205,6 +211,7 @@ the GPU using Kokkos](https://www.osti.gov/servlets/purl/1510909)
             + [GPGPU acceleration
 a case study of algebraic multigrid preconditioned GMRES](https://pure.tue.nl/ws/portalfiles/portal/142433633/Master_Thesis_Report_Lucas_Bekker_final_.pdf)
             + [AmgX: A Library for GPU Accelerated Algebraic Multigrid and Preconditioned Iterative Methods](https://www.researchgate.net/publication/283330199_AmgX_A_Library_for_GPU_Accelerated_Algebraic_Multigrid_and_Preconditioned_Iterative_Methods)
+                + [Comparison of AMGX and Hypre](https://github.com/NVIDIA/AMGX/issues/112)
         + [rocALUTION is a sparse linear algebra library with focus on exploring fine-grained parallelism](https://rocalution.readthedocs.io/en/master/usermanual.html)
     + [AMGCL](https://github.com/ddemidov/amgcl)
         + [AMGCL](https://amgcl.readthedocs.io/en/latest/)
@@ -298,6 +305,10 @@ Multigrid Solver in C++](https://www10.cs.fau.de/publications/reports/TechRep_20
         + [AMD Radeon VII Review: This Isn’t the 7nm GPU You’re Looking For](https://www.extremetech.com/computing/285286-amd-radeon-vii-review-this-isnt-the-7nm-gpu-youre-looking-for)
         + [Is a used Radeon VII worth it in 2020?](https://www.quora.com/Is-a-used-Radeon-VII-worth-it-in-2020)
             + [AMD Radeon Instinct MI50 1725MHz PCI-E 4.0 16384MB 1000MHz 4096 bit](https://market.yandex.ru/product--videokarta-amd-radeon-instinct-mi50-1725mhz-pci-e-4-0-16384mb-1000mhz-4096-bit/674247125?text=AMD%20Radeon%20VII)
+
+    + OpenCL => Vulkan
+        + [a prototype implementation of OpenCL 1.2 on top of Vulkan using clspv as the compiler](https://github.com/kpet/clvk)
+        + [**clspv** is a prototype compiler for a subset of OpenCL C to Vulkan compute shaders](https://github.com/google/clspv)
 
 + [How To Set The CPU Affinity Of A Running Process In Linux](https://www.youtube.com/watch?v=9VJRsBmmY-4&feature=youtu.be)
 

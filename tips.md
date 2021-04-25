@@ -91,6 +91,8 @@
             reboot
             ```
 
+            + [mkinitcpio (Русский)](https://wiki.archlinux.org/index.php/Mkinitcpio_(%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9))
+
             + [Image creation and activation](https://wiki.archlinux.org/index.php/Mkinitcpio#Image_creation_and_activation)
 
             + [Offline installation](https://wiki.archlinux.org/index.php/Offline_installation)
@@ -148,15 +150,6 @@
                     cd yay
                     makepkg -si
                     ```
-                    + [Pacman wrapper with AUR support : written in **nim**](https://github.com/kitsunyan/pakku)    
-                    TL;DR    
-                    ```sh
-                    git clone https://aur.archlinux.org/pakku.git
-                    cd pakku
-                    makepkg -si
-                    ```
-                        + [Bash completion step fails during compile](https://github.com/kitsunyan/pakku/issues/48)
-                            + [fixed bash.patch](https://github.com/kitsunyan/pakku/pull/49)
 
                 + [The 5 Best Arch Linux AUR Helper Apps To Use](https://www.addictivetips.com/ubuntu-linux-tips/best-arch-linux-aur-helper-apps/)
                     + [Octopi](https://octopiproject.wordpress.com/)    
@@ -193,7 +186,7 @@
             + [PRIME is a technology used to manage hybrid graphics found on recent desktops and laptops](https://wiki.archlinux.org/index.php/PRIME)
             + HP Omen systemd-boot boot menu not working
                 + [systemd-boot boot menu ignoring keyboard input (PS/2)](https://github.com/systemd/systemd/issues/19191)
-                + [commit: boot: Use str_verscmp for special UEFI](https://github.com/systemd/systemd/pull/19319/commits
+                + [commit: boot: Use str_verscmp for special UEFI](https://github.com/systemd/systemd/pull/19319/commits)
                 + [patch: boot: Use str_verscmp for special UEFI](https://github.com/systemd/systemd/pull/19319/files)
             + [i3 desktop install](https://xakep.ru/2017/03/22/geek-desktop/)
             + [Оконный менеджер i3](https://laurvas.ru/i3/)
@@ -684,6 +677,9 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
             ...
             ```
 
+        + [Syncing a fork](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/syncing-a-fork)
+        + [Как удалить сабмодуль в git?](https://jeka.by/ask/111/delete-submodule-git/)
+
         + [How to import existing Git repository into another?](http://stackoverflow.com/questions/1683531/how-to-import-existing-git-repository-into-another)
         ```sh
         git subtree add -P u-boot /scratch/tegra-sources/u-boot_nvidia_distribution/u-boot master
@@ -904,6 +900,8 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
             + [CoC Language servers : C++](https://github.com/neoclide/coc.nvim/wiki/Language-servers#ccobjective-c)
                 + [C/C++/ObjC language server supporting cross references, hierarchies, completion and semantic highlighting](https://github.com/MaskRay/ccls)
                     + [ccls : Build](https://github.com/MaskRay/ccls/wiki/Build#system-specific-notes)
+                    + [Extend .ccls](https://github.com/MaskRay/ccls/pull/171)
+                + [[Guide] How to setup ctags with gutentags properly for almost every language](https://www.reddit.com/r/vim/comments/d77t6j/guide_how_to_setup_ctags_with_gutentags_properly/)
                 + [Rust support for coc.nvim](https://github.com/neoclide/coc-rls/)
                 + [Guide To Turn Neovim Into A Rust IDE?](https://www.reddit.com/r/rust/comments/adepau/guide_to_turn_neovim_into_a_rust_ide/)
                     + [useful init for nvim](https://github.com/realcr/my_init_vim/blob/master/init.vim)
