@@ -66,6 +66,7 @@
             + [blue print](https://android.googlesource.com/platform/build/blueprint)
 
 + Android Studio tips
+    + [Using multicursor in Android Studio](http://kevinpelgrims.com/blog/2017/12/29/using-multicursor-in-android-studio/)
     + [Build Your First Android App in Kotlin](https://codelabs.developers.google.com/codelabs/build-your-first-android-app-kotlin/index.html#0)
         + [Introduction to Android Activities with Kotlin](https://www.raywenderlich.com/2705552-introduction-to-android-activities-with-kotlin)
         + [How to invoke external command from within Kotlin code?](https://stackoverflow.com/questions/35421699/how-to-invoke-external-command-from-within-kotlin-code)
