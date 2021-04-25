@@ -214,6 +214,7 @@
             + [mathru](https://gitlab.com/matthiaseiholzer/mathru)
         + [Scientific computing: a Rust adventure [Part 0 - Vectors] ](https://www.lpalmieri.com/posts/2019-02-23-scientific-computing-a-rust-adventure-part-0-vectors/)
         + [Scientific computing: a Rust adventure [Part 1 - Zero-cost abstractions] ](https://www.lpalmieri.com/posts/2019-03-12-scientific-computing-a-rust-adventure-part-1-zero-cost-abstractions/)
+        + [Eigenvalue Decomposition](https://github.com/felipeZ/eigenvalues)
         + [Scientific computing: a Rust adventure [Part 2 - Array1] ](https://www.lpalmieri.com/posts/2019-04-07-scientific-computing-a-rust-adventure-part-2-array1/)
         + [Ventifact’s Linear Algebra. A place for learning about and sharing linear algebra.](https://medium.com/ventifacts-linear-algebra)
             + [Writing A Linear Algebra Library in Rust, Part I](https://medium.com/ventifacts-linear-algebra/1-a-linear-algebra-library-in-rust-237d3f465675)
