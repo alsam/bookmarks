@@ -69,6 +69,7 @@
     + [Build Your First Android App in Kotlin](https://codelabs.developers.google.com/codelabs/build-your-first-android-app-kotlin/index.html#0)
         + [Introduction to Android Activities with Kotlin](https://www.raywenderlich.com/2705552-introduction-to-android-activities-with-kotlin)
         + [How to invoke external command from within Kotlin code?](https://stackoverflow.com/questions/35421699/how-to-invoke-external-command-from-within-kotlin-code)
+    + [Android Media Samples Repository](https://github.com/android/media-samples)
     + [Install and Create OpenCV project on Android Studio](https://www.youtube.com/watch?v=jN9Bv5LHXMk)
     + [OpenCV in Android Studio](https://stackoverflow.com/questions/27406303/opencv-in-android-studio)
         + [OpenCV on Android](https://opencv.org/platforms/android/)
