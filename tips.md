@@ -281,6 +281,63 @@
             sudo systemctl start wpa_supplicant.service
             sudo systemctl start NetworkManager.service
             ```
+
+        + 2 video cards iGPU & dGPU and external monitor
+            + [PRIME Render Offload в Arch и Manjaro Linux](https://mascloud.ru/prime-render-offload-v-arch-i-manjaro-linux/)    
+            tl;dr /etc/X11/xorg.conf    
+            ```
+            Section "ServerLayout"
+              Identifier     "Layout0"
+                Option         "AllowNVIDIAGPUScreens"
+                #Screen      0  "iGPU" 0 0
+                Screen      0  "dGPU" 0 0
+            EndSection
+            Section "Device"
+                Identifier     "iGPU"
+                Driver         "modesetting"
+                BusID          "PCI:6:0:0" #Проверить свой BusID
+            EndSection
+            Section "Device"
+                Identifier     "dGPU"
+                Driver         "nvidia"
+                BusID          "PCI:1:0:0" #Проверить свой BusID
+            EndSection
+            #Section "Screen"
+            #    Identifier     "iGPU"
+            #    Device         "iGPU"
+            #    DefaultDepth    24
+            #    SubSection     "Display"
+            #        Viewport    0 0
+            #    EndSubSection
+            #EndSection
+
+            Section "Screen"
+                Identifier     "dGPU"
+                Device         "dGPU"
+                DefaultDepth    24
+                SubSection     "Display"
+                    Viewport    0 0
+                EndSubSection
+            EndSection
+
+            Section "OutputClass"
+                Identifier "iGPU"
+                MatchDriver "i915"
+                Driver "modesetting"
+            EndSection
+ 
+            Section "OutputClass"
+                Identifier "dGPU"
+                MatchDriver "nvidia-drm"
+                Driver "nvidia"
+                Option "AllowEmptyInitialConfiguration"
+                Option "PrimaryGPU" "yes"
+                ModulePath "/usr/lib/nvidia/xorg"
+                ModulePath "/usr/lib/xorg/modules"
+            EndSection
+            ```
+
+
         + Arch migration
             + [Migrate installation to new hardware](https://wiki.archlinux.org/index.php/Migrate_installation_to_new_hardware)
             + [Disk cloning](https://wiki.archlinux.org/index.php/Disk_cloning)
