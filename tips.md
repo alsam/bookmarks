@@ -345,6 +345,7 @@
             __NV_PRIME_RENDER_OFFLOAD=1 __GLX_VENDOR_LIBRARY_NAME=nvidia glxinfo | grep OpenGL
             ```
 
+            + [PRIME](https://wiki.archlinux.org/index.php/PRIME)
             + [Multihead](https://wiki.archlinux.org/index.php/multihead)
             + [Dual monitor setup](https://bbs.archlinux.org/viewtopic.php?id=146000)
 
