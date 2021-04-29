@@ -337,6 +337,9 @@
             EndSection
             ```
 
+            + [Multihead](https://wiki.archlinux.org/index.php/multihead)
+            + [Dual monitor setup](https://bbs.archlinux.org/viewtopic.php?id=146000)
+
 
         + Arch migration
             + [Migrate installation to new hardware](https://wiki.archlinux.org/index.php/Migrate_installation_to_new_hardware)
