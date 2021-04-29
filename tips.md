@@ -349,6 +349,17 @@
             + [Multihead](https://wiki.archlinux.org/index.php/multihead)
             + [Dual monitor setup](https://bbs.archlinux.org/viewtopic.php?id=146000)
 
+        + [do nothing when laptop lid is closed](https://askubuntu.com/questions/15520/how-can-i-tell-ubuntu-to-do-nothing-when-i-close-my-laptop-lid)
+        tl;dr edit `/etc/systemd/logind.conf`
+        ```
+        ...
+        #HandleLidSwitch=suspend
+        HandleLidSwitch=ignore
+        #HandleLidSwitchExternalPower=suspend
+        HandleLidSwitchExternalPower=ignore
+        ...
+        ```
+        `sudo systemctl restart systemd-logind`
 
         + Arch migration
             + [Migrate installation to new hardware](https://wiki.archlinux.org/index.php/Migrate_installation_to_new_hardware)
