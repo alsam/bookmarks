@@ -3,6 +3,7 @@
     + [Краткое описание языка програм-мирования Julia и некоторые при-меры его использования](http://www.ihed.ras.ru/~thermo/Julia/Brief%20description%20of%20Julia%20language.pdf)
     + [Hands-On Design Patterns and Best Practices with Julia](https://www.packtpub.com/product/hands-on-design-patterns-and-best-practices-with-julia/9781838648817)
     + [Julia By Example](http://samuelcolvin.github.io/JuliaByExample/)
+    + [Month of Julia](https://github.com/datawookie/MonthOfJulia)
     + [Beautiful Julia: Cool Language Constructs and Tricks for Beginners](http://blog.translusion.com/posts/beautiful-julia/)
     + [Tricks in Julia](http://blog.translusion.com/posts/julia-tricks/)
     + [Julia for Numerical Computation in MIT Courses](https://github.com/stevengj/julia-mit)
