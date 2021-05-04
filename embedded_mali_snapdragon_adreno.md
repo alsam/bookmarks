@@ -72,6 +72,7 @@
         + [How to invoke external command from within Kotlin code?](https://stackoverflow.com/questions/35421699/how-to-invoke-external-command-from-within-kotlin-code)
         + [**How do I programmatically launch a specific application?**](https://stackoverflow.com/questions/3343432/how-do-i-programmatically-launch-a-specific-application)
     + [Android ListView in Kotlin](https://www.geeksforgeeks.org/android-listview-in-kotlin/)
+    + [Kotlin Android ListView Example](https://www.tutorialkart.com/kotlin-android/kotlin-android-listview-example/)
     + [Android Media Samples Repository](https://github.com/android/media-samples)
     + [Install and Create OpenCV project on Android Studio](https://www.youtube.com/watch?v=jN9Bv5LHXMk)
     + [OpenCV in Android Studio](https://stackoverflow.com/questions/27406303/opencv-in-android-studio)
