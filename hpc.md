@@ -300,6 +300,14 @@ Multigrid Solver in C++](https://www10.cs.fau.de/publications/reports/TechRep_20
             + [ROCm for Arch Linux](https://github.com/rocm-arch/rocm-arch)
     + [rocm OpenCL Programming Guide](https://rocmdocs.amd.com/en/latest/Programming_Guides/Opencl-programming-guide.html#amd-rocm-implementation)
         + [clinfo ERROR: clBuildProgram(-11)](https://github.com/RadeonOpenCompute/ROCm-OpenCL-Runtime/issues/110)
+        + [AMD dkms fails](https://bbs.archlinux.org/viewtopic.php?id=258940)    
+        ```sh
+        dkms install --no-depmod -m amdgpu-4.0 -v 23 -k 5.11.16-arch1-1
+        Error! Bad return status for module build on kernel: 5.11.16-arch1-1 (x86_64)
+        Consult /var/lib/dkms/amdgpu-4.0/23/build/make.log for more information.
+        ==> Warning, `dkms install --no-depmod -m amdgpu-4.0 -v 23 -k 5.11.16-arch1-1' returned 10
+
+        ```
 
     + [Radeon Instinct like : Radeon VII](https://www.ixbt.com/3dv/amd-radeon-vii-review.html)
         + [RTX 2080 vs. Radeon VII vs. 5700 XT: Rendering and Compute Performance](https://www.extremetech.com/computing/297167-rtx-2080-vs-radeon-vii-vs-5700-xt-rendering-and-compute-performance)
