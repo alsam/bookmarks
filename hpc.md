@@ -215,6 +215,7 @@ a case study of algebraic multigrid preconditioned GMRES](https://pure.tue.nl/ws
         + [rocALUTION is a sparse linear algebra library with focus on exploring fine-grained parallelism](https://rocalution.readthedocs.io/en/master/usermanual.html)
     + [AMGCL](https://github.com/ddemidov/amgcl)
         + [AMGCL](https://amgcl.readthedocs.io/en/latest/)
+        + [Triggering C++11 support in NVCC with CMake](https://stackoverflow.com/questions/36551469/triggering-c11-support-in-nvcc-with-cmake)
     + [SPARSH-AMG](https://github.com/cmgcds/SParSH-AMG)
         + [SPARSH-AMG: A LIBRARY FOR HYBRID CPU-GPU ALGEBRAIC
 MULTIGRID AND PRECONDITIONED ITERATIVE METHODS](https://arxiv.org/pdf/2007.00056.pdf)
