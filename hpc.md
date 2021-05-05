@@ -307,6 +307,10 @@ Multigrid Solver in C++](https://www10.cs.fau.de/publications/reports/TechRep_20
         Consult /var/lib/dkms/amdgpu-4.0/23/build/make.log for more information.
         ==> Warning, `dkms install --no-depmod -m amdgpu-4.0 -v 23 -k 5.11.16-arch1-1' returned 10
 
+        pacman -Qo /usr/src/amdgpu-4.0-23
+        /usr/src/amdgpu-4.0-23/ принадлежит rock-dkms-bin 4.0-3
+        /usr/src/amdgpu-4.0-23/ принадлежит rock-dkms-firmware-bin 4.0-3
+
         ```
 
     + [Radeon Instinct like : Radeon VII](https://www.ixbt.com/3dv/amd-radeon-vii-review.html)
