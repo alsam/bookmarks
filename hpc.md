@@ -300,7 +300,10 @@ Multigrid Solver in C++](https://www10.cs.fau.de/publications/reports/TechRep_20
             + [ROCm for Arch Linux](https://github.com/rocm-arch/rocm-arch)
     + [rocm OpenCL Programming Guide](https://rocmdocs.amd.com/en/latest/Programming_Guides/Opencl-programming-guide.html#amd-rocm-implementation)
         + [clinfo ERROR: clBuildProgram(-11)](https://github.com/RadeonOpenCompute/ROCm-OpenCL-Runtime/issues/110)
+        + [rock-dkms kernel vs mainline clarification](https://github.com/RadeonOpenCompute/ROCm/issues/816)
         + [Error during installation of rock-dkms 4.0 on 5.4 kernel](https://github.com/RadeonOpenCompute/ROCm/issues/1367)
+        + [dkms build on unsported kernel and supported which makes errors](https://github.com/RadeonOpenCompute/ROCm/issues/1311)
+        + [Information for rock-dkms](https://repology.org/project/rock-dkms/information)
         + [AMD dkms fails](https://bbs.archlinux.org/viewtopic.php?id=258940)    
         ```sh
         dkms install --no-depmod -m amdgpu-4.0 -v 23 -k 5.11.16-arch1-1
