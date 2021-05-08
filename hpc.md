@@ -303,6 +303,7 @@ Multigrid Solver in C++](https://www10.cs.fau.de/publications/reports/TechRep_20
         + [rock-dkms kernel vs mainline clarification](https://github.com/RadeonOpenCompute/ROCm/issues/816)
         + [Error during installation of rock-dkms 4.0 on 5.4 kernel](https://github.com/RadeonOpenCompute/ROCm/issues/1367)
         + [dkms build on unsported kernel and supported which makes errors](https://github.com/RadeonOpenCompute/ROCm/issues/1311)
+        + [ROCm support in upstream Linux kernels](https://github.com/RadeonOpenCompute/ROCm#rocm-support-in-upstream-linux-kernels)
         + [Information for rock-dkms](https://repology.org/project/rock-dkms/information)
         + [AMD dkms fails](https://bbs.archlinux.org/viewtopic.php?id=258940)    
         ```sh
