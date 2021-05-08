@@ -305,6 +305,7 @@ Multigrid Solver in C++](https://www10.cs.fau.de/publications/reports/TechRep_20
         + [dkms build on unsported kernel and supported which makes errors](https://github.com/RadeonOpenCompute/ROCm/issues/1311)
         + [ROCm support in upstream Linux kernels](https://github.com/RadeonOpenCompute/ROCm#rocm-support-in-upstream-linux-kernels)
         + [Information for rock-dkms](https://repology.org/project/rock-dkms/information)
+        + [Radeon ROCm 4.1 Released - Still Without RDNA GPU Support](https://www.phoronix.com/forums/forum/linux-graphics-x-org-drivers/open-source-amd-linux/1246716-radeon-rocm-4-1-released-still-without-rdna-gpu-support/page5)
         + [AMD dkms fails](https://bbs.archlinux.org/viewtopic.php?id=258940)    
         ```sh
         dkms install --no-depmod -m amdgpu-4.0 -v 23 -k 5.11.16-arch1-1
