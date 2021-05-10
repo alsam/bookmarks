@@ -306,6 +306,7 @@ Multigrid Solver in C++](https://www10.cs.fau.de/publications/reports/TechRep_20
         + [ROCm support in upstream Linux kernels](https://github.com/RadeonOpenCompute/ROCm#rocm-support-in-upstream-linux-kernels)
         + [Information for rock-dkms](https://repology.org/project/rock-dkms/information)
         + [Radeon ROCm 4.1 Released - Still Without RDNA GPU Support](https://www.phoronix.com/forums/forum/linux-graphics-x-org-drivers/open-source-amd-linux/1246716-radeon-rocm-4-1-released-still-without-rdna-gpu-support/page5)
+        + [ROCm 4.1 - Vega 20 (Radeon VII) with upstream amdgpu](https://githubmemory.com/@FilipVaverka)
         + [AMD dkms fails](https://bbs.archlinux.org/viewtopic.php?id=258940)    
         ```sh
         dkms install --no-depmod -m amdgpu-4.0 -v 23 -k 5.11.16-arch1-1
@@ -324,6 +325,9 @@ Multigrid Solver in C++](https://www10.cs.fau.de/publications/reports/TechRep_20
         + [AMD Radeon VII Review: This Isn’t the 7nm GPU You’re Looking For](https://www.extremetech.com/computing/285286-amd-radeon-vii-review-this-isnt-the-7nm-gpu-youre-looking-for)
         + [Is a used Radeon VII worth it in 2020?](https://www.quora.com/Is-a-used-Radeon-VII-worth-it-in-2020)
             + [AMD Radeon Instinct MI50 1725MHz PCI-E 4.0 16384MB 1000MHz 4096 bit](https://market.yandex.ru/product--videokarta-amd-radeon-instinct-mi50-1725mhz-pci-e-4-0-16384mb-1000mhz-4096-bit/674247125?text=AMD%20Radeon%20VII)
+
+    + [hipSYCL - a SYCL implementation for CPUs and GPUs](https://github.com/illuhad/hipSYCL)
+        + [hipSYCL performance](https://githubmemory.com/repo/FilipVaverka/hipSYCL#performance)
 
     + OpenCL => Vulkan
         + [a prototype implementation of OpenCL 1.2 on top of Vulkan using clspv as the compiler](https://github.com/kpet/clvk)
