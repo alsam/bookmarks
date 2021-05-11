@@ -73,6 +73,8 @@
         + [**How do I programmatically launch a specific application?**](https://stackoverflow.com/questions/3343432/how-do-i-programmatically-launch-a-specific-application)
     + [Android ListView in Kotlin](https://www.geeksforgeeks.org/android-listview-in-kotlin/)
     + [Kotlin Android ListView Example](https://www.tutorialkart.com/kotlin-android/kotlin-android-listview-example/)
+    + [A simple socket-server written in Kotlin](https://gist.github.com/Silverbaq/a14fe6b3ec57703e8cc1a63b59605876)
+        + [A simple socket client in Kotlin](https://gist.github.com/Silverbaq/1fdaf8aee72b86b8c9e2bd47fd1976f4)
     + [list all installed packages in android adb shell](https://gist.github.com/davidnunez/1404789)
     + [Android Media Samples Repository](https://github.com/android/media-samples)
     + [Install and Create OpenCV project on Android Studio](https://www.youtube.com/watch?v=jN9Bv5LHXMk)
