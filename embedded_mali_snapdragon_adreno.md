@@ -71,6 +71,24 @@
         + [Introduction to Android Activities with Kotlin](https://www.raywenderlich.com/2705552-introduction-to-android-activities-with-kotlin)
         + [How to invoke external command from within Kotlin code?](https://stackoverflow.com/questions/35421699/how-to-invoke-external-command-from-within-kotlin-code)
         + [**How do I programmatically launch a specific application?**](https://stackoverflow.com/questions/3343432/how-do-i-programmatically-launch-a-specific-application)
+    + [Suggestion: add 'tools:replace="android:icon"' to element](https://programmersought.com/article/7933423433/)    
+    tl;dr    
+    ```xml
+    <application  
+            android:name="com.anthony.test.CustomApplication"  
+            android:allowBackup="true"  
+            android:icon="@mipmap/ic_launcher"  
+            android:label="@string/app_name"  
+            android:theme="@style/AppTheme"  
+            tools:replace="android:icon, android:theme" >
+    ```
+    + [A dependent feature was defined but no package ID was set. You are probably missing a feature dependency in the base feature](https://stackoverflow.com/questions/45891659/a-dependent-feature-was-defined-but-no-package-id-was-set-you-are-probably-miss)    
+    tl;dr    
+    ```groovy
+    apply plugin: 'com.android.library'
+    ```
+    + [Android: Declaring Dependencies between Subprojects](https://docs.gradle.org/current/userguide/declaring_dependencies_between_subprojects.html#sec:project_jar_dependencies)
+    + [Structuring and Building a Software Component with Gradle](https://docs.gradle.org/current/userguide/multi_project_builds.html#:~:text=A%20multi%2Dproject%20build%20in,and%20one%20or%20more%20subprojects.&text=This%20is%20the%20recommended%20project,project%20with%20a%20single%20subproject.)
     + [Android ListView in Kotlin](https://www.geeksforgeeks.org/android-listview-in-kotlin/)
     + [Kotlin Android ListView Example](https://www.tutorialkart.com/kotlin-android/kotlin-android-listview-example/)
     + [A simple socket-server written in Kotlin](https://gist.github.com/Silverbaq/a14fe6b3ec57703e8cc1a63b59605876)
