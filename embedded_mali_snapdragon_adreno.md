@@ -99,6 +99,7 @@
         + [Android IPC Mechanisms #3 — Broadcast](https://proandroiddev.com/ipc-techniques-for-android-broadcast-ee4ed1f56261)
         + [IPC-Examples](https://github.com/perihanmirkelam/IPC-Examples)
         + [Why Connection refused got when connecting to LocalServerSocket from native program in Android](https://stackoverflow.com/questions/65432874/why-connection-refused-got-when-connecting-to-localserversocket-from-native-prog)
+            + [UNIX domain sockets : for UNIX but not for Android](https://troydhanson.github.io/network/Unix_domain_sockets.html)
     + [list all installed packages in android adb shell](https://gist.github.com/davidnunez/1404789)
     + [Android Media Samples Repository](https://github.com/android/media-samples)
     + [Install and Create OpenCV project on Android Studio](https://www.youtube.com/watch?v=jN9Bv5LHXMk)
