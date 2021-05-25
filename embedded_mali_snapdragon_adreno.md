@@ -100,6 +100,7 @@
         + [IPC-Examples](https://github.com/perihanmirkelam/IPC-Examples)
         + [Why Connection refused got when connecting to LocalServerSocket from native program in Android](https://stackoverflow.com/questions/65432874/why-connection-refused-got-when-connecting-to-localserversocket-from-native-prog)
             + [UNIX domain sockets : for UNIX but not for Android](https://troydhanson.github.io/network/Unix_domain_sockets.html)
+            + [Operation now in progress error on connect( function) error](https://stackoverflow.com/questions/6202454/operation-now-in-progress-error-on-connect-function-error)
     + [list all installed packages in android adb shell](https://gist.github.com/davidnunez/1404789)
     + [Android Media Samples Repository](https://github.com/android/media-samples)
     + [Install and Create OpenCV project on Android Studio](https://www.youtube.com/watch?v=jN9Bv5LHXMk)
