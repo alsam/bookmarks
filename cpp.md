@@ -53,6 +53,7 @@
             + [Executing multiple post build commands in CMake depending on condition](https://stackoverflow.com/questions/33769077/executing-multiple-post-build-commands-in-cmake-depending-on-condition)
             + [Copy file from source directory to binary directory using CMake](https://stackoverflow.com/questions/34799916/copy-file-from-source-directory-to-binary-directory-using-cmake)
             + [why Cmake's “ file(REMOVE_RECURSE [file1 …]) ”does not remove file having *.xxx.yy extension file?](https://stackoverflow.com/questions/53515353/why-cmakes-fileremove-recurse-file1-does-not-remove-file-having-xx/53515811)
+            + [Backward compatible `add_compile_definitions`](https://stackoverflow.com/questions/61250087/backward-compatible-add-compile-definitions)
             + [Problems with directory delimiters turning into backslashes when running cmake](https://stackoverflow.com/questions/48717138/problems-with-directory-delimiters-turning-into-backslashes-when-running-cmake)    
             tl;dr    
             ```sh
