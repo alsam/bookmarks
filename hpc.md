@@ -215,7 +215,27 @@ a case study of algebraic multigrid preconditioned GMRES](https://pure.tue.nl/ws
         + [rocALUTION is a sparse linear algebra library with focus on exploring fine-grained parallelism](https://rocalution.readthedocs.io/en/master/usermanual.html)
     + [AMGCL](https://github.com/ddemidov/amgcl)
         + [AMGCL](https://amgcl.readthedocs.io/en/latest/)
-        + [Triggering C++11 support in NVCC with CMake](https://stackoverflow.com/questions/36551469/triggering-c11-support-in-nvcc-with-cmake)
+        + [Triggering C++11 support in NVCC with CMake](https://stackoverflow.com/questions/36551469/triggering-c11-support-in-nvcc-with-cmake)    
+        tl;dr    
+        ```diff
+        diff --git a/CMakeLists.txt b/CMakeLists.txt
+        index 6ca3264..b63e326 100644
+        --- a/CMakeLists.txt
+        +++ b/CMakeLists.txt
+        @@ -161,9 +161,9 @@ if(CMAKE_CXX_COMPILER_ID MATCHES "GNU" OR CMAKE_CXX_COMPILER_ID MATCHES "MSVC")
+         
+                 if (CMAKE_CXX_COMPILER_ID MATCHES "GNU")
+                    list(APPEND CUDA_NVCC_FLAGS
+        -                ${CUDA_ARCH_FLAGS} -std=c++11 -Wno-deprecated-gpu-targets)
+        +                ${CUDA_ARCH_FLAGS} -std=c++17 -Wno-deprecated-gpu-targets)
+         
+        -            list(APPEND CUDA_NVCC_FLAGS -Xcompiler -std=c++11 -Xcompiler -fPIC -Xcompiler -Wno-vla)
+        +            list(APPEND CUDA_NVCC_FLAGS -Xcompiler -std=c++17 -Xcompiler -fPIC -Xcompiler -Wno-vla)
+                 endif()
+         
+                 add_library(cuda_target INTERFACE)
+
+        ```
         + [Stokes problem gives NaN by AMG but GMRES works fine](https://github.com/ddemidov/amgcl/issues/144)
     + [SPARSH-AMG](https://github.com/cmgcds/SParSH-AMG)
         + [SPARSH-AMG: A LIBRARY FOR HYBRID CPU-GPU ALGEBRAIC
