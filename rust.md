@@ -971,6 +971,7 @@
                 + [amber (written in Rust - a good starting point)](https://github.com/dalance/amber)
                 + [ripgrep is faster than {grep, ag, git grep, ucg, pt, sift}](https://blog.burntsushi.net/ripgrep/)
                 + [A simple, fast and user-friendly alternative to 'find'](https://github.com/sharkdp/fd)
+        + [Awesome Rewrite It In Rust - A curated list of replacements for existing software written in Rust](https://www.reddit.com/r/rust/comments/nm96n1/awesome_rewrite_it_in_rust_a_curated_list_of/)
 
     + Video
         + [warming up: Even more general pixels](https://users.rust-lang.org/t/even-more-general-pixels/12068)
