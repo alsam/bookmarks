@@ -972,6 +972,10 @@
                 + [ripgrep is faster than {grep, ag, git grep, ucg, pt, sift}](https://blog.burntsushi.net/ripgrep/)
                 + [A simple, fast and user-friendly alternative to 'find'](https://github.com/sharkdp/fd)
         + [Awesome Rewrite It In Rust - A curated list of replacements for existing software written in Rust](https://www.reddit.com/r/rust/comments/nm96n1/awesome_rewrite_it_in_rust_a_curated_list_of/)
+            + [uutils coreutils rewrite in Rust](https://github.com/uutils/coreutils)
+            + [SAD! -Space Age seD](https://github.com/ms-jpq/sad)
+            + [broot - get an overview of a directory, even a big one](https://github.com/Canop/broot)
+            + [FClones — Efficient Duplicate File Finder and Remover](https://github.com/pkolaczk/fclones)
 
     + Video
         + [warming up: Even more general pixels](https://users.rust-lang.org/t/even-more-general-pixels/12068)
@@ -1251,4 +1255,3 @@ Hardware Description Languages](https://arxiv.org/pdf/2004.03494.pdf)
 + [A dependency-free chess engine library built to run anywhere](https://github.com/adam-mcdaniel/chess-engine)
 + [crdts: family of thoroughly tested hybrid crdt's](https://crates.io/crates/crdts)
     + [Conflict-free replicated data type](https://en.wikipedia.org/wiki/Conflict-free_replicated_data_type)
-+ [uutils coreutils rewrite in Rust](https://github.com/uutils/coreutils)
