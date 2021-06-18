@@ -875,6 +875,10 @@
             + [{fmt} is an open-source formatting library providing a fast and safe alternative to C stdio and C++ iostreams](https://github.com/fmtlib/fmt)
                 + [std::format in C++20](https://www.zverovich.net/2019/07/23/std-format-cpp20.html)
                 + [How to use C++20 modules in GNU g++-11](https://namespace-cpp.de/std/doku.php/howto/modules_gcc11)
+                + [cpp-lazy](https://github.com/MarcDirven/cpp-lazy)
+                + [FTXUI - Functional Terminal (X) User interface](https://github.com/ArthurSonzogni/FTXUI)
+                    + [FTXUI Documentation](https://arthursonzogni.com/FTXUI/doc/)
+                + [Diagon is an interactive interpreter. It transforms markdown-style expression into an ascii-art representation](https://github.com/ArthurSonzogni/Diagon)
 
         + misc
             + [Modern C++ Tutorial: C++11/14/17/20 On the Fly](https://github.com/changkun/modern-cpp-tutorial)
