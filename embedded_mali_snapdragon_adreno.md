@@ -87,6 +87,7 @@
     ```groovy
     apply plugin: 'com.android.library'
     ```
+    + [android:extractNativeLibs="true" for Dynamic Feature Module](https://github.com/google/bundletool/issues/155)
     + [Android: Declaring Dependencies between Subprojects](https://docs.gradle.org/current/userguide/declaring_dependencies_between_subprojects.html#sec:project_jar_dependencies)
     + [Structuring and Building a Software Component with Gradle](https://docs.gradle.org/current/userguide/multi_project_builds.html#:~:text=A%20multi%2Dproject%20build%20in,and%20one%20or%20more%20subprojects.&text=This%20is%20the%20recommended%20project,project%20with%20a%20single%20subproject.)
     + [Android ListView in Kotlin](https://www.geeksforgeeks.org/android-listview-in-kotlin/)
