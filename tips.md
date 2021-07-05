@@ -906,6 +906,7 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
         + [Neovim with LSP and tree-sitter](https://github.com/nikvdp/nvim-lsp-config)
         + [LunarVim](https://github.com/ChristianChiarulli/LunarVim)
             + [Neovim 0.5 and LunarVim Q&A Livestream](https://www.youtube.com/watch?v=V-6GkfeIi3w)
+            + [How to set up Neovim 0.5 (LSP, Treesitter, fuzzy finder, etc)](https://www.youtube.com/watch?v=FW2X1CXrU1w)
         + [Vim: Substitute pattern between braces](https://vi.stackexchange.com/questions/2751/substitute-pattern-between-braces)    
             tl;dr
             ```sh
