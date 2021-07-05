@@ -903,6 +903,8 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
             + [Setting up Neovim for C++ Development with LSP](https://jdhao.github.io/2020/11/29/neovim_cpp_dev_setup/)
             + [Configure coc.nvim for C/C++ Development](https://ianding.io/2019/07/29/configure-coc-nvim-for-c-c++-development/)
         + [Find in files within Vim](http://vim.wikia.com/wiki/Find_in_files_within_Vim)
+        + [Neovim with LSP and tree-sitter](https://github.com/nikvdp/nvim-lsp-config)
+        + [LunarVim](https://github.com/ChristianChiarulli/LunarVim)
         + [Vim: Substitute pattern between braces](https://vi.stackexchange.com/questions/2751/substitute-pattern-between-braces)    
             tl;dr
             ```sh
