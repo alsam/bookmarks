@@ -904,6 +904,7 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
             + [Configure coc.nvim for C/C++ Development](https://ianding.io/2019/07/29/configure-coc-nvim-for-c-c++-development/)
         + [Find in files within Vim](http://vim.wikia.com/wiki/Find_in_files_within_Vim)
         + [Neovim with LSP and tree-sitter](https://github.com/nikvdp/nvim-lsp-config)
+        + [nvim tree-sitter config](https://github.com/craftzdog/dotfiles-public/tree/master/.config/nvim)
         + [LunarVim](https://github.com/ChristianChiarulli/LunarVim)
             + [Neovim 0.5 and LunarVim Q&A Livestream](https://www.youtube.com/watch?v=V-6GkfeIi3w)
             + [How to set up Neovim 0.5 (LSP, Treesitter, fuzzy finder, etc)](https://www.youtube.com/watch?v=FW2X1CXrU1w)
