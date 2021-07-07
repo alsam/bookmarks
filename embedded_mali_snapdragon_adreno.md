@@ -209,6 +209,16 @@
         ```sh
         adb install -t hello.apk
         ```
+
+    + [ADB Hack - Granting extra capabilities via the ADB tool](https://www.macrodroidforum.com/index.php?threads/adb-hack-granting-extra-capabilities-via-the-adb-tool.48/)    
+        tl;dr, e.g.    
+        ```sh
+        adb shell pm grant com.arlosoft.macrodroid android.permission.READ_LOGS
+        adb shell pm grant com.arlosoft.macrodroid android.permission.DUMP
+        adb shell pm grant com.arlosoft.macrodroid android.permission.PACKAGE_USAGE_STATS
+        ```
+
+
     + [adb useful commands list](https://gist.github.com/Pulimet/5013acf2cd5b28e55036c82c91bd56d8)    
     tl;dr some useful commands
     ```sh
