@@ -310,6 +310,7 @@
     + [How to launch a new Activity using NativeActivity?](https://groups.google.com/g/android-ndk/c/SHCXgUCE7t4)
     + [call android activity from jni directly from c++ process without java side](https://stackoverflow.com/questions/22326302/call-android-activity-from-jni-directly-from-c-process-without-java-side)
         + [How to launch an Activity from another Application in Android](https://stackoverflow.com/questions/3872063/how-to-launch-an-activity-from-another-application-in-android?noredirect=1&lq=1)
+    + [Java Runtime.getRuntime(): getting output from executing a command line program](https://stackoverflow.com/questions/5711084/java-runtime-getruntime-getting-output-from-executing-a-command-line-program)
     + [Getting started with C++ and Android Native Activities](https://medium.com/androiddevelopers/getting-started-with-c-and-android-native-activities-2213b402ffff)
         + [Understand Tasks and Back Stack](https://developer.android.com/guide/components/activities/tasks-and-back-stack)
             + [Android NativeActivity + other activity](https://stackoverflow.com/questions/13268372/android-nativeactivity-other-activity/13269422)
