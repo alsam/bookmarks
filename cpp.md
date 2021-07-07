@@ -33,6 +33,8 @@
         + [CGold: The Hitchhiker’s Guide to the CMake](https://cgold.readthedocs.io/en/latest/)
         + [CMake cheat sheet](https://ps-group.github.io/cxx/cmake_cheatsheet)
         + [greenfield : start new project with C++/CMake](https://gist.github.com/caiorss)
+        + [vim-cmake-boilerplate](https://github.com/danebulat/vim-cmake-boilerplate)
+            + [Vim: Setting up a Build System and Code Completion for C and C++](https://dane-bulat.medium.com/vim-setting-up-a-build-system-and-code-completion-for-c-and-c-eb263c0a19a1)
         + [CMake cannot find GoogleTest required library in Ubuntu](https://stackoverflow.com/questions/24295876/cmake-cannot-find-googletest-required-library-in-ubuntu)
         + [CMake by Example](https://mirkokiefer.com/cmake-by-example-f95eb47d45b1)
             + [Modern CMake and sub-modules](https://gotm.net/blog/modern_cmake/)
