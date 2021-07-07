@@ -26,6 +26,7 @@
                     + [fix unification of const variables](https://github.com/rust-lang/rust/pull/74040)
                 + [Making elementwise operations using const generics more ergonomic? (Possible new trait or FromIterator impl)](making-elementwise-operations-using-const-generics-more-ergonomic-possible-new-trait-or-fromiterator-impl)
                 + [Implementing ArrayVec Using Const Generics](https://adventures.michaelfbryan.com/posts/const-arrayvec/)
+                + [Add section ch19-07 on Const Generics](https://github.com/rust-lang/book/pull/2776/files)
                 + [Preserving the programmers ‘Intent’ in Unsafe Rust](https://levelup.gitconnected.com/preserving-the-programmers-intent-in-unsafe-rust-beaa3266f43f)
                     + [Question on `const-generics`](https://users.rust-lang.org/t/question-on-const-generics/54381)
             + [Tracking issue for "Lazy normalization"](https://github.com/rust-lang/rust/issues/60471)
