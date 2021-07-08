@@ -912,6 +912,9 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
             + [How to migrate from init.vim to init.lua?](https://www.reddit.com/r/neovim/comments/kfxqcr/how_to_migrate_from_initvim_to_initlua/)
                 + [Getting started using Lua in Neovim](https://github.com/nanotee/nvim-lua-guide/)
                 + [dot dot dot](https://github.com/elianiva/dotfiles/)
+                + [Neovim 0.5 features and the switch to `init.lua`](https://oroques.dev/notes/neovim-init/)
+                + [Configuring Neovim using Lua](https://icyphox.sh/blog/nvim-lua/)
+                + [Converting neovim config to lua](https://www.imaginaryrobots.net/2021/04/17/converting-vimrc-to-lua)
         + [Vim: Substitute pattern between braces](https://vi.stackexchange.com/questions/2751/substitute-pattern-between-braces)    
             tl;dr
             ```sh
