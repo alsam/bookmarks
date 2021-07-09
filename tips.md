@@ -916,6 +916,7 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
                 + [Configuring Neovim using Lua](https://icyphox.sh/blog/nvim-lua/)
                 + [Converting neovim config to lua](https://www.imaginaryrobots.net/2021/04/17/converting-vimrc-to-lua)
         + [Vim: Substitute pattern between braces](https://vi.stackexchange.com/questions/2751/substitute-pattern-between-braces)
+                + [Neovim (0.5) Is Overpowering](https://crispgm.com/page/neovim-is-overpowering.html)
                 + [How to set up Neovim 0.5 + Modern plugins (LSP, Treesitter, Fuzzy finder, etc)](https://blog.inkdrop.info/how-to-set-up-neovim-0-5-modern-plugins-lsp-treesitter-etc-542c3d9c9887)    
             tl;dr
             ```sh
