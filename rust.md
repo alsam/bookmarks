@@ -259,6 +259,7 @@
         + [a list of linear algebra libraries for Rust](https://libraries.io/search?keywords=matrix&languages=Rust)
         + [Numerics & math foundation](https://users.rust-lang.org/t/numerics-math-foundation/7247)
         + [Solving Sparse Matrix Systems in Rust](https://medium.com/software-makes-hardware/solving-sparse-matrix-systems-in-rust-5e978ed07bc3)
+            + [Sparse multidimensional structures written in Rust](https://c410-f3r.github.io/posts/sparse-multidimensional-structures-written-in-rust/)
         + [An extensible HPC-Framework for CUDA, OpenCL and native CPU](https://github.com/lychee-eng/parenchyma)
         + [Extremely generic linear algebra libary for Rust](https://github.com/maplant/aljabar)
         + [A Linear Algebra library that uses const generics to be no_std and specialization to enable SIMD](https://github.com/djugei/optimath/)
