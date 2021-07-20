@@ -87,6 +87,8 @@
             + [Dedalus is a flexible framework for solving partial differential equations using spectral methods](https://github.com/DedalusProject/dedalus)
         + [multiple-interval pseudospectral methods to solve optimal control problems](https://github.com/danielrherber/basic-multiple-interval-pseudospectral)
         + [pizza is a high-performance numerical code for quasi-geostrophic and non-rotating convection in a 2-D annulus geometry](https://github.com/magic-sph/pizza)
+        + [FDBB (Fluid Dynamics Building Blocks) is a C++ expression template library for fluid dynamics](https://mmoelle1.gitlab.io/FDBB/)
+            + [FDBB - Fluid Dynamics Building Blocks](https://gitlab.com/mmoelle1/FDBB)
 
     + Finite Element Methods (FEM) and Spectral Element Methods (SEM)
         + [deal.II — an open source finite element library](https://www.dealii.org/)
