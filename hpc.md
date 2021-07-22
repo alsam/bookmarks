@@ -240,6 +240,8 @@ a case study of algebraic multigrid preconditioned GMRES](https://pure.tue.nl/ws
 
         ```
         + [Stokes problem gives NaN by AMG but GMRES works fine](https://github.com/ddemidov/amgcl/issues/144)
+        + [Block preconditioners](https://github.com/ddemidov/amgcl/issues/37)
+            + [amg_corrector_solver](https://github.com/Andlon/crest/blob/master/include/crest/basis/amg_corrector_solver.hpp) 
     + [SPARSH-AMG](https://github.com/cmgcds/SParSH-AMG)
         + [SPARSH-AMG: A LIBRARY FOR HYBRID CPU-GPU ALGEBRAIC
 MULTIGRID AND PRECONDITIONED ITERATIVE METHODS](https://arxiv.org/pdf/2007.00056.pdf)
