@@ -833,6 +833,7 @@
                     + [Semantic requirements in concepts](https://akrzemi1.wordpress.com/2020/10/26/semantic-requirements-in-concepts/)
                 + [Why can't I pass std::vector<Child*> as std::vector<Parent*>?](https://mcla.ug/blog/cpp-templates-with-subtype-type-args.html)
                 + [C++ Modules: A Brief Tour](https://accu.org/journals/overload/28/159/sidwell/)
+                    + [C++20: Further Open Questions to Modules: Templates and Modules](https://www.modernescpp.com/index.php/c-20-open-questions-to-modules)
 
                 + [Bit Manipulation with C++20](https://www.modernescpp.com/index.php/bit-manipulation-with-c-20)
 
