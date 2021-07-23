@@ -71,6 +71,9 @@
             + [Appendices:](http://inis.jinr.ru/sl/M_Mathematics/MRef_References/Mason,%20Hanscomb.%20Chebyshev%20polynomials%20(2003)/C0355-App.pdf)
             + [Summary of Notations, Definitions and ImportantProperties](http://inis.jinr.ru/sl/M_Mathematics/MRef_References/Mason,%20Hanscomb.%20Chebyshev%20polynomials%20(2003)/C0355-App.pdf#[1,{%22name%22:%22FitH%22},690])
             + [Tables of Coefficients](http://inis.jinr.ru/sl/M_Mathematics/MRef_References/Mason,%20Hanscomb.%20Chebyshev%20polynomials%20(2003)/C0355-App.pdf#[7,{%22name%22:%22FitH%22},677])
+            + [FFTW Discrete Cosine Transform Derivative](http://www.variousconsequences.com/2009/05/fftw-discrete-cosine-transform.html)
+            + [FAST ALGORITHMS FOR DISCRETE POLYNOMIAL TRANSFORMS](https://www.ams.org/journals/mcom/1998-67-224/S0025-5718-98-00975-2/S0025-5718-98-00975-2.pdf)
+            + [A New Method for Chebyshev Polynomial Interpolation Based on Cosine Transforms](https://link.springer.com/article/10.1007/s00034-015-0087-4)
 
         + [A brief introduction to pseudo-spectral methods: application to diffusion problems](https://arxiv.org/pdf/1606.05432.pdf)
         + [Spectral methods in python](http://cpraveen.github.io/teaching/chebpy.html)
