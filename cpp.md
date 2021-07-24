@@ -818,6 +818,7 @@
             + [Pure Virtual C++ 2020](https://www.youtube.com/playlist?list=PLReL099Y5nRdHYz4JwB0bq1kaVw2yGDag)
                 + [Dynamic Polymorphism with Metaclasses and Code Injection with Sy Brand](https://www.youtube.com/watch?v=drt3yXI-fqk&list=PLReL099Y5nRdHYz4JwB0bq1kaVw2yGDag&index=2&t=0s)
                 + [Practical C++20 Modules and the future of tooling around C++ Modules with Cameron DaCamara](https://www.youtube.com/watch?v=ow2zV0Udd9M&list=PLReL099Y5nRdHYz4JwB0bq1kaVw2yGDag&index=8&t=0s)
+                    + [How to use c++20 modules with CMake?](https://stackoverflow.com/questions/57300495/how-to-use-c20-modules-with-cmake)
                 + [C++ Development with Visual Studio Code with Julia Reid](https://www.youtube.com/watch?v=WqXrYfSKJXk&list=PLReL099Y5nRdHYz4JwB0bq1kaVw2yGDag&index=6&t=0s)
                 + [Peeking Safely at a Table with Concepts with Gabriel Dos Reis](https://www.youtube.com/watch?v=xO7JG0GarG4&list=PLReL099Y5nRdHYz4JwB0bq1kaVw2yGDag&index=7&t=0s)
             + [C++20: The Big Four](https://www.modernescpp.com/index.php/thebigfour)
