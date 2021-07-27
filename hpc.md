@@ -244,9 +244,12 @@ a case study of algebraic multigrid preconditioned GMRES](https://pure.tue.nl/ws
         ```
         + [Stokes problem gives NaN by AMG but GMRES works fine](https://github.com/ddemidov/amgcl/issues/144)
         + [Pressure projection solver for Incompressible Navier-Stokes FEM](https://github.com/ddemidov/amgcl/issues/151)
-        + [how to perform matrix construction in GPU deveces without the data transfer](https://github.com/ddemidov/amgcl/issues/164)
+        + [**how to perform matrix construction in GPU deveces without the data transfer**](https://github.com/ddemidov/amgcl/issues/164)
         + [Block preconditioners](https://github.com/ddemidov/amgcl/issues/37)
-            + [amg_corrector_solver](https://github.com/Andlon/crest/blob/master/include/crest/basis/amg_corrector_solver.hpp) 
+            + [amg_corrector_solver](https://github.com/Andlon/crest/blob/master/include/crest/basis/amg_corrector_solver.hpp)
+            + [schur pressure correction](https://github.com/ddemidov/cppstokes_benchmarks/blob/master/amgcl_spc_pre.cpp)
+                + [code accompanying "Accelerating linear solvers for Stokes problems with C++ metaprogramming"](https://github.com/ddemidov/cppstokes_benchmarks/) 
+                    + [Accelerating linear solvers for Stokes problems with C++ metaprogramming](https://arxiv.org/pdf/2006.06052.pdf)
     + [SPARSH-AMG](https://github.com/cmgcds/SParSH-AMG)
         + [SPARSH-AMG: A LIBRARY FOR HYBRID CPU-GPU ALGEBRAIC
 MULTIGRID AND PRECONDITIONED ITERATIVE METHODS](https://arxiv.org/pdf/2007.00056.pdf)
