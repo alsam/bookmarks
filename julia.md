@@ -61,6 +61,11 @@
         git clone https://github.com/JuliaRegistries/General.git ~/.julia/registries/General
         ```
         + [Discussion: Plans for Julia as a general-purpose language?](https://discourse.julialang.org/t/discussion-plans-for-julia-as-a-general-purpose-language/30861/30)
+        + [What is a “symbol” in Julia?](https://stackoverflow.com/questions/23480722/what-is-a-symbol-in-julia)
+            + [Julia convert symbol to string](https://stackoverflow.com/questions/63675703/julia-convert-symbol-to-string)
+        + [onverting Vector{Any} to Tuple of Floats](https://discourse.julialang.org/t/converting-vector-any-to-tuple-of-floats/13714/10)
+        + [Does Julia have a string 'contains' substring method?](https://stackoverflow.com/questions/58011191/does-julia-have-a-string-contains-substring-method)
+        + [How do I access the last element of an array?](https://stackoverflow.com/questions/59722749/how-do-i-access-the-last-element-of-an-array)
 
     + [Introducing Julia/Arrays and tuples](https://en.wikibooks.org/wiki/Introducing_Julia/Arrays_and_tuples)
         + [Multidimensional algorithms and iteration](http://julialang.org/blog/2016/02/iteration)
