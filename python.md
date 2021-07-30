@@ -120,6 +120,8 @@
 
 + [How to repeat a string a variable number of times in C++?](https://stackoverflow.com/questions/166630/how-to-repeat-a-string-a-variable-number-of-times-in-c)
 
++ [Convert bytes to a string](https://stackoverflow.com/questions/606191/convert-bytes-to-a-string)
+
 + [Python to list HTTP-files and directories](https://stackoverflow.com/questions/11023530/python-to-list-http-files-and-directories/34718858)
     + [Web Scraping and Parsing HTML in Python with Beautiful Soup](https://www.twilio.com/blog/web-scraping-and-parsing-html-in-python-with-beautiful-soup)
         + tl;dr `sudo pip3 install bs4`
