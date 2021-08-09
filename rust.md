@@ -181,6 +181,7 @@
         + [On pattern matching performance in rust](http://www.cjqed.com/blog/rust-pattern-matching-performance/)
             + [Mixing matching, mutation, and moves in Rust](http://blog.rust-lang.org/2015/04/17/Enums-match-mutation-and-moves.html)
             + [Idiomatic way of testing Result<T, Error>?](https://users.rust-lang.org/t/idiomatic-way-of-testing-result-t-error/2171)
+                + [How to Design For Panic Resilience in Rust](https://towardsdatascience.com/how-to-design-for-panic-resilience-in-rust-55d5fd2478b9) 
         + [Rust Faster!](https://llogiq.github.io/2015/10/03/fast.html)
             + [The Computer Language Benchmarks Game: Rust implementations](https://github.com/TeXitoi/benchmarksgame-rs)
             + [Compile-time type checking for arbitrary unit systems](https://github.com/llogiq/dimensioned)
