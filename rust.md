@@ -1262,3 +1262,4 @@ Hardware Description Languages](https://arxiv.org/pdf/2004.03494.pdf)
     + [Conflict-free replicated data type](https://en.wikipedia.org/wiki/Conflict-free_replicated_data_type)
 
 + [Neovim and Rust](https://sharksforarms.dev/posts/neovim-rust/)
++ [Is this the right way to read lines from file and split them into words in Rust?](https://stackoverflow.com/questions/25581463/is-this-the-right-way-to-read-lines-from-file-and-split-them-into-words-in-rust)
