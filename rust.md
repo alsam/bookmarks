@@ -1263,3 +1263,4 @@ Hardware Description Languages](https://arxiv.org/pdf/2004.03494.pdf)
 
 + [Neovim and Rust](https://sharksforarms.dev/posts/neovim-rust/)
 + [Is this the right way to read lines from file and split them into words in Rust?](https://stackoverflow.com/questions/25581463/is-this-the-right-way-to-read-lines-from-file-and-split-them-into-words-in-rust)
++ [How to Design For Panic Resilience in Rust](https://towardsdatascience.com/how-to-design-for-panic-resilience-in-rust-55d5fd2478b9)
