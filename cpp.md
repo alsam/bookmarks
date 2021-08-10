@@ -475,6 +475,7 @@
 
         + [Can a C++ lambda constructor argument capture the constructed variable?](http://stackoverflow.com/questions/29738655/can-a-c-lambda-constructor-argument-capture-the-constructed-variable)
 
+        + [Секреты auto и decltype](https://habr.com/ru/post/206458/)
         + generic variadic lambdas
             + TL;DR
             ```c++
