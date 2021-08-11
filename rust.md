@@ -1263,3 +1263,4 @@ Hardware Description Languages](https://arxiv.org/pdf/2004.03494.pdf)
 
 + [Neovim and Rust](https://sharksforarms.dev/posts/neovim-rust/)
 + [Is this the right way to read lines from file and split them into words in Rust?](https://stackoverflow.com/questions/25581463/is-this-the-right-way-to-read-lines-from-file-and-split-them-into-words-in-rust)
++ [Alignment of floating point numbers printed in scientific notation](https://stackoverflow.com/questions/65264069/alignment-of-floating-point-numbers-printed-in-scientific-notation)
