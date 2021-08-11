@@ -205,10 +205,12 @@
         + [cargo benchcmp](https://github.com/BurntSushi/cargo-benchcmp)
             + [Porting cargo benchcmp](https://apanatshka.github.io/compsci/2016/09/04/porting-cargo-benchcmp/)
 
-        + Loop unrolling
-            + [Can I create a macro that unrolls loops?](http://stackoverflow.com/questions/30887356/can-i-create-a-macro-that-unrolls-loops)
-                + [How do I see the expanded macro code that's causing my compile error?](http://stackoverflow.com/questions/28580386/how-do-i-see-the-expanded-macro-code-thats-causing-my-compile-error)
-                    + [macro expand](https://github.com/dtolnay/cargo-expand)
+        + [Macros in Rust: A tutorial with examples](https://blog.logrocket.com/macros-in-rust-a-tutorial-with-examples/)
+            + [How do I create a Rust macro with optional parameters using repetitions?](https://stackoverflow.com/questions/34373169/how-do-i-create-a-rust-macro-with-optional-parameters-using-repetitions)
+            + [macro expand](https://github.com/dtolnay/cargo-expand)
+            + Loop unrolling
+                + [Can I create a macro that unrolls loops?](http://stackoverflow.com/questions/30887356/can-i-create-a-macro-that-unrolls-loops)
+                    + [How do I see the expanded macro code that's causing my compile error?](http://stackoverflow.com/questions/28580386/how-do-i-see-the-expanded-macro-code-thats-causing-my-compile-error)
             + [Loop unrolling on request](https://internals.rust-lang.org/t/loop-unrolling-on-request/3091/3)
 
     + Linear Algebra + Numerics
@@ -1268,4 +1270,3 @@ Hardware Description Languages](https://arxiv.org/pdf/2004.03494.pdf)
 + [Rust Design Patterns](https://rust-unofficial.github.io/patterns/)
 + [Why I Scatter Use Statements Throughout My Rust](https://tarquin-the-brave.github.io/blog/posts/rust_use_statements/)
 + [Alignment of floating point numbers printed in scientific notation](https://stackoverflow.com/questions/65264069/alignment-of-floating-point-numbers-printed-in-scientific-notation)
-+ [How do I create a Rust macro with optional parameters using repetitions?](https://stackoverflow.com/questions/34373169/how-do-i-create-a-rust-macro-with-optional-parameters-using-repetitions)
