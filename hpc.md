@@ -293,7 +293,8 @@ Multigrid Solver in C++](https://www10.cs.fau.de/publications/reports/TechRep_20
         ```sh
         nvcc -arch=sm_35 ...
         ```
-        + [Параллельные вычисления с использованием стандартов MPI, OpenMP, OpenACC](https://www.youtube.com/playlist?list=PL-_cKNuVAYAWPC1WfK7_6v-gFOm4i7RKy)
+    + [Matrix multiplication in cuSparse (cusparseDcsrgemm) outputs wrong results](https://stackoverflow.com/questions/57385060/matrix-multiplication-in-cusparse-cusparsedcsrgemm-outputs-wrong-results)
+    + [Параллельные вычисления с использованием стандартов MPI, OpenMP, OpenACC](https://www.youtube.com/playlist?list=PL-_cKNuVAYAWPC1WfK7_6v-gFOm4i7RKy)
 + Memory Model
     + [C++11 introduced a standardized memory model. What does it mean? And how is it going to affect C++ programming?](https://stackoverflow.com/questions/6319146/c11-introduced-a-standardized-memory-model-what-does-it-mean-and-how-is-it-g?rq=1)
     + [A Primer on Memory Consistency and Cache Coherence](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.225.9278&rep=rep1&type=pdf)
