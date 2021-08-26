@@ -86,6 +86,7 @@
             + [И опять шрифты](http://forum.ubuntu.ru/index.php?topic=211336.0)
             + [LaTeX support for the fonts PT Sans, PT Serif and PT Mono](https://www.ctan.org/tex-archive/fonts/paratype)
                 + [Общедоступные шрифты с поддержкой национальных алфавитов России](https://www.paratype.ru/public/)
+    + ['l3regex.sty' not found](https://tex.stackexchange.com/questions/479650/l3regex-sty-not-found)
     + [Show equation number only once in align environment](https://tex.stackexchange.com/questions/17528/show-equation-number-only-once-in-align-environment)
       tl;dr
       ```latex
