@@ -295,6 +295,9 @@ Multigrid Solver in C++](https://www10.cs.fau.de/publications/reports/TechRep_20
         ```
     + [Matrix multiplication in cuSparse (cusparseDcsrgemm) outputs wrong results](https://stackoverflow.com/questions/57385060/matrix-multiplication-in-cusparse-cusparsedcsrgemm-outputs-wrong-results)
         + [C++ (Cpp) cusparseDcsrgemm примеры использования](https://cpp.hotexamples.com/ru/examples/-/-/cusparseDcsrgemm/cpp-cusparsedcsrgemm-function-examples.html)
+        + [Problem of two large sparse matrices multiplication in cuParse](https://forums.developer.nvidia.com/t/problem-of-two-large-sparse-matrices-multiplication-in-cuparse/33316/4)
+        + [spgemm_example.c](https://github.com/NVIDIA/CUDALibrarySamples/blob/master/cuSPARSE/spgemm/spgemm_example.c)
+        + [CusparseManager.cu](https://github.com/sintefmath/equelle/blob/master/backends/cuda/src/CusparseManager.cu)
     + [Параллельные вычисления с использованием стандартов MPI, OpenMP, OpenACC](https://www.youtube.com/playlist?list=PL-_cKNuVAYAWPC1WfK7_6v-gFOm4i7RKy)
 + Memory Model
     + [C++11 introduced a standardized memory model. What does it mean? And how is it going to affect C++ programming?](https://stackoverflow.com/questions/6319146/c11-introduced-a-standardized-memory-model-what-does-it-mean-and-how-is-it-g?rq=1)
