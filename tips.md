@@ -1694,6 +1694,8 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
     + [youtube-dl github repo](https://github.com/ytdl-org/youtube-dl)
     + [Скачиваем видео на Андроид с помощью youtube-dl](http://wpilot.blogspot.com/2018/06/download-video-youtube-dl-to-android.html)
 
++ [Why you should use named pipes on Linux](https://www.networkworld.com/article/3251853/why-use-named-pipes-on-linux.html)
+
 + [Take a screenshot of a area in xfce?](https://askubuntu.com/questions/525988/take-a-screenshot-of-a-area-in-xfce)    
     ```sh
     xfce4-screenshooter -f
