@@ -958,6 +958,7 @@
         + [Electrolysis Reference](http://kha.github.io/electrolysis/)
         + [Status of Rust Code Analyzers](https://users.rust-lang.org/t/status-of-rust-code-analyzers/10106)
             + [Thesis: Simple Verification of Rust Programs via Functional Purification](https://users.rust-lang.org/t/thesis-simple-verification-of-rust-programs-via-functional-purification/9704)
+        + [Pre-RFC: Extending where clauses with limited formal verification](https://internals.rust-lang.org/t/pre-rfc-extending-where-clauses-with-limited-formal-verification/13791/12)
 
     + C & C++ projects being converted to Rust
         + Physically Based Rendering
