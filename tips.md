@@ -1696,6 +1696,8 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
 
 + [Why you should use named pipes on Linux](https://www.networkworld.com/article/3251853/why-use-named-pipes-on-linux.html)
 
++ [Can I share a file descriptor to another process on linux or are they local to the process?](https://stackoverflow.com/questions/2358684/can-i-share-a-file-descriptor-to-another-process-on-linux-or-are-they-local-to-t?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa)
+
 + [Take a screenshot of a area in xfce?](https://askubuntu.com/questions/525988/take-a-screenshot-of-a-area-in-xfce)    
     ```sh
     xfce4-screenshooter -f
