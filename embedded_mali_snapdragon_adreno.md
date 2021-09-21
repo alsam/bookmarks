@@ -318,4 +318,4 @@
     + [Cross-process locking with Android NDK?](https://stackoverflow.com/questions/18603267/cross-process-locking-with-android-ndk/18606519#18606519)
     + [Product-consumer with semaphores and forks](https://stackoverflow.com/questions/23485100/product-consumer-with-semaphores-and-forks)
     + [test-flock.c](https://github.com/Chainfire/android-ndk-compression-tools/blob/master/gnulib/tests/test-flock.c)
-    + [](
+    + [Android Native Semaphore Not implemented](https://stackoverflow.com/questions/48083883/android-native-semaphore-not-implemented)
