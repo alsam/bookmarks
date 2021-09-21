@@ -315,3 +315,7 @@
     + [Getting started with C++ and Android Native Activities](https://medium.com/androiddevelopers/getting-started-with-c-and-android-native-activities-2213b402ffff)
         + [Understand Tasks and Back Stack](https://developer.android.com/guide/components/activities/tasks-and-back-stack)
             + [Android NativeActivity + other activity](https://stackoverflow.com/questions/13268372/android-nativeactivity-other-activity/13269422)
+    + [Cross-process locking with Android NDK?](https://stackoverflow.com/questions/18603267/cross-process-locking-with-android-ndk/18606519#18606519)
+    + [Product-consumer with semaphores and forks](https://stackoverflow.com/questions/23485100/product-consumer-with-semaphores-and-forks)
+    + [test-flock.c](https://github.com/Chainfire/android-ndk-compression-tools/blob/master/gnulib/tests/test-flock.c)
+    + [](
