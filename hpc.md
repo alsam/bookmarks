@@ -323,6 +323,10 @@ Multigrid Solver in C++](https://www10.cs.fau.de/publications/reports/TechRep_20
         + [Implementation of the SYCL specification.](https://github.com/ProGTX/sycl-gtx)
             + [Building a brain with SYCL and modern C++](https://www.semanticscholar.org/paper/Building-a-brain-with-SYCL-and-modern-C%2B%2B-Smithe-Potter/01cd48cda17008640076323b8ea10ac59a8b6509)
 
++ Kompute
+    + [The general purpose GPU compute framework for cross vendor graphics cards (AMD, Qualcomm, NVIDIA & friends)](https://kompute.cc/)
+        + [Kompute github repo](https://github.com/KomputeProject/kompute)
+
 + HCC is an Open Source, Optimizing C++ Compiler for Heterogeneous Compute currently for the ROCm GPU Computing Platform
     + [Why did AMD open source ROCm’s OpenCL driver-stack?](https://streamhpc.com/blog/2017-05-21/amd-open-sourced-rocms-opencl-driver-stack/)
     + [wiki for HCC](https://github.com/RadeonOpenCompute/hcc/wiki)
