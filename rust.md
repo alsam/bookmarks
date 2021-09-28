@@ -1042,6 +1042,7 @@
                 + [Ash - A very lightweight wrapper around Vulkan](https://github.com/MaikKlein/ash)
                 + [erupt - Vulkan API bindings](https://gitlab.com/Friz64/erupt)
                 + [Vulkano is a Rust wrapper around the Vulkan graphics API](https://github.com/vulkano-rs/vulkano)
+                + [Work-in-progress software-rendering Vulkan implementation](https://salsa.debian.org/Kazan-team/kazan)
             + [A low-overhead Vulkan-like GPU API for Rust](https://github.com/gfx-rs/gfx)
                 + [N-Body-Simulation](https://github.com/timokoesters/nbodysim)
                     + [Rust Galaxy Simulator with GPU acceleration powered by wgpu](https://www.reddit.com/r/rust/comments/fdxdhb/i_released_my_rust_galaxy_simulator_with_gpu/)
