@@ -1007,6 +1007,11 @@
         + [PTX support, take 2](https://github.com/rust-lang/rust/pull/38559)
         + [Tracking issue for the "ptx-kernel" ABI](https://github.com/rust-lang/rust/issues/38788)
 
+    + Rust & OpenCL
+        + [RustiCL](https://gitlab.freedesktop.org/karolherbst/mesa/-/tree/rusticl/src/gallium/frontends/rusticl)
+        + [Rust opencl3](https://github.com/kenba/opencl3)
+            + [Crate opencl3](https://docs.rs/opencl3/0.5.2/opencl3/)
+
     + diagrams using Rust
         + [SvgBobRus is an ascii to svg converter](https://github.com/ivanceras/svgbobrus)
         tl;dr
