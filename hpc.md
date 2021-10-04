@@ -219,8 +219,9 @@ a case study of algebraic multigrid preconditioned GMRES](https://pure.tue.nl/ws
             + [AmgX: A Library for GPU Accelerated Algebraic Multigrid and Preconditioned Iterative Methods](https://www.researchgate.net/publication/283330199_AmgX_A_Library_for_GPU_Accelerated_Algebraic_Multigrid_and_Preconditioned_Iterative_Methods)
                 + [Comparison of AMGX and Hypre](https://github.com/NVIDIA/AMGX/issues/112)
         + [rocALUTION is a sparse linear algebra library with focus on exploring fine-grained parallelism](https://rocalution.readthedocs.io/en/master/usermanual.html)
-    + [AMGCL](https://github.com/ddemidov/amgcl)
-        + [AMGCL](https://amgcl.readthedocs.io/en/latest/)
+    + [amgcl](https://github.com/ddemidov/amgcl)
+        + [amgcl](https://amgcl.readthedocs.io/en/latest/)
+        + [C++ library for solving large sparse linear systems with algebraic multigrid method](https://bestofcpp.com/repo/ddemidov-amgcl-cpp-scientific-computing)
         + [Triggering C++11 support in NVCC with CMake](https://stackoverflow.com/questions/36551469/triggering-c11-support-in-nvcc-with-cmake)    
         tl;dr    
         ```diff
