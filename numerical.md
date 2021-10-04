@@ -34,7 +34,7 @@
     + [SIMD Vector Classes for C++](https://github.com/VcDevel/Vc)
     + [psBLAS -- Parallel Sparse Basic Linear Algebra Subroutines -- Fortran2003](http://www.ce.uniroma2.it/psblas/)
     + [Ginkgo is a high-performance linear algebra library for manycore systems, with a focus on sparse solution of linear systems. It is implemented using modern C++ (you will need at least C++14 compliant compiler to build it), with GPU kernels implemented in CUDA and HIP](https://github.com/ginkgo-project/ginkgo)
-        + [](https://github.com/ginkgo-project/ginkgo/wiki/Tutorial-1:-Getting-Started)    
+        + [ginkgo: getting started](https://github.com/ginkgo-project/ginkgo/wiki/Tutorial-1:-Getting-Started)    
         tl;dr    
         ```sh
         git clone https://github.com/ginkgo-project/ginkgo.git

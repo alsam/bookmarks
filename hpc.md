@@ -254,6 +254,8 @@ a case study of algebraic multigrid preconditioned GMRES](https://pure.tue.nl/ws
     + [SPARSH-AMG](https://github.com/cmgcds/SParSH-AMG)
         + [SPARSH-AMG: A LIBRARY FOR HYBRID CPU-GPU ALGEBRAIC
 MULTIGRID AND PRECONDITIONED ITERATIVE METHODS](https://arxiv.org/pdf/2007.00056.pdf)
+    + [Ginkgo is a high-performance linear algebra library for manycore systems, with a focus on sparse solution of linear systems. It is implemented using modern C++ (you will need at least C++14 compliant compiler to build it), with GPU kernels implemented in CUDA and HIP. HAS support for AMG](https://github.com/ginkgo-project/ginkgo)
+        + [GPGPU acceleration - a case study of algebraic multigrid preconditioned GMRES](https://pure.tue.nl/ws/portalfiles/portal/142433633/Master_Thesis_Report_Lucas_Bekker_final_.pdf)
     + [BootCMatchG](https://github.com/bootcmatch/BootCMatchG)
     + [multigrid solver for solving elliptic PDEs using finite differences on a rectangular grid](https://github.com/jesserobertson/multigrid)
     + [Multigrid HowTo (Part I): A simple Multigrid solver in
