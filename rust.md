@@ -1009,6 +1009,7 @@
 
     + Rust & CUDA OpenCL
         + [Пишем на Rust + CUDA C](https://habr.com/ru/post/447968/)
+        + [Accel: GPGPU Framework for Rust](https://crates.io/crates/accel)
         + [My Rust 2021 roadmap](https://www.reddit.com/r/rust/comments/imd8b8/my_rust_2021_roadmap/)
         + [RustiCL](https://gitlab.freedesktop.org/karolherbst/mesa/-/tree/rusticl/src/gallium/frontends/rusticl)
         + [Rust opencl3](https://github.com/kenba/opencl3)
