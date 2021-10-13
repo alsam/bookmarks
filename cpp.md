@@ -923,3 +923,4 @@
             + [A Template Tree Class in C++](https://levelup.gitconnected.com/a-template-tree-class-in-c-7be9b4834e09)
             + [Fast hash function for `std::vector`](https://stackoverflow.com/questions/37007307/fast-hash-function-for-stdvector)
             + [Compilation error related to map and unordered_map: "attempting to reference a deleted function"](https://stackoverflow.com/questions/51220257/compilation-error-related-to-map-and-unordered-map-attempting-to-reference-a-d)
+            + [Pure virtual destructor in C++](https://www.geeksforgeeks.org/pure-virtual-destructor-c/)
