@@ -1007,7 +1007,9 @@
         + [PTX support, take 2](https://github.com/rust-lang/rust/pull/38559)
         + [Tracking issue for the "ptx-kernel" ABI](https://github.com/rust-lang/rust/issues/38788)
 
-    + Rust & OpenCL
+    + Rust & CUDA OpenCL
+        + [Пишем на Rust + CUDA C](https://habr.com/ru/post/447968/)
+        + [My Rust 2021 roadmap](https://www.reddit.com/r/rust/comments/imd8b8/my_rust_2021_roadmap/)
         + [RustiCL](https://gitlab.freedesktop.org/karolherbst/mesa/-/tree/rusticl/src/gallium/frontends/rusticl)
         + [Rust opencl3](https://github.com/kenba/opencl3)
             + [Crate opencl3](https://docs.rs/opencl3/0.5.2/opencl3/)
