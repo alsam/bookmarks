@@ -326,6 +326,10 @@ Multigrid Solver in C++](https://www10.cs.fau.de/publications/reports/TechRep_20
         + [Implementation of the SYCL specification.](https://github.com/ProGTX/sycl-gtx)
             + [Building a brain with SYCL and modern C++](https://www.semanticscholar.org/paper/Building-a-brain-with-SYCL-and-modern-C%2B%2B-Smithe-Potter/01cd48cda17008640076323b8ea10ac59a8b6509)
 
++ OneAPI
+    + [Run simple DPC++ application](https://github.com/intel/llvm/blob/sycl/sycl/doc/GetStartedGuide.md#run-simple-dpc-application)
+    + [oneAPI Direct Programming](https://github.com/zjin-lcf/oneAPI-DirectProgramming)
+
 + Kompute
     + [The general purpose GPU compute framework for cross vendor graphics cards (AMD, Qualcomm, NVIDIA & friends)](https://kompute.cc/)
         + [Kompute github repo](https://github.com/KomputeProject/kompute)
