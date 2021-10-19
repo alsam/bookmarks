@@ -330,6 +330,7 @@ Multigrid Solver in C++](https://www10.cs.fau.de/publications/reports/TechRep_20
     + [Run simple DPC++ application](https://github.com/intel/llvm/blob/sycl/sycl/doc/GetStartedGuide.md#run-simple-dpc-application)
     + [oneAPI Direct Programming](https://github.com/zjin-lcf/oneAPI-DirectProgramming)
     + [Port a CUDA App to oneAPI and DPC++ in 5 Minutes](https://www.codeproject.com/Articles/5284841/Port-a-CUDA-App-to-oneAPI-and-DPCplusplus-in-5-Min)
+    + [How to run dpc++ code on Intel HD Graphic atop Nvidia GPU](https://community.intel.com/t5/Intel-oneAPI-Data-Parallel-C/How-to-run-dpc-code-on-Intel-HD-Graphic-atop-Nvidia-GPU/m-p/1182497#M374)
 
 + Kompute
     + [The general purpose GPU compute framework for cross vendor graphics cards (AMD, Qualcomm, NVIDIA & friends)](https://kompute.cc/)
