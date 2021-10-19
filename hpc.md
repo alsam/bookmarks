@@ -296,6 +296,13 @@ Multigrid Solver in C++](https://www10.cs.fau.de/publications/reports/TechRep_20
         ```sh
         nvcc -arch=sm_35 ...
         ```
+    + [Open-Arch-Group](https://github.com/Open-Arch-Group)
+        + [Matrix Multiplication (MMul) Benchmarks](https://github.com/Open-Arch-Group/mmul)
+        + [Performance engineer that's always happy to answer questions!](https://github.com/CoffeeBeforeArch)
+            + [GPGPU Programming with CUDA](https://github.com/CoffeeBeforeArch/cuda_programming)
+            + [Parallel Programming in Modern C++](https://github.com/CoffeeBeforeArch/parallel_programming)
+                + [This program shows off the basics of stop tokens in C++20](https://github.com/CoffeeBeforeArch/parallel_programming/blob/master/basics/jthread/stop_token.cpp)
+
     + [Matrix multiplication in cuSparse (cusparseDcsrgemm) outputs wrong results](https://stackoverflow.com/questions/57385060/matrix-multiplication-in-cusparse-cusparsedcsrgemm-outputs-wrong-results)
         + [C++ (Cpp) cusparseDcsrgemm примеры использования](https://cpp.hotexamples.com/ru/examples/-/-/cusparseDcsrgemm/cpp-cusparsedcsrgemm-function-examples.html)
         + [Problem of two large sparse matrices multiplication in cuParse](https://forums.developer.nvidia.com/t/problem-of-two-large-sparse-matrices-multiplication-in-cuparse/33316/4)
