@@ -300,6 +300,7 @@ Multigrid Solver in C++](https://www10.cs.fau.de/publications/reports/TechRep_20
         + [Matrix Multiplication (MMul) Benchmarks](https://github.com/Open-Arch-Group/mmul)
         + [Performance engineer that's always happy to answer questions!](https://github.com/CoffeeBeforeArch)
             + [GPGPU Programming with CUDA](https://github.com/CoffeeBeforeArch/cuda_programming)
+                + [From Scratch: Histograms in CUDA using Atomics](https://www.youtube.com/watch?v=DaEmuL0PYxc)
             + [Parallel Programming in Modern C++](https://github.com/CoffeeBeforeArch/parallel_programming)
                 + [This program shows off the basics of stop tokens in C++20](https://github.com/CoffeeBeforeArch/parallel_programming/blob/master/basics/jthread/stop_token.cpp)
 
