@@ -976,6 +976,7 @@
         + Algorithms and Concepts from Stepanov's "Elements of Programming"
             + [Algorithms and Concepts from Stepanov's "Elements of Programming" implemented in Rust](https://github.com/keean/elements_in_rust)
         + Editors
+            + [Build Your Text Editor With Rust!](https://medium.com/@otukof/build-your-text-editor-with-rust-678a463f968b)
             + [A community-driven port of Emacs to Rust](https://github.com/Wilfred/remacs)
             + [Aspiring vim-like text editor](https://github.com/mathall/rim)
             + [**No Nonsense Neovim Client in Rust**](https://github.com/Kethku/neovide)
