@@ -928,6 +928,11 @@
             + [Paging Implementation](https://os.phil-opp.com/paging-implementation/)
             + [Async/Await](https://os.phil-opp.com/async-await/)
         + [A comparison of operating systems written in Rust](https://github.com/flosse/rust-os-comparison)
+            + [Writing a Linux-compatible kernel in Rust](https://seiya.me/writing-linux-clone-in-rust)
+                + [Kerla is a monolithic operating system kernel from scratch in Rust which aims to be compatible with the Linux ABI](https://github.com/nuta/kerla)
+                + [Resea [ríːseə] is a microkernel-based operating system written from scratch](https://github.com/nuta/resea)
+                + [Kazari - A no_std GUI software stack](https://github.com/nuta/kazari)
+                + [nsh](https://github.com/nuta/nsh)
             + Redox: A Rust Operating System
                 + [github redox os](https://github.com/redox-os/redox)
                     + [This Week in Redox 5](http://www.redox-os.org/news/this-week-in-redox-5/)
