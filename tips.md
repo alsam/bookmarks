@@ -1702,3 +1702,7 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
     ```sh
     xfce4-screenshooter -f
     ```
+
++ Linux refresh
+    + [Примеры программ для операционной системы Linux](https://github.com/devtype-blogspot-com/Linux-Sample-Code/blob/master/README.md)
+    + [Основы программирования для Linux - terse Linux basics](https://devtype.blogspot.com/2016/05/Osnovy-programmirovanija-dlja-Linux.html)
