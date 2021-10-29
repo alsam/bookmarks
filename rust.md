@@ -977,6 +977,9 @@
             + [Algorithms and Concepts from Stepanov's "Elements of Programming" implemented in Rust](https://github.com/keean/elements_in_rust)
         + Editors
             + [Build Your Text Editor With Rust!](https://medium.com/@otukof/build-your-text-editor-with-rust-678a463f968b)
+            + [Helix](https://github.com/helix-editor/helix)
+                + [Helix - A post-modern text editor](https://helix-editor.com/)
+                + [Helix docs](https://docs.helix-editor.com/)
             + [A community-driven port of Emacs to Rust](https://github.com/Wilfred/remacs)
             + [Aspiring vim-like text editor](https://github.com/mathall/rim)
             + [**No Nonsense Neovim Client in Rust**](https://github.com/Kethku/neovide)
