@@ -33,6 +33,7 @@
         + [The Numerical Template Toolbox - C++ Scientific Computing Made Easy docs](http://nt2.numscale.com/doc/html/)
     + [SIMD Vector Classes for C++](https://github.com/VcDevel/Vc)
     + [EVE - the Expressive Vector Engine](https://github.com/jfalcou/eve)
+    + [AUGEM: Automatically generate high performance Dense Linear Algebra kernels on x86 CPUs](https://github.com/Ewenwan/MVision/blob/master/CNN/HighPerformanceComputing/doc/AUGEM%20automatically%20generate%20high%20performance%20dense%20linear%20algebra%20kernels%20on%20x86%20CPUs.pdf)
     + [psBLAS -- Parallel Sparse Basic Linear Algebra Subroutines -- Fortran2003](http://www.ce.uniroma2.it/psblas/)
     + [Ginkgo is a high-performance linear algebra library for manycore systems, with a focus on sparse solution of linear systems. It is implemented using modern C++ (you will need at least C++14 compliant compiler to build it), with GPU kernels implemented in CUDA and HIP](https://github.com/ginkgo-project/ginkgo)
         + [ginkgo: getting started](https://github.com/ginkgo-project/ginkgo/wiki/Tutorial-1:-Getting-Started)    
