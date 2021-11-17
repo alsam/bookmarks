@@ -103,6 +103,7 @@
             + [UNIX domain sockets : for UNIX but not for Android](https://troydhanson.github.io/network/Unix_domain_sockets.html)
             + [Operation now in progress error on connect( function) error](https://stackoverflow.com/questions/6202454/operation-now-in-progress-error-on-connect-function-error)
         + [How to create named pipe (mkfifo) in Android?](https://stackoverflow.com/questions/2740321/how-to-create-named-pipe-mkfifo-in-android/2758038#2758038)
+        + [requestLegacyExternalStorage is not working in Android 11 - API 30](https://stackoverflow.com/questions/63364476/requestlegacyexternalstorage-is-not-working-in-android-11-api-30)
     + [list all installed packages in android adb shell](https://gist.github.com/davidnunez/1404789)
     + [Android Media Samples Repository](https://github.com/android/media-samples)
     + [Install and Create OpenCV project on Android Studio](https://www.youtube.com/watch?v=jN9Bv5LHXMk)
