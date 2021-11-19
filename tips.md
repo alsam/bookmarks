@@ -1707,3 +1707,4 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
     + [Примеры программ для операционной системы Linux](https://github.com/devtype-blogspot-com/Linux-Sample-Code/blob/master/README.md)
     + [Основы программирования для Linux - terse Linux basics](https://devtype.blogspot.com/2016/05/Osnovy-programmirovanija-dlja-Linux.html)
     + [Difference between r+ and w+ in fopen()](https://stackoverflow.com/questions/21113919/difference-between-r-and-w-in-fopen)
+    + [Duplicating file pointers?](https://stackoverflow.com/questions/6099315/duplicating-file-pointers)
