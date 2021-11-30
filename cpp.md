@@ -420,6 +420,7 @@
             + [C++11 variadic std::function parameter](http://stackoverflow.com/questions/9242234/c11-variadic-stdfunction-parameter)
         + [Difference in make_shared and normal shared_ptr in C++](http://stackoverflow.com/questions/20895648/difference-in-make-shared-and-normal-shared-ptr-in-c)
         + [Usage of std::forward vs std::move](http://stackoverflow.com/questions/28828159/usage-of-stdforward-vs-stdmove)
+            + [C++ Move Semantics Considered Harmful (Rust is better)](https://www.thecodedmessage.com/posts/cpp-move/)
         + [Advantages of using forward](http://stackoverflow.com/questions/3582001/advantages-of-using)
         + [How does std::forward work?](http://stackoverflow.com/questions/8526598/how-does-stdforward-work)
         + [Why is std::forward useless in this context](http://stackoverflow.com/questions/33999565/why-is-stdforward-useless-in-this-context)
