@@ -1706,3 +1706,8 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
 + Linux refresh
     + [Примеры программ для операционной системы Linux](https://github.com/devtype-blogspot-com/Linux-Sample-Code/blob/master/README.md)
     + [Основы программирования для Linux - terse Linux basics](https://devtype.blogspot.com/2016/05/Osnovy-programmirovanija-dlja-Linux.html)
+
++ AWS
+    + [Configuration file cannot be used with CMake 3.22.0](https://github.com/aws/aws-sdk-cpp/issues/1820)
+        + [Fix building AWS SDK for C++ with CMake 3.22.0](https://github.com/microsoft/vcpkg/pull/21668)
+            + [Fix AWS SDK for C++ configuration](https://github.com/microsoft/vcpkg/pull/21668/commits/adfafc73e1993e351388561bde2c2852b58935ef)
