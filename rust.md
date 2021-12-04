@@ -1017,6 +1017,8 @@
         + [Tracking issue for the "ptx-kernel" ABI](https://github.com/rust-lang/rust/issues/38788)
 
     + Rust & CUDA OpenCL
+        + [The Rust CUDA Project](https://github.com/Rust-GPU/Rust-CUDA)
+            + [Getting Started](https://github.com/Rust-GPU/Rust-CUDA/blob/master/guide/src/guide/getting_started.md)
         + [Пишем на Rust + CUDA C](https://habr.com/ru/post/447968/)
         + [Accel: GPGPU Framework for Rust](https://crates.io/crates/accel)
         + [My Rust 2021 roadmap](https://www.reddit.com/r/rust/comments/imd8b8/my_rust_2021_roadmap/)
