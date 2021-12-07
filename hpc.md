@@ -203,6 +203,7 @@
         + [Performance of Preconditioners for Large-Scale Simulations Using Nek5000](https://link.springer.com/chapter/10.1007/978-3-030-39647-3_20)
         + [Reducing Complexity in Parallel Algebraic Multigrid Preconditioners, Hans de Sterck,  Ulrike Meier Yang and Jeffrey J. Heys](http://www.math.uwaterloo.ca/~hdesterc/websiteW/Data/publications/journal/pmisPreprint.pdf)
         + [3.2.5. Block Compressed Sparse Row Format (BSR)](https://docs.nvidia.com/cuda/cusparse/index.html#bsr-format)
+            + [I don't find the LU decomposition on the device with cuSolver](https://stackoverflow.com/questions/32242677/i-dont-find-the-lu-decomposition-on-the-device-with-cusolver)
     + [AMGX](https://github.com/NVIDIA/AMGX)
         + [AMGX in Julia](https://github.com/JuliaGPU/AMGX.jl)
         + [pyamgx: Python interface to NVIDIA's AMGX library](https://github.com/shwina/pyamgx)
