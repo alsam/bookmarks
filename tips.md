@@ -1419,6 +1419,8 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
     + [docker run -> name is already in use by container](https://stackoverflow.com/questions/31697828/docker-run-name-is-already-in-use-by-container)
         + tl;dr `docker rm $(docker ps -aq --filter name=CONTAINER_NAME)`
 
+    + [Nvidia-docker - cant find libnvcuvid.so on building process](https://stackoverflow.com/questions/44131890/nvidia-docker-cant-find-libnvcuvid-so-on-building-process)
+
     + [Secure and fast microVMs for serverless computing](https://github.com/firecracker-microvm/firecracker)
 
 + CLion
