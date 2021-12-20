@@ -886,6 +886,7 @@
                 + [FTXUI - Functional Terminal (X) User interface](https://github.com/ArthurSonzogni/FTXUI)
                     + [FTXUI Documentation](https://arthursonzogni.com/FTXUI/doc/)
                 + [Diagon is an interactive interpreter. It transforms markdown-style expression into an ascii-art representation](https://github.com/ArthurSonzogni/Diagon)
+                + [C++ UI Libraries](https://philippegroarke.com/posts/2018/c++_ui_solutions/)
 
         + misc
             + [Modern C++ Tutorial: C++11/14/17/20 On the Fly](https://github.com/changkun/modern-cpp-tutorial)
