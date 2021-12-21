@@ -15,6 +15,7 @@
                 + [WIP Generic associated types in trait paths](https://github.com/rust-lang/rust/pull/78978)
                     + [Generic Associated Types in Trait Paths - Ast part](https://github.com/rust-lang/rust/pull/79266)
                     + [Method for Emulating Higher-Kinded Types in Rust](https://gist.github.com/edmundsmith/855fcf0cb35dd467c29a9350481f0ecf)
+                        + [Higher Kinded Types in Rust](https://hugopeters.me/posts/14/)
             + [Monads and GATs in nightly Rust](https://www.fpcomplete.com/blog/monads-gats-nightly-rust/)
                 + [GATs on Nightly!](https://www.reddit.com/r/rust/comments/k4vzvp/gats_on_nightly/)
             + [How can I avoid GATs in this code?](https://users.rust-lang.org/t/how-can-i-avoid-gats-in-this-code/48673)
