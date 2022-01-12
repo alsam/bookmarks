@@ -842,6 +842,7 @@
                 + [Bit Manipulation with C++20](https://www.modernescpp.com/index.php/bit-manipulation-with-c-20)
 
                 + [Counting the number of fields in an aggregate in C++20](https://joaobapt.medium.com/counting-the-number-of-fields-in-an-aggregate-in-c-20-c81aecfd725c)
+                + [Modernizing your code with C++20](https://blog.sonarsource.com/modernizing-your-code-with-cpp20)
 
         + CppCon 2020
             + [Plenary: Performance Matters - Emery Berger - CppCon 2020](https://www.youtube.com/watch?v=koTf7u0v41o&feature=youtu.be)
@@ -886,6 +887,7 @@
                 + [FTXUI - Functional Terminal (X) User interface](https://github.com/ArthurSonzogni/FTXUI)
                     + [FTXUI Documentation](https://arthursonzogni.com/FTXUI/doc/)
                 + [Diagon is an interactive interpreter. It transforms markdown-style expression into an ascii-art representation](https://github.com/ArthurSonzogni/Diagon)
+                + [C++ UI Libraries](https://philippegroarke.com/posts/2018/c++_ui_solutions/)
 
         + misc
             + [Modern C++ Tutorial: C++11/14/17/20 On the Fly](https://github.com/changkun/modern-cpp-tutorial)

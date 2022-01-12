@@ -15,6 +15,7 @@
                 + [WIP Generic associated types in trait paths](https://github.com/rust-lang/rust/pull/78978)
                     + [Generic Associated Types in Trait Paths - Ast part](https://github.com/rust-lang/rust/pull/79266)
                     + [Method for Emulating Higher-Kinded Types in Rust](https://gist.github.com/edmundsmith/855fcf0cb35dd467c29a9350481f0ecf)
+                        + [Higher Kinded Types in Rust](https://hugopeters.me/posts/14/)
             + [Monads and GATs in nightly Rust](https://www.fpcomplete.com/blog/monads-gats-nightly-rust/)
                 + [GATs on Nightly!](https://www.reddit.com/r/rust/comments/k4vzvp/gats_on_nightly/)
             + [How can I avoid GATs in this code?](https://users.rust-lang.org/t/how-can-i-avoid-gats-in-this-code/48673)
@@ -953,6 +954,8 @@
 
         + [CLOCK-Pro: An Effective Improvement of the CLOCK Replacement](http://static.usenix.org/event/usenix05/tech/general/full_papers/jiang/jiang_html/html.html)
 
+        + [Writing Bare-metal Rust Applications with no_std](https://morioh.com/p/d5368f55c2fb)
+
     + Formal Verification
         + [Synthesizing Loop-Free Programs with Rust and Z3](https://fitzgeraldnick.com/2020/01/13/synthesizing-loop-free-programs.html)
             + [Synthesis of Loop-free Programs in Rust](https://github.com/fitzgen/synth-loop-free-prog)
@@ -1297,3 +1300,4 @@ Hardware Description Languages](https://arxiv.org/pdf/2004.03494.pdf)
 + [Alignment of floating point numbers printed in scientific notation](https://stackoverflow.com/questions/65264069/alignment-of-floating-point-numbers-printed-in-scientific-notation)
 + [Fuchsia OS partially written in Rust has shipped](https://www.reddit.com/r/rust/comments/nldg5c/fuchsia_os_partially_written_in_rust_has_shipped/)
 + [zig - A general-purpose programming language and toolchain for maintaining robust, optimal, and reusable software](https://github.com/ziglang/zig)
++ [sunrise](https://github.com/nathan-osman/rust-sunrise)
