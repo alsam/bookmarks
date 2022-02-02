@@ -195,7 +195,17 @@
 + Docker
     + [NVIDIA Docker Container User Guide](https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/user-guide.html)
     + [issue creating containers due to seccomp failure (error adding seccomp filter rule for syscall clone3: permission denied: unknown](https://github.com/containerd/containerd/issues/6203)
-
+        tl;dr    
+        ```sh
+        sudo dpkg -i docker.io_20.10.2-0ubuntu1_18.04.2_arm64.deb 
+        [sudo] password for alsam: 
+        dpkg: warning: downgrading docker.io from 20.10.7-0ubuntu5~18.04.3 to 20.10.2-0ubuntu1~18.04.2
+        (Reading database ... 214354 files and directories currently installed.)
+        Preparing to unpack docker.io_20.10.2-0ubuntu1_18.04.2_arm64.deb ...
+        Unpacking docker.io (20.10.2-0ubuntu1~18.04.2) over (20.10.7-0ubuntu5~18.04.3) ...
+        Setting up docker.io (20.10.2-0ubuntu1~18.04.2) ...
+        Processing triggers for man-db (2.8.3-2ubuntu0.1) ...
+        ```
 + misc
     + [Unknown command 'jetson_release' (pip command not found)](https://github.com/rbonghi/jetson_stats/issues/171)
         tl;dr    
