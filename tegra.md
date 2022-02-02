@@ -192,6 +192,8 @@
 + [Android sparse image format](http://www.2net.co.uk/tutorial/android-sparse-image-format)
 + [Device Tree for dummies](https://events.linuxfoundation.org/sites/events/files/slides/petazzoni-device-tree-dummies.pdf)
 
++ Docker
+    + [issue creating containers due to seccomp failure (error adding seccomp filter rule for syscall clone3: permission denied: unknown](https://github.com/containerd/containerd/issues/6203)
 
 + misc
     + restore screen after removing an inserting HDMI
