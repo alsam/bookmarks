@@ -197,6 +197,8 @@
     + [issue creating containers due to seccomp failure (error adding seccomp filter rule for syscall clone3: permission denied: unknown](https://github.com/containerd/containerd/issues/6203)
 
 + misc
+    + [Unknown command 'jetson_release' (pip command not found)](https://github.com/rbonghi/jetson_stats/issues/171)
+
     + restore screen after removing an inserting HDMI
         ```sh
         sudo xrandr -s 1
