@@ -198,8 +198,19 @@
 
 + misc
     + [Unknown command 'jetson_release' (pip command not found)](https://github.com/rbonghi/jetson_stats/issues/171)
-
+        tl;dr    
+        ```sh
+        $ sudo -H pip3 install -U setuptools
+        Collecting setuptools
+          Downloading https://files.pythonhosted.org/packages/b0/3a/88b210db68e56854d0bcf4b38e165e03be377e13907746f825790f3df5bf/setuptools-59.6.0-py3-none-any.whl (952kB)
+            100% |████████████████████████████████| 962kB 768kB/s 
+        Installing collected packages: setuptools
+        Successfully installed setuptools-59.6.0
+        $ sudo -H pip3 install -U jetson-stats
+        Collecting jetson-stats
+        ```
     + restore screen after removing an inserting HDMI
+        tl;dr    
         ```sh
         sudo xrandr -s 1
         ```
