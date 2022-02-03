@@ -230,12 +230,13 @@
         + [diffeq](https://github.com/mattsse/diffeq)
             + [diffeq | Lorenz Attractor](https://mattsse.github.io/diffeq/)
             + [diffeq - Basic Ordinary Differential Equation solvers](https://www.reddit.com/r/rust/comments/euq5xg/diffeq_basic_ordinary_differential_equation/)
+        + [Surface reconstruction library and CLI for particle data from SPH simulations](https://github.com/w1th0utnam3/splashsurf)
         + [Scientific Computing in Rust: bacon-sci](https://github.com/aftix/bacon)
             + [Scientific Computing in Rust: bacon-sci](https://aftix.xyz/home/bacon/)
         + [Rust 2020: Scientific Rust](https://github.com/willi-kappler/rust_2020)
             + [Staggered-Grid Fluid Solver in Rust](https://github.com/seanlth/Fluid-Solver)
             + [Weak Galerkin Finite Element Method -- looks promising but very outdated](https://github.com/scharris/WGFEM-Rust)
-                + for translation to modetb Rust:
+                + for translation to modern Rust:
                     + [The Periodic Table of Rust Types: ycombinator](https://news.ycombinator.com/item?id=7060951)    
                         tl;dr **sigil ~** -> `Box`
                     + [The Periodic Table of Rust Types](https://cosmic.mearie.org/2014/01/periodic-table-of-rust-types/0.11)
