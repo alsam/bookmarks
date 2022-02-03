@@ -231,6 +231,7 @@
             + [diffeq | Lorenz Attractor](https://mattsse.github.io/diffeq/)
             + [diffeq - Basic Ordinary Differential Equation solvers](https://www.reddit.com/r/rust/comments/euq5xg/diffeq_basic_ordinary_differential_equation/)
         + [Surface reconstruction library and CLI for particle data from SPH simulations](https://github.com/w1th0utnam3/splashsurf)
+            + [numeric_literals](https://github.com/Andlon/numeric_literals)
         + [Scientific Computing in Rust: bacon-sci](https://github.com/aftix/bacon)
             + [Scientific Computing in Rust: bacon-sci](https://aftix.xyz/home/bacon/)
         + [Rust 2020: Scientific Rust](https://github.com/willi-kappler/rust_2020)
