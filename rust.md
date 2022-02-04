@@ -1305,8 +1305,9 @@ Hardware Description Languages](https://arxiv.org/pdf/2004.03494.pdf)
 + [Fuchsia OS partially written in Rust has shipped](https://www.reddit.com/r/rust/comments/nldg5c/fuchsia_os_partially_written_in_rust_has_shipped/)
 + [zig - A general-purpose programming language and toolchain for maintaining robust, optimal, and reusable software](https://github.com/ziglang/zig)
 
-+ HVM
-    + [High-order Virtual Machine (HVM)](https://github.com/Kindelia/HVM
++ HVM: a next-gen massively parallel, beta-optimal functional runtime is 50x faster than its predecessors
+    + [HVM: a next-gen massively parallel, beta-optimal functional runtime is 50x faster than its predecessors](https://www.reddit.com/r/rust/comments/sh947t/hvm_a_nextgen_massively_parallel_betaoptimal/)
+        + [High-order Virtual Machine (HVM)](https://github.com/Kindelia/HVM)
 
 + Sunrise
     + [heliocron](https://crates.io/crates/heliocron)
