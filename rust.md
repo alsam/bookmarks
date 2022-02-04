@@ -730,6 +730,8 @@
         + [Rust task runner and build tool](https://github.com/sagiegurari/cargo-make)
 
         + [Parse command line argument by defining a struct](https://github.com/TeXitoi/structopt)
+            + [How to Build CLIs in Rust with StructOpt](https://www.thorsten-hans.com/how-to-build-clis-in-rust-with-structopt/)
+            + [Manual for structopt library](https://www.sobyte.net/post/2021-07/rust-lib-structopt/)
 
         + [Rust and Rest](http://lucumr.pocoo.org/2016/7/10/rust-rest/)
             + [Rust bindings to libcurl](https://github.com/alexcrichton/curl-rust)
