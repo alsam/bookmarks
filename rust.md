@@ -889,6 +889,11 @@
         + [Commutation and scalability in pijul, the new version control system written in Rust](https://www.reddit.com/r/rust/comments/kh706i/commutation_and_scalability_in_pijul_the_new/)
         + [Add Pijul support to Cargo](https://github.com/rust-lang/cargo/pull/3842)
         + [Pijul: Sane Version Control (Pierre Étienne Meunier)](https://vk.com/video-75161087_456239088)
+        + [Announcing Pijul 1.0 beta, a Version Control System written in rust](https://www.reddit.com/r/rust/comments/s7v0hp/announcing_pijul_10_beta_a_version_control_system/)    
+        tl;dr    
+        ```sh
+        cargo install pijul --version "~1.0.0-beta" --features git
+        ```
 
     + [`Recycle` - ergonomic allocated memory reusing.](https://www.reddit.com/r/rust/comments/521vxl/recyle_ergonomic_allocated_memory_reusing/)
 
