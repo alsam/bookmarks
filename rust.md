@@ -1304,4 +1304,7 @@ Hardware Description Languages](https://arxiv.org/pdf/2004.03494.pdf)
 + [Alignment of floating point numbers printed in scientific notation](https://stackoverflow.com/questions/65264069/alignment-of-floating-point-numbers-printed-in-scientific-notation)
 + [Fuchsia OS partially written in Rust has shipped](https://www.reddit.com/r/rust/comments/nldg5c/fuchsia_os_partially_written_in_rust_has_shipped/)
 + [zig - A general-purpose programming language and toolchain for maintaining robust, optimal, and reusable software](https://github.com/ziglang/zig)
-+ [sunrise](https://github.com/nathan-osman/rust-sunrise)
++ Sunrise
+    + [heliocron](https://crates.io/crates/heliocron)
+    + [Solar Position Algorithm (SPA)](https://crates.io/crates/spa)
+    + [sunrise](https://github.com/nathan-osman/rust-sunrise)
