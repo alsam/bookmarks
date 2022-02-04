@@ -506,6 +506,7 @@
     + [unicode chars for idents](http://www.reddit.com/r/rust/comments/2pvksp/filename_with_dots_or_unicode_chars_not_working/)
 
     + Misc
+        + [Why does serde_json::to_writer not require its argument to be `mut`?](https://stackoverflow.com/questions/57232515/why-does-serde-jsonto-writer-not-require-its-argument-to-be-mut)
         + [Implementing Finite Automata (Part 1)](https://apanatshka.github.io/compsci/2016/10/03/implementing-finite-automata-part-1/)
         + [Contributing to Rust](http://www.ncameron.org/rust.html)
         + [Interview with Mozilla’s Aaron Turon](http://www.pl-enthusiast.net/2015/06/09/interview-with-mozillas-aaron-turon/)
