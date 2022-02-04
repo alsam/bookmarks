@@ -894,6 +894,7 @@
         ```sh
         cargo install pijul --version "~1.0.0-beta" --features git
         ```
+            + [How to convert git to pijul repositories?](https://discourse.pijul.org/t/how-to-convert-git-to-pijul-repositories/728)
 
     + [`Recycle` - ergonomic allocated memory reusing.](https://www.reddit.com/r/rust/comments/521vxl/recyle_ergonomic_allocated_memory_reusing/)
 
