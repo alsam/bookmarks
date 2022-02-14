@@ -1544,6 +1544,10 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
     if [[ "${target_partname}" == "" || "${target_partname}" == "APP" ]]; then
     ...
     ```
+
+    + [Check if string is neither empty nor space in shell script](https://stackoverflow.com/questions/13509508/check-if-string-is-neither-empty-nor-space-in-shell-script)
+    + [How best to include other scripts?](https://stackoverflow.com/questions/192292/how-best-to-include-other-scripts)
+
 + tmux
     + [Краткая шпаргалка по tmux](https://habrahabr.ru/post/126996/)
 
