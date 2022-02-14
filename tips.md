@@ -1181,6 +1181,7 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
             journalctl --sync
             journalctl -b -t HOLA-BRO-SLASH-R --no-pager --no-hostname
             ```
+            + [How can I send a message to the systemd journal from the command line?](https://serverfault.com/questions/573946/how-can-i-send-a-message-to-the-systemd-journal-from-the-command-line)
             + [How to configure systemd journal-remote?](https://serverfault.com/questions/758244/how-to-configure-systemd-journal-remote)
             + [LOGGING DONE RIGHT systemd-journal-upload & systemd-journal-remote setup](https://www.youtube.com/watch?v=45CQ0tgXQmY)
             + [log4cplus](https://github.com/wilx/log4cplus)
