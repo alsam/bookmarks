@@ -1548,6 +1548,7 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
 
     + [Check if string is neither empty nor space in shell script](https://stackoverflow.com/questions/13509508/check-if-string-is-neither-empty-nor-space-in-shell-script)
     + [How best to include other scripts?](https://stackoverflow.com/questions/192292/how-best-to-include-other-scripts)
+    + [Subtract time using date and bash](https://unix.stackexchange.com/questions/497639/subtract-time-using-date-and-bash)
 
 + tmux
     + [Краткая шпаргалка по tmux](https://habrahabr.ru/post/126996/)
