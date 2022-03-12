@@ -1422,6 +1422,9 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
 
     + [Nvidia-docker - cant find libnvcuvid.so on building process](https://stackoverflow.com/questions/44131890/nvidia-docker-cant-find-libnvcuvid-so-on-building-process)
 
+    + [How to force Docker for a clean build of an image](https://stackoverflow.com/questions/35594987/how-to-force-docker-for-a-clean-build-of-an-image)
+        + tl;dr `docker build --no-cache -t u12_core -f u12_core .` `docker system prune`
+
     + [Secure and fast microVMs for serverless computing](https://github.com/firecracker-microvm/firecracker)
 
 + CLion
