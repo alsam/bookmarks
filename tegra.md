@@ -258,3 +258,9 @@
         ```sh
         cat /etc/nv_tegra_release
         ```
+
+    + [QtCAM is a free, Open Source Linux Webcamera Software with more than 10 image control settings, extension settings and Color space switching](https://github.com/econsysQtCAM/QtCAM)
+    ```sh
+    sudo apt-get install qtmultimedia5-dev libqt5multimediawidgets5 libqt5multimedia5-plugins libqt5multimedia5 qtdeclarative5
+    sudo apt-get install libjpeg-turbo8 libjpeg-turbo8-dev libturbojpeg0-dev libevdev-dev
+    ```
