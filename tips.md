@@ -1722,6 +1722,8 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
     + [Основы программирования для Linux - terse Linux basics](https://devtype.blogspot.com/2016/05/Osnovy-programmirovanija-dlja-Linux.html)
     + [Difference between r+ and w+ in fopen()](https://stackoverflow.com/questions/21113919/difference-between-r-and-w-in-fopen)
     + [Duplicating file pointers?](https://stackoverflow.com/questions/6099315/duplicating-file-pointers)
+    + [Linux terminals, tty, pty and shell](https://dev.to/napicella/linux-terminals-tty-pty-and-shell-192e)
+    + [Linux terminals, tty, pty and shell - part 2](https://dev.to/napicella/linux-terminals-tty-pty-and-shell-part-2-2cb2)
 
 + AWS
     + [Configuration file cannot be used with CMake 3.22.0](https://github.com/aws/aws-sdk-cpp/issues/1820)
