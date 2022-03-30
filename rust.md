@@ -647,6 +647,7 @@
         + [Closures don’t move Copy types by default?](https://internals.rust-lang.org/t/closures-dont-move-copy-types-by-default/5179/6)
 
     + Misc.
+        + [Converting from Option<String> to Option<&str>](https://stackoverflow.com/questions/31233938/converting-from-optionstring-to-optionstr)
         + [Dual numbers in Rust](https://github.com/potan/dual.rs)
 
         + [libfloat](https://github.com/peterhj/libfloat)
