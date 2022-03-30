@@ -264,3 +264,4 @@
     sudo apt-get install qtmultimedia5-dev libqt5multimediawidgets5 libqt5multimedia5-plugins libqt5multimedia5 qtdeclarative5
     sudo apt-get install libjpeg-turbo8 libjpeg-turbo8-dev libturbojpeg0-dev libevdev-dev
     ```
+    + [Play webcam using gstreamer](https://medium.com/@petehouston/play-webcam-using-gstreamer-9b7596e4e181)
