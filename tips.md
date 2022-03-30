@@ -1404,6 +1404,7 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
     + [Configure and troubleshoot the Docker daemon](https://docs.docker.com/engine/admin/)
         + [Why docker container exits immediately](https://stackoverflow.com/questions/28212380/why-docker-container-exits-immediately)
             + tl;dr `run -it --entrypoint=/bin/bash custom-ubuntu-image`
+    + [Docker - a way to give access to a host USB or serial device?](https://stackoverflow.com/questions/24225647/docker-a-way-to-give-access-to-a-host-usb-or-serial-device)
     + [Starting Docker as Daemon on Ubuntu](https://stackoverflow.com/questions/26137834/starting-docker-as-daemon-on-ubuntu)
         + tl;dr
         ```sh
