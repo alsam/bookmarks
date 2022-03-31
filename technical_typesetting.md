@@ -16,6 +16,7 @@
         + [open: Support SVG images in multiple formats](https://github.com/jgm/pandoc/issues/1793)
 
     + [Building pretty slides using Markdown and pandoc](https://avalz.it/2017/02/01/build-pretty-slides/)
+    + [Render PDF from Markdown that is using mermaid](https://janikvonrotz.ch/2020/11/12/render-pdf-from-markdown-that-is-using-mermaid/)
 
 + Confluence tips
     + [How to migrate a Confluence space to a Markdown Wiki](http://blog.deveo.com/confluence-to-markdown-wiki-migration/)
