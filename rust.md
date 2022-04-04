@@ -1319,6 +1319,8 @@ Hardware Description Languages](https://arxiv.org/pdf/2004.03494.pdf)
     + [HVM: a next-gen massively parallel, beta-optimal functional runtime is 50x faster than its predecessors](https://www.reddit.com/r/rust/comments/sh947t/hvm_a_nextgen_massively_parallel_betaoptimal/)
         + [High-order Virtual Machine (HVM)](https://github.com/Kindelia/HVM)
 
++ [Deep learning superresolution in pure rust](https://rustrepo.com/repo/millardjn-rusty_sr)
+
 + Sunrise
     + [heliocron](https://crates.io/crates/heliocron)
     + [Solar Position Algorithm (SPA)](https://crates.io/crates/spa)
