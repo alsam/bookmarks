@@ -264,8 +264,11 @@
     sudo apt-get install qtmultimedia5-dev libqt5multimediawidgets5 libqt5multimedia5-plugins libqt5multimedia5 qtdeclarative5
     sudo apt-get install libjpeg-turbo8 libjpeg-turbo8-dev libturbojpeg0-dev libevdev-dev
     ```
-    + [Play webcam using gstreamer](https://medium.com/@petehouston/play-webcam-using-gstreamer-9b7596e4e181)
-        + [ERROR: from element /GstPipeline:pipeline0/GstV4l2Src:v4l2src0: Internal data stream error.](https://github.com/awslabs/amazon-kinesis-video-streams-producer-sdk-cpp/issues/205)
-        
+
+    + GStreamer
+        + [Play webcam using gstreamer](https://medium.com/@petehouston/play-webcam-using-gstreamer-9b7596e4e181)
+            + [ERROR: from element /GstPipeline:pipeline0/GstV4l2Src:v4l2src0: Internal data stream error.](https://github.com/awslabs/amazon-kinesis-video-streams-producer-sdk-cpp/issues/205)
+        + [How to write a CMAKE file which successfully links gstreamer basic tutorial 5](https://stackoverflow.com/questions/64078308/how-to-write-a-cmake-file-which-successfully-links-gstreamer-basic-tutorial-5)
+
     + [DATA PLANE DEVELOPMENT KIT (DPDK)](https://developer.nvidia.com/networking/dpdk)
         + [Environment Abstraction Layer](https://doc.dpdk.org/guides/prog_guide/env_abstraction_layer.html#max-simd-bitwidth)
