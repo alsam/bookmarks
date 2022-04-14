@@ -259,6 +259,9 @@
         cat /etc/nv_tegra_release
         ```
 
+    + [Bernese GNSS Software](http://www.bernese.unibe.ch)
+        + [Bernese GNSS](https://swmath.org/software/26184)
+
     + [QtCAM is a free, Open Source Linux Webcamera Software with more than 10 image control settings, extension settings and Color space switching](https://github.com/econsysQtCAM/QtCAM)
     ```sh
     sudo apt-get install qtmultimedia5-dev libqt5multimediawidgets5 libqt5multimedia5-plugins libqt5multimedia5 qtdeclarative5
