@@ -264,6 +264,8 @@
 
     + [Low frame rate](https://github.com/dusty-nv/jetson-inference/issues/891)
 
+    + [NVIDIA AI IOT](https://github.com/NVIDIA-AI-IOT)
+
     + [QtCAM is a free, Open Source Linux Webcamera Software with more than 10 image control settings, extension settings and Color space switching](https://github.com/econsysQtCAM/QtCAM)
     ```sh
     sudo apt-get install qtmultimedia5-dev libqt5multimediawidgets5 libqt5multimedia5-plugins libqt5multimedia5 qtdeclarative5
