@@ -178,6 +178,9 @@ Inspection Systems](http://www.mdpi.com/1424-8220/13/12/16565/pdf)
                 http://ompl.kavrakilab.org)
               * [Eigen](http://eigen.tuxfamily.org) (needed for an informed sampling technique to improve the optimization of path length and for the Vector Field RRT planner)
 
+        + [Awesome Collision Detection](https://github.com/jslee02/awesome-collision-detection)
+            + [FCL -- The Flexible Collision Library](https://github.com/flexible-collision-library/fcl)
+            + [libigl - A simple C++ geometry processing library](https://github.com/libigl/libigl)
 
     + ROS transport level protocol
         + [convenient cross-reference](http://code.metager.de/source/xref/ros/comm/clients/cpp/roscpp/include/ros/transport/)
