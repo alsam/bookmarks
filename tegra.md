@@ -221,6 +221,12 @@
         $ sudo -H pip3 install -U jetson-stats
         Collecting jetson-stats
         ```
+
+    + [Number of CPU cores on Jetson Xavier](https://forums.developer.nvidia.com/t/number-of-cpu-cores-on-jetson-xavier/69227)
+        tl;dr    
+        ```sh
+        sudo nvpmodel -m 2
+        ```
     + restore screen after removing an inserting HDMI
         tl;dr    
         ```sh
