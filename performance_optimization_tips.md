@@ -95,3 +95,8 @@
 + Assembler
     + [Compiler Explorer C++](https://gcc.godbolt.org/)
     + [Whirlwind Tour of ARM Assembly](http://www.coranac.com/tonc/text/asm.htm)
+
++ Scientific Methodology and Performance Evaluation
+    + [Scientific Methodology and Performance Evaluation for Computer Scientists](https://github.com/alegrand/SMPE)
+    + [analytical GPU performance model based on Little’s law, that expresses the kernel execution time in terms of latency bound, throughput bound, and achieved occupancy](https://github.com/tomix86/masters-thesis)
+    + [Understanding Latency Hiding on GPUs PhD Thesis by Vasily Volkov , EECS BerkeleyUnderstanding Latency Hiding on GPUs PhD Thesis by Vasily Volkov , EECS Berkeley](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2016/EECS-2016-143.pdf)
