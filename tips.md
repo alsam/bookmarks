@@ -1400,6 +1400,10 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
             + [Install and Set Up kubectl](https://kubernetes.io/docs/tasks/tools/install-kubectl/)
 
     + [Поняв Docker](https://habrahabr.ru/post/277699/)
+    + [Post-installation steps for Linux](https://docs.docker.com/engine/install/linux-postinstall/)    
+        ```sh
+        sudo usermod -aG docker $USER
+        ```
     + [Образы и контейнеры Docker в картинках](http://habrahabr.ru/post/272145/)
     + [Configure and troubleshoot the Docker daemon](https://docs.docker.com/engine/admin/)
         + [Why docker container exits immediately](https://stackoverflow.com/questions/28212380/why-docker-container-exits-immediately)
