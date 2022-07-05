@@ -9,6 +9,11 @@
         + [Gentoo Cheat Sheet](https://wiki.gentoo.org/wiki/Gentoo_Cheat_Sheet)
     
     + Arch Linux tips
+        + [USB flash installation medium](https://wiki.archlinux.org/title/USB_flash_installation_medium)    
+        ```sh
+        dd bs=4M if=path/to/archlinux-version-x86_64.iso of=/dev/sdx conv=fsync oflag=direct status=progress
+        sdx replacing /dev/sdx with your drive, e.g. /dev/sdb. (Do not append a partition number, so do not use something like /dev/sdb1):
+        ```
         + [Arch Linux config files](https://github.com/afiskon/archlinux-on-desktop)
         + [Archlinux PKGBUILDs for Data Science, Machine Learning, Deep Learning, NLP and Computer Vision](https://github.com/mratsim/Arch-Data-Science)
         + [Arch Linux as your Day-to-day Desktop (2020)](https://ajohnsc.com/2020/arch-linux-as-your-day-to-day-desktop-(2020)/)
