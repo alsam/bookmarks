@@ -267,6 +267,11 @@ Multigrid Solver in C++](https://www10.cs.fau.de/publications/reports/TechRep_20
     + [ExaStencils: Advanced Multigrid Solver Generation](https://link.springer.com/chapter/10.1007/978-3-030-47956-5_14)
         + [EvoStencils - Constructing efficient multigrid solvers through evolutionary computation](https://github.com/jonas-schmitt/evostencils)
 
++ Sparse Linear System Solvers on GPUs
+    + [SPARSE LINEAR SYSTEM SOLVERS ON GPUS: PARALLEL PRECONDITIONING, WORKLOAD BALANCING, AND COMMUNICATION REDUCTION](https://www.tdx.cat/bitstream/handle/10803/667096/2019_Tesis_Flegar_Goran.pdf)
+    + [High performance sparse multifrontal solvers on modern GPUs](https://www.sciencedirect.com/science/article/abs/pii/S0167819122000059)
+        + [STRUMPACK -- STRUctured Matrix PACKage, Copyright (c) 2014-2021](https://github.com/pghysels/strumpack)
+
 + [Как SpaceX использует GPU для обсчёта ракетных двигателей](http://habrahabr.ru/post/256081/)
     + [Rockets Shake And Rattle, So SpaceX Rolls Homegrown CFD](http://www.nextplatform.com/2015/03/27/rockets-shake-and-rattle-so-spacex-rolls-homegrown-cfd/)
 
