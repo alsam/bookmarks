@@ -280,6 +280,15 @@ Multigrid Solver in C++](https://www10.cs.fau.de/publications/reports/TechRep_20
 
 + [Freud, a tool to create Performance Annotations for C/C++ programs](https://github.com/usi-systems/freud)
 
++ [RAPIDS - Open GPU Data Science](https://github.com/rapidsai)
+    + [RAFT: Reusable Accelerated Functions and Tools](https://github.com/rapidsai/raft)
+    + [cuDF - GPU DataFrames](https://github.com/rapidsai/cudf)    
+        tl;dr    
+        ```sh
+        cd cpp && mkdir -p build && cd build && cmake .. -DCMAKE_BUILD_TYPE=Release  -DOPENSSL_INCLUDE_DIR=/usr/include/openssl  -DOPENSSL_CRYPTO_LIBRARY=/usr/lib/libcrypto.so -DOPENSSL_SSL_LIBRARY=/usr/lib/libssl.so
+        ```
+    + [cuSpatial - GPU-Accelerated Spatial and Trajectory Data Management and Analytics Library](https://github.com/rapidsai/cuspatial)
+
 + CUDA rehab & NVidia docs
     + [Documentation of NVIDIA chip/hardware interfaces](https://github.com/NVIDIA/open-gpu-doc)
     + [CS344 : CUDA Programming in C](https://classroom.udacity.com/courses/cs344)
