@@ -1035,9 +1035,11 @@
 
     + Rust & CUDA OpenCL
         + [State of GPGPU in 2022](https://www.reddit.com/r/rust/comments/ud88pj/state_of_gpgpu_in_2022/)
+            + [rust-gpu](https://github.com/EmbarkStudios/rust-gpu)
             + [Announcing The Rust CUDA Project; An ecosystem of crates and tools for writing and executing extremely fast GPU code fully in Rust](https://www.reddit.com/r/rust/comments/qzv428/announcing_the_rust_cuda_project_an_ecosystem_of/)
-        + [The Rust CUDA Project](https://github.com/Rust-GPU/Rust-CUDA)
-            + [Getting Started](https://github.com/Rust-GPU/Rust-CUDA/blob/master/guide/src/guide/getting_started.md)
+            + [The Rust CUDA Project](https://github.com/Rust-GPU/Rust-CUDA)
+                + [Getting Started](https://github.com/Rust-GPU/Rust-CUDA/blob/master/guide/src/guide/getting_started.md)
+            + [opencl3](https://github.com/kenba/opencl3)
         + [rust-gpu](https://github.com/EmbarkStudios/rust-gpu)
         + [Пишем на Rust + CUDA C](https://habr.com/ru/post/447968/)
         + [Accel: GPGPU Framework for Rust](https://crates.io/crates/accel)
