@@ -280,6 +280,11 @@ Multigrid Solver in C++](https://www10.cs.fau.de/publications/reports/TechRep_20
 
 + [Freud, a tool to create Performance Annotations for C/C++ programs](https://github.com/usi-systems/freud)
 
++ [Eyal Rozenberg, Ph.D.](https://eyalroz.github.io/)
+    + [Eyal Rozenberg](https://github.com/eyalroz)
+        + [Thin C++-flavored wrappers for the CUDA APIs: Runtime, Driver, NVRTC and NVTX](https://github.com/eyalroz/cuda-api-wrappers)
+        + [GPU Kernel Runner](https://github.com/eyalroz/gpu-kernel-runner)
+
 + [RAPIDS - Open GPU Data Science](https://github.com/rapidsai)
     + [RAFT: Reusable Accelerated Functions and Tools](https://github.com/rapidsai/raft)
     + [cuDF - GPU DataFrames](https://github.com/rapidsai/cudf)    
