@@ -607,11 +607,6 @@ nimble install Arraymancer
 + Intel Level Zero
     + [oneAPI Level Zero](https://github.com/oneapi-src/level-zero)
 
-+ Intel GTPin
-    + [Binary Instrumentation Technology GTPin](https://software.intel.com/sites/landingpage/gtpin/index.html)
-    + [GTPin - A Dynamic Binary Instrumentation Framework ](https://www.intel.com/content/www/us/en/developer/articles/tool/gtpin.htmlhttps://www.intel.com/content/www/us/en/developer/articles/tool/gtpin.html)
-    + [Binary Instrumentation with Graphics Technology Pin (GT Pin)](https://github.com/intel/pti-gpu/blob/master/chapters/binary_instrumentation/GTPin.md)
-
 + GPU roof model
     + [Elias Konstantinidis publications](http://users.uoa.gr/~ekondis/publications/)
         + [A quantitative roofline model for GPU kernel performance estimation using micro-benchmarks and hardware metric profiling](https://www.sciencedirect.com/science/article/pii/S0743731517301247)
