@@ -101,8 +101,17 @@
     + [analytical GPU performance model based on Little’s law, that expresses the kernel execution time in terms of latency bound, throughput bound, and achieved occupancy](https://github.com/tomix86/masters-thesis)
     + [Understanding Latency Hiding on GPUs PhD Thesis by Vasily Volkov , EECS BerkeleyUnderstanding Latency Hiding on GPUs PhD Thesis by Vasily Volkov , EECS Berkeley](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2016/EECS-2016-143.pdf)
 
-+ Intel GTPin
-    + [Binary Instrumentation Technology GTPin](https://software.intel.com/sites/landingpage/gtpin/index.html)
-    + [GTPin - A Dynamic Binary Instrumentation Framework ](https://www.intel.com/content/www/us/en/developer/articles/tool/gtpin.htmlhttps://www.intel.com/content/www/us/en/developer/articles/tool/gtpin.html)
-    + [Binary Instrumentation with Graphics Technology Pin (GT Pin)](https://github.com/intel/pti-gpu/blob/master/chapters/binary_instrumentation/GTPin.md)
++ Binary Instrumentation
+    + [review of binary instrumentation methods: Fuzzing binary-only programs with AFL++](https://aflplus.plus/docs/binaryonly_fuzzing/)
+
+    + Intel GTPin
+        + [Binary Instrumentation Technology GTPin](https://software.intel.com/sites/landingpage/gtpin/index.html)
+        + [GTPin - A Dynamic Binary Instrumentation Framework ](https://www.intel.com/content/www/us/en/developer/articles/tool/gtpin.htmlhttps://www.intel.com/content/www/us/en/developer/articles/tool/gtpin.html)
+        + [Binary Instrumentation with Graphics Technology Pin (GT Pin)](https://github.com/intel/pti-gpu/blob/master/chapters/binary_instrumentation/GTPin.md)
+
+    + DynamoRIO
+        + [DynamoRIO](https://github.com/DynamoRIO/dynamorio)
+        + [DRK: DynamoRIO as a Linux Kernel Module](https://github.com/DynamoRIO/drk)
+        + [dynamorio-sys: A crate using bindgen to automatically generate Rust bindings to DynamoRIO](https://github.com/elast0ny/dynamorio-sys)
+        + [dynamorio-rs crate provides safe Rust bindings to the DynamoRIO dynamic binary instrumentation framework](https://github.com/StephanvanSchaik/dynamorio-rs)
 
