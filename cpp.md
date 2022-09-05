@@ -868,6 +868,9 @@
                 int i = to_string_t{"7"};
                 bool b = to_string_t{"true"};
                 ```
+        + [cpponsea-slides 2022](https://github.com/philsquared/cpponsea-slides/tree/master/2022)
+            + [Marius Feilhauer - Compile- and Run-Time Dependency Injection](https://github.com/philsquared/cpponsea-slides/blob/master/2022/Marius%20Feilhauer%20-%20Compile-%20and%20Run-Time%20Dependency%20Injection/Compile-Time-and-Run-Time-Dependency-Injection.pdf)
+                + [Compile- and Run-Time Dependency Injection - Marius Feilhauer - C++ on Sea 2022](https://www.youtube.com/watch?v=zYPb7oBU5_E)
 
         + selected C++ projects
             + [Curated list of awesome lists Awesome C++](https://project-awesome.org/fffaraz/awesome-cpp)
