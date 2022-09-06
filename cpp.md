@@ -931,3 +931,13 @@
             + [Compilation error related to map and unordered_map: "attempting to reference a deleted function"](https://stackoverflow.com/questions/51220257/compilation-error-related-to-map-and-unordered-map-attempting-to-reference-a-d)
             + [Pure virtual destructor in C++](https://www.geeksforgeeks.org/pure-virtual-destructor-c/)
             + [How to convert errno to exception using <system_error>](https://stackoverflow.com/questions/12171377/how-to-convert-errno-to-exception-using-system-error)
+                + [C++ ALTERNATIVE TO PERROR()-C++](https://www.appsloveworld.com/cplus/100/32/c-alternative-to-perror)    
+                tl;dr    
+                ```c++
+                #include <system_error>
+                #include <iostream>
+
+                int main() {
+                    std::cout << std::error_code{errno, std::generic_category()}.message() << '\n';
+                }
+                ```
