@@ -891,6 +891,11 @@
                     + [FTXUI Documentation](https://arthursonzogni.com/FTXUI/doc/)
                 + [Diagon is an interactive interpreter. It transforms markdown-style expression into an ascii-art representation](https://github.com/ArthurSonzogni/Diagon)
                 + [C++ UI Libraries](https://philippegroarke.com/posts/2018/c++_ui_solutions/)
+            + json (de)serialize
+                + [Native JSON Benchmark](https://github.com/miloyip/nativejson-benchmark)
+                + [nlohmann: JSON for Modern C++](https://github.com/nlohmann/json)
+                + [PicoJSON - a C++ JSON parser / serializer](https://github.com/kazuho/picojson)
+                + [simdjson : Parsing gigabytes of JSON per second](https://github.com/simdjson/simdjson#quick-start)
 
         + misc
             + [Modern C++ Tutorial: C++11/14/17/20 On the Fly](https://github.com/changkun/modern-cpp-tutorial)
