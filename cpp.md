@@ -896,6 +896,7 @@
                 + [nlohmann: JSON for Modern C++](https://github.com/nlohmann/json)
                 + [PicoJSON - a C++ JSON parser / serializer](https://github.com/kazuho/picojson)
                 + [simdjson : Parsing gigabytes of JSON per second](https://github.com/simdjson/simdjson#quick-start)
+                + [Towards GPGPU JSON parsing](https://raphlinus.github.io/personal/2018/05/10/toward-gpu-json-parsing.html)
 
         + misc
             + [Modern C++ Tutorial: C++11/14/17/20 On the Fly](https://github.com/changkun/modern-cpp-tutorial)
