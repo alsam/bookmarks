@@ -3,7 +3,6 @@
     + [CPP C++ Papyrus](https://github.com/caiorss/C-Cpp-Notes)
         + [CPP / C++ - Template Metaprogramming - Generic Programming](https://github.com/caiorss/C-Cpp-Notes/blob/master/CPP-template-metaprogramming.org)
     + [ C++ Ecosystem: Compilers, IDEs, Tools, Testing and More ](https://www.bfilipek.com/2019/10/cppecosystem.html?m=1)
-        + [CMake Cookbook](https://github.com/dev-cafe/cmake-cookbook)
         + [and meson, missed from the above review](https://mesonbuild.com/)
             + [The Meson Build System](https://github.com/mesonbuild/meson)
             + [Getting started with Meson build system and C++](https://medium.com/@germandiagogomez/getting-started-with-meson-build-system-and-c-83270f444bee)
@@ -30,6 +29,7 @@
             ```
             + [C project build with meson: Correct way to handle 3rd party local libraries](https://stackoverflow.com/questions/60905846/c-project-build-with-meson-correct-way-to-handle-3rd-party-local-libraries)
     + CMake
+        + [CMake Cookbook](https://github.com/dev-cafe/cmake-cookbook)
         + [An Introduction to Modern CMake](https://cliutils.gitlab.io/modern-cmake/)
         + [CGold: The Hitchhiker’s Guide to the CMake](https://cgold.readthedocs.io/en/latest/)
         + [CMake cheat sheet](https://ps-group.github.io/cxx/cmake_cheatsheet)
