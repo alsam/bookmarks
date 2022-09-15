@@ -973,6 +973,8 @@
         + [rustv - A minimal, intentionally inaccurate RISC-V ISA simulator](https://crates.io/crates/rustv/)
             + [about RISC-V and Rocket processor see The RISC-V Instruction Set Architecture](http://riscv.org/)
             + [see also Chisel - Constructing Hardware in a Scala Embedded Language](https://chisel.eecs.berkeley.edu/)
+            + [R2VM is the Rust for RISC-V Virtual Machine.](https://github.com/nbdd0121/r2vm)
+                + [Accelerate Cycle-Level Full-System Simulation of Multi-Core RISC-V Systems with Binary Translation](https://arxiv.org/pdf/2005.11357.pdf)
 
         + [Grover: Why Rust for Low-level Linux programming?](https://lwn.net/Articles/690821/)
 
