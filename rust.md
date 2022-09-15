@@ -977,6 +977,7 @@
                 + [Accelerate Cycle-Level Full-System Simulation of Multi-Core RISC-V Systems with Binary Translation](https://arxiv.org/pdf/2005.11357.pdf)
                 + [Muntjac is a minimal 64-bit RISC-V multicore processor that's easy to understand, verify, and extend.](https://github.com/lowRISC/muntjac)
                 + [Spike RISC-V ISA Simulator](https://github.com/lowRISC/riscv-isa-sim)
+                + [Parallax Static Timing Analyzer](https://github.com/The-OpenROAD-Project/OpenSTA)
 
         + [Grover: Why Rust for Low-level Linux programming?](https://lwn.net/Articles/690821/)
 
