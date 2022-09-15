@@ -900,6 +900,9 @@
                 + [Towards GPGPU JSON parsing](https://raphlinus.github.io/personal/2018/05/10/toward-gpu-json-parsing.html)
             + [Memgraph is a streaming graph application platform that helps you wrangle your streaming data, build sophisticated models that you can query in real-time, and develop graph applications](https://github.com/memgraph/memgraph)
                 + [thread-safe ring buffer reference impl](https://github.com/memgraph/memgraph/blob/master/src/data_structures/ring_buffer.hpp)
+            + [Comprehensive C++ Hashmap Benchmarks 2022](https://martin.ankerl.com/2022/08/27/hashmap-bench-01/
+                + [Hashmaps Benchmarks - Overview](https://martin.ankerl.com/2019/04/01/hashmap-benchmarks-01-overview/)
+                + [ankerl::unordered_dense::{map, set}](https://github.com/martinus/unordered_dense)
 
         + misc
             + [Modern C++ Tutorial: C++11/14/17/20 On the Fly](https://github.com/changkun/modern-cpp-tutorial)
