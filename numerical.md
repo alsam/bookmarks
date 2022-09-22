@@ -185,75 +185,78 @@ Very Small Matrices](https://hal.archives-ouvertes.fr/hal-01409286/document)
 + Unum
     + [What are the biggest challenges in scientific computing?](https://www.quora.com/What-are-the-biggest-challenges-in-scientific-computing)
         + [John Gustafson presents: Beyond Floating Point – Next Generation Computer Arithmetic](http://insidehpc.com/2017/02/john-gustafson-presents-beyond-floating-point-next-generation-computer-arithmetic/)
-            + [(former Unum)Create RUST posit arithmetic library based on 21 February 2017 Posit Arithmetic by John L. Gustafson - Beating Floating Point at its Own Game](https://users.rust-lang.org/t/create-rust-posit-arithmetic-library-based-on-21-february-2017-posit-arithmetic-by-john-l-gustafson-beating-floating-point-at-its-own-game/10077/3)
-        + [UNUM ... a better alternative to IEEE Floating Point?](https://www.reddit.com/comments/2ckk5u)
-        + [The Evils of Floating Point, and the Joys of Unum](http://vrworld.com/2015/03/24/the-evils-of-floating-point-and-the-joys-of-unum/)
-        + [John Gustafson (scientist)](https://en.wikipedia.org/wiki/John_Gustafson_%28scientist%29)
-        + [Unum Computing: An Energy Efficient and Massively Parallel Approach to Numerics](https://news.ycombinator.com/item?id=9943589)
-            + [Unum Computing slideshare](http://www.slideshare.net/insideHPC/unum-computing-an-energy-efficient-and-massively-parallel-approach-to-valid-numerics)
-            + [Unum Computing Is A Breakthrough ... A Game Changer](http://www.amazon.com/The-End-Error-Computing-Computational/product-reviews/1482239868)
-            + [Handbook of Floating-Point Arithmetic](http://www.amazon.com/Handbook-Floating-Point-Arithmetic-Jean-Michel-Muller/dp/081764704X/ref=cm_cr_pr_product_sims?ie=UTF8)
-            + [Rump's Royal Pain](http://arith22.gforge.inria.fr/slides/06-gustafson.pdf)
-            + [Official Blog - SSRLabs for UNUMs implemented in hardware](http://www.ssrlabs.com/blog.html#articleOne)
-        + [Unums.jl](https://github.com/tbreloff/Unums.jl/wiki/Unum-Summary-%28in-progress%29)
-        + [Julia Implementation of Unums - (seems more mature)](https://github.com/REX-Computing/unumjl)
-        + [unum - Rust library for unums, a placeholder @Jan 4, 2016](https://github.com/eddyb/unum)
-        ```julia
-        julia> f(x,y) = 333.75*y^6 + x^2*(11*x^2*y^2-y^6-121*y^4-2)+5.5*y^8+x/(2*y)
-        f (generic function with 1 method)
-
-        julia> f(77617,33096)
-        1.64176022256015e21
-
-        julia> f(Rational(77617,1),Rational(33096,1))
-        ERROR: OverflowError()
-         in * at rational.jl:188
-         in power_by_squaring at intfuncs.jl:96
-         in f at none:1
-        
-        julia> f(Rational(BigInt(77617),1),Rational(BigInt(33096),1))
-        -8.273960599468213681411650954798162919990331157843848199178148416727096930142628e-01
-
-        julia> f(77617.0,33096.0)
-        -1.1805916207174113e21
-
-        julia> f(BigFloat(77617),BigFloat(33096))
-        -8.273960599468213681411650954798162919990331157843848199178148416727096930142628e-01
-        ```
-
-        + [(more or less) accurate floating point algorithms](https://crates.io/crates/accurate)
-
-        + [unum in D](https://github.com/lionello/unumd)
+                + [(former Unum)Create RUST posit arithmetic library based on 21 February 2017 Posit Arithmetic by John L. Gustafson - Beating Floating Point at its Own Game](https://users.rust-lang.org/t/create-rust-posit-arithmetic-library-based-on-21-february-2017-posit-arithmetic-by-john-l-gustafson-beating-floating-point-at-its-own-game/10077/3)
+            + [UNUM ... a better alternative to IEEE Floating Point?](https://www.reddit.com/comments/2ckk5u)
+            + [The Evils of Floating Point, and the Joys of Unum](http://vrworld.com/2015/03/24/the-evils-of-floating-point-and-the-joys-of-unum/)
+            + [John Gustafson (scientist)](https://en.wikipedia.org/wiki/John_Gustafson_%28scientist%29)
+            + [Unum Computing: An Energy Efficient and Massively Parallel Approach to Numerics](https://news.ycombinator.com/item?id=9943589)
+                + [Unum Computing slideshare](http://www.slideshare.net/insideHPC/unum-computing-an-energy-efficient-and-massively-parallel-approach-to-valid-numerics)
+                + [Unum Computing Is A Breakthrough ... A Game Changer](http://www.amazon.com/The-End-Error-Computing-Computational/product-reviews/1482239868)
+                + [Handbook of Floating-Point Arithmetic](http://www.amazon.com/Handbook-Floating-Point-Arithmetic-Jean-Michel-Muller/dp/081764704X/ref=cm_cr_pr_product_sims?ie=UTF8)
+                + [Rump's Royal Pain](http://arith22.gforge.inria.fr/slides/06-gustafson.pdf)
+                + [Official Blog - SSRLabs for UNUMs implemented in hardware](http://www.ssrlabs.com/blog.html#articleOne)
             + [Unums.jl](https://github.com/tbreloff/Unums.jl/wiki/Unum-Summary-%28in-progress%29)
             + [Julia Implementation of Unums - (seems more mature)](https://github.com/REX-Computing/unumjl)
-            + [Experimental Unums](https://github.com/simonbyrne/UnumX.jl)
+            + [unum - Rust library for unums, a placeholder @Jan 4, 2016](https://github.com/eddyb/unum)
+            ```julia
+            julia> f(x,y) = 333.75*y^6 + x^2*(11*x^2*y^2-y^6-121*y^4-2)+5.5*y^8+x/(2*y)
+            f (generic function with 1 method)
 
-        + [PosIt(new Unum) in C, C++]
-            + [SoftPosit](https://gitlab.com/cerlane/SoftPosit)
-                + [Berkeley SoftFloat](http://www.jhauser.us/arithmetic/SoftFloat.html)
-            + [Universal Number Arithmetic in C++](https://github.com/stillwater-sc/universal)
+            julia> f(77617,33096)
+            1.64176022256015e21
 
-+ Automatic Fortran to C++ conversion
-    + [Automatic Fortran to C++ conversion with FABLE](https://scfbm.biomedcentral.com/articles/10.1186/1751-0473-7-5)
+            julia> f(Rational(77617,1),Rational(33096,1))
+            ERROR: OverflowError()
+             in * at rational.jl:188
+             in power_by_squaring at intfuncs.jl:96
+             in f at none:1
+            
+            julia> f(Rational(BigInt(77617),1),Rational(BigInt(33096),1))
+            -8.273960599468213681411650954798162919990331157843848199178148416727096930142628e-01
 
-+ Promising Languages for Scientific Computing (besides Julia)
-    + [Polyglot Programming : review several candidate languages, namely C, C++, Fortran, Cython, Numba, Nim, Rust, D, Chapel and Julia](http://stash.artec-group.com:7990/projects/LSL/repos/mover/pull-requests/12/overview)
-    + [SciLua: Scientific Computing with LuaJIT](http://scilua.org/)
-    + [Chapel Quickstart Instructions](http://chapel.cray.com/docs/latest/usingchapel/QUICKSTART.html)
-        tl;dr
-        ```sh
-        source util/quickstart/setchplenv.bash
-        make
-        make check
-        chpl -o hello examples/hello.chpl
-        ```
-+ [linear algebra library Eigen](http://eigen.tuxfamily.org/)
-    + [Eigen Cheat sheet](https://gist.github.com/gocarlos/c91237b02c120c6319612e42fa196d77)
-    + [Eigen Aliasing](https://eigen.tuxfamily.org/dox-devel/group__TopicAliasing.html)
-    + [Eigen 3.2.92 : Bug 1221: disable gcc 6 warning: ignoring attributes on template argument](https://bitbucket.org/eigen/eigen/commits/ad10b2383e48)
-    + [Eigen disable GCC diagnostic ignored "-Wignored-attributes" has already merged](https://github.com/RLovelett/eigen/blob/master/Eigen/src/Core/util/DisableStupidWarnings.h)
-    + [An evaluation of the Eigen linear algebra library for use in the aither CFD solver](https://github.com/mnucci32/eigenVsAither)
-    + [A look at the performance of expression templates in C++: Eigen vs Blaze vs Fastor vs Armadillo vs XTensor](https://romanpoya.medium.com/a-look-at-the-performance-of-expression-templates-in-c-eigen-vs-blaze-vs-fastor-vs-armadillo-vs-2474ed38d982)
-    + [How should I initialize the contents of a large matrix in Eigen?](https://stackoverflow.com/questions/27005322/how-should-i-initialize-the-contents-of-a-large-matrix-in-eigen)
+            julia> f(77617.0,33096.0)
+            -1.1805916207174113e21
+
+            julia> f(BigFloat(77617),BigFloat(33096))
+            -8.273960599468213681411650954798162919990331157843848199178148416727096930142628e-01
+            ```
+
+            + [(more or less) accurate floating point algorithms](https://crates.io/crates/accurate)
+
+            + [unum in D](https://github.com/lionello/unumd)
+                + [Unums.jl](https://github.com/tbreloff/Unums.jl/wiki/Unum-Summary-%28in-progress%29)
+                + [Julia Implementation of Unums - (seems more mature)](https://github.com/REX-Computing/unumjl)
+                + [Experimental Unums](https://github.com/simonbyrne/UnumX.jl)
+
+            + [PosIt(new Unum) in C, C++]
+                + [Unum & Posit](https://posithub.org/)
+                    + [Toward Floating-Point Run-time Variable Precision in CPU](https://tel.archives-ouvertes.fr/tel-03586720/document)
+                    + [PERCIVAL: Open-Source Posit RISC-V Core with Quire Capability](https://github.com/artecs-group/PERCIVAL)
+                + [SoftPosit](https://gitlab.com/cerlane/SoftPosit)
+                    + [Berkeley SoftFloat](http://www.jhauser.us/arithmetic/SoftFloat.html)
+                + [Universal Number Arithmetic in C++](https://github.com/stillwater-sc/universal)
+
+    + Automatic Fortran to C++ conversion
+        + [Automatic Fortran to C++ conversion with FABLE](https://scfbm.biomedcentral.com/articles/10.1186/1751-0473-7-5)
+
+    + Promising Languages for Scientific Computing (besides Julia)
+        + [Polyglot Programming : review several candidate languages, namely C, C++, Fortran, Cython, Numba, Nim, Rust, D, Chapel and Julia](http://stash.artec-group.com:7990/projects/LSL/repos/mover/pull-requests/12/overview)
+        + [SciLua: Scientific Computing with LuaJIT](http://scilua.org/)
+        + [Chapel Quickstart Instructions](http://chapel.cray.com/docs/latest/usingchapel/QUICKSTART.html)
+            tl;dr
+            ```sh
+            source util/quickstart/setchplenv.bash
+            make
+            make check
+            chpl -o hello examples/hello.chpl
+            ```
+    + [linear algebra library Eigen](http://eigen.tuxfamily.org/)
+        + [Eigen Cheat sheet](https://gist.github.com/gocarlos/c91237b02c120c6319612e42fa196d77)
+        + [Eigen Aliasing](https://eigen.tuxfamily.org/dox-devel/group__TopicAliasing.html)
+        + [Eigen 3.2.92 : Bug 1221: disable gcc 6 warning: ignoring attributes on template argument](https://bitbucket.org/eigen/eigen/commits/ad10b2383e48)
+        + [Eigen disable GCC diagnostic ignored "-Wignored-attributes" has already merged](https://github.com/RLovelett/eigen/blob/master/Eigen/src/Core/util/DisableStupidWarnings.h)
+        + [An evaluation of the Eigen linear algebra library for use in the aither CFD solver](https://github.com/mnucci32/eigenVsAither)
+        + [A look at the performance of expression templates in C++: Eigen vs Blaze vs Fastor vs Armadillo vs XTensor](https://romanpoya.medium.com/a-look-at-the-performance-of-expression-templates-in-c-eigen-vs-blaze-vs-fastor-vs-armadillo-vs-2474ed38d982)
+        + [How should I initialize the contents of a large matrix in Eigen?](https://stackoverflow.com/questions/27005322/how-should-i-initialize-the-contents-of-a-large-matrix-in-eigen)
 
 
