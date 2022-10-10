@@ -643,6 +643,7 @@
         put the `#[macro_use] extern crate serde_derive;` in the crate root, which is `main.rs` and/or `lib.rs`
 
         + [Lifetime error when creating a function that returns a value implementing serde::Deserialize](http://stackoverflow.com/questions/43554679/lifetime-error-when-creating-a-function-that-returns-a-value-implementing-serde)
+        + [Using serde's deserialize_with to handle custom strings](https://brokenco.de/2020/08/03/serde-deserialize-with-string.html)
 
         + [Closures don’t move Copy types by default?](https://internals.rust-lang.org/t/closures-dont-move-copy-types-by-default/5179/6)
 
