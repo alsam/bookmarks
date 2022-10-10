@@ -1298,6 +1298,10 @@
             + [Reverse-mode automatic differentiation: a tutorial](https://rufflewind.com/2016-12-30/reverse-mode-automatic-differentiation)
         + [Do the compilers really create more optimal code for Rust than for C/C++?](https://www.reddit.com/r/rust/comments/k7pssg/do_the_compilers_really_create_more_optimal_code/)
         + [Get next `n` items from an iterator with const generics](https://internals.rust-lang.org/t/get-next-n-items-from-an-iterator-with-const-generics/13526/3)
+        + FFI
+            + [How to expose a Rust `Vec<T>` to FFI?](https://stackoverflow.com/questions/39224904/how-to-expose-a-rust-vect-to-ffi)
+            + [Introducting Safer FFI](https://www.ditto.live/blog/introducing-safer-ffi)
+            + [Deriving ReprC for custom enums](https://getditto.github.io/safer_ffi/derive-reprc/enum.html)
 
 + [Rust for Data-Intensive Computation](https://materialize.io/rust-for-data-intensive-computation/)
     + [Timely Dataflow](https://github.com/TimelyDataflow/timely-dataflow)
