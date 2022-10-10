@@ -1302,6 +1302,7 @@
             + [How to expose a Rust `Vec<T>` to FFI?](https://stackoverflow.com/questions/39224904/how-to-expose-a-rust-vect-to-ffi)
             + [Introducting Safer FFI](https://www.ditto.live/blog/introducing-safer-ffi)
             + [Deriving ReprC for custom enums](https://getditto.github.io/safer_ffi/derive-reprc/enum.html)
+            + [Complex data types and the Rust FFI](http://kmdouglass.github.io/posts/complex-data-types-and-the-rust-ffi)
 
 + [Rust for Data-Intensive Computation](https://materialize.io/rust-for-data-intensive-computation/)
     + [Timely Dataflow](https://github.com/TimelyDataflow/timely-dataflow)
