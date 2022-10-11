@@ -644,6 +644,7 @@
 
         + [Lifetime error when creating a function that returns a value implementing serde::Deserialize](http://stackoverflow.com/questions/43554679/lifetime-error-when-creating-a-function-that-returns-a-value-implementing-serde)
         + [Using serde's deserialize_with to handle custom strings](https://brokenco.de/2020/08/03/serde-deserialize-with-string.html)
+        + [How to unit-test a deserialization function used in serde(deserialize_with)?](https://stackoverflow.com/questions/56985101/how-to-unit-test-a-deserialization-function-used-in-serdedeserialize-with)
 
         + [Closures don’t move Copy types by default?](https://internals.rust-lang.org/t/closures-dont-move-copy-types-by-default/5179/6)
 
