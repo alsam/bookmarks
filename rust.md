@@ -1020,6 +1020,7 @@
             + [A complete text editor for your terminal.](https://amp.rs/)
                 + [The Bram Moole-Laaw: There Will be Attempts to Rewrite Vim in Nearly Every New Language](http://joshldavis.com/2015/11/29/the-bram-moole-laaw-vim-re-write/)
 
+        + [How I Wrote a Modern C++ Library in Rust](https://hsivonen.fi/modern-cpp-in-rust)
         + [Rewritten in Rust: Modern Alternatives of Command-Line Tools](https://www.reddit.com/r/rust/comments/i1abpg/rewritten_in_rust_modern_alternatives_of/)
             + Text search-and-replace & Find (grep-like tools)
                 + [amber (written in Rust - a good starting point)](https://github.com/dalance/amber)
