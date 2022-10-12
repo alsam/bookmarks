@@ -768,6 +768,7 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
         + [Syncing a fork](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/syncing-a-fork)
         + [Как удалить сабмодуль в git?](https://jeka.by/ask/111/delete-submodule-git/)
 
+        + [Merging a subdirectory from another repo via git-subtree](https://jrsmith3.github.io/merging-a-subdirectory-from-another-repo-via-git-subtree.html)
         + [How to import existing Git repository into another?](http://stackoverflow.com/questions/1683531/how-to-import-existing-git-repository-into-another)
         ```sh
         git subtree add -P u-boot /scratch/tegra-sources/u-boot_nvidia_distribution/u-boot master
