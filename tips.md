@@ -911,6 +911,8 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
             + [How to setup Neovim](https://g14n.info/2021/04/neovim-setup/)
             + [Setting up Neovim for C++ Development with LSP](https://jdhao.github.io/2020/11/29/neovim_cpp_dev_setup/)
             + [Configure coc.nvim for C/C++ Development](https://ianding.io/2019/07/29/configure-coc-nvim-for-c-c++-development/)
+            + [How to Install and Set Up Neovim for Code Editing](https://mattermost.com/blog/how-to-install-and-set-up-neovim-for-code-editing/)
+            + [Turning Neovim into a Full-Fledged Code Editor with Lua](https://mattermost.com/blog/turning-neovim-into-a-full-fledged-code-editor-with-lua/)
         + [Find in files within Vim](http://vim.wikia.com/wiki/Find_in_files_within_Vim)
         + [Vim: Substitute pattern between braces](https://vi.stackexchange.com/questions/2751/substitute-pattern-between-braces)
         + Neovim 0.5+
