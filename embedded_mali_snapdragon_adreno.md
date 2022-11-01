@@ -1,5 +1,15 @@
 # snapdragon and adreno tips
 
++ ARM 64 Assembly series
+    + [ARM 64 Assembly Series — Basic definitions and registers](https://valsamaras.medium.com/arm-64-assembly-series-basic-definitions-and-registers-ec8cc1334e40)
+    + [ARM 64 Assembly Series — Offset and Addressing modes](https://valsamaras.medium.com/arm-64-assembly-series-offset-and-addressing-modes-aa48b65b4c99)
+    + [ARM 64 Assembly Series — Load and Store](https://valsamaras.medium.com/arm-64-assembly-series-load-and-store-6bfe9c1d1896)
+    + [ARM 64 Assembly Series — Branch](https://valsamaras.medium.com/arm-64-assembly-series-branch-9ce820987fc6)
+    + [ARM 64 Assembly Series — Data Processing (Part 1)](https://valsamaras.medium.com/arm-64-assembly-series-data-processing-part-1-b6f6f877c56b)
+    + [ARM 64 Assembly Series — Data Processing (Part 2)](https://valsamaras.medium.com/arm-64-assembly-series-data-processing-part-2-3d0526dc07b6)
+    + [Practical ARM64 (selections and loops)](https://valsamaras.medium.com/practical-arm64-selections-and-loops-89f9a0e7e395)
+    + [Practical ARM64 (Subroutines)](https://valsamaras.medium.com/practical-arm64-subroutines-1b5ea3935ff5)
+
 + Qualcomm+Snapdragon
     + [Snapdragon 845 Mobile Platform](https://www.qualcomm.com/products/snapdragon-845-mobile-platform)
     + [FIRST Robotics](https://developer.qualcomm.com/hardware/first-robotics)
