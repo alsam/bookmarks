@@ -905,6 +905,8 @@
                 + [ankerl::unordered_dense::{map, set}](https://github.com/martinus/unordered_dense)
 
         + misc
+            + [ModernCppStarter](https://thelartians.de/ModernCppStarter/)
+                + [ModernCppStarter](https://github.com/TheLartians/ModernCppStarter)
             + [Modern C++ Tutorial: C++11/14/17/20 On the Fly](https://github.com/changkun/modern-cpp-tutorial)
             + [Reading TAR files in C++](https://techoverflow.net/2013/03/29/reading-tar-files-in-c/)
             + [Error codes are far slower than exceptions](https://lordsoftech.com/programming/error-codes-are-far-slower-than-exceptions/)
