@@ -898,6 +898,7 @@
                 + [PicoJSON - a C++ JSON parser / serializer](https://github.com/kazuho/picojson)
                 + [simdjson : Parsing gigabytes of JSON per second](https://github.com/simdjson/simdjson#quick-start)
                 + [Towards GPGPU JSON parsing](https://raphlinus.github.io/personal/2018/05/10/toward-gpu-json-parsing.html)
+                + [Glaze - one of the fastest JSON libraries in the world](https://github.com/stephenberry/glaze)
             + [Memgraph is a streaming graph application platform that helps you wrangle your streaming data, build sophisticated models that you can query in real-time, and develop graph applications](https://github.com/memgraph/memgraph)
                 + [thread-safe ring buffer reference impl](https://github.com/memgraph/memgraph/blob/master/src/data_structures/ring_buffer.hpp)
             + [Comprehensive C++ Hashmap Benchmarks 2022](https://martin.ankerl.com/2022/08/27/hashmap-bench-01/
