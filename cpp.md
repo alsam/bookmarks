@@ -908,6 +908,7 @@
             + [Modern C++ Tutorial: C++11/14/17/20 On the Fly](https://github.com/changkun/modern-cpp-tutorial)
             + [Reading TAR files in C++](https://techoverflow.net/2013/03/29/reading-tar-files-in-c/)
             + [Error codes are far slower than exceptions](https://lordsoftech.com/programming/error-codes-are-far-slower-than-exceptions/)
+            + [Single header implementation of std::expected with functional-style extensions](https://github.com/TartanLlama/expected)
             + [C++ Result](https://github.com/Liorst4/cpp-result)
             + [Python-Like enumerate() In C++17](http://www.reedbeta.com/blog/python-like-enumerate-in-cpp17/)
                 + [Python's enumerate for C++](https://stackoverflow.com/questions/53542092/pythons-enumerate-for-c)
