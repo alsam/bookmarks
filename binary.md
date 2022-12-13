@@ -1,7 +1,8 @@
 # binary analysis frameworks
 
 + capstone unicorn keystone radare2
-    + TODO
+    + [unicorn + capstone + keystone](https://www.xandora.io/opensource)
+    + [Unicorn Engine](https://github.com/unicorn-engine/unicorn) 
 
 + [angr is an open-source binary analysis platform for Python](https://angr.io)
     + [angr is a platform-agnostic binary analysis framework](https://github.com/angr/angr)
