@@ -8,3 +8,8 @@
     + Breaking CMU's Bomblab with Angr for Fun and Profit
         + [Breaking CMU's Bomblab with Angr for Fun and Profit - Part 1](https://fanpu.io/2020/07/30/breaking-cmu-bomblab-with-angr-for-fun-and-profit-part-1/)
         + [Breaking CMU's Bomblab with Angr for Fun and Profit - Part 2](https://fanpu.io/2020/07/31/breaking-cmu-bomblab-with-angr-for-fun-and-profit-part-2/)
+        + [Breaking CMU's Bomblab with Angr for Fun and Profit - Part 3](https://fanpu.io/2020/08/01/breaking-cmu-bomblab-with-angr-for-fun-and-profit-part-3/)
+        + [Breaking CMU's Bomblab with Angr for Fun and Profit - Part 4](https://fanpu.io/2020/08/02/breaking-cmu-bomblab-with-angr-for-fun-and-profit-part-4/)
+        + [Breaking CMU's Bomblab with Angr for Fun and Profit - Part 5](https://fanpu.io/2020/08/02/breaking-cmu-bomblab-with-angr-for-fun-and-profit-part-5/)
+        + [Breaking CMU's Bomblab with Angr for Fun and Profit - Part 6](https://fanpu.io/2020/08/02/breaking-cmu-bomblab-with-angr-for-fun-and-profit-part-6/)
+        + [Breaking CMU's Bomblab with Angr for Fun and Profit - Part 7](https://fanpu.io/2020/08/02/breaking-cmu-bomblab-with-angr-for-fun-and-profit-part-7/)
