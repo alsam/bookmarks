@@ -135,3 +135,4 @@
 
 + [Blogs](https://github.com/alsam/bookmarks/blob/master/blogs.md)
 
++ [binary analysis](https://github.com/alsam/bookmarks/blob/master/binary.md)
