@@ -14,3 +14,4 @@
         + [Breaking CMU's Bomblab with Angr for Fun and Profit - Part 5](https://fanpu.io/2020/08/02/breaking-cmu-bomblab-with-angr-for-fun-and-profit-part-5/)
         + [Breaking CMU's Bomblab with Angr for Fun and Profit - Part 6](https://fanpu.io/2020/08/02/breaking-cmu-bomblab-with-angr-for-fun-and-profit-part-6/)
         + [Breaking CMU's Bomblab with Angr for Fun and Profit - Part 7](https://fanpu.io/2020/08/02/breaking-cmu-bomblab-with-angr-for-fun-and-profit-part-7/)
+        + [angr's solver engine is called Claripy](https://docs.angr.io/advanced-topics/claripy)
