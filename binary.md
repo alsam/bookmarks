@@ -2,7 +2,8 @@
 
 + capstone unicorn keystone radare2
     + [unicorn + capstone + keystone](https://www.xandora.io/opensource)
-    + [Unicorn Engine](https://github.com/unicorn-engine/unicorn) 
+    + [Unicorn Engine](https://github.com/unicorn-engine/unicorn)
+    + [Capstone is a lightweight multi-platform, multi-architecture disassembly framework](https://www.capstone-engine.org/)
 
 + [angr is an open-source binary analysis platform for Python](https://angr.io)
     + [angr is a platform-agnostic binary analysis framework](https://github.com/angr/angr)
