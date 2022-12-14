@@ -962,3 +962,4 @@
                 }
                 ```
             + [Three hottest C23 features approved on July 2022](https://tomaszs2.medium.com/three-hottest-c23-features-approved-on-july-2022-91922a9f2359)
+            + [#embed is in C23](https://thephd.dev/finally-embed-in-c23)
