@@ -963,3 +963,4 @@
                 ```
             + [Three hottest C23 features approved on July 2022](https://tomaszs2.medium.com/three-hottest-c23-features-approved-on-july-2022-91922a9f2359)
             + [#embed is in C23](https://thephd.dev/finally-embed-in-c23)
+            + [C++ Annotated June-August 2022: C++23 and C23 News, Language Tips and Tricks, and New Tools Releases](https://www.reddit.com/r/cpp/comments/xghwjg/c_annotated_juneaugust_2022_c23_and_c23_news/)
