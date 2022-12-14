@@ -215,6 +215,13 @@
                 ```
             + [Lock and blank screen?](https://www.reddit.com/r/i3wm/comments/941rbd/lock_and_blank_screen/)    
             tl;dr `i3lock -c 000000`
+            + Screen brightness
+                + [Control screen brightness in i3](https://unix.stackexchange.com/questions/526653/control-screen-brightness-in-i3)
+                + [How to change LCD intensivity/brightness](https://unix.stackexchange.com/questions/61256/how-to-change-lcd-intensivity-brightness)
+                                ```sh
+                                cat /sys/class/backlight/amdgpu_bl0/actual_brightness
+                                sudo cat 8 > /sys/class/backlight/amdgpu_bl0/brightness
+                                `````
             + [Advanced Linux Sound Architecture (Русский)](https://wiki.archlinux.org/index.php/Advanced_Linux_Sound_Architecture_(%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9)#%D0%92%D1%8B%D0%B1%D0%BE%D1%80_%D1%81%D1%82%D0%B0%D0%BD%D0%B4%D0%B0%D1%80%D1%82%D0%BD%D0%BE%D0%B9_PCM_%D1%81_%D0%BF%D0%BE%D0%BC%D0%BE%D1%89%D1%8C%D1%8E_%D0%BF%D0%B5%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D0%BE%D0%BA%D1%80%D1%83%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F)    
             tl;dr    
             ```sh
