@@ -961,3 +961,4 @@
                     std::cout << std::error_code{errno, std::generic_category()}.message() << '\n';
                 }
                 ```
+            + [Three hottest C23 features approved on July 2022](https://tomaszs2.medium.com/three-hottest-c23-features-approved-on-july-2022-91922a9f2359)
