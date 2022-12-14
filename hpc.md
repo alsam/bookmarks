@@ -624,3 +624,5 @@ nimble install Arraymancer
     + [ARM Mali GPU Architecture Overview](https://www.youtube.com/watch?v=mo5zVbCg12I)
 
 + [AMD Radeon and NVIDIA GeForce FP32/FP64 GFLOPS Table](https://www.geeks3d.com/20140305/amd-radeon-and-nvidia-geforce-fp32-fp64-gflops-table-computing/)
+
++ [RICOS Co. Ltd. Research Institute for Computational Science Co.Ltd.](https://github.com/ricosjp)
