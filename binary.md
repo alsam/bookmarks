@@ -17,5 +17,7 @@
         + [Breaking CMU's Bomblab with Angr for Fun and Profit - Part 7](https://fanpu.io/2020/08/02/breaking-cmu-bomblab-with-angr-for-fun-and-profit-part-7/)
     + [angr's solver engine is called Claripy](https://docs.angr.io/advanced-topics/claripy)
     + [angr ycombinator](https://news.ycombinator.com/item?id=17112998)
+    + [Angr - Examples](https://book.hacktricks.xyz/reversing-and-exploiting/reversing-tools-basic-methods/angr/angr-examples)
+    + [Top Level Interfaces](https://docs.angr.io/core-concepts/toplevel)
 + [Symbolic execution](https://alastairreid.github.io/RelatedWork/notes/symbolic-execution/)
     + [Enhancing symbolic execution with veritesting](https://alastairreid.github.io/RelatedWork/papers/avgerinos:icse:2014/)
