@@ -1040,6 +1040,8 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
             + [NeoVim config files](https://github.com/bigeagle/neovim-config)
             + [GTK ui for neovim written in rust using gtk-rs bindings](https://github.com/daa84/neovim-gtk)
 
+        + [7 Vim Editors for Better Productivity in 2022](https://geekflare.com/best-vim-editors/)
+
     + Emacs
         + [Хорошо настроенный Emacs](http://habrahabr.ru/post/274759/)
         + [Prelude is an enhanced Emacs 24 or 25 distribution that should make your experience with Emacs both more pleasant and more powerful](https://github.com/bbatsov/prelude)
