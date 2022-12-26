@@ -22,4 +22,3 @@
 + [Symbolic execution](https://alastairreid.github.io/RelatedWork/notes/symbolic-execution/)
     + [Enhancing symbolic execution with veritesting](https://alastairreid.github.io/RelatedWork/papers/avgerinos:icse:2014/)
 
-+ [Programming Z3](https://theory.stanford.edu/~nikolaj/programmingz3.html)
