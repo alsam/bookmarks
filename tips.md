@@ -1040,7 +1040,7 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
                 + [from nvimrc](https://devhub.io/repos/makenew-nvimrc)
             + [NeoVim config files](https://github.com/bigeagle/neovim-config)
             + [GTK ui for neovim written in rust using gtk-rs bindings](https://github.com/daa84/neovim-gtk)
-
+        + [Can't enter a tab character when previous character is not a tab or space in insert mode](https://vi.stackexchange.com/questions/32983/cant-enter-a-tab-character-when-previous-character-is-not-a-tab-or-space-in-ins)
         + [7 Vim Editors for Better Productivity in 2022](https://geekflare.com/best-vim-editors/)
 
     + Emacs
