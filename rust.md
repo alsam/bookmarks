@@ -1020,6 +1020,8 @@
             + [Helix](https://github.com/helix-editor/helix)
                 + [Helix - A post-modern text editor](https://helix-editor.com/)
                 + [Helix docs](https://docs.helix-editor.com/)
+                + [Lapce - Lightning-fast And Powerful Code Editor](https://github.com/lapce/lapce)
+                    + [Plugin: C/C++ (clangd) No such file or directory (os error 44)](https://github.com/lapce/lapce/issues/1792)
             + [A community-driven port of Emacs to Rust](https://github.com/Wilfred/remacs)
             + [Aspiring vim-like text editor](https://github.com/mathall/rim)
             + [**No Nonsense Neovim Client in Rust**](https://github.com/Kethku/neovide)
