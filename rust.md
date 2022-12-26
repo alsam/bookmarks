@@ -256,6 +256,8 @@
             + [A command line utility for doing polarization simulations](https://github.com/zmitchell/polsim)
         + [a collection of Summation By Parts operators which can be used for solving partial differential equations](https://github.com/mulimoen/SummationByParts)
             + [Solving the compressible Euler equations by using the SBP-SAT method](https://gitlab.com/mulimoen/EulerSolver)
+        + [FEM_2D: A Rust Package for 2D Finite Element Method Computations with Extensive Support for hp-refinement](https://www.techrxiv.org/articles/preprint/FEM_2D_A_Rust_Package_for_2D_Finite_Element_Method_Computations_with_Extensive_Support_for_hp-refinement/19166339)
+            + [fem_2d](https://github.com/jeremiah-corrado/fem_2d) 
         + [Fast Fluid Dynamics Built with Rust+WASM and WebGL](https://github.com/sanjayyepuri/fluids)
         + [ponyo - A 2D, semi-Lagrangian fluid solver](https://github.com/mwalczyk/ponyo)
 
