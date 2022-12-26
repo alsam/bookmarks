@@ -989,7 +989,8 @@
         + [Writing Bare-metal Rust Applications with no_std](https://morioh.com/p/d5368f55c2fb)
 
     + Formal Verification
-        + [rsmt2](https://crates.io/crates/rsmt2) 
+        + [rsmt2](https://crates.io/crates/rsmt2)
+            + [rsmt2 github](https://github.com/kino-mc/rsmt2)
         + [Synthesizing Loop-Free Programs with Rust and Z3](https://fitzgeraldnick.com/2020/01/13/synthesizing-loop-free-programs.html)
             + [Synthesis of Loop-free Programs in Rust](https://github.com/fitzgen/synth-loop-free-prog)
         + [Simple verification of Rust programs via functional purification](https://github.com/Kha/electrolysis)
