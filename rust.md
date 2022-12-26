@@ -436,6 +436,7 @@
         + [A catalogue of Rust design patterns](https://github.com/rust-unofficial/patterns)
         + [Rust Patterns: Using traits for function overloading](https://medium.com/@jreem/advanced-rust-using-traits-for-argument-overloading-c6a6c8ba2e17)
             + [rust-modifier: emulates overloading](https://github.com/reem/rust-modifier)
+        + [Dependency Injection in Rust](https://medium.com/geekculture/dependency-injection-in-rust-3822bf689888)
         + [Dependency injection container - Learning the ropes in Rust](http://nercury.github.io/rust/di/2015/01/02/dependency-injection-learning-rust.html)
         + [Rust's flawed dynamic type](https://www.reddit.com/r/rust/comments/3mtim0/rusts_flawed_dynamic_type/)
             + [chris-morgan/mopa](https://github.com/chris-morgan/mopa)
