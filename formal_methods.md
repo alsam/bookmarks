@@ -3,3 +3,4 @@
 
 + [Mikino is a (relatively) simple induction and BMC engine](https://github.com/AdrienChampion/mikino)
     + [Mikino: Induction for Dummies (demonstration)](https://hal.inria.fr/hal-03626850/document) 
+    + [mikino_api](https://crates.io/crates/mikino_api)
