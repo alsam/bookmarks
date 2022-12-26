@@ -482,6 +482,7 @@
         pacman -S imagemagick
         ```
 
+        + [What happened to LLVM 15?](https://www.reddit.com/r/archlinux/comments/yc68pp/what_happened_to_llvm_15/)
         + [Pacman option to assume “yes” to every question?](https://unix.stackexchange.com/questions/52277/pacman-option-to-assume-yes-to-every-question)    
         tl;dr
         ```sh
