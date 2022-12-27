@@ -3,6 +3,7 @@
     + [The Little Book of Rust Books](https://lborb.github.io/book/)
     + [Learn Rust: A Resource Guide](https://serokell.io/blog/learn-rust)
     + [Learn Rust With Entirely Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists/)
+    + [Welcome to Comprehensive Rust](https://google.github.io/comprehensive-rust/)
     + [Rust Memory Container Cheat-sheet](https://github.com/usagi/rust-memory-container-cs)
         + [Ownership Concept Diagram](https://www.reddit.com/r/rust/comments/mgh9n9/ownership_concept_diagram/)
     + [Rust 2020 Roadmap](https://github.com/nikomatsakis/rfcs/blob/roadmap-2020/text/0000-roadmap-2020.md)
@@ -604,6 +605,8 @@
         + [Announcing Alacritty, a GPU-accelerated terminal emulator](http://blog.jwilm.io/announcing-alacritty/)
 
     + Useful tips
+        + [Rust after the honeymoon](http://dtrace.org/blogs/bmc/2020/10/11/rust-after-the-honeymoon/)
+
         + [Use VIM as your RUST IDE](https://github.com/ivanceras/rust-vim-setup)
 
         + [Read a file line by line](https://users.rust-lang.org/t/read-a-file-line-by-line/1585)
