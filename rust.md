@@ -4,6 +4,7 @@
     + [Learn Rust: A Resource Guide](https://serokell.io/blog/learn-rust)
     + [Learn Rust With Entirely Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists/)
     + [Welcome to Comprehensive Rust](https://google.github.io/comprehensive-rust/)
+    + [Item 3: Avoid matching Option and Result](https://lurklurk.org/effective-rust/transform.html)
     + [Rust Memory Container Cheat-sheet](https://github.com/usagi/rust-memory-container-cs)
         + [Ownership Concept Diagram](https://www.reddit.com/r/rust/comments/mgh9n9/ownership_concept_diagram/)
     + [Rust 2020 Roadmap](https://github.com/nikomatsakis/rfcs/blob/roadmap-2020/text/0000-roadmap-2020.md)
