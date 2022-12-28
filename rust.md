@@ -1318,13 +1318,15 @@
             + [Deriving ReprC for custom enums](https://getditto.github.io/safer_ffi/derive-reprc/enum.html)
             + [Complex data types and the Rust FFI](http://kmdouglass.github.io/posts/complex-data-types-and-the-rust-ffi)
             + [CXX — safe FFI between Rust and C++](https://github.com/dtolnay/cxx)
-        + [Clap: is it possible to have options with multiple values rather than multiple repeats?](https://users.rust-lang.org/t/clap-is-it-possible-to-have-options-with-multiple-values-rather-than-multiple-repeats/82755/3)
-        tl;dr    
-        ```rust
-        /// Dissassemble given sections
-        #[arg(short, long, num_args(1..))] // at least one section, such as .text
-        disasm: Option<Vec<String>>,
-        ```
+        + clap
+            + [clap::_derive::_tutorial](https://docs.rs/clap/latest/clap/_derive/_tutorial/)
+            + [Clap: is it possible to have options with multiple values rather than multiple repeats?](https://users.rust-lang.org/t/clap-is-it-possible-to-have-options-with-multiple-values-rather-than-multiple-repeats/82755/3)
+            tl;dr    
+            ```rust
+            /// Dissassemble given sections
+            #[arg(short, long, num_args(1..))] // at least one section, such as .text
+            disasm: Option<Vec<String>>,
+            ```
 
 + [Rust for Data-Intensive Computation](https://materialize.io/rust-for-data-intensive-computation/)
     + [Timely Dataflow](https://github.com/TimelyDataflow/timely-dataflow)
