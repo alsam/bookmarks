@@ -1327,6 +1327,7 @@
             #[arg(short, long, num_args(1..))] // at least one section, such as .text
             disasm: Option<Vec<String>>,
             ```
+            + [clap_derive: Vec/Option<Vec> behavior is inconsistent with other types](https://github.com/clap-rs/clap/issues/1772/)
 
 + [Rust for Data-Intensive Computation](https://materialize.io/rust-for-data-intensive-computation/)
     + [Timely Dataflow](https://github.com/TimelyDataflow/timely-dataflow)
