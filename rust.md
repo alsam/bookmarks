@@ -449,6 +449,8 @@
         + [Implementing an object factory pattern in Rust using closures](http://keepcalmandlearnrust.com/2016/08/implementing-an-object-factory-pattern-in-rust-using-closures/)
 
     + Rust concurrency
+        + [Rust Atomics and Locks](https://marabos.nl/atomics/)
+            + [This repository contains the code examples, data structures, and links from Rust Atomics and Locks](https://github.com/m-ou-se/rust-atomics-and-locks)
         + [Gregory Terzian](https://medium.com/@polyglot_factotum)
             + [Rust concurrency: the archetype of a message-passing bug.](https://medium.com/@polyglot_factotum/rust-concurrency-the-archetype-of-a-message-passing-bug-817b60efd8f8)
             + [Rust concurrency: five easy pieces.](https://medium.com/@polyglot_factotum/rust-concurrency-five-easy-pieces-871f1c62906a)
