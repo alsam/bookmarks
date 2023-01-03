@@ -962,6 +962,11 @@
                     std::cout << std::error_code{errno, std::generic_category()}.message() << '\n';
                 }
                 ```
+
             + [Three hottest C23 features approved on July 2022](https://tomaszs2.medium.com/three-hottest-c23-features-approved-on-july-2022-91922a9f2359)
             + [#embed is in C23](https://thephd.dev/finally-embed-in-c23)
             + [C++ Annotated June-August 2022: C++23 and C23 News, Language Tips and Tricks, and New Tools Releases](https://www.reddit.com/r/cpp/comments/xghwjg/c_annotated_juneaugust_2022_c23_and_c23_news/)
+            + [C++ at the end of 2022](https://www.cppstories.com/2022/cpp-status-2022/)
+                + [20 Smaller yet Handy C++20 Features](https://www.cppstories.com/2022/20-smaller-cpp20-features/)
+                + [THE YEAR OF C++ SUCCESSOR LANGUAGES](https://accu.org/journals/overload/30/172/teodorescu/)
+                    + [The year of C++ successor languages discussion on ycombinator](https://news.ycombinator.com/item?id=34216159)
