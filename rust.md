@@ -58,6 +58,7 @@
                 ```
             + [Tracking Issue for complex generic constants (`const_evaluatable_checked`) ](https://github.com/rust-lang/rust/issues/76560)
                 + [Const well-formedness and const equality](https://hackmd.io/OZG_XiLFRs2Xmw5s39jRzA?view)
+                + [Addition does not commute in generic_const_exprs](https://github.com/rust-lang/rust/issues/101849)
         + [Tracking issue for specialization (RFC 1210)](https://github.com/rust-lang/rust/issues/31844)
         + [ [Analysis / Pre-RFC] Variadic generics in Rust](https://internals.rust-lang.org/t/analysis-pre-rfc-variadic-generics-in-rust/13879/39)
             + [About variadics in Rust](https://gist.github.com/PoignardAzur/aea33f28e2c58ffe1a93b8f8d3c58667)
