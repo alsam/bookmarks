@@ -137,3 +137,5 @@ gcc py.c $(pkg-config --cflags --libs python3) -o py
 
 + [Using Rust to corrode insane Python run-times](https://www.vortexa.com/insight/using-rust-to-corrode-insane-python-run-times)
 
++ [Choosing a faster JSON library for Python](https://pythonspeed.com/articles/faster-json-library/)
+    + [Benchmarking Python JSON serializers - json vs ujson vs orjson](https://dollardhingra.com/blog/python-json-benchmarking/)
