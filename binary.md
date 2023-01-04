@@ -22,3 +22,4 @@
 + [Symbolic execution](https://alastairreid.github.io/RelatedWork/notes/symbolic-execution/)
     + [Enhancing symbolic execution with veritesting](https://alastairreid.github.io/RelatedWork/papers/avgerinos:icse:2014/)
 
++ [The purpose of LIEF project is to provide a cross platform library which can parse, modify and abstract ELF, PE and MachO formats](https://github.com/lief-project/LIEF)
