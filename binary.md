@@ -8,6 +8,7 @@
 + [angr is an open-source binary analysis platform for Python](https://angr.io)
     + [angr is a platform-agnostic binary analysis framework](https://github.com/angr/angr)
     + [CLE loads binaries and their associated libraries, resolves imports and provides an abstraction of process memory the same way as if it was loader by the OS's loader](https://github.com/angr/cle)
+        + [Loading a Binary - CLE and angr Projects#symbols-and-relocations](https://github.com/angr/angr-doc/blob/master/docs/loading.md#symbols-and-relocations)
     + Breaking CMU's Bomblab with Angr for Fun and Profit
         + [Breaking CMU's Bomblab with Angr for Fun and Profit - Part 1](https://fanpu.io/2020/07/30/breaking-cmu-bomblab-with-angr-for-fun-and-profit-part-1/)
         + [Breaking CMU's Bomblab with Angr for Fun and Profit - Part 2](https://fanpu.io/2020/07/31/breaking-cmu-bomblab-with-angr-for-fun-and-profit-part-2/)
