@@ -28,6 +28,10 @@
             mylib = shared_library(..., dependencies: [liblog,], ... link_args: '-Wl,--allow-multiple-definition')
             ```
             + [C project build with meson: Correct way to handle 3rd party local libraries](https://stackoverflow.com/questions/60905846/c-project-build-with-meson-correct-way-to-handle-3rd-party-local-libraries)
+
+    + [Build Systems For C++](https://hackingcpp.com/cpp/tools/build_systems.html)
+        + [build2 | C/C++ Build Toolchain](https://build2.org/)
+
     + CMake
         + [CMake Cookbook](https://github.com/dev-cafe/cmake-cookbook)
         + [An Introduction to Modern CMake](https://cliutils.gitlab.io/modern-cmake/)
