@@ -33,6 +33,7 @@
         + [build2 | C/C++ Build Toolchain](https://build2.org/)
             + [The build2 packaging](https://github.com/build2-packaging)
                 + [Complete C++20 Modules Support with GCC](https://build2.org/blog/build2-cxx20-modules-gcc.xhtml)
+                    + [C++20 Modules Examples](https://github.com/build2/cxx20-modules-examples)
 
     + CMake
         + [CMake Cookbook](https://github.com/dev-cafe/cmake-cookbook)
