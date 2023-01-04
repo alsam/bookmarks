@@ -21,6 +21,7 @@
             + [Monads and GATs in nightly Rust](https://www.fpcomplete.com/blog/monads-gats-nightly-rust/)
                 + [GATs on Nightly!](https://www.reddit.com/r/rust/comments/k4vzvp/gats_on_nightly/)
             + [How can I avoid GATs in this code?](https://users.rust-lang.org/t/how-can-i-avoid-gats-in-this-code/48673)
+                + [Trait constraints solver with GAT and recursive types](https://users.rust-lang.org/t/trait-constraints-solver-with-gat-and-recursive-types/73676)
         + [Tracking issue for const generics](https://github.com/rust-lang/rust/issues/44580)
             + [Splitting the const generics features](https://blog.rust-lang.org/inside-rust/2021/09/06/Splitting-const-generics.html)
             + [Tracking Issue for `min_const_generics`](https://github.com/rust-lang/rust/issues/74878)
