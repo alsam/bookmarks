@@ -32,6 +32,7 @@
     + [Build Systems For C++](https://hackingcpp.com/cpp/tools/build_systems.html)
         + [build2 | C/C++ Build Toolchain](https://build2.org/)
             + [The build2 packaging](https://github.com/build2-packaging)
+                + [Complete C++20 Modules Support with GCC](https://build2.org/blog/build2-cxx20-modules-gcc.xhtml)
 
     + CMake
         + [CMake Cookbook](https://github.com/dev-cafe/cmake-cookbook)
