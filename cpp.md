@@ -73,6 +73,7 @@
         + [Test Fixtures With CMake/CTest](https://crascit.com/2016/10/18/test-fixtures-with-cmake-ctest/)
         + [pybind11Config.cmake helpers](https://pybind11.readthedocs.io/en/stable/cmake/index.html)
         + [CMake FindPython3](https://cmake.org/cmake/help/latest/module/FindPython3.html#module:FindPython3)
+        + [Использование Eigen в проектах CMake](https://runebook.dev/ru/docs/eigen3/topiccmakeguide)
 
     + [Doxygen](https://www.doxygen.nl/index.html)
         + [Equations in doxygen](https://stackoverflow.com/questions/27257282/equations-in-doxygen/29898326)
