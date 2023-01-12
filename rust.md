@@ -227,6 +227,7 @@
             + [Russell - Rust Scientific Library](https://github.com/cpmech/russell)
             + [aegir is an experimental autodifferentiation framework designed to leverage the powerful type-system in Rust and avoid runtime as much as humanly possible](https://github.com/tspooner/aegir)
             + [argmin is a numerical optimization library written entirely in Rust](https://github.com/argmin-rs/argmin)
+            + [Arbitrary-Precision Floating-Point Library](https://github.com/nadavrot/arpfloat)
         + [Mathru crate](https://crates.io/crates/mathru)
             + [Mathru Getting started](https://matthiaseiholzer.gitlab.io/mathru/getting-started/)
             + [mathru](https://gitlab.com/matthiaseiholzer/mathru)
