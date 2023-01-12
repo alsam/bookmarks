@@ -221,6 +221,8 @@
             + [Loop unrolling on request](https://internals.rust-lang.org/t/loop-unrolling-on-request/3091/3)
 
     + Linear Algebra + Numerics
+        + [faer is a collection of crates that implement low level linear algebra routines in pure Rust](https://github.com/sarah-ek/faer-rs)
+            + [faer announcement on reddit](https://www.reddit.com/r/rust/comments/z17l0g/introducing_faer_a_linear_algebra_library_in_rust/)
         + [Mathru crate](https://crates.io/crates/mathru)
             + [Mathru Getting started](https://matthiaseiholzer.gitlab.io/mathru/getting-started/)
             + [mathru](https://gitlab.com/matthiaseiholzer/mathru)
