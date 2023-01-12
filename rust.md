@@ -315,6 +315,7 @@
             + [Understanding Convolution in Deep Learning](http://timdettmers.com/2015/03/26/convolution-deep-learning/)
             + [Convolutional Neural Networks](http://andrew.gibiansky.com/blog/machine-learning/convolutional-neural-networks/)
         + [UKF written in Rust based on the C++ UKF from the Udacity SD Car Nanodegree](https://github.com/hortovanyi/Unscented-Kalman-Filter-Rust)
+        + [Neuronika is a machine learning framework written in pure Rust, built with a focus on ease of use, fast prototyping and performance](https://github.com/neuronika/neuronika)
 
         + *Arrayfire*
             + [ArrayFire: a general purpose GPU library. http://arrayfire.com](https://github.com/arrayfire/arrayfire)
