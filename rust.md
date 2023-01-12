@@ -223,6 +223,10 @@
     + Linear Algebra + Numerics
         + [faer is a collection of crates that implement low level linear algebra routines in pure Rust](https://github.com/sarah-ek/faer-rs)
             + [faer announcement on reddit](https://www.reddit.com/r/rust/comments/z17l0g/introducing_faer_a_linear_algebra_library_in_rust/)
+        + [Rust Science crates](https://lib.rs/science)
+            + [Russell - Rust Scientific Library](https://github.com/cpmech/russell)
+            + [aegir is an experimental autodifferentiation framework designed to leverage the powerful type-system in Rust and avoid runtime as much as humanly possible](https://github.com/tspooner/aegir)
+            + [argmin is a numerical optimization library written entirely in Rust](https://github.com/argmin-rs/argmin)
         + [Mathru crate](https://crates.io/crates/mathru)
             + [Mathru Getting started](https://matthiaseiholzer.gitlab.io/mathru/getting-started/)
             + [mathru](https://gitlab.com/matthiaseiholzer/mathru)
