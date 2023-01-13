@@ -139,3 +139,20 @@ gcc py.c $(pkg-config --cflags --libs python3) -o py
 
 + [Choosing a faster JSON library for Python](https://pythonspeed.com/articles/faster-json-library/)
     + [Benchmarking Python JSON serializers - json vs ujson vs orjson](https://dollardhingra.com/blog/python-json-benchmarking/)
+
++ [Docker how to make python 3.8 as default](https://stackoverflow.com/questions/63936578/docker-how-to-make-python-3-8-as-default)
+tl;dr    
+```sh
+ENV PATH=/venv/bin:$PATH
+RUN \
+    && apt-get update \
+    && DEBIAN_FRONTEND=noninteractive apt-get install -y --no-install-recommends \
+        software-properties-common \
+    && add-apt-repository -y ppa:deadsnakes \
+    && DEBIAN_FRONTEND=noninteractive apt-get install -y --no-install-recommends \
+        python3.8-venv \
+    && apt-get clean \
+    && rm -rf /var/lib/apt/lists/* \
+    && python3.8 -m venv /venv
+```
+
