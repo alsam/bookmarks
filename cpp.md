@@ -980,3 +980,4 @@
                 + [20 Smaller yet Handy C++20 Features](https://www.cppstories.com/2022/20-smaller-cpp20-features/)
                 + [THE YEAR OF C++ SUCCESSOR LANGUAGES](https://accu.org/journals/overload/30/172/teodorescu/)
                     + [The year of C++ successor languages discussion on ycombinator](https://news.ycombinator.com/item?id=34216159)
+            + [const vs constexpr vs consteval vs constinit in C++20](https://www.cppstories.com/2022/const-options-cpp20/)
