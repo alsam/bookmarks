@@ -35,6 +35,10 @@
                 + [Complete C++20 Modules Support with GCC](https://build2.org/blog/build2-cxx20-modules-gcc.xhtml)
                     + [C++20 Modules Examples](https://github.com/build2/cxx20-modules-examples)
 
+    + several GNU make tips
+        + [Makefile: Default Value of Variable that is set but has null value](https://unix.stackexchange.com/questions/470500/makefile-default-value-of-variable-that-is-set-but-has-null-value)
+            + [defining default values in makefile](https://stackoverflow.com/questions/10699523/defining-default-values-in-makefile)
+
     + CMake
         + [CMake Cookbook](https://github.com/dev-cafe/cmake-cookbook)
         + [An Introduction to Modern CMake](https://cliutils.gitlab.io/modern-cmake/)
