@@ -672,6 +672,7 @@
 
     + Misc.
         + [Converting from Option<String> to Option<&str>](https://stackoverflow.com/questions/31233938/converting-from-optionstring-to-optionstr)
+        + [Rust and Default Parameters](https://www.thecodedmessage.com/posts/default-params/)
         + [Dual numbers in Rust](https://github.com/potan/dual.rs)
 
         + [libfloat](https://github.com/peterhj/libfloat)
