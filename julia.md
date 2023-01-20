@@ -306,3 +306,4 @@
 + [ two-slit experiment Непристойное приложение Ненормальное программирование](https://habr.com/ru/post/508644/)
 + [Discussion on “Why I no longer recommend Julia” by Yuri Vishnevsky](https://discourse.julialang.org/t/discussion-on-why-i-no-longer-recommend-julia-by-yuri-vishnevsky/81151)
     + [Why I no longer recommend Julia](https://yuri.is/not-julia/)
+    + [yurivish](https://github.com/yurivish)
