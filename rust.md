@@ -1278,6 +1278,7 @@
         + [This is a collection of implementations of algorithms and data structures in Rust language](https://tmaehara.gitlab.io/spaghetti-source/spaghetti_source/)
         + [How do I convert a Vec<String> to Vec<&str>?](https://stackoverflow.com/questions/33216514/how-do-i-convert-a-vecstring-to-vecstr)
         + [Is there any way to get the address of a `struct` in Rust?](https://stackoverflow.com/questions/35882994/is-there-any-way-to-get-the-address-of-a-struct-in-rust)
+            + [A sampling CPU profiler for Linux similar to perf](https://github.com/koute/not-perf)
             + [A DWARF unwinder based on gimli](https://github.com/gimli-rs/unwind-rs/blob/master/unwind/src/find_cfi/baremetal.rs)
             tl;dr    
             ```rs
