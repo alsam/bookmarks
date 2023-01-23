@@ -1279,19 +1279,21 @@
         + [How do I convert a Vec<String> to Vec<&str>?](https://stackoverflow.com/questions/33216514/how-do-i-convert-a-vecstring-to-vecstr)
         + [Is there any way to get the address of a `struct` in Rust?](https://stackoverflow.com/questions/35882994/is-there-any-way-to-get-the-address-of-a-struct-in-rust)
             + [A sampling CPU profiler for Linux similar to perf](https://github.com/koute/not-perf)
-            + [A DWARF unwinder based on gimli](https://github.com/gimli-rs/unwind-rs/blob/master/unwind/src/find_cfi/baremetal.rs)
-            tl;dr    
-            ```rs
-            let text = AddrRange {
-                start: &__text_start as *const _ as u64,
-                end: &__text_end as *const _ as u64,
-            };
-            let eh_frame_hdr = AddrRange {
-                start: &__ehframehdr_start as *const _ as u64,
-                end: &__ehframehdr_end as *const _ as u64,
-            };
-            let eh_frame_end = &__ehframe_end as *const _ as u64;
-            ```
+            + [gimli](https://github.com/gimli-rs/gimli)
+                + [cpp_demangle: a C++ linker symbol demangler](https://github.com/gimli-rs/cpp_demangle)
+                + [A DWARF unwinder based on gimli](https://github.com/gimli-rs/unwind-rs/blob/master/unwind/src/find_cfi/baremetal.rs)
+                tl;dr    
+                ```rs
+                let text = AddrRange {
+                    start: &__text_start as *const _ as u64,
+                    end: &__text_end as *const _ as u64,
+                };
+                let eh_frame_hdr = AddrRange {
+                    start: &__ehframehdr_start as *const _ as u64,
+                    end: &__ehframehdr_end as *const _ as u64,
+                };
+                let eh_frame_end = &__ehframe_end as *const _ as u64;
+                ```
         + Logic in Rust
             + [SAT solver written in Rust](https://github.com/jix/varisat)
                 + [Varisat](https://jix.one/project/varisat/)
