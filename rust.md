@@ -1277,6 +1277,7 @@
             + [Object-Oriented Programming in Rust](https://medium.com/dev-genius/object-oriented-programming-in-rust-691baf4d2996)
         + [This is a collection of implementations of algorithms and data structures in Rust language](https://tmaehara.gitlab.io/spaghetti-source/spaghetti_source/)
         + [How do I convert a Vec<String> to Vec<&str>?](https://stackoverflow.com/questions/33216514/how-do-i-convert-a-vecstring-to-vecstr)
+        + [Is there any way to get the address of a `struct` in Rust?](https://stackoverflow.com/questions/35882994/is-there-any-way-to-get-the-address-of-a-struct-in-rust)
         + Logic in Rust
             + [SAT solver written in Rust](https://github.com/jix/varisat)
                 + [Varisat](https://jix.one/project/varisat/)
