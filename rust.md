@@ -1280,6 +1280,7 @@
         + [Is there any way to get the address of a `struct` in Rust?](https://stackoverflow.com/questions/35882994/is-there-any-way-to-get-the-address-of-a-struct-in-rust)
             + [A sampling CPU profiler for Linux similar to perf](https://github.com/koute/not-perf)
             + [gimli](https://github.com/gimli-rs/gimli)
+                + [Switching the backtrace crate to using object](https://github.com/gimli-rs/object/issues/215#issue-604046969)
                 + [cpp_demangle: a C++ linker symbol demangler](https://github.com/gimli-rs/cpp_demangle)
                 + [A DWARF unwinder based on gimli](https://github.com/gimli-rs/unwind-rs/blob/master/unwind/src/find_cfi/baremetal.rs)
                 tl;dr    
