@@ -21,6 +21,7 @@
         + [A lattice Boltzmann code for complex fluids](https://github.com/ludwig-cf/ludwig)
     + [Hydrodynamics in OpenCL](http://christopheremoore.net/hydrodynamics-cl/)
         + [Roe, HLL, HLLC, Burgers Scheme; 1D, 2D, 3D; Euler Equation, (~Maxwell), (~MHD), ADM Solver in OpenCL](https://github.com/thenumbernine/HydrodynamicsGPU)
+        + [Differential Geometry Tensor Library](https://github.com/thenumbernine/Tensor)
     + [Implementing the discontinuous Galerkin method in CUDA](https://github.com/martyfuhry/DGCUDA)
         + [Marty Fuhry's Homepage](http://www.martyfuhry.blogspot.co.uk/p/another-page.html)
             + [Master's Thesis: An Implementation of the Discontinuous Galerkin Method on Graphics Processing Units, defended May, 2013](https://uwspace.uwaterloo.ca/bitstream/handle/10012/7523/Fuhry_Martin.pdf?sequence=1)
