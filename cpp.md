@@ -895,6 +895,7 @@
                 + [A survey of argument parsing libraries in C/C++](https://attractivechaos.wordpress.com/2018/08/31/a-survey-of-argument-parsing-libraries-in-c-c/)
                     + [Compare clipp and jarro2783/cxxopts's popularity and activity](https://cpp.libhunt.com/compare-clipp-vs-cxxopts?rel=cmp-cmp)
                     + [Lightweight C++ command line option parser](https://github.com/jarro2783/cxxopts)
+            + [C++ DataFrame for statistical, Financial, and ML analysis -- in modern C++ using native types and contiguous memory storage, i.e. pandas in C++](https://github.com/hosseinmoein/DataFrame)
             + [Modern C++ Parallel Task Programming](https://github.com/cpp-taskflow/cpp-taskflow)
                 + [docs for Modern C++ Parallel Task Programming](https://cpp-taskflow.github.io/cpp-taskflow/index.html)
             + [Filament is a physically based rendering engine for Android, Windows, Linux and macOS](https://github.com/google/filament)
