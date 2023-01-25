@@ -25,6 +25,7 @@
     + [Enhancing symbolic execution with veritesting](https://alastairreid.github.io/RelatedWork/papers/avgerinos:icse:2014/)
 
 + [The purpose of LIEF project is to provide a cross platform library which can parse, modify and abstract ELF, PE and MachO formats](https://github.com/lief-project/LIEF)
+    + [Profiling C++ code with Frida (2nd part)](https://lief-project.github.io/blog/2021-04-08-profiling-cpp-code-with-frida-part2/)
 
 + [What do the .eh_frame and .eh_frame_hdr sections store, exactly?](https://stackoverflow.com/questions/14091231/what-do-the-eh-frame-and-eh-frame-hdr-sections-store-exactly)
     + [ref code for eh_frame_header](https://github.com/mclinker/mclinker)
