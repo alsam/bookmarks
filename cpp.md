@@ -942,6 +942,8 @@
                 + [C++ vtables - Part 2 - Multiple Inheritance](https://shaharmike.com/cpp/vtable-part2/)
                 + [C++ vtables - Part 3 - Virtual Inheritance](https://shaharmike.com/cpp/vtable-part3/)
                 + [C++ vtables - Part 4 - Compiler-Generated Code](https://shaharmike.com/cpp/vtable-part4/)
+                + [MARX: Uncovering Class Hierarchies in C++ Programs](https://www.ndss-symposium.org/ndss2017/ndss-2017-programme/marx-uncovering-class-hierarchies-c-programs/)
+                    + [MARX: Uncovering Class Hierarchies in C++ Programs implementation](https://github.com/RUB-SysSec/Marx)
             + [Python-Like enumerate() In C++17](http://www.reedbeta.com/blog/python-like-enumerate-in-cpp17/)
                 + [Python's enumerate for C++](https://stackoverflow.com/questions/53542092/pythons-enumerate-for-c)
                     + [wandbox](https://wandbox.org/permlink/FBn7YpFTLxAbmdPN)
