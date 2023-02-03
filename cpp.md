@@ -935,6 +935,7 @@
             + [Error codes are far slower than exceptions](https://lordsoftech.com/programming/error-codes-are-far-slower-than-exceptions/)
             + [Single header implementation of std::expected with functional-style extensions](https://github.com/TartanLlama/expected)
             + [C++ Result](https://github.com/Liorst4/cpp-result)
+            + [Book: A Complete Guide to Standard C++ Algorithms](https://github.com/HappyCerberus/book-cpp-algorithms/)
             + [vtable implementation with multiple inheritance](https://www.reddit.com/r/ProgrammingLanguages/comments/kzx1wk/vtable_implementation_with_multiple_inheritance/)
                 + [Itanium C++ ABI](http://itanium-cxx-abi.github.io/cxx-abi/abi.html)
                 + [C++ vtables - Part 1 - Basics](https://shaharmike.com/cpp/vtable-part1/)
