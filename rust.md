@@ -1283,6 +1283,7 @@
             + [gimli](https://github.com/gimli-rs/gimli)
                 + [Switching the backtrace crate to using object](https://github.com/gimli-rs/object/issues/215#issue-604046969)
                     + [WIP: Switch from goblin to object](https://github.com/rust-lang/backtrace-rs/pull/315/files)
+                    + [How do I use goblin's Elf::parse with a temporary variable?](https://stackoverflow.com/questions/70439842/how-do-i-use-goblins-elfparse-with-a-temporary-variable)
                 + [cpp_demangle: a C++ linker symbol demangler](https://github.com/gimli-rs/cpp_demangle)
                 + [A DWARF unwinder based on gimli](https://github.com/gimli-rs/unwind-rs/blob/master/unwind/src/find_cfi/baremetal.rs)
                 tl;dr    
