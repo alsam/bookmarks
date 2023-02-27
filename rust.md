@@ -784,6 +784,8 @@
         ```
 
         + [Accumulator factory C++, see esp. C++11 ](http://rosettacode.org/wiki/Accumulator_Factory#C.2B.2B)
+        + [Why the [u8] inside Box<[u8]> does not implement AsRef<[u8]> + AsMut<[u8]>?](https://stackoverflow.com/questions/69921658/why-the-u8-inside-boxu8-does-not-implement-asrefu8-asmutu8)
+                + [Why does T implement A+B but not trait C: A+B?](https://stackoverflow.com/questions/69916809/why-does-t-implement-ab-but-not-trait-c-ab)
 
         + [Working around the lack of associated method on parametric traits?](http://stackoverflow.com/questions/27888069/working-around-the-lack-of-associated-method-on-parametric-traits)
         + [cpp-templates-vs-rust-generics](https://gist.github.com/bjz/9220415)
