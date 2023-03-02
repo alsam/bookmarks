@@ -278,6 +278,8 @@
     sudo apt-get install libjpeg-turbo8 libjpeg-turbo8-dev libturbojpeg0-dev libevdev-dev
     ```
 
+    + [Getting started with the Deep Learning Accelerator on NVIDIA Jetson Orin](https://github.com/NVIDIA-AI-IOT/jetson_dla_tutorial)
+
     + GStreamer
         + [Play webcam using gstreamer](https://medium.com/@petehouston/play-webcam-using-gstreamer-9b7596e4e181)
             + [ERROR: from element /GstPipeline:pipeline0/GstV4l2Src:v4l2src0: Internal data stream error.](https://github.com/awslabs/amazon-kinesis-video-streams-producer-sdk-cpp/issues/205)
