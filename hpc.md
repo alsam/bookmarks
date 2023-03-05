@@ -609,6 +609,8 @@ nimble install Arraymancer
     + [oneAPI Level Zero](https://github.com/oneapi-src/level-zero)
 
 + [Code Generation for High Performance PDE Solvers on Modern Architectures](https://archiv.ub.uni-heidelberg.de/volltextserver/27360/)
+    + [PhD Thesis Software Stack](https://github.com/dokempf/dkempf-phd-software)
+    + [Loopy: Transformation-Based Generation of High-Performance CPU/GPU Code](https://github.com/inducer/loopy)
     + [HyperHDG - a C++ based library implementing hybrid discontinuous Galerkin methods on extremely general domains ](https://github.com/HyperHDG/HyperHDG) 
 
 + GPU roof model
