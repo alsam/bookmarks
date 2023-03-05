@@ -609,6 +609,7 @@ nimble install Arraymancer
     + [oneAPI Level Zero](https://github.com/oneapi-src/level-zero)
 
 + [Code Generation for High Performance PDE Solvers on Modern Architectures](https://archiv.ub.uni-heidelberg.de/volltextserver/27360/)
+    + [HyperHDG - a C++ based library implementing hybrid discontinuous Galerkin methods on extremely general domains ](https://github.com/HyperHDG/HyperHDG) 
 
 + GPU roof model
     + [Elias Konstantinidis publications](http://users.uoa.gr/~ekondis/publications/)
