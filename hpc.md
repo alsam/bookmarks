@@ -608,6 +608,8 @@ nimble install Arraymancer
 + Intel Level Zero
     + [oneAPI Level Zero](https://github.com/oneapi-src/level-zero)
 
++ [Code Generation for High Performance PDE Solvers on Modern Architectures](https://archiv.ub.uni-heidelberg.de/volltextserver/27360/)
+
 + GPU roof model
     + [Elias Konstantinidis publications](http://users.uoa.gr/~ekondis/publications/)
         + [A quantitative roofline model for GPU kernel performance estimation using micro-benchmarks and hardware metric profiling](https://www.sciencedirect.com/science/article/pii/S0743731517301247)
