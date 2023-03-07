@@ -29,3 +29,7 @@
 
 + [What do the .eh_frame and .eh_frame_hdr sections store, exactly?](https://stackoverflow.com/questions/14091231/what-do-the-eh-frame-and-eh-frame-hdr-sections-store-exactly)
     + [ref code for eh_frame_header](https://github.com/mclinker/mclinker)
+
++ [What is PLT/GOT?](https://reverseengineering.stackexchange.com/questions/1992/what-is-plt-got)
+    + [Linkers part 1](https://www.airs.com/blog/archives/38)
+    + [Linkers part 6 - Relocations](https://www.airs.com/blog/archives/43)
