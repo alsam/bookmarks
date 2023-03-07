@@ -33,3 +33,5 @@
 + [What is PLT/GOT?](https://reverseengineering.stackexchange.com/questions/1992/what-is-plt-got)
     + [Linkers part 1](https://www.airs.com/blog/archives/38)
     + [Linkers part 6 - Relocations](https://www.airs.com/blog/archives/43)
+
++ [Creating a very simple SimObject](https://www.gem5.org/documentation/learning_gem5/part2/helloobject/)
