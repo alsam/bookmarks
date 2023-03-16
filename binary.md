@@ -34,4 +34,9 @@
     + [Linkers part 1](https://www.airs.com/blog/archives/38)
     + [Linkers part 6 - Relocations](https://www.airs.com/blog/archives/43)
 
-+ [Creating a very simple SimObject](https://www.gem5.org/documentation/learning_gem5/part2/helloobject/)
++ gem5
+    + [Creating a very simple SimObject](https://www.gem5.org/documentation/learning_gem5/part2/helloobject/)
+    + [Cycle-accurate Benchmarking of JavaScript Programs](http://www2.imm.dtu.dk/pubdb/pubs/6276-full.html)
+    + [gem5 TraceCPU](https://www.gem5.org/documentation/general_docs/cpu_models/TraceCPU)
+    + [Memory Access Analysis and Endurance Leveling Approaches for Non-volatile Working Memory Systems](https://daes.cs.tu-dortmund.de/storages/daes-cs/r/Bilder/Beschaeftigte/Christian_Hakert/publications/2019-hakert.pdf)
+    + [Minor CPU Model](https://www.gem5.org/documentation/general_docs/cpu_models/minor_cpu)
