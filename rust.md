@@ -1000,6 +1000,7 @@
         + [rustv - A minimal, intentionally inaccurate RISC-V ISA simulator](https://crates.io/crates/rustv/)
             + [about RISC-V and Rocket processor see The RISC-V Instruction Set Architecture](http://riscv.org/)
             + [see also Chisel - Constructing Hardware in a Scala Embedded Language](https://chisel.eecs.berkeley.edu/)
+            + [Building a RISC-V simulator in Rust - Part 1](https://gregchadwick.co.uk/blog/building-rrs-pt1/)
             + [R2VM is the Rust for RISC-V Virtual Machine.](https://github.com/nbdd0121/r2vm)
                 + [Accelerate Cycle-Level Full-System Simulation of Multi-Core RISC-V Systems with Binary Translation](https://arxiv.org/pdf/2005.11357.pdf)
                 + [Muntjac is a minimal 64-bit RISC-V multicore processor that's easy to understand, verify, and extend.](https://github.com/lowRISC/muntjac)

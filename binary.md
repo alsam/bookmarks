@@ -40,3 +40,5 @@
     + [gem5 TraceCPU](https://www.gem5.org/documentation/general_docs/cpu_models/TraceCPU)
     + [Memory Access Analysis and Endurance Leveling Approaches for Non-volatile Working Memory Systems](https://daes.cs.tu-dortmund.de/storages/daes-cs/r/Bilder/Beschaeftigte/Christian_Hakert/publications/2019-hakert.pdf)
     + [Minor CPU Model](https://www.gem5.org/documentation/general_docs/cpu_models/minor_cpu)
+
++ [Building a RISC-V simulator in Rust - Part 1](Building a RISC-V simulator in Rust - Part 1)
