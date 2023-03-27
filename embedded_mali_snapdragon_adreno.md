@@ -9,6 +9,7 @@
     + [ARM 64 Assembly Series — Data Processing (Part 2)](https://valsamaras.medium.com/arm-64-assembly-series-data-processing-part-2-3d0526dc07b6)
     + [Practical ARM64 (selections and loops)](https://valsamaras.medium.com/practical-arm64-selections-and-loops-89f9a0e7e395)
     + [Practical ARM64 (Subroutines)](https://valsamaras.medium.com/practical-arm64-subroutines-1b5ea3935ff5)
+    + [A Gentle Introduction to Assembly Language Programming](https://github.com/pkivolowitz/asm_book)
 
 + Qualcomm+Snapdragon
     + [Snapdragon 845 Mobile Platform](https://www.qualcomm.com/products/snapdragon-845-mobile-platform)
