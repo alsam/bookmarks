@@ -241,6 +241,7 @@
         + [A guide to setting up Vim for JavaScript development](https://freshman.tech/vim-javascript/)
         + [You Should Be Using Tags In Vim](https://vimways.org/2018/you-should-be-using-tags-in-vim)
         + [Browsing programs with tags](https://vim.fandom.com/wiki/Browsing_programs_with_tags)
+        + [Find and replace using regular expressions](https://vi.stackexchange.com/questions/3115/find-and-replace-using-regular-expressions)
         + [Understanding Vim’s Jump List](https://medium.com/breathe-publication/understanding-vims-jump-list-7e1bfc72cdf0)
         + [Что вам стоит знать, если вы начали изучение Vim](https://proglib.io/p/vim-what-i-wish-i-knew/)
         + [Configure coc.nvim for C/C++ Development](https://ianding.io/2019/07/29/configure-coc-nvim-for-c-c++-development/)
