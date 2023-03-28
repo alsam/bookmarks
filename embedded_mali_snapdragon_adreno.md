@@ -11,6 +11,8 @@
     + [Practical ARM64 (Subroutines)](https://valsamaras.medium.com/practical-arm64-subroutines-1b5ea3935ff5)
     + [A Gentle Introduction to Assembly Language Programming](https://github.com/pkivolowitz/asm_book)
     + [What does the exclamation mark mean in the end of an A64 instruction?](https://stackoverflow.com/questions/39780289/what-does-the-exclamation-mark-mean-in-the-end-of-an-a64-instruction#:~:text=on%20this%20post.-,The%20!,the%20transfer%2C%20and%20is%20updated.)
+    + [ARM Synchronization Primitives Development Article](https://developer.arm.com/documentation/dht0008/a/arm-synchronization-primitives/exclusive-accesses/exclusive-monitors)
+    + [Exclusive Monitors](https://dynamorio.org/page_ldstex.html)
 
 + Qualcomm+Snapdragon
     + [Snapdragon 845 Mobile Platform](https://www.qualcomm.com/products/snapdragon-845-mobile-platform)
