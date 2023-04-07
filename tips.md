@@ -286,6 +286,10 @@
         + [Find in files within Vim](http://vim.wikia.com/wiki/Find_in_files_within_Vim)
         + [Vim: Substitute pattern between braces](https://vi.stackexchange.com/questions/2751/substitute-pattern-between-braces)
         + Neovim 0.5+
+            + Modern neovim
+                + [Taking Neovim to the Moon](https://dev.to/elvessousa/taking-neovim-to-the-moon-274g)
+                + [Rust and Neovim - A Thorough Guide and Walkthrough](https://rsdlt.github.io/posts/rust-nvim-ide-guide-walkthrough-development-debug/)
+                + [Neovim configuration for c++ and rust. Requires a nerd-font, vim-plug, fzf, ripgrep, rust-analyzer, and clangd](https://gist.github.com/matthewjberger/707a6813d65bd5bc7505e1d849bd4726)
             + [Awesome Neovim](https://github.com/rockerBOO/awesome-neovim)
             + [Neovim with LSP and tree-sitter](https://github.com/nikvdp/nvim-lsp-config)
             + [nvim tree-sitter config](https://github.com/craftzdog/dotfiles-public/tree/master/.config/nvim)
