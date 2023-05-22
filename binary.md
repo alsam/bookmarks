@@ -43,3 +43,5 @@
     + [O3CPU - Out-of-Order](https://www.gem5.org/documentation/general_docs/cpu_models/O3CPU)
 
 + [Building a RISC-V simulator in Rust - Part 1](Building a RISC-V simulator in Rust - Part 1)
+
++ [folder contains sources for the Simulation Book](https://github.com/grigory-rechistov/simbook)
