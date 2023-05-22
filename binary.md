@@ -49,3 +49,4 @@
     + [Presentation for "Fundamentals of Full-Platform Simulation" MIPT course](https://github.com/yulyugin/sim-lectures)
     + [Computer Architecture 2021/2022](https://mipt-ilab.github.io/mipt-mips/)
     + [MIPT-V / MIPT-MIPS is a pre-silicon simulator of MIPS and RISC-V CPU](https://github.com/MIPT-ILab/mipt-mips)
+    + [Why does a processor have 32 registers?](https://cs.stackexchange.com/questions/22589/why-does-a-processor-have-32-registers)
