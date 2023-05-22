@@ -44,5 +44,8 @@
 
 + [Building a RISC-V simulator in Rust - Part 1](Building a RISC-V simulator in Rust - Part 1)
 
-+ [folder contains sources for the Simulation Book](https://github.com/grigory-rechistov/simbook)
-+ [Presentation for "Fundamentals of Full-Platform Simulation" MIPT course](https://github.com/yulyugin/sim-lectures)
++ MIPT
+    + [folder contains sources for the Simulation Book](https://github.com/grigory-rechistov/simbook)
+    + [Presentation for "Fundamentals of Full-Platform Simulation" MIPT course](https://github.com/yulyugin/sim-lectures)
+    + [Computer Architecture 2021/2022](https://mipt-ilab.github.io/mipt-mips/)
+    + [MIPT-V / MIPT-MIPS is a pre-silicon simulator of MIPS and RISC-V CPU](https://github.com/MIPT-ILab/mipt-mips)
