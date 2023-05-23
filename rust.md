@@ -457,6 +457,9 @@
             + [Recursive Enum Types](https://users.rust-lang.org/t/recursive-enum-types/2938)
             + [How to use C++ polymorphism in Rust](https://medium.com/swlh/how-to-use-c-polymorphism-in-rust-76e1d1a88ed1)
         + [Implementing an object factory pattern in Rust using closures](http://keepcalmandlearnrust.com/2016/08/implementing-an-object-factory-pattern-in-rust-using-closures/)
+        + [Typestates in Rust](https://yoric.github.io/post/rust-typestate/)
+            + [CS 242: Programming Languages, Fall 2019](https://stanford-cs242.github.io/f19/)
+                + [Graphs: All Foundational Methods](https://github.com/jlikhuva/blog/blob/main/posts/mathematical-sciences/graphs.md)
 
     + Rust concurrency
         + [Rust Atomics and Locks](https://marabos.nl/atomics/)
