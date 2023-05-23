@@ -460,6 +460,7 @@
         + [Typestates in Rust](https://yoric.github.io/post/rust-typestate/)
             + [CS 242: Programming Languages, Fall 2019](https://stanford-cs242.github.io/f19/)
                 + [Graphs: All Foundational Methods](https://github.com/jlikhuva/blog/blob/main/posts/mathematical-sciences/graphs.md)
+                + [Word Level Parallelism](https://github.com/jlikhuva/blog/blob/main/posts/mathematical-sciences/wlp.md)
 
     + Rust concurrency
         + [Rust Atomics and Locks](https://marabos.nl/atomics/)
