@@ -334,3 +334,5 @@
     + [Product-consumer with semaphores and forks](https://stackoverflow.com/questions/23485100/product-consumer-with-semaphores-and-forks)
     + [test-flock.c](https://github.com/Chainfire/android-ndk-compression-tools/blob/master/gnulib/tests/test-flock.c)
     + [Android Native Semaphore Not implemented](https://stackoverflow.com/questions/48083883/android-native-semaphore-not-implemented)
+
++ [CNTPCT_EL0, Counter-timer Physical Count register](https://developer.arm.com/documentation/ddi0595/2021-06/AArch64-Registers/CNTPCT-EL0--Counter-timer-Physical-Count-register)
