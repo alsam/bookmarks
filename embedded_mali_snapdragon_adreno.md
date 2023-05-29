@@ -336,3 +336,4 @@
     + [Android Native Semaphore Not implemented](https://stackoverflow.com/questions/48083883/android-native-semaphore-not-implemented)
 
 + [CNTPCT_EL0, Counter-timer Physical Count register](https://developer.arm.com/documentation/ddi0595/2021-06/AArch64-Registers/CNTPCT-EL0--Counter-timer-Physical-Count-register)
++ [MRS](https://developer.arm.com/documentation/dui0802/a/A64-General-Instructions/MRS)
