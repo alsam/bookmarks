@@ -56,6 +56,8 @@
 
     + [adaptive multiresolution DG](https://github.com/JuntaoHuang/adaptive-multiresolution-DG)
 
+    + [Exasim - Generating Discontinuous Galerkin Codes For Extreme Scalable Simulations](https://github.com/exapde/Exasim)
+
     + Chebyshev Pseudo-Spectral Method (PSM)
         + [Chebyshev Polynomials J.C. Mason D.C. Handscomb](http://inis.jinr.ru/sl/M_Mathematics/MRef_References/Mason,%20Hanscomb.%20Chebyshev%20polynomials%20(2003)/C0355-FM.pdf)
             + [Chapter  1. Definitions](http://inis.jinr.ru/sl/M_Mathematics/MRef_References/Mason,%20Hanscomb.%20Chebyshev%20polynomials%20(2003)/C0355-Ch01.pdf)
