@@ -42,6 +42,7 @@
     + [Minor CPU Model](https://www.gem5.org/documentation/general_docs/cpu_models/minor_cpu)
     + [O3CPU - Out-of-Order](https://www.gem5.org/documentation/general_docs/cpu_models/O3CPU)
     + [Memory controller updates for new DRAM technologies, NVM interfaces and flexible memory topologies](https://www.gem5.org/2020/05/27/memory-controller.html)
+    + [gem5-gpu Developers List: question about using a different memory controller](https://groups.google.com/g/gem5-gpu-dev/c/AZFYoKzrD3I?pli=1)
 
 + [Building a RISC-V simulator in Rust - Part 1](Building a RISC-V simulator in Rust - Part 1)
 
