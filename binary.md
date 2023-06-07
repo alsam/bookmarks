@@ -47,6 +47,8 @@
 
 + [Building a RISC-V simulator in Rust - Part 1](Building a RISC-V simulator in Rust - Part 1)
 
++ [trustedfirmware Performance Monitoring Unit](https://trustedfirmware-a.readthedocs.io/en/latest/perf/performance-monitoring-unit.html)
+
 + MIPT
     + [folder contains sources for the Simulation Book](https://github.com/grigory-rechistov/simbook)
     + [Presentation for "Fundamentals of Full-Platform Simulation" MIPT course](https://github.com/yulyugin/sim-lectures)
