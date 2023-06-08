@@ -44,6 +44,7 @@
     + [Memory controller updates for new DRAM technologies, NVM interfaces and flexible memory topologies](https://www.gem5.org/2020/05/27/memory-controller.html)
     + [gem5-gpu Developers List: question about using a different memory controller](https://groups.google.com/g/gem5-gpu-dev/c/AZFYoKzrD3I?pli=1)
     + [Using perf_event with the ARM PMU inside gem5](https://stackoverflow.com/questions/63988672/using-perf-event-with-the-arm-pmu-inside-gem5)
+    + [Investigating Black-Box Function Recognition Using Hardware Performance Counters](https://arxiv.org/pdf/2204.11639.pdf)
 
 + [Building a RISC-V simulator in Rust - Part 1](Building a RISC-V simulator in Rust - Part 1)
 
