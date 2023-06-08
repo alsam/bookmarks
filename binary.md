@@ -46,7 +46,7 @@
     + [Using perf_event with the ARM PMU inside gem5](https://stackoverflow.com/questions/63988672/using-perf-event-with-the-arm-pmu-inside-gem5)
     + [Investigating Black-Box Function Recognition Using Hardware Performance Counters](https://arxiv.org/pdf/2204.11639.pdf)
 
-+ [Building a RISC-V simulator in Rust - Part 1](Building a RISC-V simulator in Rust - Part 1)
++ [Building a RISC-V simulator in Rust - Part 1](https://gregchadwick.co.uk/blog/building-rrs-pt1/)
 
 + [trustedfirmware Performance Monitoring Unit](https://trustedfirmware-a.readthedocs.io/en/latest/perf/performance-monitoring-unit.html)
 
