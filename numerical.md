@@ -48,6 +48,17 @@ Very Small Matrices](https://hal.archives-ouvertes.fr/hal-01409286/document)
         ccmake ..
         make -j4
         ```
+    + [GraphBLAS Repositories dedicated to Graphs in the Language of Linear Algebra](https://github.com/GraphBLAS)
+        + [GraphBLAS Pointers](https://github.com/GraphBLAS/GraphBLAS-Pointers)
+        + [	GraphBLAS  ycombinator](https://news.ycombinator.com/item?id=32844130)
+        + [SuiteSparse:GraphBLAS, Timothy A. Davis, (c) 2017-2023, All Rights Reserved.](https://github.com/DrTimothyAldenDavis/GraphBLAS)
+        + [ibmgraphblas](https://github.com/IBM/ibmgraphblas)
+        + [GraphBLAS Template Library (GBTL), v. 3.0](https://github.com/cmu-sei/gbtl)
+        + Rust wrappers to GraphBLAS
+            + [graphblas_sparse_linear_algebra](https://crates.io/crates/graphblas_sparse_linear_algebra)
+                + [graphblas_sparse_linear_algebra](https://github.com/code-sam/graphblas_sparse_linear_algebra)
+            + [rustgraphblas](https://github.com/fabianmurariu/rustgraphblas)
+
     + [Elemental is a modern C++ library for distributed-memory dense and sparse-direct linear algebra and optimization.](https://github.com/elemental/Elemental)
         + [Elemental.jl](https://github.com/JuliaParallel/Elemental.jl)
     + [Recommendations for a usable, fast C++ matrix library?](https://scicomp.stackexchange.com/questions/351/recommendations-for-a-usable-fast-c-matrix-library)
