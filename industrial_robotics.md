@@ -250,11 +250,11 @@ Inspection Systems](http://www.mdpi.com/1424-8220/13/12/16565/pdf)
         + [Build error: GCC-5 fail on "-fno-plt" flag](https://www.reddit.com/r/archlinux/comments/6nxxre/build_error_gcc5_fail_on_fnoplt_flag/)
 
     ```sh
-    yaourt -S aur/ros-kinetic-core --noconfirm
-    yaourt -S aur/ros-kinetic-desktop --noconfirm
-    yaourt -S aur/ros-kinetic-desktop-full --noconfirm
-    yaourt -S aur/ros-kinetic-moveit-core --noconfirm
-    yaourt -S aur/ros-kinetic-moveit --noconfirm
+    yay -S aur/ros-kinetic-core --noconfirm
+    yay -S aur/ros-kinetic-desktop --noconfirm
+    yay -S aur/ros-kinetic-desktop-full --noconfirm
+    yay -S aur/ros-kinetic-moveit-core --noconfirm
+    yay -S aur/ros-kinetic-moveit --noconfirm
     ```
 
     + [Snapcraft builds for ROS](https://docs.snapcraft.io/build-snaps/ros)
@@ -326,6 +326,10 @@ Inspection Systems](http://www.mdpi.com/1424-8220/13/12/16565/pdf)
             + [Pure Rust implementation of a ROS client library](https://github.com/adnanademovic/rosrust)
             + [A pure Rust implementation of xml-rpc](https://github.com/adnanademovic/xml-rpc-rs)
             + [Serde ROSMSG](https://github.com/adnanademovic/serde_rosmsg)
+        + [Mobile Robot Programming Toolkit (MRPT)](https://github.com/MRPT)
+            + [Mobile Robot Programming Toolkit (MRPT) provides C++ libraries aimed at researchers in mobile robotics and computer vision](https://github.com/MRPT/mrpt)
+            + [MultiVehicle simulator (MVSim)](https://github.com/MRPT/mvsim)
+
     + Haptics
         + [Haptics Group Research: Surface Texture Perception](https://alexburka.com/penn/proton.php)
             + [video explaining haptic prototype](https://alexburka.com/penn/proton/icra_video.mp4)
