@@ -867,6 +867,7 @@
                     + [The managarm Operating System](https://github.com/managarm/managarm)
                 + [The Shapes of Multi-Dimensional Arrays](https://github.com/CppCon/CppCon2020/blob/main/Presentations/the_shapes_of_multidimensional_arrays/the_shapes_of_multidimensional_arrays__vincent_reverdy__cppcon_2020.pdf)
                 + [std::map<Key,T,Compare,Allocator>::insert_or_assign](https://en.cppreference.com/w/cpp/container/map/insert_or_assign)
+                    + [How to update std::map after using the find method?](https://stackoverflow.com/questions/4527686/how-to-update-stdmap-after-using-the-find-method)
                 + [Multi-Level Break in C++ via IIFE](https://artificial-mind.net/blog/2020/10/28/multi-level-break-iife)
                 + [Recursive Lambdas in C++](https://artificial-mind.net/blog/2020/09/12/recursive-lambdas)
                 + [Approximating 'constexpr for'](https://artificial-mind.net/blog/2020/10/31/constexpr-for)
