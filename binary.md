@@ -47,6 +47,9 @@
     + [Investigating Black-Box Function Recognition Using Hardware Performance Counters](https://arxiv.org/pdf/2204.11639.pdf)
     + [Examining the use of ARM PMUs for DVFS and scheduling](https://teh6.host.cs.st-andrews.ac.uk/files/coursework-reports/CS5199-Report.pdf)
 
++ ChampSim
+    + [ChampSim is a trace-based simulator for a microarchitecture study](https://github.com/ChampSim/ChampSim)
+
 + [Building a RISC-V simulator in Rust - Part 1](https://gregchadwick.co.uk/blog/building-rrs-pt1/)
 
 + [trustedfirmware Performance Monitoring Unit](https://trustedfirmware-a.readthedocs.io/en/latest/perf/performance-monitoring-unit.html)
