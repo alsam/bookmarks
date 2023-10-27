@@ -470,6 +470,9 @@
         + [Cliques of Neurons Bound into Cavities Provide a Missing Link between Structure and Function](http://journal.frontiersin.org/article/10.3389/fncom.2017.00048/full)
             + [The Human Brain Builds Structures in 11 Dimensions, Discover Scientists](http://bigthink.com/paul-ratner/our-brains-think-in-11-dimensions-discover-scientists)
 
+        + Huggingface aka Hugging Face
+            + [Instruction-tuning Stable Diffusion with InstructPix2Pix](https://github.com/huggingface/blog/blob/main/instruction-tuning-sd.md)
+
         + Books
             + [Mathematics for Machine Learning](https://mml-book.github.io/book/mml-book.pdf)
             + Deep Learning books
