@@ -28,6 +28,7 @@
             + [Master's Thesis: An Implementation of the Discontinuous Galerkin Method on Graphics Processing Units, defended May, 2013](https://uwspace.uwaterloo.ca/bitstream/handle/10012/7523/Fuhry_Martin.pdf?sequence=1)
             + [A GPU-accelerated adaptive discontinuous Galerkin method for level set equation](https://www.researchgate.net/publication/299471213_A_GPU-accelerated_adaptive_discontinuous_Galerkin_method_for_level_set_equation)
             + [A GPU Accelerated Discontinuous Galerkin Incompressible Flow Solver](https://www.researchgate.net/publication/322221361_A_GPU_Accelerated_Discontinuous_Galerkin_Incompressible_Flow_Solver)
+        + [The Development, Verification, and Validation of a Discontinuous Galerkin Method for the Navier-Stokes Equations](https://dataspace.princeton.edu/handle/88435/dsp01pk02cd90z)
     + [SU2](http://su2.stanford.edu/)
         + [github repo for SU2](https://github.com/su2code/SU2)
     + [HiFiLES: High Fidelity Large Eddy Simulation](https://hifiles.stanford.edu/)
