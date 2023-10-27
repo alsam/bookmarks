@@ -11,6 +11,7 @@
         + [typst github](https://github.com/typst/typst)
         + [Typst — современная альтернатива LaTeX](https://habr.com/ru/companies/timeweb/articles/742756/)
         + [A Programmable Markup Language for Typesetting](https://www.user.tu-berlin.de/laurmaedje/programmable-markup-language-for-typesetting.pdf)
+        + [Types and Context](https://laurmaedje.github.io/posts/types-and-context/)
 
 + [Accessible LaTeX](https://github.com/MatthewDaws/AccessibleLaTeX)
 
