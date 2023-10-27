@@ -513,6 +513,8 @@
                 + [CodeSearchNet](https://github.com/github/CodeSearchNet#downloading-data-from-s3)
                 + [A new model and dataset for long-range memory](https://deepmind.com/blog/article/A_new_model_and_dataset_for_long-range_memory)
 
+            + [Boosting Machine Learning Performance With Rust](https://betterprogramming.pub/boosting-machine-learning-performance-with-rust-aab1f3ae1424)
+
 + AMD GPU deeplearning
     + [Train neural networks using AMD GPU and Keras](https://towardsdatascience.com/train-neural-networks-using-amd-gpus-and-keras-37189c453878)
     + [AMD GPU support for AI](https://forums.fast.ai/t/hardware-amd-gpu-support/44235)
