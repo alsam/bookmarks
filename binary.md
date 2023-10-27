@@ -46,6 +46,7 @@
     + [Using perf_event with the ARM PMU inside gem5](https://stackoverflow.com/questions/63988672/using-perf-event-with-the-arm-pmu-inside-gem5)
     + [Investigating Black-Box Function Recognition Using Hardware Performance Counters](https://arxiv.org/pdf/2204.11639.pdf)
     + [Examining the use of ARM PMUs for DVFS and scheduling](https://teh6.host.cs.st-andrews.ac.uk/files/coursework-reports/CS5199-Report.pdf)
+    + [Simulation of RISC-V based Systems in gem5](https://cfaed.tu-dresden.de/files/Images/people/chair-cc/theses/1808_Scheffel.pdf)
 
 + ChampSim
     + [ChampSim is a trace-based simulator for a microarchitecture study](https://github.com/ChampSim/ChampSim)
