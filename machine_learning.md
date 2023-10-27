@@ -471,6 +471,7 @@
             + [The Human Brain Builds Structures in 11 Dimensions, Discover Scientists](http://bigthink.com/paul-ratner/our-brains-think-in-11-dimensions-discover-scientists)
 
         + Huggingface aka Hugging Face
+            + [Candle: A New Machine Learning Framework for Rust](https://thenewstack.io/candle-a-new-machine-learning-framework-for-rust/)
             + [Instruction-tuning Stable Diffusion with InstructPix2Pix](https://github.com/huggingface/blog/blob/main/instruction-tuning-sd.md)
 
         + Books
