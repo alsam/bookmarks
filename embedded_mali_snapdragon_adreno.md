@@ -13,6 +13,7 @@
     + [What does the exclamation mark mean in the end of an A64 instruction?](https://stackoverflow.com/questions/39780289/what-does-the-exclamation-mark-mean-in-the-end-of-an-a64-instruction#:~:text=on%20this%20post.-,The%20!,the%20transfer%2C%20and%20is%20updated.)
     + [ARM Synchronization Primitives Development Article](https://developer.arm.com/documentation/dht0008/a/arm-synchronization-primitives/exclusive-accesses/exclusive-monitors)
     + [Exclusive Monitors](https://dynamorio.org/page_ldstex.html)
+    + [Modelling the ARMv8 Architecture, Operationally: Concurrency and ISA](https://www.cl.cam.ac.uk/~pes20/popl16-armv8/top.pdf)
 
 + Qualcomm+Snapdragon
     + [Snapdragon 845 Mobile Platform](https://www.qualcomm.com/products/snapdragon-845-mobile-platform)
