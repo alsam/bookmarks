@@ -14,6 +14,7 @@
     + [ARM Synchronization Primitives Development Article](https://developer.arm.com/documentation/dht0008/a/arm-synchronization-primitives/exclusive-accesses/exclusive-monitors)
     + [Exclusive Monitors](https://dynamorio.org/page_ldstex.html)
     + [Modelling the ARMv8 Architecture, Operationally: Concurrency and ISA](https://www.cl.cam.ac.uk/~pes20/popl16-armv8/top.pdf)
+        + [rmem: Executable concurrency models for ARMv8, RISC-V, Power, and x86](https://github.com/rems-project/rmem)
 
 + Qualcomm+Snapdragon
     + [Snapdragon 845 Mobile Platform](https://www.qualcomm.com/products/snapdragon-845-mobile-platform)
