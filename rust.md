@@ -1385,6 +1385,9 @@
 
 + [Attempt at quad tree](https://users.rust-lang.org/t/attempt-at-quad-tree/49994)
 
++ [I want to implement add trait for a struct which imlpements Fn trait](https://users.rust-lang.org/t/i-want-to-implement-add-trait-for-a-struct-which-imlpements-fn-trait/103479)
+    + [Structure and Interpretation of Classical Mechanics](https://tgvaughan.github.io/sicm/toc.html)
+
 + [An HDL embedded in Rust](https://github.com/yupferris/kaze)
     + [Q: Rust as a hardware description language to be synthesized on an FPGA?](https://www.reddit.com/r/rust/comments/fyd57q/q_rust_as_a_hardware_description_language_to_be/)
     + [LLHD](https://github.com/fabianschuiki/llhd)
