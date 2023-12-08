@@ -1389,6 +1389,7 @@
     + [Structure and Interpretation of Classical Mechanics](https://tgvaughan.github.io/sicm/toc.html)
     + [Structure and Interpretation of Classical Mechanics: org mode](https://github.com/mentat-collective/sicm-book)
     + [Structure and Interpretation of Classical Mechanics: pdf](https://library.oapen.org/handle/20.500.12657/26048)
+    + [SICM: Executable books](https://notes.andymatuschak.org/zJTBSJF2GwVvca1SdFb3JTE?stackedNotes=zLNcy2JiH3AGNaZjYkHzK9P)
 
 + [An HDL embedded in Rust](https://github.com/yupferris/kaze)
     + [Q: Rust as a hardware description language to be synthesized on an FPGA?](https://www.reddit.com/r/rust/comments/fyd57q/q_rust_as_a_hardware_description_language_to_be/)
