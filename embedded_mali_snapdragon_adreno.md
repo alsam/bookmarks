@@ -20,6 +20,7 @@
         + misc
             + [What do the `uxtx` and `sxtx` extensions mean for 32-bit AArch64 `adds` instruction?](https://stackoverflow.com/questions/72041372/what-do-the-uxtx-and-sxtx-extensions-mean-for-32-bit-aarch64-adds-instruct)
             + [ARM64: LDR (register) SXTX extend](https://community.arm.com/support-forums/f/architectures-and-processors-forum/12206/arm64-ldr-register-sxtx-extend)
+            + [Understanding uxth instruction in ARM](https://stackoverflow.com/questions/72689539/understanding-uxth-instruction-in-arm)
 
 + Qualcomm+Snapdragon
     + [Snapdragon 845 Mobile Platform](https://www.qualcomm.com/products/snapdragon-845-mobile-platform)
