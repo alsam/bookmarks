@@ -17,10 +17,11 @@
         + [rmem: Executable concurrency models for ARMv8, RISC-V, Power, and x86](https://github.com/rems-project/rmem)
     + [ARM and Lock-Free Programming](https://randomascii.wordpress.com/2020/11/29/arm-and-lock-free-programming/)
     + [The AArch64 processor (aka arm64), part 14: Barriers](https://devblogs.microsoft.com/oldnewthing/20220812-00/?p=106968)
-        + misc
+        + misc: Sign and zero extension
             + [What do the `uxtx` and `sxtx` extensions mean for 32-bit AArch64 `adds` instruction?](https://stackoverflow.com/questions/72041372/what-do-the-uxtx-and-sxtx-extensions-mean-for-32-bit-aarch64-adds-instruct)
             + [ARM64: LDR (register) SXTX extend](https://community.arm.com/support-forums/f/architectures-and-processors-forum/12206/arm64-ldr-register-sxtx-extend)
             + [Understanding uxth instruction in ARM](https://stackoverflow.com/questions/72689539/understanding-uxth-instruction-in-arm)
+            + [he ARM processor (Thumb-2), part 9: Sign and zero extension](https://devblogs.microsoft.com/oldnewthing/20210610-00/?p=105295)
 
 + Qualcomm+Snapdragon
     + [Snapdragon 845 Mobile Platform](https://www.qualcomm.com/products/snapdragon-845-mobile-platform)
