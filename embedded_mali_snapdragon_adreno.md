@@ -18,6 +18,7 @@
     + [ARM and Lock-Free Programming](https://randomascii.wordpress.com/2020/11/29/arm-and-lock-free-programming/)
     + [The AArch64 processor (aka arm64), part 14: Barriers](https://devblogs.microsoft.com/oldnewthing/20220812-00/?p=106968)
     + [ARM-ASM-Tutorial](https://www.mikrocontroller.net/articles/ARM-ASM-Tutorial)
+    + [atomic linked-list LIFO in AArch64 assembly, using load or store between ldxr / stxr](https://stackoverflow.com/questions/62466904/atomic-linked-list-lifo-in-aarch64-assembly-using-load-or-store-between-ldxr)
     + [Набор инструкций A64](https://osdev.fandom.com/ru/wiki/5._%D0%9D%D0%B0%D0%B1%D0%BE%D1%80_%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%86%D0%B8%D0%B9_A64)
         + misc: Sign and zero extension
             + [What do the `uxtx` and `sxtx` extensions mean for 32-bit AArch64 `adds` instruction?](https://stackoverflow.com/questions/72041372/what-do-the-uxtx-and-sxtx-extensions-mean-for-32-bit-aarch64-adds-instruct)
