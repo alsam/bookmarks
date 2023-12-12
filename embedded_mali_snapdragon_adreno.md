@@ -27,6 +27,10 @@
             + [Understanding uxth instruction in ARM](https://stackoverflow.com/questions/72689539/understanding-uxth-instruction-in-arm)
             + [he ARM processor (Thumb-2), part 9: Sign and zero extension](https://devblogs.microsoft.com/oldnewthing/20210610-00/?p=105295)
 
++ PinePhone emulator
+    + [(Possibly) Emulate PinePhone with Unicorn Emulator](https://lupyuen.github.io/articles/unicorn)
+    + [Emulate PinePhone with Unicorn Emulator](https://github.com/lupyuen/pinephone-emulator)
+
 + Qualcomm+Snapdragon
     + [Snapdragon 845 Mobile Platform](https://www.qualcomm.com/products/snapdragon-845-mobile-platform)
     + [FIRST Robotics](https://developer.qualcomm.com/hardware/first-robotics)
