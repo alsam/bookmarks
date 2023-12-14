@@ -200,6 +200,11 @@
             + [The Ultimate Guide to i3 Customization in Linux](https://itsfoss.com/i3-customization/)
             + [i3 desktop install](https://xakep.ru/2017/03/22/geek-desktop/)
             + [Disabling Sleep / Hybernate / Suspend not working](https://forum.endeavouros.com/t/disabling-sleep-hybernate-suspend-not-working/24217)
+            ```sh
+            # cat ~/.config/i3/config
+            # disable power saving for display
+            exec --no-startup-id xset s off -dpms
+            ```
             + [Оконный менеджер i3](https://laurvas.ru/i3/)
                 + [Incorporate nm-applet in i3 window manager](https://unix.stackexchange.com/questions/372606/incorporate-nm-applet-in-i3-window-manager)    
                 tl;dr    
