@@ -636,3 +636,5 @@ nimble install Arraymancer
 + [AMD Radeon and NVIDIA GeForce FP32/FP64 GFLOPS Table](https://www.geeks3d.com/20140305/amd-radeon-and-nvidia-geforce-fp32-fp64-gflops-table-computing/)
 
 + [RICOS Co. Ltd. Research Institute for Computational Science Co.Ltd.](https://github.com/ricosjp)
+
++ [Load-link/store-conditional](https://en.wikipedia.org/wiki/Load-link/store-conditional)
