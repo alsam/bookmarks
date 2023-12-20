@@ -31,6 +31,14 @@
 
     + [Нелинейные дифференциальные уравнения, дискретность пространства-времени и эпсилон произведение](https://habr.com/ru/post/490878/)
 
+
+    + SAT/SMT
+        + [SAT/SMT by Example](https://smt.st/)
+            + [git clone https://smt.st/git/](https://smt.st/current_tree/)
+            + [SAT/SMT by Example book](https://smt.st/SAT_SMT_by_example.pdf)
+            + [SAT solvers by Knuth](https://github.com/aaw/sat)
+            + [THE ART OF COMPUTER PROGRAMMING VOLUME 4, FASCICLE 6 Satisfiability](https://kolegite.com/EE_library/books_and_lectures/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%B8%D1%80%D0%B0%D0%BD%D0%B5/The%20Art%20of%20Computer%20Programming%2C%20Volume%204%2C%20Fascicle%206%20Satisfiability%20%28Donald%20E.%20Knuth%29%20%28z-lib.org%29.pdf)
+
     + Univalent Mathematics + HoTT
         + HoTT
             + [15-819 Homotopy Type Theory](https://www.cs.cmu.edu/~rwh/courses/hott/)
