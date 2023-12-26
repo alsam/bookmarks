@@ -269,6 +269,8 @@
         + [http://preshing.com/20130618/atomic-vs-non-atomic-operations/](http://preshing.com/20130618/atomic-vs-non-atomic-operations/)
         + [Comparison: Lockless programming with atomics in C++ 11 vs. mutex and RW-locks](https://www.arangodb.com/2015/02/comparing-atomic-mutex-rwlocks/)
         + [THE INFINITE LOOP: The ticket spinlock](https://geidav.wordpress.com/tag/spinlock/)
+        + [a reference spinlock implementation](https://en.cppreference.com/w/glcpp/atomic/atomic_flag)
+        + [Difference between Mutex, Semaphore & Spin Locks](http://stackoverflow.com/questions/23511058/difference-between-mutex-semaphore-spin-locks)
         + [Разработка → Конкурентность: Параллелизм](https://m.habrahabr.ru/post/318374/)
         + [What is the equivalent of boost::upgrade_to_unique_lock in STL?](http://stackoverflow.com/questions/30300212/what-is-the-equivalent-of-boostupgrade-to-unique-lock-in-stl)
         + [Охранные классы в boost::thread](http://htrd.su/wiki/zhurnal/2012/12/10/oxrannye_klassy_v_boost_thread)
