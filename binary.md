@@ -57,6 +57,7 @@
 + [trustedfirmware Performance Monitoring Unit](https://trustedfirmware-a.readthedocs.io/en/latest/perf/performance-monitoring-unit.html)
 
 + [Dynarmic - A dynamic recompiler for ARM](https://github.com/merryhime/dynarmic)
++ [Dust - A Nintendo DS emulator written in Rust](https://github.com/kelpsyberry/dust)
 
 + MIPT
     + [folder contains sources for the Simulation Book](https://github.com/grigory-rechistov/simbook)
