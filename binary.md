@@ -56,6 +56,8 @@
 
 + [trustedfirmware Performance Monitoring Unit](https://trustedfirmware-a.readthedocs.io/en/latest/perf/performance-monitoring-unit.html)
 
++ [Dynarmic - A dynamic recompiler for ARM](https://github.com/merryhime/dynarmic)
+
 + MIPT
     + [folder contains sources for the Simulation Book](https://github.com/grigory-rechistov/simbook)
     + [Presentation for "Fundamentals of Full-Platform Simulation" MIPT course](https://github.com/yulyugin/sim-lectures)
