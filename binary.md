@@ -61,6 +61,7 @@
 + [Dynarmic - A dynamic recompiler for ARM](https://github.com/merryhime/dynarmic)
 + [Dust - A Nintendo DS emulator written in Rust](https://github.com/kelpsyberry/dust)
 + [ARM Guide from Michael Royal](https://github.com/mikeroyal/ARM-Guide)
++ [RISC-V Guide from Michael Royal](https://github.com/mikeroyal/RISC-V-Guide)
 
 + MIPT
     + [folder contains sources for the Simulation Book](https://github.com/grigory-rechistov/simbook)
