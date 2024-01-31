@@ -274,6 +274,12 @@
                 card 2
             }
             ```
+            + Check sound speaker by recording
+            ```sh
+            arecord -f cd test.wav
+            aplay test.wav
+            amixer set Master playback 1+
+            ```
             + [Настройка звука в Ubuntu](https://habr.com/ru/post/343718/)
             + [5.11: amdgpu: Unsupported power profile mode 0 on RENOIR](https://gitlab.freedesktop.org/drm/amd/-/issues/1488)
             + [How to Install LightDM Display Manager on Arch Linux](https://linoxide.com/linux-how-to/install-lightdm-arch-linux/)
