@@ -51,6 +51,11 @@
     + [Examining the use of ARM PMUs for DVFS and scheduling](https://teh6.host.cs.st-andrews.ac.uk/files/coursework-reports/CS5199-Report.pdf)
     + [Simulation of RISC-V based Systems in gem5](https://cfaed.tu-dresden.de/files/Images/people/chair-cc/theses/1808_Scheffel.pdf)
     + [A Tutorial on the Gem5 Minor CPU Model](https://nitish2112.github.io/post/gem5-minor-cpu/)
+    TL;DR
+    ```sh
+    scons build/ARM/gem5.opt
+    ./build/ARM/gem5.opt --debug-flags=Exec configs/example/arm/starter_se.py --cpu=minor some-elf-binary
+    ```
 
 + ChampSim
     + [ChampSim is a trace-based simulator for a microarchitecture study](https://github.com/ChampSim/ChampSim)
