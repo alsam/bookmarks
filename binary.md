@@ -70,3 +70,7 @@
     + [Computer Architecture 2021/2022](https://mipt-ilab.github.io/mipt-mips/)
     + [MIPT-V / MIPT-MIPS is a pre-silicon simulator of MIPS and RISC-V CPU](https://github.com/MIPT-ILab/mipt-mips)
     + [Why does a processor have 32 registers?](https://cs.stackexchange.com/questions/22589/why-does-a-processor-have-32-registers)
+
++ RISC V
+    + [8 мифов о микропроцессорах RISC-V — ответ критикам](https://habr.com/ru/companies/selectel/articles/663038/)
+        + [Addressing Criticism of RISC-V Microprocessors](https://medium.com/codex/addressing-criticism-of-risc-v-microprocessors-803239b53284)
