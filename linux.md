@@ -614,6 +614,15 @@ https://bugs.archlinux.org/task/59266?string=dependency+failed&project=1&type%5B
         ```sh
         apt list --installed
         ```
+        + [https://superuser.com/questions/1744040/the-following-signatures-couldnt-be-verified-because-the-public-key-is-not-ava/1744043#1744043](“The following signatures couldn't be verified because the public key is not available: NO_PUBKEY 23F3D4EA75716059”)    
+        tl;dr    
+        ```sh
+        curl -fsSL https://cli.github.com/packages/githubcli-archive-keyring.gpg | sudo dd of=/usr/share/keyrings/githubcli-archive-keyring.gpg \
+        && sudo chmod go+r /usr/share/keyrings/githubcli-archive-keyring.gpg \
+        && echo "deb [arch=$(dpkg --print-architecture) signed-by=/usr/share/keyrings/githubcli-archive-keyring.gpg] https://cli.github.com/packages stable main" | sudo tee /etc/apt/sources.list.d/github-cli.list > /dev/null \
+        && sudo apt update \
+        && sudo apt install gh -y
+        ```
 
     + [How io_uring and eBPF Will Revolutionize Programming in Linux](https://thenewstack.io/how-io_uring-and-ebpf-will-revolutionize-programming-in-linux/)
     + [The Implementation of epoll (1)](https://idndx.com/the-implementation-of-epoll-1/)
