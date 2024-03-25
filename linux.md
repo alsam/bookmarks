@@ -404,7 +404,7 @@
             + surviving after systemd-boot crash
                 + [systemd-boot](https://wiki.archlinux.org/index.php/systemd-boot)
                 + [Installing Arch Linux : systemd-boot (reinstall)](http://www.adonespitogo.com/articles/arch-linux-EFI-installation/page-2.html)    
-                tl;dr
+                tl;dr    
                 ```sh
                 boot from flash
                 mkfs.fat -F32 /dev/sda1 # where EFI is to be reinstalled
@@ -420,6 +420,13 @@
                 initrd  /initramfs-linux.img
                 options root=/dev/sda2 rw
                 vim /etc/fstab # for changed UUID of /dev/sda1
+                ```
+                + [Arch Linux: Reinstall all broken packages after poweroff during system upgrade](https://unix.stackexchange.com/questions/659756/arch-linux-reinstall-all-broken-packages-after-poweroff-during-system-upgrade)
+                tl;dr    
+                ```sh
+                sudo pacman -Qk 2> /dev/null | grep -v ' 0 missing files'
+                sudo pacman -Qk 2> /dev/null | grep -v ' 0 файлов не хватает'
+                sudo pacman -S libx11 --overwrite='*'
                 ```
             + GRUB tips
                 + while booting type `e` (stands for edit)
