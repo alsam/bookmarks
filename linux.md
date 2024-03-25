@@ -428,6 +428,11 @@
                 sudo pacman -Qk 2> /dev/null | grep -v ' 0 файлов не хватает'
                 sudo pacman -S libx11 --overwrite='*'
                 ```
+                + [[SOLVED] no keyboard nor mouse after starting X running i3 and polybar](https://bbs.archlinux.org/viewtopic.php?id=285527)
+                tl;dr    
+                ```sh
+                sudo pacman -S xf86-input-libinput --overwrite='*'
+                ```
             + GRUB tips
                 + while booting type `e` (stands for edit)
                 + add `systemd.unit = resque.target` in `linux` boot menu
