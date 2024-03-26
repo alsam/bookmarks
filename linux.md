@@ -402,6 +402,7 @@
                     dd bs=4M if=path/to/archlinux.iso of=/dev/sdx status=progress oflag=sync
                     ```
             + surviving after systemd-boot crash
+                + [Arch wont boot from USB on laptop](https://bbs.archlinux.org/viewtopic.php?id=234887)
                 + [systemd-boot](https://wiki.archlinux.org/index.php/systemd-boot)
                 + [Installing Arch Linux : systemd-boot (reinstall)](http://www.adonespitogo.com/articles/arch-linux-EFI-installation/page-2.html)    
                 tl;dr    
