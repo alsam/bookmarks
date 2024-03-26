@@ -403,6 +403,7 @@
                     ```
             + surviving after systemd-boot crash
                 + [Arch wont boot from USB on laptop](https://bbs.archlinux.org/viewtopic.php?id=234887)
+                + [Pacman error: /etc/mtab doesn't exist](https://www.reddit.com/r/archlinux/comments/19dw1s7/pacman_error_etcmtab_doesnt_exist/?rdt=53371)
                 + [systemd-boot](https://wiki.archlinux.org/index.php/systemd-boot)
                 + [Installing Arch Linux : systemd-boot (reinstall)](http://www.adonespitogo.com/articles/arch-linux-EFI-installation/page-2.html)    
                 tl;dr    
