@@ -98,16 +98,18 @@
 
             + [How to set up Systemd-boot on a new Arch Linux system](https://www.addictivetips.com/ubuntu-linux-tips/set-up-systemd-boot-on-arch-linux/)
 
-            + [ [SOLVED] No systemd-boot menu on dual boot Windows 10 and Arch](https://bbs.archlinux.org/viewtopic.php?id=228078)
-                + [Warning: keep a copy of the original EFI/Microsoft/Boot/bootmgfw.efi to somewhere like your home directory or directly under /boot, since with this trick you might completely lose it by running bootctl install again or so](https://bbs.archlinux.org/viewtopic.php?pid=1723747#p1723747)    
-                tl;dr    
-                ```sh
-                sudo -s
-                cd /boot
-                cp EFI/Microsoft/Boot/bootmgfw.efi EFI/Boot/BOOTX64.EFI
-                cp EFI/systemd/systemd-bootx64.efi EFI/Microsoft/Boot/bootmgfw.efi
-                exit
-                ```
+            + Dual Boot
+                + [Dual Boot Pop!_OS with Windows using systemd-boot](https://github.com/spxak1/weywot/blob/main/Pop_OS_Dual_Boot.md)
+                + [ [SOLVED] No systemd-boot menu on dual boot Windows 10 and Arch](https://bbs.archlinux.org/viewtopic.php?id=228078)
+                    + [Warning: keep a copy of the original EFI/Microsoft/Boot/bootmgfw.efi to somewhere like your home directory or directly under /boot, since with this trick you might completely lose it by running bootctl install again or so](https://bbs.archlinux.org/viewtopic.php?pid=1723747#p1723747)    
+                    tl;dr    
+                    ```sh
+                    sudo -s
+                    cd /boot
+                    cp EFI/Microsoft/Boot/bootmgfw.efi EFI/Boot/BOOTX64.EFI
+                    cp EFI/systemd/systemd-bootx64.efi EFI/Microsoft/Boot/bootmgfw.efi
+                    exit
+                    ```
 
             + [mkinitcpio (Русский)](https://wiki.archlinux.org/index.php/Mkinitcpio_(%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9))
 
