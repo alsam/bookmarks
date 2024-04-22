@@ -279,6 +279,7 @@
             + [Rust Discontinuous Galerkin](https://github.com/nelsonatgithub/discontinuous_galerkin)
             + [Rust Symbolic Algebraic](https://github.com/nelsonatgithub/ncas)
                 + [Computer Algebra System in Rust](https://users.rust-lang.org/t/computer-algebra-system-in-rust/49016/27)
+            + [Open Rust CFD: A 3D, unstructured computational fluid dynamics (CFD) solver](https://github.com/reidprichard/ORC
 
         + [a list of linear algebra libraries for Rust](https://libraries.io/search?keywords=matrix&languages=Rust)
         + [Numerics & math foundation](https://users.rust-lang.org/t/numerics-math-foundation/7247)
