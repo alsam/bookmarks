@@ -349,6 +349,7 @@ Multigrid Solver in C++](https://www10.cs.fau.de/publications/reports/TechRep_20
     + [Tuned OpenCL BLAS](https://github.com/CNugteren/CLBlast)
         + [CLBlast:ATunedBLASLibrary forFasterDeepLearning](https://cnugteren.github.io/downloads/CLBlast_GTC.pdf)
     + [OpenCL vloadn](https://www.khronos.org/registry/OpenCL/sdk/1.0/docs/man/xhtml/vloadn.html)
+    + [Could not find a package configuration file provided by "OpenCLHeaders"](https://github.com/KhronosGroup/OpenCL-CLHPP/issues/173)
     + SYCL - C++ Single-source Heterogeneous Programming for OpenCL
         + [Khronos SYCL](https://www.khronos.org/sycl/)
         + [An open-source implementation of OpenCL SYCL from Khronos Group](https://github.com/triSYCL/triSYCL)
