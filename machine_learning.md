@@ -209,6 +209,7 @@
         + [Announcing SyntaxNet: The World’s Most Accurate Parser Goes Open Source ](http://googleresearch.blogspot.ru/2016/05/announcing-syntaxnet-worlds-most.html)
         + [SyntaxNet: Neural Models of Syntax](https://github.com/tensorflow/models/tree/master/syntaxnet)
         + [How to build Tensorflow lite shared library?](https://github.com/tensorflow/tensorflow/issues/36178)
+            + [Сборка TensorFlow Lite с помощью CMake](https://www.tensorflow.org/lite/guide/build_cmake?hl=ru)
 
     + [Caffe2](https://tproger.ru/news/facebook-caffe2-deep-learning/)
         + [Caffe2 github](https://github.com/caffe2/caffe2)
