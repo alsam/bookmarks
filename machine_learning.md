@@ -526,3 +526,6 @@
 + [18.337J/6.338J: Parallel Computing and Scientific Machine Learning](https://github.com/mitmath/18337)
 
 + [DeepFly3D is a PyTorch and PyQT5 implementation of 2D-3D tethered Drosophila pose estimation](https://github.com/NeLy-EPFL/DeepFly3D)
+
++ [Posit-арифметика: победа над floating point на его собственном поле. Часть 1](https://habr.com/ru/articles/465723/)
++ [Posit-арифметика: победа над floating point на его собственном поле. Часть 2](https://habr.com/ru/articles/466813/)
