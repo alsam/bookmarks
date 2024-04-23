@@ -357,3 +357,4 @@
 
 + Rock5
     + [OpenCL support on ROCK5](https://forum.radxa.com/t/opencl-support-on-rock5/12336)
+    + [Arch Linux Installer for ARM (Aarch64)](https://github.com/kwankiu/archlinux-installer-rock5)
