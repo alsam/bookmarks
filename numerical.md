@@ -272,4 +272,4 @@ Very Small Matrices](https://hal.archives-ouvertes.fr/hal-01409286/document)
         + [A look at the performance of expression templates in C++: Eigen vs Blaze vs Fastor vs Armadillo vs XTensor](https://romanpoya.medium.com/a-look-at-the-performance-of-expression-templates-in-c-eigen-vs-blaze-vs-fastor-vs-armadillo-vs-2474ed38d982)
         + [How should I initialize the contents of a large matrix in Eigen?](https://stackoverflow.com/questions/27005322/how-should-i-initialize-the-contents-of-a-large-matrix-in-eigen)
 
-
++ [AeroSandbox](https://github.com/peterdsharpe/AeroSandbox)
