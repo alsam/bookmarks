@@ -354,3 +354,6 @@
 
 + [CNTPCT_EL0, Counter-timer Physical Count register](https://developer.arm.com/documentation/ddi0595/2021-06/AArch64-Registers/CNTPCT-EL0--Counter-timer-Physical-Count-register)
 + [MRS](https://developer.arm.com/documentation/dui0802/a/A64-General-Instructions/MRS)
+
++ Rock5
+    + [OpenCL support on ROCK5](https://forum.radxa.com/t/opencl-support-on-rock5/12336)
