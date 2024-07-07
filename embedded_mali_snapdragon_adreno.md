@@ -315,7 +315,12 @@
                     + [GL_EXT_disjoint_timer_query for performance](https://community.arm.com/developer/tools-software/graphics/f/discussions/6869/gl_ext_disjoint_timer_query-for-performance)
                 + [Hardware counters on Arm Graphics Analyzer tool](https://community.arm.com/developer/tools-software/graphics/f/discussions/13614/hardware-counters-on-arm-graphics-analyzer-tool)
                     + [Graphics and Gaming](https://community.arm.com/developer/tools-software/graphics)
-        + [Panfrost](https://github.com/Panfrost)
+        + Panfrost, Panthor & rusticl
+            + [Panfrost](https://github.com/Panfrost)
+            + [Panfrost, what is it](https://bakhi.github.io/mobileGPU/panfrost/)
+            + Panthor
+                + [Panthor open-source driver for Arm Mali-G310, Mali-G510, Mali-G610, and Mali-G710 GPUs to be part of Linux 6.10](https://www.cnx-software.com/2024/03/05/panthor-open-source-driver-arm-mali-g310-mali-g510-mali-g610-and-mali-g710-gpu-linux-6-10/)
+            + [Rust-Written OpenCL Driver Now Works On Raspberry Pi GPUs](https://www.phoronix.com/news/Rusticl-V3D-OpenCL-Raspberry-Pi)
         + [GDC 2014: Performance Analysis and Optimization (Lorenzo Dal Col, ARM)](https://www.youtube.com/watch?v=AAr-pt8S28M)
             + [Performance Analysis and Debug Tools for Mobile Games (Presented by ARM)](https://www.gdcvault.com/play/1020632/Performance-Analysis-and-Debug-Tools)
             + [GPU Compute Optimisation with Hardware Counters](https://www.youtube.com/watch?v=93cWfkyid7k)
