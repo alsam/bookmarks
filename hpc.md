@@ -350,7 +350,8 @@ Multigrid Solver in C++](https://www10.cs.fau.de/publications/reports/TechRep_20
         + [CLBlast:ATunedBLASLibrary forFasterDeepLearning](https://cnugteren.github.io/downloads/CLBlast_GTC.pdf)
     + [OpenCL vloadn](https://www.khronos.org/registry/OpenCL/sdk/1.0/docs/man/xhtml/vloadn.html)
     + [Could not find a package configuration file provided by "OpenCLHeaders"](https://github.com/KhronosGroup/OpenCL-CLHPP/issues/173)
-    + [Using OpenCL on Adreno & Mali GPUs is slower than CPU](https://github.com/ggerganov/llama.cpp/issues/5965
+    + [Using OpenCL on Adreno & Mali GPUs is slower than CPU](https://github.com/ggerganov/llama.cpp/issues/5965)
+    + [Zero copy buffer allocation on arm mali midgard gpus?](https://stackoverflow.com/questions/58481560/zero-copy-buffer-allocation-on-arm-mali-midgard-gpus)
     + SYCL - C++ Single-source Heterogeneous Programming for OpenCL
         + [Khronos SYCL](https://www.khronos.org/sycl/)
         + [An open-source implementation of OpenCL SYCL from Khronos Group](https://github.com/triSYCL/triSYCL)
