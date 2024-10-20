@@ -291,6 +291,7 @@
     ```
 
     + ARM Mali GPU
+        + [Notes on tinkering with Arm Mali GPUs](https://github.com/fxlin/mali)
         + The Mali GPU: An Abstract Machine
             + [GPU Architecture Introduction](https://developer.samsung.com/game/gpu-architecture)
                 + [Part 1 - Frame Pipelining](https://community.arm.com/developer/tools-software/graphics/b/blog/posts/the-mali-gpu-an-abstract-machine-part-1---frame-pipelining)
